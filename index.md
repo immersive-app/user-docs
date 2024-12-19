@@ -23,13 +23,13 @@ Immersive is your all-in-one language learning companion, designed to help you s
 **1. [Build Vocabulary with AI-Generated Audio](/docs/vocabulary)**  
 Learn words and sentences with real-world examples sourced from the open-source Tatoeba project. Listen to AI-generated pronunciations and practice confidently.  
 
-**2. [Explore Verbs and Conjugation Tables](/docs/verbs)**  
+**[2. Explore Verbs and Conjugation Tables](/docs/verbs)**  
 Master verb conjugations with clear tables and example sentences that bring grammar to life.  
 
-**3. [Read and Write Documents](/docs/documents)**  
+**[3. Working with Documents](/docs/documents)**  
 Upload documents to read in word or sentence mode, complete with translations and pronunciations. Or, write your own documents in your learning language and get feedback from the AI coach.  
 
-**4. Practice with Flashcards**  
+**[4. Practice with Flashcards](/docs/flashcards)**  
 Turn learning into long-term memory using spaced repetition. Practice your vocabulary, sentences, and verbs in Read, Write, Listen, and Speak modes.  
 
 **5. Dive into Grammar Concepts**  
