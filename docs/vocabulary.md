@@ -2,10 +2,10 @@
 title: Vocabulary
 parent: Immersive Docs
 grand_parent: Layout
-layout: default
+layout: minimal
 ---
 
-# About Vocabulary
+# Vocabulary
 
 Immersive's Vocabulary feature is a powerful tool to help you build, practice, and master the words and sentences that matter most to your language-learning journey.
 
@@ -61,13 +61,13 @@ Immersive builds your **vocabulary list** dynamically as you interact with the p
 
 Your vocabulary list isn't just a static record—it integrates with other features to support your language learning:
 
-- **Flashcards:**  
+- **Flashcards**  
   Use spaced repetition to memorize vocabulary efficiently. Practice with flashcards in multiple modes, such as Read, Write, Listen, and Speak.
 
-- **Documents:**  
+- **Documents**  
   Your vocabulary list is used as prompts when writing your own documents. It helps reinforce learning by encouraging you to actively use new words and sentences.
 
-- **Custom Study Materials:**  
+- **Custom Study Materials**  
   Personalize your learning experience by focusing on vocabulary that aligns with your interests, goals, and current level.
 
 ---
@@ -76,16 +76,16 @@ Your vocabulary list isn't just a static record—it integrates with other featu
 
 If you’re new to Immersive, here’s how to begin with Vocabulary:
 
-1. **Explore Real-World Content:**  
+1. **Explore Real-World Content**  
    Start by interacting with words and sentences in documents or flashcards. These will automatically be added to your vocabulary list.
 
-2. **Listen and Practice Pronunciation:**  
+2. **Listen and Practice Pronunciation**  
    Use the AI-generated audio to hear and mimic correct pronunciations.
 
-3. **Edit and Organize Your Vocabulary List:**  
+3. **Edit and Organize Your Vocabulary List**  
    Modify example sentences or delete items to tailor your learning experience.
 
-4. **Track Your Progress:**  
+4. **Track Your Progress**  
    Keep an eye on your learning levels for each word and sentence as you practice.
 
 ---

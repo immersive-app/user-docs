@@ -2,10 +2,10 @@
 title: Documents
 parent: Immersive Docs
 grand_parent: Layout
-layout: default
+layout: minimal
 ---
 
-# About Documents
+# Documents
 
 Immersive’s **Documents** feature transforms language learning by integrating reading and writing into your study routine. With tools for translation, pronunciation, and AI-powered feedback, you can immerse yourself in real-world content and build language skills effectively.
 

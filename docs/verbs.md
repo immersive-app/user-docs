@@ -2,10 +2,10 @@
 title: Verbs
 parent: Immersive Docs
 grand_parent: Layout
-layout: default
+layout: minimal
 ---
 
-# About Verbs
+# Verbs
 
 Immersive’s **Verbs** feature is designed to help you master verb conjugations and usage efficiently. With on-demand audio, contextual examples, and personalized tools, you’ll gain confidence in one of the most challenging parts of language learning.
 

@@ -2,10 +2,10 @@
 title: Flashcards
 parent: Immersive Docs
 grand_parent: Layout
-layout: default
+layout: minimal
 ---
 
-# About Flashcards
+# Flashcards
 
 **Flashcards** are a powerful tool to help you master vocabulary, sentences, and verbs through targeted, efficient practice. Designed with advanced spaced repetition and interactive modes, Flashcards help you commit language concepts to long-term memory while refining your skills across reading, writing, listening, and speaking.
 

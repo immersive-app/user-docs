@@ -32,8 +32,8 @@ Upload documents to read in word or sentence mode, complete with translations an
 **[4. Practice with Flashcards](/docs/flashcards)**  
 Turn learning into long-term memory using spaced repetition. Practice your vocabulary, sentences, and verbs in Read, Write, Listen, and Speak modes.  
 
-**5. Dive into Grammar Concepts**  
-Explore grammar topics from beginner (A1) to advanced (C2) levels. Mark concepts as "known" and track your progress.
+**[5. Dive into Grammar Concepts](/docs/grammar)**  
+Explore grammar topics from beginner (A1) to advanced (B2) levels. Mark concepts as "known" and track your progress.
 
 ---
 
