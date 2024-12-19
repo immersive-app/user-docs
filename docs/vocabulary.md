@@ -37,22 +37,22 @@ Whether you’re starting with basic words or tackling advanced sentences, the V
 
 Immersive builds your **vocabulary list** dynamically as you interact with the platform:
 
-- **Adding Vocabulary:**  
+- **Adding Vocabulary**  
   Words and sentences are added to your list when you view them on a flashcard or click on them in a document.
 
-- **AI-Generated Audio:**  
+- **AI-Generated Audio**  
   Every word and sentence includes audio created on-demand, so you can practice accurate pronunciation.
 
-- **Example Sentences:**  
+- **Example Sentences**  
   Words are paired with examples from the Tatoeba project and other sources. You can:
   - Modify the examples to suit your needs.
   - Choose from a list of alternate examples.
   - Remove examples you don’t want.
 
-- **Tracking Progress:**  
+- **Tracking Progress**  
   Immersive keeps track of your learning level for each vocabulary item, so you can focus on mastering what you need next.
 
-- **Managing Vocabulary:**  
+- **Managing Vocabulary**  
   You can delete any words or sentences that are no longer relevant to your learning goals.
 
 ---

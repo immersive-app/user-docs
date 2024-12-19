@@ -4,7 +4,7 @@ layout: minimal
 parent: Layout
 ---
 
-# Get Started with Immersive Documentation
+# Get Started with Immersive
 
 Welcome to Immersive! Whether you're a busy professional, a serious learner, or just starting your language-learning journey, Immersive is here to make it smarter, simpler, and more effective. With our AI-driven platform, you can study real-world materials, track your progress, and focus your time where it matters most.
 
@@ -20,13 +20,13 @@ Immersive is your all-in-one language learning companion, designed to help you s
 
 ### What Can You Do with Immersive?
 
-**1. Build Vocabulary with AI-Generated Audio**  
+**1. [Build Vocabulary with AI-Generated Audio](/docs/vocabulary)**  
 Learn words and sentences with real-world examples sourced from the open-source Tatoeba project. Listen to AI-generated pronunciations and practice confidently.  
 
-**2. Explore Verbs with Conjugation Tables**  
+**2. [Explore Verbs and Conjugation Tables](/docs/verbs)**  
 Master verb conjugations with clear tables and example sentences that bring grammar to life.  
 
-**3. Read and Write Documents**  
+**3. [Read and Write Documents](/docs/documents)**  
 Upload documents to read in word or sentence mode, complete with translations and pronunciations. Or, write your own documents in your learning language and get feedback from the AI coach.  
 
 **4. Practice with Flashcards**  
