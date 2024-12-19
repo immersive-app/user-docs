@@ -1,8 +1,18 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Immersive
+description: Learn everything you need to know about Immersive!
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
+favicon_ico: "/assets/images/favicon-32x32.png"
+
+search_enabled: true
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.3"
+
+nav_enabled: true
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
