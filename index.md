@@ -20,13 +20,13 @@ Immersive is your all-in-one language learning companion, designed to help you s
 
 ### What Can You Do with Immersive?
 
-**1. [Build Vocabulary with AI-Generated Audio](/docs/vocabulary)**  
+**1. [Build your Personalized Vocabulary List](/docs/vocabulary)**  
 Learn words and sentences with real-world examples sourced from the open-source Tatoeba project. Listen to AI-generated pronunciations and practice confidently.  
 
 **[2. Explore Verbs and Conjugation Tables](/docs/verbs)**  
 Master verb conjugations with clear tables and example sentences that bring grammar to life.  
 
-**[3. Working with Documents](/docs/documents)**  
+**[3. Work with Documents](/docs/documents)**  
 Upload documents to read in word or sentence mode, complete with translations and pronunciations. Or, write your own documents in your learning language and get feedback from the AI coach.  
 
 **[4. Practice with Flashcards](/docs/flashcards)**  

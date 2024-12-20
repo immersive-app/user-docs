@@ -87,6 +87,7 @@ Listening to audio helps you practice pronunciation and reinforce your learning.
 By effectively managing your Vocabulary List, you can track progress, stay organized, and tailor your learning to your specific goals.
 
 ### Further Reading
+- [Getting Started with Immersive](/)
 - [Using Flashcards in Immersive](/docs/flashcards)
 - [Practicing with Documents in Immersive](/docs/documents)
 - [Exploring Grammar Notes](/docs/grammar)

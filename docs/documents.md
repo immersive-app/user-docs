@@ -1,8 +1,8 @@
 ---
 title: Documents
 parent: Immersive Docs
-grand_parent: Layout
 layout: minimal
+has_children: true
 ---
 
 # Documents
@@ -37,7 +37,7 @@ With Immersive, learning through documents becomes an interactive experience tha
 
 ### How Documents Work
 
-Immersive simplifies language learning with documents by offering tools for both **reading** and **writing**:
+Immersive simplifies language learning with documents by offering tools for both **reading**, **writing**, and **Organising**:
 
 #### Reading Documents
 - **Upload or Choose:**  
@@ -49,6 +49,8 @@ Immersive simplifies language learning with documents by offering tools for both
   - See its translation.
   - Listen to native pronunciation generated on-demand.
   - Automatically add it to your Vocabulary for later study.
+
+- More information about [Reading Documents](/docs/documents/reading-documents)
 
 #### Writing Documents
 - **Topic Suggestions**  
@@ -62,6 +64,24 @@ Immersive simplifies language learning with documents by offering tools for both
   - Suggest corrections to improve grammar and style.
   - Highlight areas for vocabulary enhancement.
   - Offer constructive feedback to strengthen your writing.
+
+- More information about [Writing Documents](/docs/documents/writing-documents)
+
+#### Organising Documents into Folders
+- **Folder Management**  
+  Organize your documents into folders and subfolders for easy access and streamlined study sessions.
+
+- **Curated Content Folders**  
+  Access folders created by Immersive that feature curated documents, such as Wikipedia articles. These folders help you explore content relevant to your learning goals.
+
+- **Flexibility and Control**  
+  - Move documents between folders to keep them organized.
+  - Rename folders to suit your preferences.
+  - Delete folders and their contents, with a confirmation dialog to prevent accidental deletion.
+
+- More information about [Organising Documents](/docs/documents/organising-documents)
+
+By Organising your documents into folders, you can maintain a structured workspace, focus your studies, and quickly access the materials you need.  
 
 ---
 
