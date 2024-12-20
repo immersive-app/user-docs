@@ -65,6 +65,10 @@ Each Flashcard can be practiced in one of four interactive modes:
    - Practice speaking the card’s content, and let Immersive evaluate your pronunciation.
    - Receive feedback to refine your accent and fluency.
 
+- More information about [Creating Decks](/docs/flashcards/create-decks)
+- More information about [Managing Decks](/docs/flashcards/managing-decks)
+- More information about [Review Flashcards](/docs/flashcards/review-flashcards)
+
 ---
 
 ### Using Flashcards in Practice
