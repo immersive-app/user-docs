@@ -74,6 +74,9 @@ Grammar Notes are an invaluable resource when used alongside other Immersive too
 4. **Combine with Practice:**  
    Apply grammar rules actively in writing and speaking exercises to solidify your understanding.
 
+
+More information can be found in [Review Grammar](/docs/grammar/review-grammar)
+
 ---
 
 ### Where to Start
