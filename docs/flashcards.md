@@ -114,9 +114,9 @@ Maximize the impact of Flashcards in your learning:
 
 Expand your understanding of Immersive and its features:
 
-- [About Vocabulary in Immersive](#)
-- [Using Documents to Learn](#)
-- [How Verbs Work in Immersive](#)
-- [Getting Started with Immersive](#)
+- [Getting Started with Immersive](/)
+- [About Vocabulary in Immersive](/docs/vocabulary)
+- [Using Documents to Learn](/docs/documents)
+- [How Verbs Work in Immersive](/docs/verbs)
 
 With Immersive Flashcards, learning is efficient, targeted, and engaging. Start mastering vocabulary, sentences, and verbs today!

@@ -41,19 +41,22 @@ Immersive builds your **vocabulary list** dynamically as you interact with the p
   Words and sentences are added to your list when you view them on a flashcard or click on them in a document.
 
 - **AI-Generated Audio**  
-  Every word and sentence includes audio created on-demand, so you can practice accurate pronunciation.
+  Every word and sentence includes [audio created on-demand](managing-your-vocabulary-list#playing-audio), so you can practice accurate pronunciation.
 
 - **Example Sentences**  
-  Words are paired with examples from the Tatoeba project and other sources. You can:
+  Words are paired with examples from the [Tatoeba project](https://tatoeba.org) and other sources. You can:
   - Modify the examples to suit your needs.
   - Choose from a list of alternate examples.
   - Remove examples you don’t want.
 
-- **Tracking Progress**  
-  Immersive keeps track of your learning level for each vocabulary item, so you can focus on mastering what you need next.
+- **Tracking Progress**
+
+  Immersive uses [Learning Phases](/docs/vocabulary/managing-your-vocabulary-list#learning-phases) to track your progress for each vocabulary item, helping you target areas for growth. These phases are associated with the vocabulary, not the cards, so all cards with the same vocabulary share the same Learning Phase.
 
 - **Managing Vocabulary**  
-  You can delete any words or sentences that are no longer relevant to your learning goals.
+  Using [filtering and sorting tools](managing-your-vocabulary-list#filtering-and-sorting) you can manage even a very large Vocabulary List and [Filtered Decks](managing-your-vocabulary-list#creating-a-filtered-deck) allow you to create a study set based on your selections.
+
+  You can [delete Vocabulary](managing-your-vocabulary-list#deleting-vocabulary) that is no longer relevant to your learning goals.
 
 ---
 
@@ -104,9 +107,10 @@ Once you’ve built your vocabulary list, continue your journey by:
 
 To learn more about Immersive and its features, check out these related articles:
 
-- [Getting Started with Immersive](#)
-- [How Flashcards Work](#)
-- [Using Documents in Immersive](#)
-- [Mastering Grammar with Immersive](#)
+- [Getting Started with Immersive](/)
+- [How Flashcards Work](/docs/flashcards)
+- [Using Documents in Immersive](/docs/documents)
+- [Mastering Grammar with Immersive](/docs/grammar)
+- [Managing Your Vocabulary List](/docs/vocabulary/managing-your-vocabulary-list)
 
 With Immersive, your language-learning journey is always evolving. Start building your vocabulary today and see where it takes you!

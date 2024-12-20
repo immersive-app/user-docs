@@ -112,9 +112,9 @@ Take your document learning to the next level:
 
 To make the most of Immersive, explore these related articles:
 
-- [Getting Started with Immersive](#)
-- [About Vocabulary in Immersive](#)
-- [How Flashcards Work](#)
-- [Exploring Grammar Concepts in Immersive](#)
+- [Getting Started with Immersive](/)
+- [About Vocabulary in Immersive](/docs/vocabulary)
+- [How Flashcards Work](/docs/flashcards)
+- [Exploring Grammar Concepts in Immersive](/docs/grammar)
 
 By using documents to read, write, and practice interactively, Immersive helps you learn a language in context—one sentence, word, and idea at a time. Dive in today!

@@ -101,9 +101,9 @@ Once you’ve started with verbs, deepen your learning by:
 
 To learn more about Immersive and its features, check out these related articles:
 
-- [Getting Started with Immersive](#)
-- [About Vocabulary in Immersive](#)
-- [Using Documents in Immersive](#)
-- [How Flashcards Work](#)
+- [Getting Started with Immersive](/)
+- [About Vocabulary in Immersive](/docs/vocabulary)
+- [Using Documents in Immersive](/docs/documents)
+- [How Flashcards Work](/docs/flashcards)
 
 By mastering verbs with Immersive, you’ll unlock the ability to express yourself fluently and accurately in your target language. Start your journey today!

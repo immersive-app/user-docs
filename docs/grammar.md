@@ -108,9 +108,9 @@ Maximize the value of Grammar Notes with these tips:
 
 Expand your learning with related resources:
 
-- [About Vocabulary in Immersive](#)
-- [Using Documents to Learn](#)
-- [How Verbs Work in Immersive](#)
-- [Getting Started with Immersive](#)
+- [Getting Started with Immersive](/)
+- [About Vocabulary in Immersive](/docs/vocabulary)
+- [Using Documents to Learn](/docs/documents)
+- [How Verbs Work in Immersive](/docs/verbs)
 
 With Immersive’s Grammar Notes, mastering grammar becomes a clear and manageable part of your language learning journey. Start exploring today!
