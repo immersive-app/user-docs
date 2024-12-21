@@ -67,6 +67,8 @@ Your verb learning integrates seamlessly with other features in Immersive:
 - **Personalized Learning:**  
   Focus on verbs relevant to your goals, and track your progress across conjugations and example usage.
 
+More information can be found on [Working with Verbs](/docs/verbs/working-with-verbs)
+
 ---
 
 ### Where to Start
