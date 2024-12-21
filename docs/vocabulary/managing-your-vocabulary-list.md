@@ -53,23 +53,13 @@ These tools make it easy to organize and focus your study sessions.
 
 ---
 
-## Creating a Filtered Deck
-
-Filtered Decks allow you to create a study set based on your filtered Vocabulary List. Follow these steps:
-
-1. Filter the Vocabulary Items using the options described above.
-2. Click **"Create Deck"**.
-3. Provide a name for the new Deck.
-
-Once created, you can use this Deck for focused study sessions.
-
 ## Deleting Vocabulary
 
-When you delete Vocabulary, cards containing those items will be deleted from any Decks. To delete 1 or multiple entries, follow these steps:
+When you delete Vocabulary, cards containing those items will be deleted from any Decks. To delete a single entry, click the "Trashcan" icon next to the vocabulary.
 
-1. Filter the Vocabulary Items using the options described above.
-2. The **Delete Vocabulary** button will appear
-3. Press the **Delete** button and the confirmation message.
+- You will be prompted to confirm
+- The vocabulary item, translation and audio will be deleted
+- Any cards containing those vocabulary items will be deleted
 
 ---
 

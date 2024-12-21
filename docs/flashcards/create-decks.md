@@ -32,12 +32,29 @@ With number decks, you can practice recognizing and pronouncing numbers fluently
 
 ---
 
+## Creating Verb Infinitive Decks
+
+Verb infinitive decks help you build your list of infitives. Follow these steps:
+
+1. Go to the **Flashcards** section and click **"Create Deck"**.
+2. Select **"Verb Deck"**.
+   - Optionally select the "Common Verbs" checkbox
+3. Choose:
+   - From a list of infinitive verbs.
+   - Press "Create Infinitive Deck"
+4. Immersive will:
+   - Automatically generate flashcards for each infinitive with a translation
+   - Associate example sentences with each infinitive, drawn from the Tatoeba project.
+
+---
+
 ## Creating Verb Conjugation Decks
 
 Verb conjugation decks help you master verbs and their various forms with contextual examples. Follow these steps:
 
 1. Go to the **Flashcards** section and click **"Create Deck"**.
-2. Select **"Verb Conjugation Deck"**.
+2. Select **"Verb Deck"**.
+   - Optionally select the "Common Verbs" checkbox
 3. Choose:
    - A list of infinitive verbs.
    - The tenses you want to practice (e.g., present, past, future).
