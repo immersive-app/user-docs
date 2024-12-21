@@ -35,6 +35,8 @@ Turn learning into long-term memory using spaced repetition. Practice your vocab
 **[5. Dive into Grammar Concepts](/docs/grammar)**  
 Explore grammar topics from beginner (A1) to advanced (B2) levels. Mark concepts as "known" and track your progress.
 
+When you open the application, you will be on [your Dashboard](/docs/dashboard)
+
 ---
 
 ### Why Immersive?
