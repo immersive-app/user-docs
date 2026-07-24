@@ -1,111 +1,42 @@
 ---
 title: Verbs
-parent: Immersive Docs
-grand_parent: Layout
-layout: minimal
+nav_order: 4
+has_children: true
 ---
 
 # Verbs
 
-Immersive’s **Verbs** feature is designed to help you master verb conjugations and usage efficiently. With on-demand audio, contextual examples, and personalized tools, you’ll gain confidence in one of the most challenging parts of language learning.
+Verbs are the machinery of a sentence, and Immersive gives them a full reference section: complete conjugation tables for every supported language, with audio pronunciation and real example sentences. The verb tables are public — you can browse them without an account — and they are also Immersive's home page when you sign in.
 
 ---
 
-### In this article
-- **About Verbs in Immersive**
-- **How Verbs Work**
-- **Using Verbs in Practice**
-- **Where to Start**
-- **Next Steps**
-- **Further Reading**
+## What the Verbs section offers
+
+- **Conjugation tables** for each verb, organised by mood and tense, including nominal forms (infinitive, participles, gerund).
+- **Audio pronunciation** for conjugations, generated on demand — tap the listen icon next to a form.
+- **Example sentences** for individual conjugations, drawn from real usage, with translations.
+- **Search and filters** so you can find a verb quickly or stick to the common ones while you are starting out.
+
+## For signed-in learners
+
+With an account, the verb pages do more:
+
+- **Across your languages** — on a conjugation page, Immersive lines up the same tense and person in each language you know, ordered so that the most similar languages sit side by side. One tap adds the comparison as a review card in your decks.
+- **Public decks** — verb pages surface ready-made public decks that practise that verb; you can copy any of them to My Decks.
+- **Verb cards in your own decks** — when building a deck you can generate cards for the verbs and tenses you choose. That happens in the deck workspace; see [Creating decks](decks/creating-decks.md).
+
+## Where to start
+
+1. Open **Verbs** from the navigation (or just visit the home page).
+2. Search for a verb, or browse the list — turn on **Show only common verbs** to keep the list short.
+3. Open a verb to see its conjugation table, and tap any form to hear it and read example sentences.
+
+For the details, see [Working with verbs](verbs/working-with-verbs.md).
 
 ---
 
-### About Verbs in Immersive
+## Further reading
 
-Mastering verbs is essential for fluency in any language. Immersive’s Verbs feature offers:
-
-- **Conjugation Tables** for the most common tenses, so you can see how verbs change based on subject and context.
-- **On-Demand Audio** for every conjugation, allowing you to practice pronunciation confidently.
-- **Contextual Examples** from real-world sources, helping you see verbs in action and understand their use.
-
-With Immersive, verbs become approachable, whether you’re tackling irregular conjugations or recognizing common patterns across verb groups.
-
----
-
-### How Verbs Work
-
-Immersive makes learning verbs simple and effective with these key features:
-
-- **Conjugation Tables:**  
-  View conjugations for the most commonly used tenses in your target language. Tables are cleanly organized to help you quickly find what you need.
-
-- **Audio Pronunciation:**  
-  Hear on-demand audio for every conjugation in the table, ensuring you learn the correct pronunciation.
-
-- **Example Sentences:**  
-  Each verb comes with example sentences drawn from the Tatoeba project and other sources. You can:
-  - Modify sentences to suit your needs.
-  - Choose from alternate examples.
-  - Remove examples you don’t want.
-
-- **Pattern Recognition:**  
-  Immersive surfaces patterns and similarities between verbs to help you learn faster and internalize conjugation rules.
-
----
-
-### Using Verbs in Practice
-
-Your verb learning integrates seamlessly with other features in Immersive:
-
-- **Flashcards:**  
-  Memorize verb conjugations and example sentences with spaced repetition. Practice verbs in different tenses across modes like Read, Write, Listen, and Speak.
-
-- **Documents:**  
-  Use verb conjugations and example sentences as prompts when writing documents. This helps you actively apply what you’ve learned in real-world contexts.
-
-- **Personalized Learning:**  
-  Focus on verbs relevant to your goals, and track your progress across conjugations and example usage.
-
-More information can be found on [Working with Verbs](/docs/verbs/working-with-verbs)
-
----
-
-### Where to Start
-
-Here’s how to begin learning verbs with Immersive:
-
-1. **Explore Conjugation Tables**  
-   Browse through conjugation tables to familiarize yourself with common verb tenses and patterns.
-
-2. **Practice Pronunciation**  
-   Listen to on-demand audio for each conjugation to perfect your pronunciation.
-
-3. **Understand Context**  
-   Review example sentences for verbs to see how they are used naturally. Modify or choose sentences that resonate with you.
-
-4. **Track Patterns**  
-   Pay attention to Immersive’s insights on verb patterns, which will help you learn conjugations faster.
-
----
-
-### Next Steps
-
-Once you’ve started with verbs, deepen your learning by:
-
-- Practicing conjugations with Flashcards in multiple modes.
-- Writing your own sentences and documents to actively apply verb usage.
-- Exploring related Grammar concepts to understand how verbs fit into sentence structures.
-
----
-
-### Further Reading
-
-To learn more about Immersive and its features, check out these related articles:
-
-- [Getting Started with Immersive](/)
-- [About Vocabulary in Immersive](/docs/vocabulary)
-- [Using Documents in Immersive](/docs/documents)
-- [How Flashcards Work](/docs/flashcards)
-
-By mastering verbs with Immersive, you’ll unlock the ability to express yourself fluently and accurately in your target language. Start your journey today!
+- [Working with verbs](verbs/working-with-verbs.md)
+- [Creating decks](decks/creating-decks.md)
+- [Grammar](grammar.md)

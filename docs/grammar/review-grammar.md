@@ -1,71 +1,50 @@
 ---
-title: Review Grammar
+title: Reading grammar notes
 parent: Grammar
-grand_parent: Immersive Docs
-layout: minimal
 ---
 
-### Reviewing Grammar Notes
+# Reading grammar notes
 
-Immersive provides a rich collection of Grammar Notes to support your language-learning journey, with tools to tailor your study experience to your confidence and goals.
-
----
-
-#### In this article
-- [Viewing Grammar Notes](#viewing-grammar-notes)
-- [Switching Languages](#switching-languages)
-- [Marking Grammar Notes as Known](#marking-grammar-notes-as-known)
+How to find the note you need, switch it between languages, work through its exercises, and keep it bookmarked for next time.
 
 ---
 
-## Viewing Grammar Notes
+## Finding a note
 
-Grammar Notes serve as your structured reference for mastering language concepts. Each note includes:
+1. Open the Grammar section.
+2. Use the **search** at the top of the index to filter notes by keyword.
+3. Tap the **bookmark filter** to show only the notes you have bookmarked.
 
-- **Example Sentences**: Sentences showcasing the grammar point, available in both your fluent language and the target language.
-- **Example Words**: Highlighted words that illustrate the grammar concept in context.
+Each entry in the list shows the note's title; open one to read it.
 
-To access Grammar Notes, navigate to the **Grammar Notes section** in Immersive.
+## Reading a note
 
----
+A grammar note explains one concept — its title appears in the target language, with the translated title underneath when a translation exists. Badges show the note's **CEFR level** (A1–C1) and its **category**.
 
-## Switching Languages
+### Switching languages
 
-Grammar Notes can be viewed in two ways:
+When a note has a translation, it opens in your language for clarity. Use the **language toggle** at the end of the note to switch to the target-language version. Reading the explanation in the language you are learning is a worthwhile challenge once the concept itself is no longer new.
 
-- **Fluent Language**: See explanations in your fluent language for clarity and understanding.
-- **Target Language**: For advanced learners, view notes entirely in the language you're learning to immerse yourself further.
+## Working through the exercises
 
-### How to switch languages:
-1. Open any Grammar Note.
-2. Click the **Language Toggle** button.
-3. Choose your preferred language mode.
+Many notes end with an **Exercises** section: numbered fill-in-the-blank sentences that use the concept you just read about.
 
-Switching to the target language is a great way to challenge yourself and deepen your understanding.
+To answer an exercise:
 
----
+1. Fill in the blank — either by typing your answer, or by choosing from a list, depending on the exercise.
+2. Press **Check**. You get immediate feedback on whether your answer was right.
+3. If you are stuck and the exercise has a hint, press **Hint**.
 
-## Marking Grammar Notes as Known
+Some exercises include a translation of the sentence in brackets, so you always know what you are trying to say.
 
-Stay organized by tracking your progress through Grammar Notes. Each note includes a checkbox you can mark to indicate mastery.
+## Bookmarking a note
 
-### Steps to mark a Grammar Note as known:
-1. Open a Grammar Note.
-2. Click the **Checkmark Icon** or checkbox next to the note title.
-3. The note will now be marked as "Known."
-
-This feature helps you focus on concepts you haven’t mastered yet, ensuring efficient use of your study time.
+Press the **bookmark icon** at the top of a note to save it. Bookmarked notes can be filtered on the grammar index, which turns your bookmarks into a personal reference shelf of the concepts you are currently working on.
 
 ---
 
-By utilizing Grammar Notes in Immersive, you can enhance your language skills with a structured and interactive approach, tailored to your learning level.
+## Further reading
 
----
-
-### Further Reading
-
-- [Practicing with Documents](/docs/documents)
-- [Using Flashcards in Immersive](/docs/flashcards)
-- [Exploring Vocabulary Features](/docs/vocabulary)
-
----
+- [Grammar](../grammar.md)
+- [Writing documents](../documents/writing-documents.md) — apply grammar in your own writing and get corrections
+- [Reviewing cards](../decks/reviewing-cards.md)

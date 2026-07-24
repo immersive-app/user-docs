@@ -1,20 +1,59 @@
 title: Immersive
-description: Learn everything you need to know about Immersive!
+description: The Immersive user guide - learn how to study languages with Immersive.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://immersive-app.github.io
+baseurl: /user-docs
 favicon_ico: "/assets/images/favicon-32x32.png"
 
 search_enabled: true
-
 heading_anchors: true
-
-mermaid:
-  # Version of mermaid library
-  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
-  version: "9.1.3"
-
 nav_enabled: true
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Open Immersive: https://immersive-app.com
+
+# Localized editions: one collection per locale, each with its own
+# navigation section. English lives at the root as the default edition.
+collections:
+  ca:
+    permalink: "/ca/:path/"
+    output: true
+  es:
+    permalink: "/es/:path/"
+    output: true
+  fr:
+    permalink: "/fr/:path/"
+    output: true
+  it:
+    permalink: "/it/:path/"
+    output: true
+  pt:
+    permalink: "/pt/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    ca:
+      name: Català
+    es:
+      name: Español
+    fr:
+      name: Français
+    it:
+      name: Italiano
+    pt:
+      name: Português
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true

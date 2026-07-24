@@ -1,78 +1,47 @@
 ---
 title: Dashboard
-parent: Immersive Docs
-layout: minimal
-has_children: false
+nav_order: 2
 ---
 
-### Your Dashboard
+# Dashboard
 
-The **Dashboard** is your gateway to an efficient and personalized language-learning experience. With easy navigation, quick access to key features, and visual insights into your study habits, the home page helps you stay organized and on track.
-
----
-
-#### In this article
-- [Navigation Menu](#navigation-menu)
-- [Dashboard Overview](#dashboard-overview)
-- [User Profile and Study Heatmap](#user-profile-and-study-heatmap)
+Once you are signed in, everything in Immersive is one or two taps away. This page tours the navigation so you always know where you are and how to get back.
 
 ---
 
-## Navigation Menu
+## Where you land
 
-The navigation menu provides quick access to Immersive's core features and settings:
+Signing in takes you to the **verb library** — Immersive's home page. From there, the navigation bar is your dashboard: it shows the four main areas of the app and stays with you on every screen.
 
-- **Accessing Features**:  
-  Use the **drop-down menu** in the top navigation bar to explore:  
-  - **Decks**: Review or manage your flashcard decks.  
-  - **Documents**: Read or write content to enhance your language skills.  
-  - **Grammar**: View grammar notes and mark concepts as learned.  
-  - **Verbs**: Explore verb conjugations, hear pronunciations, and add verbs to your vocabulary.  
-  - **Vocabulary**: Manage your vocabulary list, filter items, and create custom decks.  
-  - **Profile Settings**: Update your personal information or adjust app preferences.
+## The navigation bar
 
-- **Quick Links**:  
-  Navigate to the **Decks** or **Documents dashboard** using the dedicated links at the top of the home page.
+On a desktop or tablet, the tabs run along the top of the page; on a phone, they sit in a tab bar at the bottom, within reach of your thumb. The tabs are:
 
----
+- **Decks** — your review decks, the deck Library, and your review history. See [Decks & Reviews](decks.md).
+- **Documents** — texts you are reading or writing, plus the curated document Library. See [Documents](documents.md).
+- **Verbs** — conjugation tables, audio, and example sentences. See [Verbs](verbs.md).
+- **Profile** — your progress, activity, vocabulary, evaluations, teachers, and account. See [Profile & Progress](profile.md).
 
-## Dashboard Overview
+The tab for the section you are in is highlighted, so you always know where you are.
 
-The **Dashboard** is the central hub for your active learning sessions:
+## The account menu
 
-- **Switchable View**:  
-  Toggle between **Decks** and **Documents** dashboards to focus on your current learning mode.  
+Your profile picture sits at the end of the navigation bar. Selecting it opens a small menu showing your name and email, with a **Log out** button.
 
-- **Decks Dashboard**:  
-  View and manage your flashcard decks, including their progress and scheduled reviews.  
+## Review sessions are full-screen
 
-- **Documents Dashboard**:  
-  Access your uploaded or curated documents, start new reading or writing sessions, and organize content into folders.
+When you start a review session, the navigation disappears: the session takes over the whole screen so you can focus on the card in front of you. Use the close button (the X at the top of the card) to return to the deck at any point — your progress in the session is saved as you go.
+
+## The daily review email
+
+If you have cards waiting, Immersive can send you a short morning email — "3 cards are due today" — with a **Start reviewing** button that takes you straight to your decks.
+
+Every one of these emails carries an unsubscribe link. Unsubscribing only stops the email; you can keep reviewing any time from your decks.
 
 ---
 
-## User Profile and Study Heatmap
+## Further reading
 
-Your **User Profile** gives a visual representation of your learning habits:
-
-- **Study Heatmap**:  
-  The heatmap provides an overview of your daily activity:  
-  - Each square represents a day.  
-  - The intensity of color indicates how much you studied on a given day.  
-
-- **Motivational Insights**:  
-  Use the heatmap to track streaks and maintain consistent progress.
-
----
-
-By combining streamlined navigation, a flexible dashboard, and insightful analytics, the Immersive home page ensures an engaging and personalized language-learning experience.
-
----
-
-### Further Reading
-- [Using Flashcards in Immersive](/docs/flashcards)
-- [Practicing with Documents in Immersive](/docs/documents)
-- [Exploring Grammar Notes](/docs/grammar)
-- [Managing Vocabulary](/docs/vocabulary)
-
----
+- [Decks & Reviews](decks.md)
+- [Documents](documents.md)
+- [Profile & Progress](profile.md)

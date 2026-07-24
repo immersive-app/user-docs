@@ -1,116 +1,57 @@
 ---
 title: Vocabulary
-parent: Immersive Docs
-grand_parent: Layout
-layout: minimal
+nav_order: 3
 ---
 
 # Vocabulary
 
-Immersive's Vocabulary feature is a powerful tool to help you build, practice, and master the words and sentences that matter most to your language-learning journey.
+Your Vocabulary is the list of words and sentences you have actually met while studying. You never type anything into it — it collects itself as you use Immersive — and it lives in your Profile, under the **Vocabulary** tab.
 
 ---
 
-### In this article
-- **About Vocabulary in Immersive**
-- **How Vocabulary Works**
-- **Using Your Vocabulary List**
-- **Where to Start**
-- **Next Steps**
-- **Further Reading**
+## How vocabulary is collected
+
+Three activities feed your Vocabulary automatically:
+
+- **Words and sentences you translate in the reader.** Tap a word or sentence in a document to see its translation, and it is recorded.
+- **Sentences you miss in review.** When a review does not go well, the item lands here so you can decide what to do with it.
+- **Corrections from your writing.** Words that come back corrected in your written documents are collected too.
+
+Each entry remembers how often you have **seen** it, **missed** it, and **reviewed** it, so the list doubles as a record of which words are giving you trouble.
+
+## Browsing your list
+
+Open **Profile → Vocabulary**. At the top you will see your totals — how many items you have collected and how many you have saved. You can:
+
+- **Search** your words with the search box.
+- **Filter by type** — all types, words only, or sentences only.
+- Tick **Saved only** to see just the items you have marked as worth keeping.
+
+## Saving and dismissing
+
+Not everything you translate is worth studying. Select the entries you care about, then:
+
+- **Save** keeps them marked, so they stand out and can be filtered with Saved only.
+- **Dismiss** clears entries you do not want to track.
+
+## Turning vocabulary into a deck
+
+The whole point of collecting vocabulary is to review it. To create a deck from your list:
+
+1. Open **Profile → Vocabulary**.
+2. Select the words and sentences you want to study.
+3. Choose **Create a deck from selection**.
+
+Immersive creates a new deck (named "Vocabulary" with today's date) with one card per selected item, ready to review like any other deck. See [Reviewing cards](decks/reviewing-cards.md).
+
+## If your list is empty
+
+Vocabulary only fills as you study. The fastest way to start it is to open a document and read: every word you translate appears here. See [Reading documents](documents/reading-documents.md).
 
 ---
 
-### About Vocabulary in Immersive
+## Further reading
 
-Immersive's Vocabulary feature allows you to learn languages effectively by focusing on words and sentences paired with real-world examples. Powered by AI and the open-source Tatoeba project, it helps you:
-
-- Hear **on-demand AI-generated audio** for correct pronunciation.
-- Study words with **example sentences** to understand them in context.
-- Personalize your learning by **modifying or removing examples** that don't suit you.
-
-Whether you’re starting with basic words or tackling advanced sentences, the Vocabulary feature adapts to your progress and keeps you on track.
-
----
-
-### How Vocabulary Works
-
-Immersive builds your **vocabulary list** dynamically as you interact with the platform:
-
-- **Adding Vocabulary**  
-  Words and sentences are added to your list when you view them on a flashcard or click on them in a document.
-
-- **AI-Generated Audio**  
-  Every word and sentence includes [audio created on-demand](managing-your-vocabulary-list#playing-audio), so you can practice accurate pronunciation.
-
-- **Example Sentences**  
-  Words are paired with examples from the [Tatoeba project](https://tatoeba.org) and other sources. You can:
-  - Modify the examples to suit your needs.
-  - Choose from a list of alternate examples.
-  - Remove examples you don’t want.
-
-- **Tracking Progress**
-
-  Immersive uses [Learning Phases](/docs/vocabulary/managing-your-vocabulary-list#learning-phases) to track your progress for each vocabulary item, helping you target areas for growth. These phases are associated with the vocabulary, not the cards, so all cards with the same vocabulary share the same Learning Phase.
-
-- **Managing Vocabulary**  
-  Using [filtering and sorting tools](managing-your-vocabulary-list#filtering-and-sorting) you can manage even a very large Vocabulary List and [Filtered Decks](managing-your-vocabulary-list#creating-a-filtered-deck) allow you to create a study set based on your selections.
-
-  You can [delete Vocabulary](managing-your-vocabulary-list#deleting-vocabulary) that is no longer relevant to your learning goals.
-
----
-
-### Using Your Vocabulary List
-
-Your vocabulary list isn't just a static record—it integrates with other features to support your language learning:
-
-- **Flashcards**  
-  Use spaced repetition to memorize vocabulary efficiently. Practice with flashcards in multiple modes, such as Read, Write, Listen, and Speak.
-
-- **Documents**  
-  Your vocabulary list is used as prompts when writing your own documents. It helps reinforce learning by encouraging you to actively use new words and sentences.
-
-- **Custom Study Materials**  
-  Personalize your learning experience by focusing on vocabulary that aligns with your interests, goals, and current level.
-
----
-
-### Where to Start
-
-If you’re new to Immersive, here’s how to begin with Vocabulary:
-
-1. **Explore Real-World Content**  
-   Start by interacting with words and sentences in documents or flashcards. These will automatically be added to your vocabulary list.
-
-2. **Listen and Practice Pronunciation**  
-   Use the AI-generated audio to hear and mimic correct pronunciations.
-
-3. **Edit and Organize Your Vocabulary List**  
-   Modify example sentences or delete items to tailor your learning experience.
-
-4. **Track Your Progress**  
-   Keep an eye on your learning levels for each word and sentence as you practice.
-
----
-
-### Next Steps
-
-Once you’ve built your vocabulary list, continue your journey by:
-
-- Practicing with flashcards to reinforce your memory.
-- Writing documents to actively use your new vocabulary.
-- Diving into verbs and grammar to deepen your understanding.
-
----
-
-### Further Reading
-
-To learn more about Immersive and its features, check out these related articles:
-
-- [Getting Started with Immersive](/)
-- [How Flashcards Work](/docs/flashcards)
-- [Using Documents in Immersive](/docs/documents)
-- [Mastering Grammar with Immersive](/docs/grammar)
-- [Managing Your Vocabulary List](/docs/vocabulary/managing-your-vocabulary-list)
-
-With Immersive, your language-learning journey is always evolving. Start building your vocabulary today and see where it takes you!
+- [Profile & Progress](profile.md)
+- [Decks & Reviews](decks.md)
+- [Reading documents](documents/reading-documents.md)

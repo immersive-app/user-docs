@@ -1,88 +1,53 @@
 ---
-title: Working with Verbs
+title: Working with verbs
 parent: Verbs
-grand_parent: Immersive Docs
-layout: minimal
 ---
 
----
+# Working with verbs
 
-### Working with Verbs
-
-Immersive simplifies learning verbs by providing interactive tools for mastering conjugations, pronunciation, and real-world usage.
+How to find a verb, read its conjugation table, listen to it, and use it across the languages you know.
 
 ---
 
-#### In this article
-- [Viewing Verbs](#viewing-verbs)
-- [Exploring Conjugations](#exploring-conjugations)
-- [Adding Verbs to Your Vocabulary List](#adding-verbs-to-your-vocabulary-list)
-- [Creating Verb Decks](#creating-verb-decks)
+## Finding a verb
+
+1. Open **Verbs** from the navigation.
+2. Type in the **search box** to filter the list as you type.
+3. Turn on **Show only common verbs** to limit the list to high-frequency verbs — a good default while you are starting out.
+
+Each verb is listed by its infinitive, with its translation in your language.
+
+## Reading a conjugation table
+
+Open a verb to see its page:
+
+- The **nominal forms** (infinitive, participles, gerund) appear at the top.
+- **Mood buttons** (indicative, subjunctive, and so on) switch the table between moods.
+- Within a mood, conjugations are grouped **by tense**, one card per tense, with every person listed.
+
+Tap the **listen icon** next to a form to hear it pronounced. If the audio has not been generated yet there may be a short delay the first time.
+
+## Exploring a single conjugation
+
+Every form in the table is a link. Open one to get its own page:
+
+- The form, its verb, mood, and tense.
+- **Example sentences** using that exact form, with translations and audio.
+- **Public decks** that practise this verb, which you can open and copy to My Decks.
+
+## Across your languages
+
+If you are signed in and know more than one of Immersive's languages, a conjugation page also shows **Across your languages**: the same tense and person aligned across the languages you know, ordered so that neighbouring columns are the most similar. Seeing *falo – hablo – parlo – parle* in one row is often all it takes for a form to stick.
+
+If a comparison is useful, choose **Add comparison card** — it becomes a review card in a dedicated comparisons deck, scheduled like any other card.
+
+## Practising verbs in decks
+
+The Verbs section is a reference; practice happens in your decks. When you add cards to a deck you can pick verbs and tenses and choose between one card per person or the whole tense table on a single card. See [Creating decks](../decks/creating-decks.md).
 
 ---
 
-## Viewing Verbs
+## Further reading
 
-Immersive organizes verbs by their infinitive forms, making it easy to browse and find what you need.
-
-- **Browse by Infinitive**: All verbs are listed alphabetically by their infinitive form.
-- **Filter Common Verbs**: Use the **"Common Verbs"** toggle to narrow the list to commonly used verbs, helping you prioritize your study.
-
-### How to browse verbs:
-1. Navigate to the **Verbs section** in Immersive.
-2. Use the **search bar** to find specific infinitives.
-3. Toggle **"Common Verbs"** to focus on frequently used verbs.
-
----
-
-## Exploring Conjugations
-
-Each verb includes a comprehensive table of conjugations for all common tenses.
-
-- **Conjugation Tables**: View verb forms across tenses such as present, past, and future.
-- **Pronunciation Guide**: Each conjugation comes with on-demand audio for correct pronunciation.
-- **Example Sentences**: Click on individual conjugations to explore example sentences with translations and audio.
-
-### Steps to explore conjugations:
-1. Click on an infinitive from the verb list.
-2. Review the conjugation table for that verb.
-3. Click on a specific conjugation to:
-   - Hear its pronunciation.
-   - View example sentences.
-   - Explore contextual usage.
-
----
-
-## Adding Verbs to Your Vocabulary List
-
-Each verb you click on is automatically added to your **Vocabulary List**, making it available for further practice with flashcards or writing exercises.
-
----
-
-## Creating Verb Decks
-
-Immersive lets you create **custom verb decks** for focused practice.
-
-- **Select Infinitives and Tenses**: Choose verbs and specific tenses to include in your deck.
-- **Auto-Generated Flashcards**: Immersive creates flashcards with conjugations and automatically associates example sentences with audio.
-- **Customization Options**: Modify or add your own sentences to personalize the learning experience.
-
-### How to create a verb deck:
-1. Go to the **Verbs section**.
-2. Select the verbs and tenses you want to include.
-3. Click **"Create Deck"**.
-4. Name your deck and save it for later practice.
-
----
-
-By exploring verbs with Immersive, you can build a strong foundation in conjugations, pronunciation, and contextual usage, ensuring comprehensive language mastery.
-
----
-
-### Further Reading
-
-- [Practicing with Flashcards](/docs/flashcards)
-- [Using Grammar Notes](/docs/grammar)
-- [Exploring Vocabulary Features](/docs/vocabulary)
-
----
+- [Creating decks](../decks/creating-decks.md)
+- [Reviewing cards](../decks/reviewing-cards.md)

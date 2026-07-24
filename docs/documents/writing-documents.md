@@ -1,74 +1,57 @@
 ---
+title: Writing documents
+parent: Documents
+nav_order: 2
+---
 
-title: Writing Documents  
-parent: Documents  
-layout: minimal  
+# Writing documents
+
+Writing is where a language becomes yours. The editor gives you a clean page in your target language, and help exactly when you ask for it: a topic when you are stuck, a coach when you have a question, corrections when you are done, and rewrites that show you the next level.
 
 ---
 
-# Writing Documents
+## Writing a document
 
-Learn how to use Immersive’s document writing tools to improve your language skills, enhance your grammar, and integrate vocabulary into your practice.
+1. Open **Documents** and start a new document (or open one and switch to **Write**).
+2. Write. The editor offers light formatting — headings, bold, italic, lists, quotes — and shows a running word count.
+3. **Save** whenever you like; a saved document can be read like any other, with translations, audio, and reading aids.
 
----
+Stuck for an idea? Choose **Topic** — Immersive suggests something to write about at your level. Dismiss it or ask for a new one until something clicks.
 
-### In this article
-- [Writing Documents in Immersive](#writing-documents-in-immersive)  
-- [Getting Feedback on Your Writing](#getting-feedback-on-your-writing)  
-- [Using Vocabulary Suggestions](#using-vocabulary-suggestions)  
-- [Managing Your Written Documents](#managing-your-written-documents)  
+## Asking the Coach
 
----
+The **Coach** is an assistant you can call on while reading or writing. Ask it for help with your text — explanations, ideas, phrasing — and it answers in your own language, with your document in front of it.
 
-## Writing Documents in Immersive
+## Getting corrections
 
-Writing documents is one of the most effective ways to enhance your fluency, improve grammar, and practice active language use. Immersive’s **Write Mode** gives you a structured space to compose documents and refine your skills.
+When your draft is ready, choose **Correct**. Your text is submitted for correction and comes back with:
 
-Key features include:  
+- **Corrections**, each with an explanation in your language of what changed and why.
+- **Other ways to say it** — natural, simpler, formal, and casual alternatives.
+- A **CEFR estimate** of the writing level of your text.
 
-- AI-powered **feedback and corrections** for tense, phrasing, and style.  
-- Suggestions for topics to help you get started.  
-- Integration of recently studied **vocabulary items** to help reinforce learning.  
+Review the corrected text and, if you are happy, **Apply to document** — your document takes the corrected text, and the previous version is kept in History so nothing is lost. Past submissions remain available, so you can look back at what kept getting corrected.
 
----
+## The writing assistant
 
-## Getting Feedback on Your Writing
+Alongside the editor sits a three-tab assistant:
 
-Immersive uses advanced AI tools to help you improve your writing:  
+- **Edits** shows your latest corrections in place, your writing level, and the Correct button.
+- **Rewrite** works on a selection: select a passage and ask for a suggestion — Immersive rewrites it one level above your current writing level, with the same meaning. The suggestion appears under the paragraph; **Replace** takes it, **Dismiss** leaves your text alone.
+- **Tone** rewrites your whole draft for a situation you describe in your own words — "a formal email to my landlord about the broken heater". Tone rewrites stay within your level: it is your voice, adjusted, not someone else's. **Apply to document** to keep it, or **Export .docx** to take it elsewhere.
 
-1. **Real-Time Corrections**: As you write, Immersive highlights areas where corrections are needed and offers suggestions.  
-2. **Style and Grammar Advice**: Receive detailed guidance on phrasing, tense usage, and stylistic improvements.  
-3. **Save and Review**: Once saved, your document can be read like any other document, with access to translations and pronunciations.  
+## Level up
 
-This personalized feedback helps you refine your skills and gain confidence in your language use.
+Curious what your writing would look like a step ahead? **Level up** shows your text as a writer one CEFR level above you would put it — richer connectors and verbs, same story. It is a mirror, not a correction: your document is unchanged.
 
----
+## History
 
-## Using Vocabulary Suggestions
-
-Immersive integrates your **Vocabulary List** directly into the writing experience:  
-
-- **Recently Studied Vocabulary**: View a curated list of vocabulary items you’ve recently studied to incorporate them into your writing.  
-- **Contextual Learning**: Writing with vocabulary in context helps reinforce your understanding and retention of new words.  
-
-These features encourage you to actively use your vocabulary and make writing a dynamic learning tool.
+Every edit, import, and applied correction snapshots the previous version into the document's **History**, where you can compare and restore. Experiment freely — you can always get back.
 
 ---
 
-## Managing Your Written Documents
+## Further reading
 
-Your written documents are stored and accessible alongside other content in Immersive:  
-
-- **Save and Edit**: Save your documents and edit them at any time.  
-- **Read Like Any Other Document**: Once saved, you can use the same tools available in reading mode, such as translations, pronunciations, and adding words or sentences to your Vocabulary List.  
-- **Delete Unneeded Documents**: Remove any documents you no longer need to keep your workspace organized.  
-
----
-
-By using Immersive’s writing tools, you can actively practice your target language, refine your grammar, and expand your vocabulary in meaningful ways.
-
-### Further Reading
-- [Getting Started with Immersive](/)
-- [Reading Documents in Immersive](/docs/documents/reading-documents)  
-- [Using Flashcards in Immersive](/docs/documents/flashcards)  
-- [Building Your Vocabulary with Immersive](/docs/documents/vocabulary)  
+- [Reading documents](reading-documents.md)
+- [Grammar](../grammar.md) — look up the concepts your corrections keep mentioning
+- [Vocabulary](../vocabulary.md) — corrected words are collected for review

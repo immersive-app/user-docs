@@ -1,140 +1,49 @@
 ---
 title: Documents
-parent: Immersive Docs
-layout: minimal
+nav_order: 7
 has_children: true
 ---
 
 # Documents
 
-Immersive’s **Documents** feature transforms language learning by integrating reading and writing into your study routine. With tools for translation, pronunciation, and AI-powered feedback, you can immerse yourself in real-world content and build language skills effectively.
+Documents are how you work with real texts in Immersive — news articles, stories, notes from class, anything. Bring a text in and the reader turns it into a study surface: tap to translate, tap to listen, with inline aids that help you understand more than you thought you could. Or start from a blank page and write, with correction and coaching built in.
 
 ---
 
-### In this article
-- **About Documents in Immersive**
-- **How Documents Work**
-- **Using Documents in Practice**
-- **Where to Start**
-- **Next Steps**
-- **Further Reading**
+## Reading
+
+Import a text — paste it, upload a file (text, Markdown, or PDF), or photograph a page — and Immersive splits it into words and sentences you can interact with:
+
+- **Tap a word or sentence** to see its translation; tap again to hear it read aloud.
+- **Reading aids** mark the places worth a hint: words you can guess from context, words that are safe to skip, and words with lookalikes in the languages you already know.
+- **Read to me** plays the document aloud while the current sentence is highlighted, at normal or slow speed.
+
+Everything you translate collects in your [Vocabulary](vocabulary.md), and the entries you mark as Saved there can be added to a deck later.
+
+See [Reading documents](documents/reading-documents.md).
+
+## Writing
+
+The editor gives you a clean page, light formatting, and help on demand:
+
+- Ask for a **topic** if you need an idea.
+- Ask the **Coach** for feedback and explanations, in your own language.
+- Submit your text with **Correct** to get corrections with explanations, alternative phrasings, and a CEFR estimate of your writing level — then apply the corrected text back to the document.
+- Use the assistant's **Rewrite** and **Tone** tools to see a passage one level above your own, or your whole draft rewritten for a situation ("a formal email to my landlord").
+
+See [Writing documents](documents/writing-documents.md).
+
+## The Library
+
+The Documents page also shows the **Library**: curated texts provided by Immersive, with a level and word count for each, so there is always something to read at your level. Reading a library document works like reading your own; if you start editing one, you get your own copy and the original stays untouched.
+
+## Your documents, organised
+
+Your own documents are listed on the Documents page, searchable, with folders shown as you accumulate them — breadcrumbs at the top keep track of where you are. Documents keep an **edit history**: past versions are saved before each edit, import, or applied correction, and can be compared and restored.
 
 ---
 
-### About Documents in Immersive
+## In this section
 
-Documents are a powerful way to engage with long-form content in your target language. Whether you’re reading an article, essay, or book chapter, or writing your own text, Immersive’s document tools support you at every step.
-
-Key features include:
-
-- **Reading Mode:** Translate words or sentences on demand, and hear native pronunciations.
-- **Writing Mode:** Create your own documents in the target language with the support of AI coaching.
-- **Vocabulary Integration:** Build your vocabulary automatically by interacting with words and sentences in documents.
-
-With Immersive, learning through documents becomes an interactive experience that improves comprehension, pronunciation, and writing skills.
-
----
-
-### How Documents Work
-
-Immersive simplifies language learning with documents by offering tools for both **reading**, **writing**, and **Organising**:
-
-#### Reading Documents
-- **Upload or Choose:**  
-  Upload your own documents, or pick from curated content like Wikipedia articles.  
-  Suggested content includes articles, essays, or book chapters.
-
-- **Interactive Learning:**  
-  Click on any word or sentence in a document to:
-  - See its translation.
-  - Listen to native pronunciation generated on-demand.
-  - Automatically add it to your Vocabulary for later study.
-
-- More information about [Reading Documents](/docs/documents/reading-documents)
-
-#### Writing Documents
-- **Topic Suggestions**  
-  Get inspiration with AI-suggested topics, tailored to your learning level.
-
-- **Interactive Writing**  
-  Use prompts from your Vocabulary, such as words, verbs, or sentences, to guide your writing.
-
-- **AI Coaching**  
-  Receive real-time feedback from Immersive’s AI. It will:
-  - Suggest corrections to improve grammar and style.
-  - Highlight areas for vocabulary enhancement.
-  - Offer constructive feedback to strengthen your writing.
-
-- More information about [Writing Documents](/docs/documents/writing-documents)
-
-#### Organising Documents into Folders
-- **Folder Management**  
-  Organize your documents into folders and subfolders for easy access and streamlined study sessions.
-
-- **Curated Content Folders**  
-  Access folders created by Immersive that feature curated documents, such as Wikipedia articles. These folders help you explore content relevant to your learning goals.
-
-- **Flexibility and Control**  
-  - Move documents between folders to keep them organized.
-  - Rename folders to suit your preferences.
-  - Delete folders and their contents, with a confirmation dialog to prevent accidental deletion.
-
-- More information about [Organising Documents](/docs/documents/organising-documents)
-
-By Organising your documents into folders, you can maintain a structured workspace, focus your studies, and quickly access the materials you need.  
-
----
-
-### Using Documents in Practice
-
-Your interaction with documents seamlessly integrates with other features in Immersive:
-
-- **Vocabulary Building**  
-  Every time you interact with a word or sentence, it’s added to your Vocabulary, allowing you to revisit and reinforce what you’ve learned.
-
-- **Flashcard Practice**  
-  Words and sentences from documents appear in your Flashcards, helping you solidify your knowledge through spaced repetition.
-
-- **Writing Exercises**  
-  Practice using new vocabulary and verbs in your own sentences, guided by the AI’s corrections and suggestions.
-
----
-
-### Where to Start
-
-Here’s how to begin using Documents in Immersive:
-
-1. **Choose Your Content**  
-   Upload a document you’d like to read, or select one from Immersive’s curated list of articles and essays.
-
-2. **Engage with the Text**  
-   Read through the document, clicking on unfamiliar words or sentences to view translations and hear pronunciation.
-
-3. **Build Your Vocabulary**  
-   Let Immersive automatically add clicked words and sentences to your Vocabulary list for later study.
-
-4. **Write Your Own Texts**  
-   Choose a topic or create your own. Use prompts and AI feedback to refine your writing.
-
----
-
-### Next Steps
-
-Take your document learning to the next level:
-
-- Upload longer or more complex documents as you progress.
-- Practice new vocabulary from your documents with Flashcards.
-- Write essays or journal entries, incorporating corrections and suggestions from the AI.
-
----
-
-### Further Reading
-
-To make the most of Immersive, explore these related articles:
-
-- [Getting Started with Immersive](/)
-- [About Vocabulary in Immersive](/docs/vocabulary)
-- [How Flashcards Work](/docs/flashcards)
-- [Exploring Grammar Concepts in Immersive](/docs/grammar)
-
-By using documents to read, write, and practice interactively, Immersive helps you learn a language in context—one sentence, word, and idea at a time. Dive in today!
+- [Reading documents](documents/reading-documents.md) — importing texts and using the reader.
+- [Writing documents](documents/writing-documents.md) — the editor, corrections, and the writing assistant.
