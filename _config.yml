@@ -57,3 +57,11 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+
+# Every page and collection document renders with the theme layout unless
+# it opts out explicitly.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
