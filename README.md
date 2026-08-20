@@ -26,6 +26,17 @@ a first visit on the English edition to the browser's language when we ship
 that edition - a stored choice always wins, and direct links to a locale
 edition are never overridden.
 
+## Locale-scoped sidebar (immersive#612)
+
+Each page's sidebar lists only its own edition's documents; other languages are
+reached through the switcher, not the nav. This is done by overriding three
+just-the-docs includes (`_includes/components/site_nav.html`,
+`_includes/components/sidebar.html`, `_includes/css/activation.scss.liquid`):
+the sidebar and the current-page highlighting pass the page's collection to
+`site_nav.html`, while breadcrumb/children lookups still see the full nav.
+The overrides are copies from **just-the-docs 0.10.1** with marked edits - when
+bumping the theme, re-diff them against the new version's files.
+
 ## Conventions
 
 - Learner-facing language; every claim must match the shipped app.
