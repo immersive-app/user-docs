@@ -4,6 +4,11 @@ theme: just-the-docs
 
 url: https://immersive-app.github.io
 baseurl: /user-docs
+
+# Directory-style URLs for the root (English) edition, matching the locale
+# collections' permalink shape so the language switcher maps pages 1:1
+# (immersive#612).
+permalink: pretty
 favicon_ico: "/assets/images/favicon-32x32.png"
 
 search_enabled: true

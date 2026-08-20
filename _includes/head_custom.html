@@ -1,0 +1,26 @@
+<script>
+  // Browser-language detection (immersive#612): a first visit landing on
+  // the English edition with no stored preference is redirected to the
+  // reader's browser language, if we ship that edition. An explicit
+  // switcher choice (guide-lang in localStorage) always wins, and a
+  // direct link to a locale edition is never overridden.
+  (function () {
+    try {
+      if (localStorage.getItem("guide-lang")) return;
+      var base = "{{ site.baseurl }}";
+      var path = location.pathname;
+      if (base && path.indexOf(base) === 0) path = path.slice(base.length);
+      if (/^\/(ca|es|fr|it|pt)(\/|$)/.test(path)) return;
+      var supported = ["ca", "es", "fr", "it", "pt"];
+      var langs = navigator.languages || [navigator.language || ""];
+      for (var i = 0; i < langs.length; i++) {
+        var code = String(langs[i]).slice(0, 2).toLowerCase();
+        if (code === "en") return;
+        if (supported.indexOf(code) !== -1) {
+          location.replace(base + "/" + code + path + location.search + location.hash);
+          return;
+        }
+      }
+    } catch (e) {}
+  })();
+</script>
