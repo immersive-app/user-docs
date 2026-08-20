@@ -9,7 +9,7 @@ lang: ca
 
 Les notes gramaticals són els articles de referència d'Immersive: cadascuna explica un únic concepte gramatical de la teva llengua d'aprenentatge, amb exemples, i moltes inclouen exercicis que pots comprovar al moment. Estan organitzades per nivell CEFR, de manera que et pots quedar al teu nivell en lloc de perdre't en tot un llibre de gramàtica.
 
-Les notes gramaticals estan disponibles per als estudiants amb sessió iniciada a `/grammar`.
+La gramàtica és una de les cinc àrees principals de l'aplicació: un cop iniciada la sessió, obre **Gramàtica** des de la barra de navegació.
 
 ---
 
@@ -32,7 +32,7 @@ Fes servir la icona de **marcador** de qualsevol nota per desar-la, i després f
 
 ## Per on començar
 
-1. Obre la secció de Gramàtica.
+1. Obre **Gramàtica** des de la navegació.
 2. Filtra o cerca el concepte que necessites — o explora les categories del teu nivell per veure què hi ha.
 3. Llegeix la nota, prova'n els exercicis i marca-la si la voldràs tornar a consultar.
 

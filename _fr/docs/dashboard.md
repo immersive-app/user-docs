@@ -12,7 +12,7 @@ Une fois connecté, tout dans Immersive est à un ou deux gestes. Cette page fai
 
 ## Où vous arrivez
 
-La connexion vous amène à la **bibliothèque de verbes** — la page d'accueil d'Immersive. À partir de là, la barre de navigation est votre tableau de bord : elle montre les quatre grandes sections de l'application et vous accompagne sur chaque écran.
+La connexion vous amène à la **bibliothèque de verbes** — la page d'accueil d'Immersive. À partir de là, la barre de navigation est votre tableau de bord : elle montre les cinq grandes sections de l'application et vous accompagne sur chaque écran.
 
 ## La barre de navigation
 
@@ -20,8 +20,9 @@ Sur un ordinateur ou une tablette, les onglets s'alignent en haut de la page ; s
 
 - **Paquets** — vos paquets de révision, la Bibliothèque de paquets et votre historique des révisions. Voir [Paquets et révisions](decks.md).
 - **Documents** — les textes que vous lisez ou écrivez, plus la Bibliothèque de documents choisis. Voir [Documents](documents.md).
+- **Grammaire** — des notes de référence par niveau CECRL, avec des exercices. Voir [Grammaire](grammar.md).
 - **Verbes** — tableaux de conjugaison, audio et phrases d'exemple. Voir [Verbes](verbs.md).
-- **Profil** — votre progression, votre activité, votre vocabulaire, vos évaluations, vos professeurs et votre compte. Voir [Profil et progression](profile.md).
+- **Profil** — votre progression, votre activité, vos évaluations, votre vocabulaire, vos professeurs et votre compte. Voir [Profil et progression](profile.md).
 
 L'onglet de la section où vous vous trouvez est mis en évidence, pour que vous sachiez toujours où vous êtes.
 

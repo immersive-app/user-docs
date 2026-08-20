@@ -32,7 +32,7 @@ Puoi ripassare ogni carta in quattro modalità — **Leggere**, **Scrivere**, **
 
 Aprendo **Mazzi** dalla navigazione trovi:
 
-- **Biblioteca** — mazzi pronti forniti da Immersive, come le parole più comuni nella tua lingua, da copiare in I miei mazzi per studiarli.
+- **Biblioteca** — mazzi pronti forniti da Immersive, come un mazzo di Essenziali con i verbi di base e le parole più comuni nella tua lingua, da copiare in I miei mazzi per studiarli.
 - **I miei mazzi** — i tuoi mazzi, con cartelle, e colonne che mostrano quante carte sono Nuove, In apprendimento e Da ripassare in ciascuno.
 - **Cronologia dei ripassi** — il registro delle tue sessioni passate, tramite l'icona dell'orologio.
 

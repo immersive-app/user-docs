@@ -23,7 +23,7 @@ Ces chiffres vous disent d'un coup d'œil où votre temps de révision est atten
 
 ## La Bibliothèque
 
-Au-dessus de vos paquets se trouve la **Bibliothèque** : des paquets préconstruits par Immersive, dont les paquets des mots les plus courants de votre langue cible, découpés par fréquence (les 500 premiers mots, puis 501–1 000, puis 1 001–5 000) pour ne jamais étudier deux fois le même mot.
+Au-dessus de vos paquets se trouve la **Bibliothèque** : des paquets préconstruits par Immersive. Pour chaque langue, elle propose un paquet **Essentiels** — les verbes de base au présent — et des paquets des mots les plus courants, découpés par fréquence (les 500 premiers mots, puis 501–1 000, puis 1 001–5 000) pour ne jamais étudier deux fois le même mot.
 
 Les paquets de la Bibliothèque s'étudient via une copie personnelle — appuyez sur le bouton **+** à côté d'un paquet pour le copier dans Mes paquets.
 

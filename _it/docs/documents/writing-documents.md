@@ -21,7 +21,7 @@ Ti manca un'idea? Scegli **Tema** — Immersive suggerisce qualcosa su cui scriv
 
 ## Chiedere al Coach
 
-Il **Coach** è un assistente che puoi chiamare mentre leggi o scrivi. Chiedigli aiuto con il tuo testo — spiegazioni, idee, formulazioni — e risponde nella tua lingua, con il tuo documento davanti.
+Il **Coach** è un assistente che puoi chiamare mentre scrivi. Chiedigli aiuto con il tuo testo — spiegazioni, idee, formulazioni — e risponde nella tua lingua, con il tuo documento davanti.
 
 ## Ottenere correzioni
 

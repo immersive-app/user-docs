@@ -32,7 +32,7 @@ Puedes repasar cada tarjeta en cuatro modos — **Leer**, **Escribir**, **Escuch
 
 Al abrir **Mazos** desde la navegación verás:
 
-- **Biblioteca** — mazos listos para usar creados por Immersive, como las palabras más frecuentes de tu idioma, que copias a Mis mazos para estudiarlos.
+- **Biblioteca** — mazos listos para usar creados por Immersive, como un mazo de Esenciales con los verbos básicos y las palabras más frecuentes de tu idioma, que copias a Mis mazos para estudiarlos.
 - **Mis mazos** — tus mazos, con carpetas, y columnas que muestran cuántas tarjetas hay Nuevas, en Aprendiendo y Pendientes en cada uno.
 - **Historial de repasos** — un registro de tus sesiones pasadas, mediante el icono del reloj.
 

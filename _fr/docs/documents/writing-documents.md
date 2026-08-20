@@ -21,7 +21,7 @@ En panne d'idée ? Choisissez **Sujet** — Immersive propose quelque chose à �
 
 ## Demander au Coach
 
-Le **Coach** est un assistant que vous pouvez appeler pendant la lecture ou l'écriture. Demandez-lui de l'aide sur votre texte — explications, idées, formulations — et il répond dans votre propre langue, avec votre document sous les yeux.
+Le **Coach** est un assistant que vous pouvez appeler pendant l'écriture. Demandez-lui de l'aide sur votre texte — explications, idées, formulations — et il répond dans votre propre langue, avec votre document sous les yeux.
 
 ## Obtenir des corrections
 

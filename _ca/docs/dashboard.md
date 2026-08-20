@@ -12,7 +12,7 @@ Un cop has iniciat sessió, tot a Immersive és a un o dos tocs de distància. A
 
 ## On arribes
 
-Iniciar sessió et porta a la **biblioteca de verbs** — la pàgina d'inici d'Immersive. A partir d'aquí, la barra de navegació és el teu tauler de control: mostra les quatre àrees principals de l'aplicació i t'acompanya a cada pantalla.
+Iniciar sessió et porta a la **biblioteca de verbs** — la pàgina d'inici d'Immersive. A partir d'aquí, la barra de navegació és el teu tauler de control: mostra les cinc àrees principals de l'aplicació i t'acompanya a cada pantalla.
 
 ## La barra de navegació
 
@@ -20,8 +20,9 @@ En un ordinador o una tauleta, les pestanyes es despleguen a la part superior de
 
 - **Baralles** — les teves baralles de repàs, la Biblioteca de baralles i el teu historial de repassos. Vegeu [Baralles i repassos](decks.md).
 - **Documents** — els textos que estàs llegint o escrivint, més la Biblioteca de documents seleccionats. Vegeu [Documents](documents.md).
+- **Gramàtica** — notes de referència per nivell MECR, amb exercicis. Vegeu [Gramàtica](grammar.md).
 - **Verbs** — taules de conjugació, àudio i frases d'exemple. Vegeu [Verbs](verbs.md).
-- **Perfil** — el teu progrés, activitat, vocabulari, avaluacions, professors i compte. Vegeu [Perfil i progrés](profile.md).
+- **Perfil** — el teu progrés, activitat, avaluacions, vocabulari, professors i compte. Vegeu [Perfil i progrés](profile.md).
 
 La pestanya de la secció on ets queda ressaltada, perquè sempre sàpigues on et trobes.
 

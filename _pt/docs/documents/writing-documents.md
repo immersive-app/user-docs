@@ -21,7 +21,7 @@ Preso por falta de ideia? Escolha **Tema** — o Immersive sugere algo sobre que
 
 ## Perguntar ao Coach
 
-O **Coach** é um assistente que pode chamar enquanto lê ou escreve. Peça-lhe ajuda com o seu texto — explicações, ideias, formulações — e ele responde na sua própria língua, com o seu documento à frente.
+O **Coach** é um assistente que pode chamar enquanto escreve. Peça-lhe ajuda com o seu texto — explicações, ideias, formulações — e ele responde na sua própria língua, com o seu documento à frente.
 
 ## Obter correções
 

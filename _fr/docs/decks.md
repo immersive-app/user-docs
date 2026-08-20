@@ -32,7 +32,7 @@ Vous pouvez réviser chaque carte dans quatre modes — **Lire**, **Écrire**, *
 
 Ouvrir **Paquets** depuis la navigation affiche :
 
-- **Bibliothèque** — des paquets prêts à l'emploi proposés par Immersive, comme les mots les plus courants de votre langue, à copier dans Mes paquets pour les étudier.
+- **Bibliothèque** — des paquets prêts à l'emploi proposés par Immersive, comme un paquet Essentiels de verbes de base et les mots les plus courants de votre langue, à copier dans Mes paquets pour les étudier.
 - **Mes paquets** — vos paquets, avec dossiers, et des colonnes indiquant combien de cartes sont Nouvelles, En cours et À revoir dans chacun.
 - **Historique des révisions** — le journal de vos sessions passées, via l'icône d'horloge.
 

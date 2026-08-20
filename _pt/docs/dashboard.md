@@ -12,7 +12,7 @@ Depois de iniciar sessão, tudo no Immersive fica a um ou dois toques de distân
 
 ## Onde começa
 
-Iniciar sessão leva-o à **biblioteca de verbos** — a página inicial do Immersive. A partir daí, a barra de navegação é o seu painel: mostra as quatro áreas principais da aplicação e acompanha-o em todos os ecrãs.
+Iniciar sessão leva-o à **biblioteca de verbos** — a página inicial do Immersive. A partir daí, a barra de navegação é o seu painel: mostra as cinco áreas principais da aplicação e acompanha-o em todos os ecrãs.
 
 ## A barra de navegação
 
@@ -20,8 +20,9 @@ Num computador ou tablet, os separadores correm ao longo do topo da página; num
 
 - **Baralhos** — os seus baralhos de revisão, a Biblioteca de baralhos e o seu histórico de revisões. Ver [Baralhos e Revisões](decks.md).
 - **Documentos** — textos que está a ler ou a escrever, além da Biblioteca de documentos selecionados. Ver [Documentos](documents.md).
+- **Gramática** — observações de referência por nível QECR, com exercícios. Ver [Gramática](grammar.md).
 - **Verbos** — tabelas de conjugação, áudio e frases de exemplo. Ver [Verbos](verbs.md).
-- **Perfil** — o seu progresso, atividade, vocabulário, avaliações, professores e conta. Ver [Perfil e Progresso](profile.md).
+- **Perfil** — o seu progresso, atividade, avaliações, vocabulário, professores e conta. Ver [Perfil e Progresso](profile.md).
 
 O separador da secção em que está fica realçado, para que saiba sempre onde se encontra.
 

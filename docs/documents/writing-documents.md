@@ -20,7 +20,7 @@ Stuck for an idea? Choose **Topic** — Immersive suggests something to write ab
 
 ## Asking the Coach
 
-The **Coach** is an assistant you can call on while reading or writing. Ask it for help with your text — explanations, ideas, phrasing — and it answers in your own language, with your document in front of it.
+The **Coach** is an assistant you can call on while writing. Ask it for help with your text — explanations, ideas, phrasing — and it answers in your own language, with your document in front of it.
 
 ## Getting corrections
 

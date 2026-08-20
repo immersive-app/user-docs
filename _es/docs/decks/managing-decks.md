@@ -23,7 +23,7 @@ Estos números te dicen de un vistazo dónde hace falta tu tiempo de repaso.
 
 ## La Biblioteca
 
-Encima de tus mazos está la **Biblioteca**: mazos preconstruidos por Immersive, incluidos mazos de las palabras más frecuentes de tu idioma de estudio, divididos por frecuencia (las primeras 500 palabras, luego 501–1.000, luego 1.001–5.000) para que nunca estudies la misma palabra dos veces.
+Encima de tus mazos está la **Biblioteca**: mazos preconstruidos por Immersive. Para cada idioma ofrece un mazo de **Esenciales** — los verbos básicos en presente — y mazos de las palabras más frecuentes, divididos por frecuencia (las primeras 500 palabras, luego 501–1.000, luego 1.001–5.000) para que nunca estudies la misma palabra dos veces.
 
 Los mazos de la Biblioteca se estudian mediante una copia personal — pulsa el botón **+** junto a uno para copiarlo a Mis mazos.
 

@@ -27,10 +27,6 @@ Vos études, additionnées — l'effort seulement, jamais le jugement :
 - Une **heatmap** des 12 derniers mois : un carré par jour, plus foncé signifie plus d'étude, avec votre total de jours d'étude, votre plus longue série et votre série en cours.
 - Le **journal d'étude** : vos sessions et vos révisions, jour par jour, avec un journal complet disponible.
 
-## Vocabulaire
-
-Les mots et les phrases collectés pendant vos études — consultables, filtrables et à une action de devenir un paquet. Voir [Vocabulaire](vocabulary.md).
-
 ## Évaluer
 
 Après avoir étudié avec un camarade, vous pouvez échanger des évaluations rapides — une impression globale (Excellent, Bien ou En progrès) plus un commentaire facultatif. C'est une courtoisie entre apprenants, jamais un classement.
@@ -39,6 +35,10 @@ Après avoir étudié avec un camarade, vous pouvez échanger des évaluations r
 - **Saisir un code** depuis l'écran d'un camarade pour l'évaluer : choisissez une impression, ajoutez une phrase si vous voulez, et envoyez.
 
 Les évaluations données et reçues sont listées sur l'onglet, et les évaluations orales comptent comme preuves sur votre onglet Progression.
+
+## Vocabulaire
+
+Les mots et les phrases collectés pendant vos études — consultables, filtrables et à une action de devenir un paquet. Voir [Vocabulaire](vocabulary.md).
 
 ## Professeurs
 

@@ -32,7 +32,7 @@ Pode rever todos os cartões em quatro modos — **Ler**, **Escrever**, **Escuta
 
 Abrir **Baralhos** na navegação mostra:
 
-- **Biblioteca** — baralhos prontos do Immersive, como as palavras mais comuns na sua língua, que copia para Meus Baralhos para estudar.
+- **Biblioteca** — baralhos prontos do Immersive, como um baralho de Essenciais com os verbos fundamentais e as palavras mais comuns na sua língua, que copia para Meus Baralhos para estudar.
 - **Meus Baralhos** — os seus baralhos, com pastas, e as colunas Novas, A aprender e Pendentes a mostrar quantos cartões estão em cada estado.
 - **Histórico de revisões** — um registo das suas sessões passadas, através do ícone do relógio.
 

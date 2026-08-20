@@ -22,7 +22,7 @@ These numbers tell you at a glance where your review time is needed.
 
 ## The Library
 
-Above your decks sits the **Library**: prebuilt decks from Immersive, including most-common-words decks for your target language, split by frequency (the first 500 words, then 501–1,000, then 1,001–5,000) so you never study the same word twice.
+Above your decks sits the **Library**: prebuilt decks from Immersive. For each language it offers an **Essentials** deck — the core verbs in the present tense — and most-common-words decks split by frequency (the first 500 words, then 501–1,000, then 1,001–5,000) so you never study the same word twice.
 
 Library decks are studied via a personal copy — press the **+** button next to one to copy it to My Decks.
 

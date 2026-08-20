@@ -32,7 +32,7 @@ Pots repassar cada targeta en quatre modes — **Llegir**, **Escriure**, **Escol
 
 Obrir **Baralles** des de la navegació mostra:
 
-- **Biblioteca** — baralles ja fetes d'Immersive, com ara les paraules més freqüents de la teva llengua, que copies a Les meves baralles per estudiar-les.
+- **Biblioteca** — baralles ja fetes d'Immersive, com ara una baralla d'Essencials amb els verbs bàsics i les paraules més freqüents de la teva llengua, que copies a Les meves baralles per estudiar-les.
 - **Les meves baralles** — les teves baralles, amb carpetes, i columnes que mostren quantes targetes hi ha Noves, en Aprenentatge i Pendents a cadascuna.
 - **Historial de repassos** — un registre de les teves sessions passades, mitjançant la icona del rellotge.
 

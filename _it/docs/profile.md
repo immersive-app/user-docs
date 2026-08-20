@@ -27,10 +27,6 @@ Il tuo studio, sommato — solo impegno, mai giudizio:
 - Una **heatmap** degli ultimi 12 mesi: un quadratino per giorno, più scuro significa più studio, con il totale dei giorni di studio, la serie più lunga e quella attuale.
 - Il **diario di studio**: le tue sessioni e i tuoi ripassi, giorno per giorno, con un registro completo disponibile.
 
-## Vocabolario
-
-Le parole e le frasi che hai raccolto mentre studiavi — ricercabili, filtrabili e a un'azione di distanza dal diventare un mazzo. Vedi [Vocabolario](vocabulary.md).
-
 ## Valutare
 
 Dopo aver studiato con un compagno, potete scambiarvi valutazioni rapide — un'impressione complessiva (Eccellente, Bene o Sulla buona strada) più un commento facoltativo. È una cortesia tra studenti, mai una classifica.
@@ -39,6 +35,10 @@ Dopo aver studiato con un compagno, potete scambiarvi valutazioni rapide — un'
 - **Inserisci un codice** dallo schermo di un compagno per valutarlo: scegli un'impressione, aggiungi una frase se vuoi e invia.
 
 Le valutazioni che dai e ricevi sono elencate nella scheda, e le valutazioni del parlato contano come prove nella tua scheda Progressi.
+
+## Vocabolario
+
+Le parole e le frasi che hai raccolto mentre studiavi — ricercabili, filtrabili e a un'azione di distanza dal diventare un mazzo. Vedi [Vocabolario](vocabulary.md).
 
 ## Insegnanti
 

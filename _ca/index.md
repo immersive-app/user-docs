@@ -47,11 +47,11 @@ Les teves tries d'idioma importen: Immersive fa servir les llengües que coneixe
 
 ## La teva primera sessió
 
-Quan inicies sessió, arribes a la biblioteca de verbs, i la navegació et dona tota l'aplicació: **Baralles**, **Documents**, **Verbs** i **Perfil**. En un mòbil, aquestes seccions viuen en una barra de pestanyes a la part inferior de la pantalla. Vegeu [Tauler de control](docs/dashboard.md) per a una visita guiada.
+Quan inicies sessió, arribes a la biblioteca de verbs, i la navegació et dona tota l'aplicació: **Baralles**, **Documents**, **Gramàtica**, **Verbs** i **Perfil**. En un mòbil, aquestes seccions viuen en una barra de pestanyes a la part inferior de la pantalla. Vegeu [Tauler de control](docs/dashboard.md) per a una visita guiada.
 
 Uns bons primers quinze minuts:
 
-1. **Obre la teva primera baralla.** La pàgina de Baralles inclou una Biblioteca de baralles ja fetes — les paraules més freqüents de la teva llengua d'aprenentatge. Copia'n una a Les meves baralles i comença un repàs. Vegeu [Repassar targetes](docs/decks/reviewing-cards.md).
+1. **Obre la teva primera baralla.** La pàgina de Baralles inclou una Biblioteca de baralles ja fetes — una baralla d'**Essencials** amb els verbs bàsics en present, a més de les paraules més freqüents de la teva llengua d'aprenentatge. Copia'n una a Les meves baralles i comença un repàs. Vegeu [Repassar targetes](docs/decks/reviewing-cards.md).
 2. **Llegeix alguna cosa del teu nivell.** Obre Documents i tria un text de la Biblioteca, o importa'n un de teu. Toca qualsevol paraula o frase per veure'n la traducció; toca-la de nou per escoltar-la. Vegeu [Llegir documents](docs/documents/reading-documents.md).
 3. **Consulta el teu Perfil.** La pestanya Progrés mostra el teu nivell de partida i et suggereix els primers passos.
 

@@ -47,11 +47,11 @@ Le tue scelte linguistiche contano: Immersive usa le lingue che conosci per cali
 
 ## La tua prima sessione
 
-Quando accedi, arrivi sulla biblioteca dei verbi, e la navigazione ti mette a disposizione l'intera app: **Mazzi**, **Documenti**, **Verbi** e **Profilo**. Su un telefono queste voci stanno in una barra di schede in fondo allo schermo. Vedi [Dashboard](docs/dashboard.md) per un tour.
+Quando accedi, arrivi sulla biblioteca dei verbi, e la navigazione ti mette a disposizione l'intera app: **Mazzi**, **Documenti**, **Grammatica**, **Verbi** e **Profilo**. Su un telefono queste voci stanno in una barra di schede in fondo allo schermo. Vedi [Dashboard](docs/dashboard.md) per un tour.
 
 Un buon primo quarto d'ora:
 
-1. **Apri il tuo primo mazzo.** La pagina Mazzi include una Biblioteca di mazzi pronti — le parole più comuni nella tua lingua obiettivo. Copiane uno in I miei mazzi e inizia un ripasso. Vedi [Ripassare le carte](docs/decks/reviewing-cards.md).
+1. **Apri il tuo primo mazzo.** La pagina Mazzi include una Biblioteca di mazzi pronti — un mazzo di **Essenziali** con i verbi di base al presente, oltre alle parole più comuni nella tua lingua obiettivo. Copiane uno in I miei mazzi e inizia un ripasso. Vedi [Ripassare le carte](docs/decks/reviewing-cards.md).
 2. **Leggi qualcosa al tuo livello.** Apri Documenti e scegli un testo dalla Biblioteca, o importa qualcosa di tuo. Tocca una parola o una frase per vederne la traduzione; tocca di nuovo per ascoltarla. Vedi [Leggere documenti](docs/documents/reading-documents.md).
 3. **Controlla il tuo Profilo.** La scheda Progressi mostra il tuo livello di partenza e suggerisce i primi passi.
 

@@ -26,10 +26,6 @@ Your study, added up — effort only, never judgment:
 - A **heatmap** of the last 12 months: one square per day, darker meaning more study, with your total study days, longest run, and current run.
 - The **study log**: your sessions and reviews, day by day, with a full log available.
 
-## Vocabulary
-
-The words and sentences you have collected while studying — searchable, filterable, and one action away from becoming a deck. See [Vocabulary](vocabulary.md).
-
 ## Evaluate
 
 After studying with a classmate, you can trade quick evaluations — one overall impression (Excellent, Good, or Getting there) plus an optional comment. It is a courtesy between learners, never a ranking.
@@ -38,6 +34,10 @@ After studying with a classmate, you can trade quick evaluations — one overall
 - **Enter a code** from a classmate's screen to evaluate them: pick an impression, add a sentence if you like, and send.
 
 Evaluations you give and receive are listed on the tab, and spoken evaluations count as evidence on your Progress tab.
+
+## Vocabulary
+
+The words and sentences you have collected while studying — searchable, filterable, and one action away from becoming a deck. See [Vocabulary](vocabulary.md).
 
 ## Teachers
 

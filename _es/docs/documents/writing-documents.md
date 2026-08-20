@@ -21,7 +21,7 @@ Escribir es donde un idioma se hace tuyo. El editor te da una página limpia en 
 
 ## Preguntar al Coach
 
-El **Coach** es un asistente al que puedes recurrir mientras lees o escribes. Pídele ayuda con tu texto — explicaciones, ideas, formas de decirlo — y te responde en tu propio idioma, con tu documento delante.
+El **Coach** es un asistente al que puedes recurrir mientras escribes. Pídele ayuda con tu texto — explicaciones, ideas, formas de decirlo — y te responde en tu propio idioma, con tu documento delante.
 
 ## Recibir correcciones
 
