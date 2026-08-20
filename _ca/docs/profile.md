@@ -27,10 +27,6 @@ El teu estudi, sumat — només esforç, mai judici:
 - Un **mapa de calor** dels últims 12 mesos: un quadrat per dia, més fosc com més estudi, amb el teu total de dies d'estudi, la ratxa més llarga i la ratxa actual.
 - El **registre d'estudi**: les teves sessions i repassos, dia a dia, amb un registre complet disponible.
 
-## Vocabulari
-
-Les paraules i frases que has recollit mentre estudiaves — amb cerca, filtres i a una sola acció de convertir-se en una baralla. Vegeu [Vocabulari](vocabulary.md).
-
 ## Avaluar
 
 Després d'estudiar amb un company, podeu intercanviar avaluacions ràpides — una impressió general (Excel·lent, Bé o En camí) més un comentari opcional. És una cortesia entre estudiants, mai una classificació.
@@ -39,6 +35,10 @@ Després d'estudiar amb un company, podeu intercanviar avaluacions ràpides — 
 - **Introduir un codi** de la pantalla d'un company per avaluar-lo: tria una impressió, afegeix-hi una frase si vols, i envia-la.
 
 Les avaluacions que dones i reps apareixen llistades a la pestanya, i les avaluacions de parla compten com a proves a la teva pestanya de Progrés.
+
+## Vocabulari
+
+Les paraules i frases que has recollit mentre estudiaves — amb cerca, filtres i a una sola acció de convertir-se en una baralla. Vegeu [Vocabulari](vocabulary.md).
 
 ## Professors
 

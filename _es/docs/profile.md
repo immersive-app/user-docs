@@ -27,10 +27,6 @@ Tu estudio, sumado — solo esfuerzo, nunca juicio:
 - Un **mapa de calor** de los últimos 12 meses: un cuadrado por día, más oscuro cuanto más estudio, con tu total de días de estudio, tu racha más larga y tu racha actual.
 - El **registro de estudio**: tus sesiones y repasos, día a día, con un registro completo disponible.
 
-## Vocabulario
-
-Las palabras y frases que has recogido mientras estudias — con búsqueda, filtros y a una sola acción de convertirse en un mazo. Ver [Vocabulario](vocabulary.md).
-
 ## Evaluar
 
 Después de estudiar con un compañero, podéis intercambiar evaluaciones rápidas — una impresión general (Excelente, Bien o En camino) más un comentario opcional. Es una cortesía entre estudiantes, nunca una clasificación.
@@ -39,6 +35,10 @@ Después de estudiar con un compañero, podéis intercambiar evaluaciones rápid
 - **Introducir un código** de la pantalla de un compañero para evaluarlo: elige una impresión, añade una frase si quieres y envíala.
 
 Las evaluaciones que das y recibes se listan en la pestaña, y las evaluaciones de habla cuentan como evidencia en tu pestaña de Progreso.
+
+## Vocabulario
+
+Las palabras y frases que has recogido mientras estudias — con búsqueda, filtros y a una sola acción de convertirse en un mazo. Ver [Vocabulario](vocabulary.md).
 
 ## Profesores
 

@@ -12,7 +12,7 @@ Una vez que has iniciado sesión, todo en Immersive está a uno o dos toques de 
 
 ## Dónde aterrizas
 
-Al iniciar sesión llegas a la **biblioteca de verbos** — la página de inicio de Immersive. Desde ahí, la barra de navegación es tu panel de control: muestra las cuatro áreas principales de la aplicación y te acompaña en todas las pantallas.
+Al iniciar sesión llegas a la **biblioteca de verbos** — la página de inicio de Immersive. Desde ahí, la barra de navegación es tu panel de control: muestra las cinco áreas principales de la aplicación y te acompaña en todas las pantallas.
 
 ## La barra de navegación
 
@@ -20,8 +20,9 @@ En un ordenador o una tableta, las pestañas se muestran en la parte superior de
 
 - **Mazos** — tus mazos de repaso, la Biblioteca de mazos y tu historial de repasos. Ver [Mazos y repasos](decks.md).
 - **Documentos** — los textos que estás leyendo o escribiendo, más la Biblioteca de documentos seleccionados. Ver [Documentos](documents.md).
+- **Gramática** — notas de referencia por nivel MCER, con ejercicios. Ver [Gramática](grammar.md).
 - **Verbos** — tablas de conjugación, audio y frases de ejemplo. Ver [Verbos](verbs.md).
-- **Perfil** — tu progreso, actividad, vocabulario, evaluaciones, profesores y cuenta. Ver [Perfil y progreso](profile.md).
+- **Perfil** — tu progreso, actividad, evaluaciones, vocabulario, profesores y cuenta. Ver [Perfil y progreso](profile.md).
 
 La pestaña de la sección en la que estás aparece resaltada, así que siempre sabes dónde te encuentras.
 

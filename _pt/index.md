@@ -47,11 +47,11 @@ As suas escolhas de línguas contam: o Immersive usa as línguas que conhece par
 
 ## A sua primeira sessão
 
-Quando inicia sessão, chega à biblioteca de verbos, e a navegação dá-lhe acesso a toda a aplicação: **Baralhos**, **Documentos**, **Verbos** e **Perfil**. Num telemóvel, estas áreas vivem numa barra de separadores na parte de baixo do ecrã. Ver [Painel](docs/dashboard.md) para uma visita guiada.
+Quando inicia sessão, chega à biblioteca de verbos, e a navegação dá-lhe acesso a toda a aplicação: **Baralhos**, **Documentos**, **Gramática**, **Verbos** e **Perfil**. Num telemóvel, estas áreas vivem numa barra de separadores na parte de baixo do ecrã. Ver [Painel](docs/dashboard.md) para uma visita guiada.
 
 Uns bons primeiros quinze minutos:
 
-1. **Abra o seu primeiro baralho.** A página Baralhos inclui uma Biblioteca de baralhos prontos — as palavras mais comuns na língua que está a aprender. Copie um para Meus Baralhos e comece uma revisão. Ver [Rever cartões](docs/decks/reviewing-cards.md).
+1. **Abra o seu primeiro baralho.** A página Baralhos inclui uma Biblioteca de baralhos prontos — um baralho de **Essenciais** com os verbos fundamentais no presente, além das palavras mais comuns na língua que está a aprender. Copie um para Meus Baralhos e comece uma revisão. Ver [Rever cartões](docs/decks/reviewing-cards.md).
 2. **Leia algo do seu nível.** Abra Documentos e escolha um texto da Biblioteca, ou importe algo seu. Toque em qualquer palavra ou frase para ver a tradução; toque de novo para a ouvir. Ver [Ler documentos](docs/documents/reading-documents.md).
 3. **Consulte o seu Perfil.** O separador Progresso mostra o seu nível de partida e sugere primeiros passos.
 

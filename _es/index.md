@@ -47,11 +47,11 @@ Tus elecciones de idiomas importan: Immersive usa los idiomas que conoces para a
 
 ## Tu primera sesión
 
-Al iniciar sesión, llegas a la biblioteca de verbos, y la navegación te da acceso a toda la aplicación: **Mazos**, **Documentos**, **Verbos** y **Perfil**. En un teléfono, estas secciones viven en una barra de pestañas en la parte inferior de la pantalla. Ver [Panel de control](docs/dashboard.md) para un recorrido.
+Al iniciar sesión, llegas a la biblioteca de verbos, y la navegación te da acceso a toda la aplicación: **Mazos**, **Documentos**, **Gramática**, **Verbos** y **Perfil**. En un teléfono, estas secciones viven en una barra de pestañas en la parte inferior de la pantalla. Ver [Panel de control](docs/dashboard.md) para un recorrido.
 
 Un buen primer cuarto de hora:
 
-1. **Abre tu primer mazo.** La página de Mazos incluye una Biblioteca de mazos listos para usar — las palabras más frecuentes de tu idioma de estudio. Copia uno a Mis mazos y empieza un repaso. Ver [Repasar tarjetas](docs/decks/reviewing-cards.md).
+1. **Abre tu primer mazo.** La página de Mazos incluye una Biblioteca de mazos listos para usar — un mazo de **Esenciales** con los verbos básicos en presente, además de las palabras más frecuentes de tu idioma de estudio. Copia uno a Mis mazos y empieza un repaso. Ver [Repasar tarjetas](docs/decks/reviewing-cards.md).
 2. **Lee algo de tu nivel.** Abre Documentos y elige un texto de la Biblioteca, o importa algo tuyo. Toca cualquier palabra o frase para ver su traducción; tócala de nuevo para escucharla. Ver [Leer documentos](docs/documents/reading-documents.md).
 3. **Consulta tu Perfil.** La pestaña Progreso muestra tu nivel de partida y sugiere primeros pasos.
 

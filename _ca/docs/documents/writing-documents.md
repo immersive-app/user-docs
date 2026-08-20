@@ -21,7 +21,7 @@ Encallat sense idees? Tria **Tema** — Immersive et suggereix alguna cosa sobre
 
 ## Preguntar al Coach
 
-El **Coach** és un assistent a qui pots recórrer mentre llegeixes o escrius. Demana-li ajuda amb el teu text — explicacions, idees, maneres de dir-ho — i et respon en la teva pròpia llengua, amb el teu document al davant.
+El **Coach** és un assistent a qui pots recórrer mentre escrius. Demana-li ajuda amb el teu text — explicacions, idees, maneres de dir-ho — i et respon en la teva pròpia llengua, amb el teu document al davant.
 
 ## Obtenir correccions
 

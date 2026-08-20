@@ -12,7 +12,7 @@ Una volta effettuato l'accesso, tutto in Immersive è a uno o due tocchi di dist
 
 ## Dove arrivi
 
-Accedendo arrivi alla **biblioteca dei verbi** — la home page di Immersive. Da lì, la barra di navigazione è la tua dashboard: mostra le quattro aree principali dell'app e ti accompagna su ogni schermata.
+Accedendo arrivi alla **biblioteca dei verbi** — la home page di Immersive. Da lì, la barra di navigazione è la tua dashboard: mostra le cinque aree principali dell'app e ti accompagna su ogni schermata.
 
 ## La barra di navigazione
 
@@ -20,8 +20,9 @@ Su desktop o tablet le schede corrono lungo la parte alta della pagina; su un te
 
 - **Mazzi** — i tuoi mazzi di ripasso, la Biblioteca dei mazzi e la tua cronologia dei ripassi. Vedi [Mazzi e ripassi](decks.md).
 - **Documenti** — i testi che stai leggendo o scrivendo, più la Biblioteca di documenti selezionati. Vedi [Documenti](documents.md).
+- **Grammatica** — note di riferimento per livello QCER, con esercizi. Vedi [Grammatica](grammar.md).
 - **Verbi** — tabelle di coniugazione, audio e frasi di esempio. Vedi [Verbi](verbs.md).
-- **Profilo** — i tuoi progressi, l'attività, il vocabolario, le valutazioni, gli insegnanti e l'account. Vedi [Profilo e progressi](profile.md).
+- **Profilo** — i tuoi progressi, l'attività, le valutazioni, il vocabolario, gli insegnanti e l'account. Vedi [Profilo e progressi](profile.md).
 
 La scheda della sezione in cui ti trovi è evidenziata, così sai sempre dove sei.
 

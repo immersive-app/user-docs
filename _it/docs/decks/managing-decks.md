@@ -23,7 +23,7 @@ Questi numeri ti dicono a colpo d'occhio dove serve il tuo tempo di ripasso.
 
 ## La Biblioteca
 
-Sopra i tuoi mazzi sta la **Biblioteca**: mazzi precostruiti da Immersive, incluse le parole più comuni della tua lingua obiettivo, suddivise per frequenza (le prime 500 parole, poi 501–1.000, poi 1.001–5.000), così non studi mai due volte la stessa parola.
+Sopra i tuoi mazzi sta la **Biblioteca**: mazzi precostruiti da Immersive. Per ogni lingua offre un mazzo di **Essenziali** — i verbi di base al presente — e mazzi delle parole più comuni, suddivisi per frequenza (le prime 500 parole, poi 501–1.000, poi 1.001–5.000), così non studi mai due volte la stessa parola.
 
 I mazzi della Biblioteca si studiano tramite una copia personale — premi il pulsante **+** accanto a uno per copiarlo in I miei mazzi.
 

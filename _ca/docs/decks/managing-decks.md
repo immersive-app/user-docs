@@ -23,7 +23,7 @@ Aquests números et diuen d'un cop d'ull on cal el teu temps de repàs.
 
 ## La Biblioteca
 
-Per sobre de les teves baralles hi ha la **Biblioteca**: baralles preconstruïdes d'Immersive, incloent-hi baralles de paraules més freqüents per a la teva llengua d'aprenentatge, dividides per freqüència (les primeres 500 paraules, després la 501–1.000, després la 1.001–5.000) perquè no estudiïs mai la mateixa paraula dues vegades.
+Per sobre de les teves baralles hi ha la **Biblioteca**: baralles preconstruïdes d'Immersive. Per a cada llengua ofereix una baralla d'**Essencials** — els verbs bàsics en present — i baralles de les paraules més freqüents, dividides per freqüència (les primeres 500 paraules, després la 501–1.000, després la 1.001–5.000) perquè no estudiïs mai la mateixa paraula dues vegades.
 
 Les baralles de la Biblioteca s'estudien mitjançant una còpia personal — prem el botó **+** al costat d'una per copiar-la a Les meves baralles.
 

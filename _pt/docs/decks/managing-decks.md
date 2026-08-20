@@ -23,7 +23,7 @@ Estes números dizem-lhe de relance onde o seu tempo de revisão é preciso.
 
 ## A Biblioteca
 
-Acima dos seus baralhos fica a **Biblioteca**: baralhos pré-construídos do Immersive, incluindo baralhos das palavras mais frequentes na língua que está a aprender, divididos por frequência (as primeiras 500 palavras, depois 501–1.000, depois 1.001–5.000), para que nunca estude a mesma palavra duas vezes.
+Acima dos seus baralhos fica a **Biblioteca**: baralhos pré-construídos do Immersive. Para cada língua oferece um baralho de **Essenciais** — os verbos fundamentais no presente — e baralhos das palavras mais frequentes, divididos por frequência (as primeiras 500 palavras, depois 501–1.000, depois 1.001–5.000), para que nunca estude a mesma palavra duas vezes.
 
 Os baralhos da Biblioteca estudam-se através de uma cópia pessoal — prima o botão **+** ao lado de um para o copiar para Meus Baralhos.
 

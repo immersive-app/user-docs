@@ -45,11 +45,11 @@ Your language choices matter: Immersive uses the languages you know to tailor co
 
 ## Your first session
 
-When you sign in, you land on the verb library, and the navigation gives you the whole app: **Decks**, **Documents**, **Verbs**, and **Profile**. On a phone these live in a tab bar at the bottom of the screen. See [Dashboard](docs/dashboard.md) for a tour.
+When you sign in, you land on the verb library, and the navigation gives you the whole app: **Decks**, **Documents**, **Grammar**, **Verbs**, and **Profile**. On a phone these live in a tab bar at the bottom of the screen. See [Dashboard](docs/dashboard.md) for a tour.
 
 A good first fifteen minutes:
 
-1. **Open your first deck.** The Decks page includes a Library of ready-made decks — the most common words in your target language. Copy one to My Decks and start a review. See [Reviewing cards](docs/decks/reviewing-cards.md).
+1. **Open your first deck.** The Decks page includes a Library of ready-made decks — an **Essentials** deck of core verbs in the present tense, plus the most common words in your target language. Copy one to My Decks and start a review. See [Reviewing cards](docs/decks/reviewing-cards.md).
 2. **Read something at your level.** Open Documents and pick a text from the Library, or import something of your own. Tap any word or sentence to see its translation; tap again to hear it. See [Reading documents](docs/documents/reading-documents.md).
 3. **Check your Profile.** The Progress tab shows your starting level and suggests first steps.
 

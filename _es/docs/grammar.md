@@ -9,7 +9,7 @@ lang: es
 
 Las notas gramaticales son los artículos de referencia de Immersive: cada una explica un único concepto gramatical de tu idioma de estudio, con ejemplos, y muchas incluyen ejercicios que puedes comprobar en el acto. Están organizadas por nivel MCER, para que puedas quedarte en tu nivel en lugar de vadear un libro de gramática entero.
 
-Las notas gramaticales están disponibles para quienes han iniciado sesión en `/grammar`.
+La gramática es una de las cinco áreas principales de la aplicación: una vez iniciada la sesión, abre **Gramática** desde la barra de navegación.
 
 ---
 
@@ -32,7 +32,7 @@ Usa el icono de **marcador** en cualquier nota para guardarla, y luego filtra el
 
 ## Por dónde empezar
 
-1. Abre la sección de Gramática.
+1. Abre **Gramática** desde la navegación.
 2. Filtra o busca el concepto que necesitas — o recorre las categorías de tu nivel para ver qué hay.
 3. Lee la nota, prueba sus ejercicios y márcala si vas a quererla de nuevo.
 

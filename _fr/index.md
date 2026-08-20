@@ -47,11 +47,11 @@ Vos choix de langues comptent : Immersive utilise les langues que vous connaisse
 
 ## Votre première session
 
-Quand vous vous connectez, vous arrivez sur la bibliothèque de verbes, et la navigation vous donne accès à toute l'application : **Paquets**, **Documents**, **Verbes** et **Profil**. Sur un téléphone, ces onglets se trouvent dans une barre en bas de l'écran. Voir [Tableau de bord](docs/dashboard.md) pour une visite guidée.
+Quand vous vous connectez, vous arrivez sur la bibliothèque de verbes, et la navigation vous donne accès à toute l'application : **Paquets**, **Documents**, **Grammaire**, **Verbes** et **Profil**. Sur un téléphone, ces onglets se trouvent dans une barre en bas de l'écran. Voir [Tableau de bord](docs/dashboard.md) pour une visite guidée.
 
 Un bon premier quart d'heure :
 
-1. **Ouvrez votre premier paquet.** La page Paquets comprend une Bibliothèque de paquets prêts à l'emploi — les mots les plus courants de votre langue cible. Copiez-en un dans Mes paquets et commencez une révision. Voir [Réviser les cartes](docs/decks/reviewing-cards.md).
+1. **Ouvrez votre premier paquet.** La page Paquets comprend une Bibliothèque de paquets prêts à l'emploi — un paquet **Essentiels** de verbes de base au présent, plus les mots les plus courants de votre langue cible. Copiez-en un dans Mes paquets et commencez une révision. Voir [Réviser les cartes](docs/decks/reviewing-cards.md).
 2. **Lisez quelque chose à votre niveau.** Ouvrez Documents et choisissez un texte de la Bibliothèque, ou importez le vôtre. Touchez un mot ou une phrase pour voir sa traduction ; touchez à nouveau pour l'écouter. Voir [Lire des documents](docs/documents/reading-documents.md).
 3. **Consultez votre Profil.** L'onglet Progression montre votre niveau de départ et vous suggère des premiers pas.
 

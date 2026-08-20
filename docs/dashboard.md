@@ -11,7 +11,7 @@ Once you are signed in, everything in Immersive is one or two taps away. This pa
 
 ## Where you land
 
-Signing in takes you to the **verb library** — Immersive's home page. From there, the navigation bar is your dashboard: it shows the four main areas of the app and stays with you on every screen.
+Signing in takes you to the **verb library** — Immersive's home page. From there, the navigation bar is your dashboard: it shows the five main areas of the app and stays with you on every screen.
 
 ## The navigation bar
 
@@ -19,8 +19,9 @@ On a desktop or tablet, the tabs run along the top of the page; on a phone, they
 
 - **Decks** — your review decks, the deck Library, and your review history. See [Decks & Reviews](decks.md).
 - **Documents** — texts you are reading or writing, plus the curated document Library. See [Documents](documents.md).
+- **Grammar** — reference notes by CEFR level, with exercises. See [Grammar](grammar.md).
 - **Verbs** — conjugation tables, audio, and example sentences. See [Verbs](verbs.md).
-- **Profile** — your progress, activity, vocabulary, evaluations, teachers, and account. See [Profile & Progress](profile.md).
+- **Profile** — your progress, activity, evaluations, vocabulary, teachers, and account. See [Profile & Progress](profile.md).
 
 The tab for the section you are in is highlighted, so you always know where you are.
 

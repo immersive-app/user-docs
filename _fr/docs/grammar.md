@@ -9,7 +9,7 @@ lang: fr
 
 Les notes de grammaire sont les articles de référence d'Immersive : chacune explique un concept de grammaire de votre langue cible, avec des exemples, et beaucoup incluent des exercices à vérifier sur place. Elles sont organisées par niveau CECR, pour que vous puissiez rester à votre niveau au lieu de traverser tout un manuel de grammaire.
 
-Les notes de grammaire sont disponibles pour les apprenants connectés à l'adresse `/grammar`.
+La grammaire est l'une des cinq grandes sections de l'application : une fois connecté, ouvrez **Grammaire** depuis la barre de navigation.
 
 ---
 
@@ -32,7 +32,7 @@ Utilisez l'icône de **signet** sur une note pour l'enregistrer, puis filtrez l'
 
 ## Par où commencer
 
-1. Ouvrez la section Grammaire.
+1. Ouvrez **Grammaire** depuis la navigation.
 2. Filtrez ou cherchez le concept dont vous avez besoin — ou parcourez les catégories de votre niveau pour voir ce qui s'y trouve.
 3. Lisez la note, essayez ses exercices et mettez-la en favori si vous en aurez encore besoin.
 

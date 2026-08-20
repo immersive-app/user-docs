@@ -9,7 +9,7 @@ lang: it
 
 Le note grammaticali sono gli articoli di consultazione di Immersive: ognuna spiega un singolo concetto grammaticale della tua lingua obiettivo, con esempi, e molte includono esercizi che puoi verificare sul momento. Sono organizzate per livello CEFR, così puoi restare al tuo livello invece di sfogliare un'intera grammatica.
 
-Le note grammaticali sono disponibili per chi ha effettuato l'accesso all'indirizzo `/grammar`.
+La grammatica è una delle cinque aree principali dell'app: una volta effettuato l'accesso, apri **Grammatica** dalla barra di navigazione.
 
 ---
 
@@ -32,7 +32,7 @@ Usa l'icona del **segnalibro** su qualsiasi nota per salvarla, poi filtra l'indi
 
 ## Da dove cominciare
 
-1. Apri la sezione Grammatica.
+1. Apri **Grammatica** dalla navigazione.
 2. Filtra o cerca il concetto che ti serve — oppure sfoglia le categorie del tuo livello per vedere cosa c'è.
 3. Leggi la nota, prova i suoi esercizi e salvala nei preferiti se ti servirà di nuovo.
 

@@ -27,10 +27,6 @@ O seu estudo, somado — apenas esforço, nunca julgamento:
 - Um **mapa de calor** dos últimos 12 meses: um quadrado por dia, mais escuro significa mais estudo, com o seu total de dias de estudo, a maior sequência e a sequência atual.
 - O **registo de estudo**: as suas sessões e revisões, dia a dia, com um registo completo disponível.
 
-## Vocabulário
-
-As palavras e frases que recolheu enquanto estudava — pesquisáveis, filtráveis e a uma ação de se tornarem um baralho. Ver [Vocabulário](vocabulary.md).
-
 ## Avaliar
 
 Depois de estudar com um colega, podem trocar avaliações rápidas — uma impressão geral (Excelente, Bem ou A caminho) mais um comentário opcional. É uma cortesia entre estudantes, nunca uma classificação.
@@ -39,6 +35,10 @@ Depois de estudar com um colega, podem trocar avaliações rápidas — uma impr
 - **Inserir um código** do ecrã de um colega serve para o avaliar: escolha uma impressão, acrescente uma frase se quiser e envie.
 
 As avaliações que dá e recebe ficam listadas no separador, e as avaliações de fala contam como evidência no seu separador Progresso.
+
+## Vocabulário
+
+As palavras e frases que recolheu enquanto estudava — pesquisáveis, filtráveis e a uma ação de se tornarem um baralho. Ver [Vocabulário](vocabulary.md).
 
 ## Professores
 

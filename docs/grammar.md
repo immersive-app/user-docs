@@ -8,7 +8,7 @@ has_children: true
 
 Grammar notes are Immersive's reference articles: each one explains a single grammar concept in your target language, with examples, and many include exercises you can check on the spot. They are organised by CEFR level, so you can stay at your level instead of wading through a whole grammar book.
 
-Grammar notes are available to signed-in learners at `/grammar`.
+Grammar is one of the five main areas of the app: once you are signed in, open **Grammar** from the navigation bar.
 
 ---
 
@@ -31,7 +31,7 @@ Use the **bookmark** icon on any note to save it, then filter the grammar index 
 
 ## Where to start
 
-1. Open the Grammar section.
+1. Open **Grammar** from the navigation.
 2. Filter or search for the concept you need — or browse your level's categories to see what is there.
 3. Read the note, try its exercises, and bookmark it if you will want it again.
 

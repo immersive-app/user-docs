@@ -31,7 +31,7 @@ You can review every card in four modes — **Read**, **Write**, **Listen**, and
 
 Opening **Decks** from the navigation shows:
 
-- **Library** — ready-made decks from Immersive, such as the most common words in your language, which you copy to My Decks to study.
+- **Library** — ready-made decks from Immersive, such as an Essentials deck of core verbs and the most common words in your language, which you copy to My Decks to study.
 - **My Decks** — your decks, with folders, and columns showing how many cards are New, in Learning, and Due in each.
 - **Review history** — a log of your past sessions, via the clock icon.
 
