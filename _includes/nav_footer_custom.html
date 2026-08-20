@@ -1,0 +1,47 @@
+{% comment %}
+  Language switcher (immersive#612), rendered at the bottom of the sidebar
+  on every page. The six editions mirror the English page structure, so a
+  page maps to its counterpart by swapping the locale prefix. Clicking a
+  language stores it as the explicit preference, which head_custom.html's
+  browser-language detection then always respects.
+{% endcomment %}
+{% assign locale_codes = "ca|es|fr|it|pt" | split: "|" %}
+{% assign locale_names = "Català|Español|Français|Italiano|Português" | split: "|" %}
+{% assign url_parts = page.url | split: "/" %}
+{% assign current_locale = "en" %}
+{% assign page_suffix = page.url %}
+{% for code in locale_codes %}
+  {% if url_parts[1] == code %}
+    {% assign current_locale = code %}
+    {% assign prefix_size = code.size | plus: 1 %}
+    {% assign page_suffix = page.url | slice: prefix_size, page.url.size %}
+  {% endif %}
+{% endfor %}
+<nav class="guide-languages" aria-label="Language">
+  {% if current_locale == "en" %}
+    <span class="guide-languages__current" aria-current="true">English</span>
+  {% else %}
+    <a data-guide-lang="en" href="{{ page_suffix | relative_url }}">English</a>
+  {% endif %}
+  {% for code in locale_codes %}
+    {% assign name = locale_names[forloop.index0] %}
+    {% if current_locale == code %}
+      <span class="guide-languages__current" aria-current="true">{{ name }}</span>
+    {% else %}
+      {% capture locale_url %}/{{ code }}{{ page_suffix }}{% endcapture %}
+      <a data-guide-lang="{{ code }}" href="{{ locale_url | relative_url }}">{{ name }}</a>
+    {% endif %}
+  {% endfor %}
+</nav>
+<style>
+  .guide-languages { padding: 0.75rem 2rem; font-size: 0.75rem; line-height: 1.8; }
+  .guide-languages a, .guide-languages__current { margin-right: 0.5rem; white-space: nowrap; }
+  .guide-languages__current { font-weight: 700; }
+</style>
+<script>
+  document.querySelectorAll("[data-guide-lang]").forEach(function (link) {
+    link.addEventListener("click", function () {
+      try { localStorage.setItem("guide-lang", link.dataset.guideLang); } catch (e) {}
+    });
+  });
+</script>

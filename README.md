@@ -15,6 +15,17 @@ bundle install
 bundle exec jekyll serve
 ```
 
+## Language switcher and detection (immersive#612)
+
+Every page shows a language switcher (`_includes/nav_footer_custom.html`,
+bottom of the sidebar) linking the six editions; the mapping is a locale-prefix
+swap, which works because editions mirror the English structure and
+`permalink: pretty` gives every edition the same URL shape. A click stores the
+choice in `localStorage` (`guide-lang`). `_includes/head_custom.html` redirects
+a first visit on the English edition to the browser's language when we ship
+that edition - a stored choice always wins, and direct links to a locale
+edition are never overridden.
+
 ## Conventions
 
 - Learner-facing language; every claim must match the shipped app.
