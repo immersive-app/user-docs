@@ -26,6 +26,17 @@ a first visit on the English edition to the browser's language when we ship
 that edition - a stored choice always wins, and direct links to a locale
 edition are never overridden.
 
+## Content currency rule (immersive#612)
+
+The guide documents the shipped app, so it goes stale silently. The rule:
+**whenever a documented feature changes in the immersive repo, the same
+change set includes (or is paired with) a user-docs PR** - the immersive
+repo docs rule extends here. Audits are the backstop, not the mechanism:
+the 2026-08 audit fixed drift in the five-tab nav, Grammar tab, Coach,
+Essentials, and Profile ordering, and every English fix was propagated to
+all five translations in the same PR. Treat any EN change without the five
+locale edits as incomplete.
+
 ## Locale-scoped sidebar (immersive#612)
 
 Each page's sidebar lists only its own edition's documents; other languages are
