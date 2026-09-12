@@ -26,6 +26,10 @@ Uma observação gramatical explica um conceito — o título aparece na língua
 
 Quando uma observação tem tradução, abre na sua língua, por clareza. Use o **interruptor de língua** no fim da observação para mudar para a versão na língua de aprendizagem. Ler a explicação na língua que está a aprender é um desafio que vale a pena quando o conceito em si já não é novo.
 
+### Nas suas línguas
+
+Com as comparações ativadas (**Perfil → Conta → Idiomas**), uma observação que existe numa língua que conhece mostra uma caixa **Nas suas línguas**: o mesmo ponto na língua que está a aprender e na sua, a um toque de distância. Quando a observação pertence a uma comparação da [gramática da leitura](grammar-of-reading.md), a caixa termina com uma linha que a abre.
+
 ## Trabalhar os exercícios
 
 Muitas observações terminam com uma secção de **Exercícios**: frases numeradas para completar, que usam o conceito que acabou de ler.
@@ -38,6 +42,10 @@ Para responder a um exercício:
 
 Alguns exercícios incluem uma tradução da frase entre parênteses, para saber sempre o que está a tentar dizer.
 
+## Algo errado aqui?
+
+Cada observação termina com **Algo errado aqui?**. Se uma explicação ou um exemplo estiver errado, abra, diga o que encontrou e envie. Os relatos chegam aos editores com a observação e as línguas do seu perfil.
+
 ## Marcar uma observação como favorita
 
 Prima o **ícone de marcador** no topo de uma observação para a guardar. As observações favoritas podem ser filtradas no índice de gramática, o que transforma os seus favoritos numa estante pessoal de referência dos conceitos em que está a trabalhar.
@@ -47,5 +55,6 @@ Prima o **ícone de marcador** no topo de uma observação para a guardar. As ob
 ## Para saber mais
 
 - [Gramática](../grammar.md)
+- [A gramática da leitura](grammar-of-reading.md)
 - [Escrever documentos](../documents/writing-documents.md) — aplique a gramática na sua própria escrita e receba correções
 - [Rever cartões](../decks/reviewing-cards.md)

@@ -38,6 +38,9 @@ Mentre llegeixes, algunes paraules i frases porten un subratllat subtil — la c
 - **Escolta primer** assenyala paraules el so de les quals és més clar que l'ortografia.
 - **Vist abans** enllaça una paraula amb la seva primera aparició al text.
 - Algunes ajudes de paraula mostren els **equivalents de la paraula en les sis llengües**, una al costat de l'altra, amb les teves llengües ressaltades.
+- Un **subratllat de punts** en una frase vol dir que conté una construcció en què la llengua que aprens difereix de totes les que coneixes. Toca-la per veure la comparació i un enllaç a la [gramàtica de la lectura](../grammar/grammar-of-reading.md); la pàgina de la comparació et torna a la mateixa frase.
+
+Els equivalents en les sis llengües i els subratllats de punts formen part de les comparacions entre llengües, que estan desactivades fins que les actives a **Perfil → Compte → Llengües**.
 
 Fes servir el control **Ajudes** per canviar entre densitat **Completa** i **Lleugera**. Les ajudes s'esvaeixen automàticament a mesura que el teu nivell puja — els principiants en veuen moltes, els lectors avançats poques.
 

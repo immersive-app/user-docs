@@ -26,6 +26,19 @@ Cada observação traz distintivos com o seu nível e a sua categoria.
 - Quando existe tradução, a observação aparece na **sua língua**, com um interruptor para mudar para a versão na **língua que está a aprender** — uma boa forma de se desafiar quando o conceito já é familiar.
 - Algumas observações terminam com **exercícios**: frases para completar, que pode responder e verificar de imediato.
 
+## A gramática da leitura
+
+Se já conhece uma ou mais das seis línguas da Immersive, Gramática também lhe pode mostrar onde a língua que está a aprender **difere das que conhece** — os pontos onde um leitor tropeça, e nada mais. É a *gramática da leitura*: uma referência curta inspirada no método de intercompreensão EuRom5, organizada pela ordem do livro e não por nível.
+
+Está desativada até a ativar. Em **Perfil → Conta**, em **Idiomas**, marque **Usar as línguas que conheço para explicar a que estou a aprender**. A partir daí:
+
+- aparece uma linha **Gramática da leitura** no fim da vista geral de Gramática, com quantas comparações diferem das suas línguas e quantas funcionam como elas;
+- as observações gramaticais que pertencem a uma comparação mostram uma entrada para ela em **Nas suas línguas**;
+- no leitor, uma frase que contém uma dessas construções recebe um **sublinhado tracejado** (ver [Ler documentos](documents/reading-documents.md));
+- um cartão de gramática em revisão aponta para a sua comparação depois de ver a resposta.
+
+Veja [A gramática da leitura](grammar/grammar-of-reading.md) para saber como a percorrer e ler uma comparação.
+
 ## Manter observações à mão
 
 Use o ícone de **marcador** em qualquer observação para a guardar, e depois filtre o índice de gramática para mostrar apenas as observações marcadas como favoritas. Os favoritos são a casa natural dos conceitos que está sempre a ter de consultar.
@@ -43,5 +56,6 @@ Para os pormenores, ver [Ler observações gramaticais](grammar/review-grammar.m
 ## Para saber mais
 
 - [Ler observações gramaticais](grammar/review-grammar.md)
+- [A gramática da leitura](grammar/grammar-of-reading.md)
 - [Verbos](verbs.md)
 - [Documentos](documents.md)

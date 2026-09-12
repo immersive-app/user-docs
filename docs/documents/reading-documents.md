@@ -37,6 +37,9 @@ As you read, some words and sentences carry a subtle underline — the aid layer
 - **Listen first** flags words whose sound is clearer than their spelling.
 - **Seen earlier** links a word back to its first appearance in the text.
 - Some word aids show the word's **equivalents across the six languages**, side by side, with your languages highlighted.
+- A **dotted underline** on a sentence means it contains a construction where the language you are learning differs from every language you know. Tap it for the comparison and a link into the [grammar of reading](../grammar/grammar-of-reading.md); the comparison page brings you back to the same sentence.
+
+The six-language equivalents and the dotted underlines are part of the cross-language comparisons, which are off until you turn them on in **Profile → Account → Languages**.
 
 Use the **Aids** control to switch between **Full** and **Light** density. Aids fade automatically as your level rises — beginners see many, advanced readers few.
 

@@ -55,7 +55,7 @@ Se studi con un insegnante, puoi permettergli di seguire i tuoi progressi — al
 Qui vive tutto ciò che è amministrativo:
 
 - **Profilo** — nome, immagine del profilo, località e genere.
-- **Lingue** — la stessa griglia della registrazione: cosa parli, cosa stai imparando, il tuo livello e la lingua dell'interfaccia. Cambiala quando vuoi.
+- **Lingue** — la stessa griglia della registrazione: cosa parli, cosa stai imparando, il tuo livello e la lingua dell'interfaccia. Cambiala quando vuoi. Sotto la griglia, **Usa le lingue che conosco per spiegare quella che sto imparando** attiva i confronti tra lingue: il riquadro *Nelle tue lingue* nelle note grammaticali, gli equivalenti nelle sei lingue nel lettore e la [grammatica della lettura](grammar/grammar-of-reading.md) con le sue sottolineature punteggiate. È disattivato per impostazione predefinita: la maggior parte impara una lingua alla volta.
 - **Email e password** — per aggiornare l'una o l'altra viene chiesta la password attuale.
 - **I tuoi dati** — **Scarica i tuoi dati personali** ti invia per email tutto ciò che hai aggiunto, come file, entro un giorno.
 - **Rimuovi il mio account** — elimina il tuo account e tutti i suoi dati. Non si può annullare.

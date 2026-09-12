@@ -38,6 +38,9 @@ Mientras lees, algunas palabras y frases llevan un sutil subrayado — la capa d
 - **Escucha primero** señala palabras cuyo sonido es más claro que su ortografía.
 - **Visto antes** enlaza una palabra con su primera aparición en el texto.
 - Algunas ayudas de palabra muestran los **equivalentes de la palabra en los seis idiomas**, lado a lado, con tus idiomas resaltados.
+- Un **subrayado de puntos** en una frase significa que contiene una construcción en la que la lengua que aprendes difiere de todas las que conoces. Tócala para ver la comparación y un enlace a la [gramática de la lectura](../grammar/grammar-of-reading.md); la página de la comparación te devuelve a la misma frase.
+
+Los equivalentes en seis idiomas y los subrayados de puntos forman parte de las comparaciones entre lenguas, que están desactivadas hasta que las actives en **Perfil → Cuenta → Idiomas**.
 
 Usa el control de **Ayudas** para alternar entre densidad **Completa** y **Ligera**. Las ayudas se desvanecen automáticamente a medida que tu nivel sube — los principiantes ven muchas, los lectores avanzados pocas.
 

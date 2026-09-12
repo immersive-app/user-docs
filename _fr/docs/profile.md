@@ -55,7 +55,7 @@ Si vous étudiez avec un professeur, vous pouvez le laisser suivre vos progrès 
 Tout l'administratif se trouve ici :
 
 - **Profil** — nom, photo de profil, localisation et genre.
-- **Langues** — la même grille qu'à l'inscription : ce que vous parlez, ce que vous apprenez, votre niveau et votre langue d'affichage. Modifiable à tout moment.
+- **Langues** — la même grille qu'à l'inscription : ce que vous parlez, ce que vous apprenez, votre niveau et votre langue d'affichage. Modifiable à tout moment. Sous la grille, **Utiliser les langues que je connais pour expliquer celle que j'apprends** active les comparaisons entre langues : l'encadré *Dans vos langues* des notes de grammaire, les équivalents dans les six langues du lecteur, et la [grammaire de la lecture](grammar/grammar-of-reading.md) avec ses soulignements pointillés. Désactivé par défaut : la plupart apprennent une langue à la fois.
 - **E-mail et mot de passe** — la modification de l'un ou l'autre demande votre mot de passe actuel.
 - **Vos données** — **Télécharger vos données personnelles** vous envoie par e-mail tout ce que vous avez ajouté, dans un fichier, sous un jour.
 - **Supprimer mon compte** — supprime votre compte et toutes ses données. Cette action est irréversible.
