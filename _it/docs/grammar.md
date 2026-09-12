@@ -26,6 +26,19 @@ Ogni nota porta dei badge che ne mostrano livello e categoria.
 - Dove esiste una traduzione, la nota viene mostrata nella **tua lingua**, con un interruttore per passare alla versione nella **lingua obiettivo** — un buon modo per metterti alla prova una volta che il concetto ti è familiare.
 - Alcune note terminano con **esercizi**: frasi da completare a cui puoi rispondere e che puoi verificare immediatamente.
 
+## La grammatica della lettura
+
+Se conosci già una o più delle sei lingue di Immersive, Grammatica può mostrarti anche dove la lingua che stai imparando **differisce da quelle che conosci** — i punti in cui un lettore inciampa, e nient'altro. È la *grammatica della lettura*: un breve riferimento ispirato al metodo di intercomprensione EuRom5, organizzato nell'ordine del libro e non per livello.
+
+È disattivata finché non la attivi. In **Profilo → Account**, sotto **Lingue**, spunta **Usa le lingue che conosco per spiegare quella che sto imparando**. Da quel momento:
+
+- una riga **Grammatica della lettura** compare in fondo alla panoramica di Grammatica, con quanti confronti differiscono dalle tue lingue e quanti funzionano come loro;
+- le note grammaticali che appartengono a un confronto mostrano un accesso ad esso sotto **Nelle tue lingue**;
+- nel lettore, una frase che contiene una di queste costruzioni riceve una **sottolineatura punteggiata** (vedi [Leggere documenti](documents/reading-documents.md));
+- una scheda di grammatica in ripasso rimanda al suo confronto una volta vista la risposta.
+
+Vedi [La grammatica della lettura](grammar/grammar-of-reading.md) per sfogliarla e leggere un confronto.
+
 ## Tenere le note a portata di mano
 
 Usa l'icona del **segnalibro** su qualsiasi nota per salvarla, poi filtra l'indice della grammatica per mostrare solo le note che hai salvato. I preferiti sono la casa naturale dei concetti che devi continuare a cercare.
@@ -43,5 +56,6 @@ Per i dettagli, vedi [Leggere le note grammaticali](grammar/review-grammar.md).
 ## Per approfondire
 
 - [Leggere le note grammaticali](grammar/review-grammar.md)
+- [La grammatica della lettura](grammar/grammar-of-reading.md)
 - [Verbi](verbs.md)
 - [Documenti](documents.md)

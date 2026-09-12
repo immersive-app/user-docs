@@ -55,7 +55,7 @@ Si estudias con un profesor, puedes dejar que siga tu progreso — en tus térmi
 Todo lo administrativo vive aquí:
 
 - **Perfil** — nombre, foto de perfil, ubicación y género.
-- **Idiomas** — la misma cuadrícula del registro: qué hablas, qué estás aprendiendo, tu nivel y tu idioma de la interfaz. Cámbiala cuando quieras.
+- **Idiomas** — la misma cuadrícula del registro: qué hablas, qué estás aprendiendo, tu nivel y tu idioma de la interfaz. Cámbiala cuando quieras. Bajo la cuadrícula, **Usar las lenguas que conozco para explicar la que estoy aprendiendo** activa las comparaciones entre lenguas: el cuadro *En tus lenguas* de las notas gramaticales, los equivalentes en seis idiomas del lector y la [gramática de la lectura](grammar/grammar-of-reading.md) con sus subrayados de puntos. Está desactivado por defecto: la mayoría aprende una lengua a la vez.
 - **Correo electrónico y contraseña** — actualizar cualquiera de los dos pide tu contraseña actual.
 - **Tus datos** — **Descarga tus datos personales** te envía por correo todo lo que has añadido, en un archivo, en el plazo de un día.
 - **Eliminar mi cuenta** — elimina tu cuenta y todos sus datos. No se puede deshacer.

@@ -26,6 +26,10 @@ Una nota gramatical explica un sol concepte — el seu títol apareix en la llen
 
 Quan una nota té traducció, s'obre en la teva llengua per claredat. Fes servir el **commutador de llengua** al final de la nota per canviar a la versió en la llengua d'aprenentatge. Llegir l'explicació en la llengua que estàs aprenent és un repte que val la pena un cop el concepte en si ja no és nou.
 
+### En les teves llengües
+
+Amb les comparacions activades (**Perfil → Compte → Llengües**), una nota que existeix en una llengua que coneixes mostra un requadre **En les teves llengües**: el mateix punt en la llengua que aprens i en la teva, a un toc de distància. Quan la nota pertany a una comparació de la [gramàtica de la lectura](grammar-of-reading.md), el requadre acaba amb una fila que l'obre.
+
 ## Treballar els exercicis
 
 Moltes notes acaben amb una secció d'**Exercicis**: frases numerades per omplir buits que fan servir el concepte que acabes de llegir.
@@ -38,6 +42,10 @@ Per respondre un exercici:
 
 Alguns exercicis inclouen una traducció de la frase entre claudàtors, perquè sempre sàpigues què intentes dir.
 
+## Alguna cosa no quadra?
+
+Cada nota acaba amb **Alguna cosa no quadra?**. Si una explicació o un exemple està malament, obre-ho, explica què has trobat i envia-ho. Els avisos arriben als editors amb la nota i les llengües del teu perfil.
+
 ## Marcar una nota
 
 Prem la **icona de marcador** a la part superior d'una nota per desar-la. Les notes marcades es poden filtrar a l'índex de gramàtica, cosa que converteix els teus marcadors en una prestatgeria de referència personal amb els conceptes en què estàs treballant.
@@ -47,5 +55,6 @@ Prem la **icona de marcador** a la part superior d'una nota per desar-la. Les no
 ## Per llegir més
 
 - [Gramàtica](../grammar.md)
+- [La gramàtica de la lectura](grammar-of-reading.md)
 - [Escriure documents](../documents/writing-documents.md) — aplica la gramàtica a la teva pròpia escriptura i obtén correccions
 - [Repassar targetes](../decks/reviewing-cards.md)
