@@ -22,7 +22,7 @@ Open a section to see its comparisons. Each row names the languages that differ,
 
 A comparison page has three parts:
 
-1. **Which languages differ**, and whether this one is underlined in your reading. When one of your languages works the same way as the language you are learning, the page quotes the shared form, so you can see the similarity rather than take it on trust.
+1. **Which languages differ**, and how this comparison stands against yours. When one of your languages works the same way as the language you are learning, the page quotes the shared form, so you can see the similarity rather than take it on trust.
 2. **The statement**, in the language you read best. Use **Read in** to switch it to any of the six; your choice is remembered.
 3. **The examples**: the same sentences in all six languages, one row per language in the order of the Romance continuum (Portuguese, Spanish, Catalan, Italian, French, English). A dotted underline marks the language that differs; your own languages and the one you are learning are in full ink.
 
@@ -30,9 +30,9 @@ Below, **See also** lists the comparisons the book cross-references, and **Learn
 
 ## In your reading
 
-When a sentence in a document contains one of these constructions and it differs from every language you know, the reader gives it a **dotted underline**. Tap it: the popover shows the translation, then the comparison's summary in your reading language, the example in your languages, and **Open the comparison**. The comparison page brings you back to the same sentence.
+When a sentence in a document contains one of these constructions, the reader gives it a **dotted underline**. Tap it: the popover shows the translation, then the comparison's summary in your reading language, which of your languages works the same way if one does, the example in your languages, and **Open the comparison**. The comparison page brings you back to the same sentence.
 
-Only comparisons that differ from *all* your languages are underlined. If one of your languages already works like the one you are learning, you have the bridge already, and the reader stays quiet.
+Every published comparison is underlined, including the ones where a language you know already works like the one you are learning: the popover then says so (*Same as Spanish*), which is the reassurance, not a gap. The underlines appear only with the cross-language comparisons turned on in your profile.
 
 ## Something wrong here?
 
