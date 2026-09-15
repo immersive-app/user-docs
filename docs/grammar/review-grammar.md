@@ -5,7 +5,7 @@ parent: Grammar
 
 # Reading grammar notes
 
-How to find the note you need, switch it between languages, work through its exercises, and keep it bookmarked for next time.
+How to find the note you need, switch it between languages and work through its exercises.
 
 ---
 
@@ -13,7 +13,6 @@ How to find the note you need, switch it between languages, work through its exe
 
 1. Open the Grammar section.
 2. Use the **search** at the top of the index to filter notes by keyword.
-3. Tap the **bookmark filter** to show only the notes you have bookmarked.
 
 Each entry in the list shows the note's title; open one to read it.
 
@@ -40,14 +39,6 @@ To answer an exercise:
 3. If you are stuck and the exercise has a hint, press **Hint**.
 
 Some exercises include a translation of the sentence in brackets, so you always know what you are trying to say.
-
-## Something wrong here?
-
-Every note ends with **Something wrong here?**. If an explanation or an example is wrong, open it, say what you found, and send. Reports reach the editors with the note and the languages on your profile.
-
-## Bookmarking a note
-
-Press the **bookmark icon** at the top of a note to save it. Bookmarked notes can be filtered on the grammar index, which turns your bookmarks into a personal reference shelf of the concepts you are currently working on.
 
 ---
 

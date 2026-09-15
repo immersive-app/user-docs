@@ -14,7 +14,6 @@ Com trobar la nota que necessites, canviar-la de llengua, treballar-ne els exerc
 
 1. Obre la secció de Gramàtica.
 2. Fes servir la **cerca** a la part superior de l'índex per filtrar les notes per paraula clau.
-3. Toca el **filtre de marcadors** per mostrar només les notes que has marcat.
 
 Cada entrada de la llista mostra el títol de la nota; obre'n una per llegir-la.
 
@@ -41,14 +40,6 @@ Per respondre un exercici:
 3. Si estàs encallat i l'exercici té una pista, prem **Pista**.
 
 Alguns exercicis inclouen una traducció de la frase entre claudàtors, perquè sempre sàpigues què intentes dir.
-
-## Alguna cosa no quadra?
-
-Cada nota acaba amb **Alguna cosa no quadra?**. Si una explicació o un exemple està malament, obre-ho, explica què has trobat i envia-ho. Els avisos arriben als editors amb la nota i les llengües del teu perfil.
-
-## Marcar una nota
-
-Prem la **icona de marcador** a la part superior d'una nota per desar-la. Les notes marcades es poden filtrar a l'índex de gramàtica, cosa que converteix els teus marcadors en una prestatgeria de referència personal amb els conceptes en què estàs treballant.
 
 ---
 

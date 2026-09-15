@@ -48,10 +48,6 @@ Tags group decks across folders. Add them when creating or editing a deck; tappi
 
 Open a deck and choose the edit action to rename it (in either language), change its folder, or adjust its tags. From the deck page you can also add, edit, and delete individual cards.
 
-## Bookmarking decks
-
-The bookmark icon on a deck saves it; the bookmark filter on the Decks page then shows only bookmarked decks. Useful when a few decks are your current focus.
-
 ## Exporting to Anki
 
 Any deck you can open has an **Export to Anki** action. Immersive prepares the export in the background and emails it to you when it is ready.

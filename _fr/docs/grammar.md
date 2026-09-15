@@ -28,7 +28,7 @@ Chaque note porte des badges indiquant son niveau et sa catégorie.
 
 ## La grammaire de la lecture
 
-Si vous connaissez déjà une ou plusieurs des six langues d'Immersive, Grammaire peut aussi vous montrer où la langue que vous apprenez **diffère de celles que vous connaissez** — les endroits où un lecteur trébuche, et rien d'autre. C'est la *grammaire de la lecture* : une courte référence inspirée de la méthode d'intercompréhension EuRom5, organisée dans l'ordre du livre plutôt que par niveau.
+Si vous connaissez déjà une ou plusieurs des six langues d'Immersive, Grammaire peut aussi vous montrer où la langue que vous apprenez **diffère de celles que vous connaissez** — les endroits où un lecteur trébuche, et rien d'autre. C'est la *grammaire de la lecture* : la [Méthode des Ponts](grammar/grammar-of-reading.md) appliquée à la grammaire, une courte référence organisée par thème plutôt que par niveau.
 
 Elle est désactivée tant que vous ne l'activez pas. Dans **Profil → Compte**, sous **Langues**, cochez **Utiliser les langues que je connais pour expliquer celle que j'apprends**. Dès lors :
 
@@ -39,15 +39,11 @@ Elle est désactivée tant que vous ne l'activez pas. Dans **Profil → Compte**
 
 Voir [La grammaire de la lecture](grammar/grammar-of-reading.md) pour la parcourir et lire une comparaison.
 
-## Garder les notes à portée de main
-
-Utilisez l'icône de **signet** sur une note pour l'enregistrer, puis filtrez l'index de grammaire pour n'afficher que vos notes mises en favori. Les signets sont l'endroit naturel pour les concepts que vous devez sans cesse revérifier.
-
 ## Par où commencer
 
 1. Ouvrez **Grammaire** depuis la navigation.
 2. Filtrez ou cherchez le concept dont vous avez besoin — ou parcourez les catégories de votre niveau pour voir ce qui s'y trouve.
-3. Lisez la note, essayez ses exercices et mettez-la en favori si vous en aurez encore besoin.
+3. Lisez la note et essayez ses exercices.
 
 Pour les détails, voir [Lire les notes de grammaire](grammar/review-grammar.md).
 

@@ -6,7 +6,7 @@ lang: fr
 
 # Lire les notes de grammaire
 
-Comment trouver la note dont vous avez besoin, la basculer entre les langues, faire ses exercices et la garder en favori pour la prochaine fois.
+Comment trouver la note dont vous avez besoin, la basculer entre les langues et faire ses exercices.
 
 ---
 
@@ -14,7 +14,6 @@ Comment trouver la note dont vous avez besoin, la basculer entre les langues, fa
 
 1. Ouvrez la section Grammaire.
 2. Utilisez la **recherche** en haut de l'index pour filtrer les notes par mot-clé.
-3. Touchez le **filtre de signets** pour n'afficher que les notes que vous avez mises en favori.
 
 Chaque entrée de la liste montre le titre de la note ; ouvrez-en une pour la lire.
 
@@ -41,14 +40,6 @@ Pour répondre à un exercice :
 3. Si vous bloquez et que l'exercice a un indice, appuyez sur **Indice**.
 
 Certains exercices incluent une traduction de la phrase entre crochets, pour que vous sachiez toujours ce que vous essayez de dire.
-
-## Quelque chose cloche ?
-
-Chaque note se termine par **Quelque chose cloche ?**. Si une explication ou un exemple est faux, ouvrez-le, dites ce que vous avez trouvé, envoyez. Les signalements parviennent aux éditeurs avec la note et les langues de votre profil.
-
-## Mettre une note en favori
-
-Appuyez sur l'**icône de signet** en haut d'une note pour l'enregistrer. Les notes mises en favori peuvent être filtrées sur l'index de grammaire, ce qui transforme vos signets en étagère de référence personnelle des concepts sur lesquels vous travaillez en ce moment.
 
 ---
 

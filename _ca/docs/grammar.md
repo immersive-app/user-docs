@@ -28,7 +28,7 @@ Cada nota porta insígnies que en mostren el nivell i la categoria.
 
 ## La gramàtica de la lectura
 
-Si ja coneixes una o més de les sis llengües d'Immersive, Gramàtica també et pot mostrar on la llengua que aprens **difereix de les que coneixes** — els punts on un lector ensopega, i res més. És la *gramàtica de la lectura*: una referència breu inspirada en el mètode d'intercomprensió EuRom5, organitzada en l'ordre del llibre i no per nivell.
+Si ja coneixes una o més de les sis llengües d'Immersive, Gramàtica també et pot mostrar on la llengua que aprens **difereix de les que coneixes** — els punts on un lector ensopega, i res més. És la *gramàtica de la lectura*: el [Mètode Pont](grammar/grammar-of-reading.md) aplicat a la gramàtica, una referència breu organitzada per temes i no per nivell.
 
 Està desactivada fins que l'actives. A **Perfil → Compte**, sota **Llengües**, marca **Fes servir les llengües que conec per explicar la que estic aprenent**. A partir de llavors:
 
@@ -39,15 +39,11 @@ Està desactivada fins que l'actives. A **Perfil → Compte**, sota **Llengües*
 
 Vegeu [La gramàtica de la lectura](grammar/grammar-of-reading.md) per saber com navegar-hi i llegir una comparació.
 
-## Tenir les notes a mà
-
-Fes servir la icona de **marcador** de qualsevol nota per desar-la, i després filtra l'índex de gramàtica per mostrar només les notes marcades. Els marcadors són la llar natural dels conceptes que sempre has d'anar a consultar.
-
 ## Per on començar
 
 1. Obre **Gramàtica** des de la navegació.
 2. Filtra o cerca el concepte que necessites — o explora les categories del teu nivell per veure què hi ha.
-3. Llegeix la nota, prova'n els exercicis i marca-la si la voldràs tornar a consultar.
+3. Llegeix la nota i prova'n els exercicis.
 
 Per als detalls, vegeu [Llegir notes gramaticals](grammar/review-grammar.md).
 

@@ -49,10 +49,6 @@ Les étiquettes regroupent les paquets entre dossiers. Ajoutez-les à la créati
 
 Ouvrez un paquet et choisissez l'action de modification pour le renommer (dans l'une ou l'autre langue), changer son dossier ou ajuster ses étiquettes. Depuis la page du paquet, vous pouvez aussi ajouter, modifier et supprimer des cartes individuelles.
 
-## Mettre des paquets en favori
-
-L'icône de signet sur un paquet l'enregistre ; le filtre de signets sur la page Paquets n'affiche alors que les paquets mis en favori. Utile quand quelques paquets sont votre priorité du moment.
-
 ## Exporter vers Anki
 
 Tout paquet que vous pouvez ouvrir dispose d'une action **Exporter vers Anki**. Immersive prépare l'export en arrière-plan et vous l'envoie par e-mail quand il est prêt.
