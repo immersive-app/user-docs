@@ -23,7 +23,7 @@ Abre una sección para ver sus comparaciones. Cada fila nombra las lenguas que d
 
 Una página de comparación tiene tres partes:
 
-1. **Qué lenguas difieren**, y si esta comparación se subraya en tus lecturas. Cuando una de tus lenguas funciona como la que aprendes, la página cita la forma compartida, para que veas la similitud en lugar de darla por supuesta.
+1. **Qué lenguas difieren**, y cómo se sitúa esta comparación respecto a las tuyas. Cuando una de tus lenguas funciona como la que aprendes, la página cita la forma compartida, para que veas la similitud en lugar de darla por supuesta.
 2. **El enunciado**, en la lengua que mejor lees. Usa **Leer en** para cambiarlo a cualquiera de las seis; tu elección se recuerda.
 3. **Los ejemplos**: las mismas frases en las seis lenguas, una fila por lengua en el orden del continuo románico (portugués, español, catalán, italiano, francés, inglés). Una línea de puntos marca la lengua que difiere; tus lenguas y la que aprendes van en tinta plena.
 
@@ -31,9 +31,9 @@ Debajo, **Ver también** enumera las comparaciones que el libro cruza, y **Apren
 
 ## En tus lecturas
 
-Cuando una frase de un documento contiene una de estas construcciones y difiere de todas las lenguas que conoces, el lector la **subraya con puntos**. Tócala: el panel muestra la traducción, luego el resumen de la comparación en tu lengua de lectura, el ejemplo en tus lenguas y **Abrir la comparación**. La página de la comparación te devuelve a la misma frase.
+Cuando una frase de un documento contiene una de estas construcciones, el lector la **subraya con puntos**. Tócala: el panel muestra la traducción, luego el resumen de la comparación en tu lengua de lectura, cuál de tus lenguas funciona igual si alguna lo hace, el ejemplo en tus lenguas y **Abrir la comparación**. La página de la comparación te devuelve a la misma frase.
 
-Solo se subrayan las comparaciones que difieren de *todas* tus lenguas. Si una de tus lenguas ya funciona como la que aprendes, ya tienes el puente, y el lector no dice nada.
+Todas las comparaciones publicadas se subrayan, también aquellas en las que una lengua que conoces ya funciona como la que aprendes: el panel entonces lo dice (*Igual que en español*), y eso es la tranquilidad, no un hueco. Los subrayados solo aparecen con las comparaciones entre lenguas activadas en tu perfil.
 
 ## ¿Algo no cuadra?
 

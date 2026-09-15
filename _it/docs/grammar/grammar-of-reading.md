@@ -23,7 +23,7 @@ Apri una sezione per vedere i suoi confronti. Ogni riga nomina le lingue che dif
 
 Una pagina di confronto ha tre parti:
 
-1. **Quali lingue differiscono**, e se questo confronto è sottolineato nelle tue letture. Quando una delle tue lingue funziona come quella che stai imparando, la pagina cita la forma condivisa, così vedi la somiglianza invece di darla per scontata.
+1. **Quali lingue differiscono**, e come questo confronto si colloca rispetto alle tue. Quando una delle tue lingue funziona come quella che stai imparando, la pagina cita la forma condivisa, così vedi la somiglianza invece di darla per scontata.
 2. **L'enunciato**, nella lingua che leggi meglio. Usa **Leggi in** per passare a una qualsiasi delle sei; la scelta viene ricordata.
 3. **Gli esempi**: le stesse frasi nelle sei lingue, una riga per lingua nell'ordine del continuum romanzo (portoghese, spagnolo, catalano, italiano, francese, inglese). Una linea punteggiata segna la lingua che differisce; le tue lingue e quella che stai imparando sono in inchiostro pieno.
 
@@ -31,9 +31,9 @@ Sotto, **Vedi anche** elenca i confronti che il libro mette in relazione, e **Ap
 
 ## Nelle tue letture
 
-Quando una frase di un documento contiene una di queste costruzioni e differisce da tutte le lingue che conosci, il lettore le dà una **sottolineatura punteggiata**. Toccala: il riquadro mostra la traduzione, poi il riassunto del confronto nella tua lingua di lettura, l'esempio nelle tue lingue e **Apri il confronto**. La pagina del confronto ti riporta alla stessa frase.
+Quando una frase di un documento contiene una di queste costruzioni, il lettore le dà una **sottolineatura punteggiata**. Toccala: il riquadro mostra la traduzione, poi il riassunto del confronto nella tua lingua di lettura, quale delle tue lingue funziona allo stesso modo se ce n'è una, l'esempio nelle tue lingue e **Apri il confronto**. La pagina del confronto ti riporta alla stessa frase.
 
-Sono sottolineati solo i confronti che differiscono da *tutte* le tue lingue. Se una delle tue lingue funziona già come quella che stai imparando, il ponte ce l'hai già, e il lettore tace.
+Tutti i confronti pubblicati sono sottolineati, compresi quelli in cui una lingua che conosci funziona già come quella che stai imparando: il riquadro allora lo dice (*Come in spagnolo*), ed è la rassicurazione, non una lacuna. Le sottolineature compaiono solo con i confronti tra lingue attivati nel tuo profilo.
 
 ## Qualcosa non torna?
 

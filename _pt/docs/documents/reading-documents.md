@@ -38,7 +38,7 @@ Enquanto lê, algumas palavras e frases trazem um sublinhado subtil — a camada
 - **Ouça primeiro** assinala palavras cujo som é mais claro do que a grafia.
 - **Visto antes** liga uma palavra à sua primeira aparição no texto.
 - Algumas ajudas mostram os **equivalentes da palavra nas seis línguas**, lado a lado, com as suas línguas realçadas.
-- Um **sublinhado tracejado** numa frase significa que contém uma construção em que a língua que está a aprender difere de todas as que conhece. Toque-lhe para ver a comparação e uma ligação à [gramática da leitura](../grammar/grammar-of-reading.md); a página da comparação devolve-o à mesma frase.
+- Um **sublinhado tracejado** numa frase significa que contém uma construção que a [gramática da leitura](../grammar/grammar-of-reading.md) abrange. Toque-lhe para ver a comparação, que diz se a língua que está a aprender difere aqui das suas ou funciona da mesma forma, e uma ligação à comparação completa; essa página devolve-o à mesma frase.
 
 Os equivalentes nas seis línguas e os sublinhados tracejados fazem parte das comparações entre línguas, que estão desativadas até as ativar em **Perfil → Conta → Idiomas**.
 
