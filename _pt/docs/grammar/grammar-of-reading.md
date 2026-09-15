@@ -23,7 +23,7 @@ Abra uma secção para ver as suas comparações. Cada linha nomeia as línguas 
 
 Uma página de comparação tem três partes:
 
-1. **Que línguas diferem**, e se esta comparação é sublinhada nas suas leituras. Quando uma das suas línguas funciona como a que está a aprender, a página cita a forma partilhada, para que veja a semelhança em vez de a tomar por certa.
+1. **Que línguas diferem**, e como esta comparação se situa em relação às suas. Quando uma das suas línguas funciona como a que está a aprender, a página cita a forma partilhada, para que veja a semelhança em vez de a tomar por certa.
 2. **O enunciado**, na língua que lê melhor. Use **Ler em** para o mudar para qualquer uma das seis; a sua escolha fica guardada.
 3. **Os exemplos**: as mesmas frases nas seis línguas, uma linha por língua pela ordem do contínuo românico (português, espanhol, catalão, italiano, francês, inglês). Um tracejado marca a língua que difere; as suas línguas e a que está a aprender ficam a tinta cheia.
 
@@ -31,9 +31,9 @@ Abaixo, **Ver também** lista as comparações que o livro cruza, e **Aprender a
 
 ## Nas suas leituras
 
-Quando uma frase de um documento contém uma destas construções e difere de todas as línguas que conhece, o leitor dá-lhe um **sublinhado tracejado**. Toque-lhe: o balão mostra a tradução, depois o resumo da comparação na sua língua de leitura, o exemplo nas suas línguas e **Abrir a comparação**. A página da comparação devolve-o à mesma frase.
+Quando uma frase de um documento contém uma destas construções, o leitor dá-lhe um **sublinhado tracejado**. Toque-lhe: o balão mostra a tradução, depois o resumo da comparação na sua língua de leitura, qual das suas línguas funciona da mesma forma se alguma o fizer, o exemplo nas suas línguas e **Abrir a comparação**. A página da comparação devolve-o à mesma frase.
 
-Só as comparações que diferem de *todas* as suas línguas são sublinhadas. Se uma das suas línguas já funciona como a que está a aprender, já tem a ponte, e o leitor fica em silêncio.
+Todas as comparações publicadas são sublinhadas, incluindo aquelas em que uma língua que conhece já funciona como a que está a aprender: o balão então di-lo (*Igual a espanhol*), e isso é a tranquilidade, não uma lacuna. Os sublinhados só aparecem com as comparações entre línguas ativadas no seu perfil.
 
 ## Algo errado aqui?
 

@@ -23,7 +23,7 @@ Obre una secció per veure'n les comparacions. Cada fila anomena les llengües q
 
 Una pàgina de comparació té tres parts:
 
-1. **Quines llengües difereixen**, i si aquesta comparació es subratlla a les teves lectures. Quan una de les teves llengües funciona com la que aprens, la pàgina cita la forma compartida, perquè vegis la semblança en lloc de donar-la per feta.
+1. **Quines llengües difereixen**, i com se situa aquesta comparació respecte de les teves. Quan una de les teves llengües funciona com la que aprens, la pàgina cita la forma compartida, perquè vegis la semblança en lloc de donar-la per feta.
 2. **L'enunciat**, en la llengua que llegeixes millor. Fes servir **Llegir en** per canviar-lo a qualsevol de les sis; la tria es recorda.
 3. **Els exemples**: les mateixes frases en les sis llengües, una fila per llengua en l'ordre del contínuum romànic (portuguès, castellà, català, italià, francès, anglès). Una línia de punts marca la llengua que difereix; les teves llengües i la que aprens van en tinta plena.
 
@@ -31,9 +31,9 @@ A sota, **Vegeu també** llista les comparacions que el llibre relaciona, i **Ap
 
 ## A les teves lectures
 
-Quan una frase d'un document conté una d'aquestes construccions i difereix de totes les llengües que coneixes, el lector la **subratlla amb punts**. Toca-la: el requadre mostra la traducció, després el resum de la comparació en la teva llengua de lectura, l'exemple en les teves llengües i **Obre la comparació**. La pàgina de la comparació et torna a la mateixa frase.
+Quan una frase d'un document conté una d'aquestes construccions, el lector la **subratlla amb punts**. Toca-la: el requadre mostra la traducció, després el resum de la comparació en la teva llengua de lectura, quina de les teves llengües funciona igual si n'hi ha alguna, l'exemple en les teves llengües i **Obre la comparació**. La pàgina de la comparació et torna a la mateixa frase.
 
-Només se subratllen les comparacions que difereixen de *totes* les teves llengües. Si una de les teves llengües ja funciona com la que aprens, ja tens el pont, i el lector calla.
+Totes les comparacions publicades se subratllen, també aquelles en què una llengua que coneixes ja funciona com la que aprens: el requadre llavors ho diu (*Igual que en espanyol*), i això és la tranquil·litat, no un buit. Els subratllats només apareixen amb les comparacions entre llengües activades al teu perfil.
 
 ## Alguna cosa no quadra?
 

@@ -23,7 +23,7 @@ Ouvrez une section pour voir ses comparaisons. Chaque ligne nomme les langues qu
 
 Une page de comparaison a trois parties :
 
-1. **Quelles langues diffèrent**, et si cette comparaison est soulignée dans vos lectures. Quand l'une de vos langues fonctionne comme celle que vous apprenez, la page cite la forme partagée, pour que vous voyiez la ressemblance au lieu de la croire sur parole.
+1. **Quelles langues diffèrent**, et où cette comparaison se situe par rapport aux vôtres. Quand l'une de vos langues fonctionne comme celle que vous apprenez, la page cite la forme partagée, pour que vous voyiez la ressemblance au lieu de la croire sur parole.
 2. **L'énoncé**, dans la langue que vous lisez le mieux. **Lire en** le bascule dans n'importe laquelle des six ; votre choix est mémorisé.
 3. **Les exemples** : les mêmes phrases dans les six langues, une ligne par langue dans l'ordre du continuum roman (portugais, espagnol, catalan, italien, français, anglais). Un pointillé marque la langue qui diffère ; vos langues et celle que vous apprenez sont en encre pleine.
 
@@ -31,9 +31,9 @@ Plus bas, **Voir aussi** liste les comparaisons que le livre met en relation, et
 
 ## Dans vos lectures
 
-Quand une phrase d'un document contient l'une de ces constructions et qu'elle diffère de toutes les langues que vous connaissez, le lecteur lui donne un **soulignement pointillé**. Touchez-la : la bulle montre la traduction, puis le résumé de la comparaison dans votre langue de lecture, l'exemple dans vos langues, et **Ouvrir la comparaison**. La page de comparaison vous ramène à la même phrase.
+Quand une phrase d'un document contient l'une de ces constructions, le lecteur lui donne un **soulignement pointillé**. Touchez-la : la bulle montre la traduction, puis le résumé de la comparaison dans votre langue de lecture, celle de vos langues qui fonctionne de la même façon s'il y en a une, l'exemple dans vos langues, et **Ouvrir la comparaison**. La page de comparaison vous ramène à la même phrase.
 
-Seules les comparaisons qui diffèrent de *toutes* vos langues sont soulignées. Si l'une de vos langues fonctionne déjà comme celle que vous apprenez, vous avez déjà le pont, et le lecteur se tait.
+Toutes les comparaisons publiées sont soulignées, y compris celles où une langue que vous connaissez fonctionne déjà comme celle que vous apprenez : la bulle le dit alors (*Pareil qu'en espagnol*), et c'est là le réconfort, pas un manque. Les soulignements n'apparaissent qu'avec les comparaisons entre langues activées dans votre profil.
 
 ## Quelque chose cloche ?
 

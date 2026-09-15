@@ -38,7 +38,7 @@ Mentre leggi, alcune parole e frasi portano una sottolineatura discreta — lo s
 - **Ascolta prima** segnala le parole il cui suono è più chiaro della grafia.
 - **Già visto** collega una parola alla sua prima comparsa nel testo.
 - Alcuni aiuti mostrano gli **equivalenti della parola nelle sei lingue**, fianco a fianco, con le tue lingue evidenziate.
-- Una **sottolineatura punteggiata** su una frase significa che contiene una costruzione in cui la lingua che stai imparando differisce da tutte quelle che conosci. Toccala per vedere il confronto e un collegamento alla [grammatica della lettura](../grammar/grammar-of-reading.md); la pagina del confronto ti riporta alla stessa frase.
+- Una **sottolineatura punteggiata** su una frase significa che contiene una costruzione trattata dalla [grammatica della lettura](../grammar/grammar-of-reading.md). Toccala per vedere il confronto, che dice se la lingua che stai imparando qui differisce dalle tue o funziona allo stesso modo, e un collegamento al confronto completo; quella pagina ti riporta alla stessa frase.
 
 Gli equivalenti nelle sei lingue e le sottolineature punteggiate fanno parte dei confronti tra lingue, disattivati finché non li attivi in **Profilo → Account → Lingue**.
 

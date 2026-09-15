@@ -38,7 +38,7 @@ Pendant la lecture, certains mots et certaines phrases portent un discret soulig
 - **Écoutez d'abord** signale les mots dont le son est plus clair que l'orthographe.
 - **Déjà vu** relie un mot à sa première apparition dans le texte.
 - Certaines aides montrent les **équivalents du mot dans les six langues**, côte à côte, avec vos langues mises en évidence.
-- Un **soulignement pointillé** sur une phrase signifie qu'elle contient une construction où la langue que vous apprenez diffère de toutes celles que vous connaissez. Touchez-la pour voir la comparaison et un lien vers la [grammaire de la lecture](../grammar/grammar-of-reading.md) ; la page de comparaison vous ramène à la même phrase.
+- Un **soulignement pointillé** sur une phrase signifie qu'elle contient une construction traitée par la [grammaire de la lecture](../grammar/grammar-of-reading.md). Touchez-la pour voir la comparaison, qui dit si la langue que vous apprenez diffère ici des vôtres ou fonctionne de la même façon, et un lien vers la comparaison complète ; cette page vous ramène à la même phrase.
 
 Les équivalents dans les six langues et les soulignements pointillés font partie des comparaisons entre langues, désactivées tant que vous ne les activez pas dans **Profil → Compte → Langues**.
 
