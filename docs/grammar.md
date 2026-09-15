@@ -27,7 +27,7 @@ Each note carries badges showing its level and category.
 
 ## The grammar of reading
 
-If you already know one or more of Immersive's six languages, Grammar can also show you where the language you are learning **differs from the ones you know** — the places a reader trips, and nothing else. This is the *grammar of reading*: a short reference modelled on the EuRom5 intercomprehension method, organised in the book's own order rather than by level.
+If you already know one or more of Immersive's six languages, Grammar can also show you where the language you are learning **differs from the ones you know** — the places a reader trips, and nothing else. This is the *grammar of reading*: the [Bridge Method](grammar/grammar-of-reading.md#the-bridge-method) applied to grammar, a short reference organised by topic rather than by level.
 
 It is off until you turn it on. In **Profile → Account**, under **Languages**, tick **Use the languages I know to explain the one I'm learning**. From then on:
 
@@ -38,15 +38,11 @@ It is off until you turn it on. In **Profile → Account**, under **Languages**,
 
 See [The grammar of reading](grammar/grammar-of-reading.md) for how to browse it and read a comparison.
 
-## Keeping notes handy
-
-Use the **bookmark** icon on any note to save it, then filter the grammar index to show only your bookmarked notes. Bookmarks are the natural home for the concepts you keep having to look up.
-
 ## Where to start
 
 1. Open **Grammar** from the navigation.
 2. Filter or search for the concept you need — or browse your level's categories to see what is there.
-3. Read the note, try its exercises, and bookmark it if you will want it again.
+3. Read the note and try its exercises.
 
 For the details, see [Reading grammar notes](grammar/review-grammar.md).
 

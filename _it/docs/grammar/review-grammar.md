@@ -6,7 +6,7 @@ lang: it
 
 # Leggere le note grammaticali
 
-Come trovare la nota che ti serve, passarla da una lingua all'altra, lavorare sui suoi esercizi e tenerla nei preferiti per la prossima volta.
+Come trovare la nota che ti serve, passarla da una lingua all'altra e lavorare sui suoi esercizi.
 
 ---
 
@@ -14,7 +14,6 @@ Come trovare la nota che ti serve, passarla da una lingua all'altra, lavorare su
 
 1. Apri la sezione Grammatica.
 2. Usa la **ricerca** in cima all'indice per filtrare le note per parola chiave.
-3. Tocca il **filtro dei segnalibri** per mostrare solo le note che hai salvato.
 
 Ogni voce dell'elenco mostra il titolo della nota; aprine una per leggerla.
 
@@ -41,14 +40,6 @@ Per rispondere a un esercizio:
 3. Se sei bloccato e l'esercizio ha un suggerimento, premi **Suggerimento**.
 
 Alcuni esercizi includono tra parentesi una traduzione della frase, così sai sempre cosa stai cercando di dire.
-
-## Qualcosa non torna?
-
-Ogni nota termina con **Qualcosa non torna?**. Se una spiegazione o un esempio è sbagliato, aprilo, di' cosa hai trovato e invia. Le segnalazioni arrivano ai redattori con la nota e le lingue del tuo profilo.
-
-## Salvare una nota nei preferiti
-
-Premi l'**icona del segnalibro** in cima a una nota per salvarla. Le note salvate possono essere filtrate nell'indice della grammatica, che trasforma i tuoi preferiti in uno scaffale di consultazione personale dei concetti su cui stai lavorando.
 
 ---
 

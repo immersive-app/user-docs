@@ -49,10 +49,6 @@ Las etiquetas agrupan mazos entre carpetas. Añádelas al crear o editar un mazo
 
 Abre un mazo y elige la acción de editar para renombrarlo (en cualquiera de los dos idiomas), cambiar su carpeta o ajustar sus etiquetas. Desde la página del mazo también puedes añadir, editar y eliminar tarjetas individuales.
 
-## Marcar mazos como favoritos
-
-El icono de marcador en un mazo lo guarda; el filtro de marcadores en la página de Mazos muestra entonces solo los mazos marcados. Útil cuando unos pocos mazos son tu foco actual.
-
 ## Exportar a Anki
 
 Cualquier mazo que puedas abrir tiene una acción de **Exportar a Anki**. Immersive prepara la exportación en segundo plano y te la envía por correo cuando está lista.

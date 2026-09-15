@@ -19,7 +19,7 @@ Building a deck takes two steps: create the deck, then add cards to it. A deck r
 
 ## Adding cards
 
-The second step of the workspace offers a card type switcher — **Word**, **Sentence**, **Verb**, **Number** — plus two bulk routes, **Upload spreadsheet** and **From bookmarks**.
+The second step of the workspace offers a card type switcher — **Word**, **Sentence**, **Verb**, **Number** — plus a bulk route, **Upload spreadsheet**.
 
 ### Words
 
@@ -48,10 +48,6 @@ Choose **Upload spreadsheet** to bulk-import word cards:
 1. Pick a **CSV or XLSX** file — columns are word and translation, and the translation is optional (missing ones auto-fill and are marked so you can glance over them). A template is available to download.
 2. Review the **preview**: rows already in the deck arrive unchecked so you do not create duplicates.
 3. Select the rows you want and choose **Import cards**.
-
-## Adding from bookmarks
-
-**From bookmarks** lists the words and sentences you saved while reading and reviewing — the Saved items in your [Vocabulary](../vocabulary.md). Filter them (all, words, sentences), select the ones you want, and add them as cards. Importing copies; your saved items stay saved.
 
 ## Example sentences on word cards
 

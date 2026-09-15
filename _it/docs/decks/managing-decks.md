@@ -49,10 +49,6 @@ Le etichette raggruppano i mazzi tra cartelle diverse. Aggiungile quando crei o 
 
 Apri un mazzo e scegli l'azione di modifica per rinominarlo (in una delle due lingue), cambiarne la cartella o sistemarne le etichette. Dalla pagina del mazzo puoi anche aggiungere, modificare ed eliminare singole carte.
 
-## Aggiungere mazzi ai preferiti
-
-L'icona del segnalibro su un mazzo lo salva; il filtro dei segnalibri nella pagina Mazzi mostra poi solo i mazzi salvati. Utile quando pochi mazzi sono il tuo obiettivo del momento.
-
 ## Esportare in Anki
 
 Ogni mazzo che puoi aprire ha un'azione **Esporta in Anki**. Immersive prepara l'esportazione in background e ti invia un'email quando è pronta.

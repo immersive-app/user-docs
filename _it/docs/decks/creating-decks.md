@@ -20,7 +20,7 @@ Costruire un mazzo richiede due passaggi: crea il mazzo, poi aggiungici le carte
 
 ## Aggiungere carte
 
-Il secondo passaggio dello spazio di lavoro offre un selettore del tipo di carta — **Parola**, **Frase**, **Verbo**, **Numero** — più due percorsi in blocco, **Carica foglio di calcolo** e **Dai segnalibri**.
+Il secondo passaggio dello spazio di lavoro offre un selettore del tipo di carta — **Parola**, **Frase**, **Verbo**, **Numero** — più un percorso in blocco, **Carica foglio di calcolo**.
 
 ### Parole
 
@@ -49,10 +49,6 @@ Scegli **Carica foglio di calcolo** per importare in blocco carte parola:
 1. Scegli un file **CSV o XLSX** — le colonne sono parola e traduzione, e la traduzione è facoltativa (quelle mancanti si completano da sole e sono contrassegnate, così puoi dar loro un'occhiata). È disponibile un template da scaricare.
 2. Controlla l'**anteprima**: le righe già presenti nel mazzo arrivano deselezionate, così non crei duplicati.
 3. Seleziona le righe che vuoi e scegli **Importa carte**.
-
-## Aggiungere dai segnalibri
-
-**Dai segnalibri** elenca le parole e le frasi che hai salvato durante la lettura e i ripassi — gli elementi Salvati nel tuo [Vocabolario](../vocabulary.md). Filtrali (tutto, parole, frasi), seleziona quelli che vuoi e aggiungili come carte. L'importazione copia; gli elementi salvati restano salvati.
 
 ## Frasi di esempio sulle carte parola
 

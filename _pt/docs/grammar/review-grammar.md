@@ -6,7 +6,7 @@ lang: pt
 
 # Ler observações gramaticais
 
-Como encontrar a observação de que precisa, alternar entre as línguas, trabalhar os exercícios e mantê-la nos favoritos para a próxima vez.
+Como encontrar a observação de que precisa, alternar entre as línguas e trabalhar os exercícios.
 
 ---
 
@@ -14,7 +14,6 @@ Como encontrar a observação de que precisa, alternar entre as línguas, trabal
 
 1. Abra a secção Gramática.
 2. Use a **pesquisa** no topo do índice para filtrar as observações por palavra-chave.
-3. Toque no **filtro de favoritos** para mostrar apenas as observações que marcou.
 
 Cada entrada da lista mostra o título da observação; abra uma para a ler.
 
@@ -41,14 +40,6 @@ Para responder a um exercício:
 3. Se estiver bloqueado e o exercício tiver uma dica, prima **Dica**.
 
 Alguns exercícios incluem uma tradução da frase entre parênteses, para saber sempre o que está a tentar dizer.
-
-## Algo errado aqui?
-
-Cada observação termina com **Algo errado aqui?**. Se uma explicação ou um exemplo estiver errado, abra, diga o que encontrou e envie. Os relatos chegam aos editores com a observação e as línguas do seu perfil.
-
-## Marcar uma observação como favorita
-
-Prima o **ícone de marcador** no topo de uma observação para a guardar. As observações favoritas podem ser filtradas no índice de gramática, o que transforma os seus favoritos numa estante pessoal de referência dos conceitos em que está a trabalhar.
 
 ---
 
