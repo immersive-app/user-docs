@@ -25,12 +25,15 @@ Con una cuenta, las páginas de verbos hacen más:
 - **A través de tus idiomas** — en la página de una conjugación, Immersive alinea el mismo tiempo y persona en cada idioma que conoces, ordenados de forma que los idiomas más parecidos queden uno junto al otro. Un toque añade la comparación como tarjeta de repaso en tus mazos.
 - **Mazos públicos** — las páginas de verbos muestran mazos públicos listos para usar que practican ese verbo; puedes copiar cualquiera a Mis mazos.
 - **Tarjetas de verbos en tus propios mazos** — al construir un mazo puedes generar tarjetas para los verbos y tiempos que elijas. Eso ocurre en el espacio de trabajo del mazo; ver [Crear mazos](decks/creating-decks.md).
+- **En tus mazos y En tus frases** — la página de un verbo muestra los mazos que lo contienen, con las tarjetas pendientes, y las frases de tus documentos y vocabulario que lo usan.
+- **Añadir a un mazo** — un enlace en la página del verbo abre el selector de verbos de un mazo con el verbo seleccionado.
+- **Mostrar solo tus verbos** — un filtro de la lista para los verbos que ya están en tus mazos.
 
 ## Por dónde empezar
 
 1. Abre **Verbos** desde la navegación (o simplemente visita la página de inicio).
 2. Busca un verbo, o recorre la lista — activa **Mostrar solo verbos comunes** para mantener la lista corta.
-3. Abre un verbo para ver su tabla de conjugación, y toca cualquier forma para escucharla y leer frases de ejemplo.
+3. Abre un verbo: todos los tiempos están en la página. Elige uno en la píldora de tiempo, toca el icono de escucha para oír una forma y abre una forma para leer sus frases de ejemplo.
 
 Para los detalles, ver [Trabajar con verbos](verbs/working-with-verbs.md).
 

@@ -25,12 +25,15 @@ Avec un compte, les pages de verbes font davantage :
 - **À travers vos langues** — sur une page de conjugaison, Immersive aligne le même temps et la même personne dans chaque langue que vous connaissez, ordonnés pour que les langues les plus proches soient côte à côte. Un geste suffit pour ajouter la comparaison comme carte de révision dans vos paquets.
 - **Paquets publics** — les pages de verbes présentent des paquets publics prêts à l'emploi qui pratiquent ce verbe ; vous pouvez les copier dans Mes paquets.
 - **Cartes de verbe dans vos propres paquets** — en construisant un paquet, vous pouvez générer des cartes pour les verbes et les temps de votre choix. Cela se passe dans l'espace de travail du paquet ; voir [Créer des paquets](decks/creating-decks.md).
+- **Dans vos paquets et Dans vos phrases** — une page de verbe montre les paquets qui le contiennent, avec le nombre de cartes à revoir, et les phrases de vos documents et de votre vocabulaire qui l'utilisent.
+- **Ajouter à un paquet** — un lien sur la page du verbe ouvre le sélecteur de verbes d'un paquet avec le verbe sélectionné.
+- **Afficher seulement vos verbes** — un filtre de la liste pour les verbes déjà dans vos paquets.
 
 ## Par où commencer
 
 1. Ouvrez **Verbes** depuis la navigation (ou visitez simplement la page d'accueil).
 2. Cherchez un verbe, ou parcourez la liste — activez **Afficher uniquement les verbes courants** pour garder une liste courte.
-3. Ouvrez un verbe pour voir son tableau de conjugaison, et touchez n'importe quelle forme pour l'écouter et lire des phrases d'exemple.
+3. Ouvrez un verbe : tous les temps sont sur la page. Choisissez-en un dans la pastille de temps, touchez l'icône d'écoute pour entendre une forme, et ouvrez une forme pour lire ses phrases d'exemple.
 
 Pour les détails, voir [Travailler avec les verbes](verbs/working-with-verbs.md).
 

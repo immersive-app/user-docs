@@ -24,12 +24,15 @@ With an account, the verb pages do more:
 - **Across your languages** — on a conjugation page, Immersive lines up the same tense and person in each language you know, ordered so that the most similar languages sit side by side. One tap adds the comparison as a review card in your decks.
 - **Public decks** — verb pages surface ready-made public decks that practise that verb; you can copy any of them to My Decks.
 - **Verb cards in your own decks** — when building a deck you can generate cards for the verbs and tenses you choose. That happens in the deck workspace; see [Creating decks](decks/creating-decks.md).
+- **In your decks and In your sentences** — a verb page shows the decks holding it, with due counts, and the sentences from your documents and vocabulary that use it.
+- **Add to a deck** — one link on the verb page opens a deck's verb picker with the verb selected.
+- **Show only your verbs** — a filter on the list for the verbs already in your decks.
 
 ## Where to start
 
 1. Open **Verbs** from the navigation (or just visit the home page).
 2. Search for a verb, or browse the list — turn on **Show only common verbs** to keep the list short.
-3. Open a verb to see its conjugation table, and tap any form to hear it and read example sentences.
+3. Open a verb: every tense is on the page. Choose one from the tense pill, tap the listen icon to hear a form, and open a form to read its example sentences.
 
 For the details, see [Working with verbs](verbs/working-with-verbs.md).
 
