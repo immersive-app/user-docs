@@ -23,8 +23,9 @@ El lector se basa en un principio: triunfas entendiendo el texto, no traduciendo
 
 Abre un documento para leerlo. La barra de herramientas ofrece dos vistas — **Palabras** y **Frases** — que controlan qué selecciona un toque.
 
-- **Toca** una palabra o frase para ver su traducción en tu idioma.
-- **Toca de nuevo** para escucharla en voz alta. Tocar en otro sitio pausa el audio.
+- **Toca** una palabra o frase: una pequeña tarjeta muestra su traducción, con un botón de **altavoz** para escucharla y **Más**.
+- **Toca de nuevo** para escucharla en voz alta. Tocar en otro sitio cierra la tarjeta.
+- **Más** abre un panel con todo el detalle: la traducción y el audio, la ayuda de lectura, la comparación completa, la palabra en las seis lenguas y las acciones — guardarla en tu Vocabulario, añadirla a un mazo o preguntar al Coach.
 - Cada traducción que consultas se recuerda en tu [Vocabulario](../vocabulary.md).
 
 Los ajustes de lectura también te permiten cambiar el interlineado y la sangría de párrafo, elegir la **voz de lectura** para el audio (tu elección se recuerda para ese idioma) e imprimir el documento.

@@ -23,8 +23,9 @@ Non hai un testo tuo sottomano? Apri la **Biblioteca** per testi selezionati con
 
 Apri un documento per leggerlo. La barra degli strumenti offre due viste — **Parole** e **Frasi** — che controllano cosa seleziona un tocco.
 
-- **Tocca** una parola o una frase per vederne la traduzione nella tua lingua.
-- **Tocca di nuovo** per sentirla letta ad alta voce. Toccando altrove l'audio va in pausa.
+- **Tocca** una parola o una frase: una piccola scheda mostra la traduzione, con un pulsante **altoparlante** per ascoltarla e **Altro**.
+- **Tocca di nuovo** per sentirla letta ad alta voce. Toccando altrove la scheda si chiude.
+- **Altro** apre un pannello con tutti i dettagli: la traduzione e l'audio, l'aiuto alla lettura, il confronto completo, la parola nelle sei lingue e le azioni — salvarla nel tuo Vocabolario, aggiungerla a un mazzo o chiedere al Coach.
 - Ogni traduzione che consulti viene ricordata nel tuo [Vocabolario](../vocabulary.md).
 
 Le impostazioni di lettura ti permettono anche di regolare interlinea e rientro dei paragrafi, scegliere la **voce di lettura** per l'audio (la tua scelta viene ricordata per quella lingua) e stampare il documento.

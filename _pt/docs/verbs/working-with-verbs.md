@@ -44,6 +44,8 @@ Se tiver sessão iniciada e conhecer mais do que uma das línguas do Immersive, 
 
 Se uma comparação for útil, escolha **Adicionar cartão de comparação** — torna-se um cartão de revisão num baralho de comparações dedicado, agendado como qualquer outro cartão.
 
+As frases de exemplo funcionam como no leitor: toque numa palavra para a tradução e o áudio, ou no altifalante da frase para a frase inteira.
+
 ## Nos seus baralhos e nas suas frases
 
 Com sessão iniciada, a página de um verbo (e a de uma forma) mostra também duas secções sobre o seu próprio material:

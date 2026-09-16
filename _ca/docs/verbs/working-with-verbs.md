@@ -44,6 +44,8 @@ Si has iniciat sessió i coneixes més d'una de les llengües d'Immersive, una p
 
 Si una comparació t'és útil, tria **Afegeix una targeta de comparació** — es converteix en una targeta de repàs en una baralla de comparacions dedicada, programada com qualsevol altra targeta.
 
+Les frases d'exemple funcionen com al lector: toca una paraula per la traducció i l'àudio, o l'altaveu de la frase per la frase sencera.
+
 ## A les teves baralles i les teves frases
 
 Amb la sessió iniciada, la pàgina d'un verb (i la d'una forma) mostra també dues seccions sobre el teu propi material:

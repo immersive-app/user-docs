@@ -13,7 +13,7 @@ Your Vocabulary is the list of words and sentences you have actually met while s
 
 Three activities feed your Vocabulary automatically:
 
-- **Words and sentences you translate in the reader.** Tap a word or sentence in a document to see its translation, and it is recorded.
+- **Words and sentences you translate in the reader.** Tap a word or sentence in a document to see its translation, and it is recorded. Tap a term in the list to see its translation and hear it; a sentence has its speaker at its end.
 - **Sentences you miss in review.** When a review does not go well, the item lands here so you can decide what to do with it.
 - **Corrections from your writing.** Words that come back corrected in your written documents are collected too.
 

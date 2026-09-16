@@ -35,7 +35,7 @@ Se conosci già una o più delle sei lingue di Immersive, Grammatica può mostra
 - una riga **Grammatica della lettura** compare in fondo alla panoramica di Grammatica, con quanti confronti differiscono dalle tue lingue e quanti funzionano come loro;
 - le note grammaticali che appartengono a un confronto mostrano un accesso ad esso sotto **Nelle tue lingue**;
 - nel lettore, una frase che contiene una di queste costruzioni riceve una **sottolineatura punteggiata** (vedi [Leggere documenti](documents/reading-documents.md));
-- una scheda di grammatica in ripasso rimanda al suo confronto una volta vista la risposta.
+- su una scheda di grammatica in ripasso, la frase rivelata porta il suo confronto: tocca l'altoparlante della frase per vederlo, una volta vista la risposta.
 
 Vedi [La grammatica della lettura](grammar/grammar-of-reading.md) per sfogliarla e leggere un confronto.
 

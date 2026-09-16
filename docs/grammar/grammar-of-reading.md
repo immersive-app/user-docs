@@ -40,7 +40,7 @@ Below, **See also** lists the related comparisons, and **Learn this properly** l
 
 ## In your reading
 
-When a sentence in a document contains one of these constructions, the reader gives it a **dotted underline**. Tap it: the popover shows the translation, then the comparison's summary in your reading language, which of your languages works the same way if one does, the example in your languages, and **Open the comparison**. The comparison page brings you back to the same sentence.
+When a sentence in a document contains one of these constructions, the reader gives it a **dotted underline**. Tap it: the popover shows the translation, then the comparison's summary in your reading language, which of your languages works the same way if one does, the example in your languages, and **Open the comparison**. The comparison page brings you back to the same sentence. **More** opens the comparison in full without leaving the page. On a comparison page, every example sentence is tappable in its own language, with its own audio.
 
 Every published comparison is underlined, including the ones where a language you know already works like the one you are learning: the popover then says so (*Same as Spanish*), which is the reassurance, not a gap. The underlines appear only with the cross-language comparisons turned on in your profile.
 

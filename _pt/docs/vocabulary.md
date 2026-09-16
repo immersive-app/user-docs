@@ -14,7 +14,7 @@ O seu Vocabulário é a lista das palavras e frases que realmente encontrou enqu
 
 Três atividades alimentam o seu Vocabulário automaticamente:
 
-- **Palavras e frases que traduz no leitor.** Toque numa palavra ou frase num documento para ver a sua tradução, e ela fica registada.
+- **Palavras e frases que traduz no leitor.** Toque numa palavra ou frase num documento para ver a sua tradução, e ela fica registada. Toque num termo da lista para ver a tradução e ouvi-lo; uma frase tem o seu altifalante no fim.
 - **Frases que falha na revisão.** Quando uma revisão não corre bem, o item aterra aqui, para poder decidir o que fazer com ele.
 - **Correções da sua escrita.** As palavras que voltam corrigidas nos seus documentos escritos também são recolhidas.
 

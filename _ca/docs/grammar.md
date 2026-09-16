@@ -35,7 +35,7 @@ Està desactivada fins que l'actives. A **Perfil → Compte**, sota **Llengües*
 - apareix una fila **Gramàtica de la lectura** al peu de la visió general de Gramàtica, amb quantes comparacions difereixen de les teves llengües i quantes funcionen com elles;
 - les notes gramaticals que pertanyen a una comparació hi mostren una entrada sota **En les teves llengües**;
 - al lector, una frase que conté una d'aquestes construccions rep un **subratllat de punts** (vegeu [Llegir documents](documents/reading-documents.md));
-- una targeta de gramàtica en repàs assenyala la seva comparació un cop has vist la resposta.
+- en una targeta de gramàtica en repàs, la frase revelada porta la seva comparació: toca l'altaveu de la frase per veure-la, un cop vista la resposta.
 
 Vegeu [La gramàtica de la lectura](grammar/grammar-of-reading.md) per saber com navegar-hi i llegir una comparació.
 

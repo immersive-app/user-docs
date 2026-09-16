@@ -23,8 +23,9 @@ No tens cap text a mà? Obre la **Biblioteca** per trobar textos seleccionats am
 
 Obre un document per llegir-lo. La barra d'eines ofereix dues vistes — **Paraules** i **Frases** — que controlen què selecciona un toc.
 
-- **Toca** una paraula o frase per veure'n la traducció en la teva llengua.
-- **Toca de nou** per escoltar-la en veu alta. Tocar en un altre lloc pausa l'àudio.
+- **Toca** una paraula o frase: una petita targeta en mostra la traducció, amb un botó d'**altaveu** per escoltar-la i **Més**.
+- **Toca de nou** per escoltar-la en veu alta. Tocar en un altre lloc tanca la targeta.
+- **Més** obre un plafó amb tot el detall: la traducció i l'àudio, l'ajuda a la lectura, la comparació sencera, la paraula en les sis llengües i les accions — desar-la al teu Vocabulari, afegir-la a un joc o preguntar al Coach.
 - Cada traducció que consultes queda registrada al teu [Vocabulari](../vocabulary.md).
 
 Els controls de lectura també et permeten ajustar l'interlineat i el sagnat de paràgraf, triar la **veu de lectura** de l'àudio (la teva tria es recorda per a aquella llengua) i imprimir el document.

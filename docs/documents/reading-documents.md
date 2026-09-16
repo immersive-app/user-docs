@@ -22,8 +22,9 @@ No text of your own handy? Open the **Library** for curated texts at a known lev
 
 Open a document to read it. The toolbar offers two views — **Words** and **Sentences** — which control what a tap selects.
 
-- **Tap** a word or sentence to see its translation in your language.
-- **Tap again** to hear it read aloud. Tapping elsewhere pauses the audio.
+- **Tap** a word or sentence: a small card shows its translation, with a **speaker** button to hear it and **More**.
+- **Tap again** to hear it read aloud. Tapping elsewhere closes the card.
+- **More** opens a panel with the full detail: the translation and audio, the reading aid, the comparison in full, the word across the six languages, and the actions — save it to your Vocabulary, add it to a deck, or ask the Coach about it.
 - Every translation you look up is remembered in your [Vocabulary](../vocabulary.md).
 
 The reading controls also let you adjust line spacing and paragraph indent, pick the **reading voice** for audio (your choice is remembered for that language), and print the document.

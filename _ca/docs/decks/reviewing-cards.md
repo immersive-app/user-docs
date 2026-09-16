@@ -21,7 +21,7 @@ Si no hi ha res pendent, la baralla et diu quan arriba la propera targeta. Quan 
 
 Les pestanyes a la part superior de la targeta canvien el mode de repàs. Immersive recorda l'últim mode que has fet servir i hi comença la propera vegada.
 
-- **Llegir** — llegeix l'enunciat i recorda la resposta mentalment, prem **Mostra la resposta** (la barra espaiadora també funciona) i qualifica't.
+- **Llegir** — llegeix l'enunciat i recorda la resposta mentalment, prem **Mostra la resposta** (la barra espaiadora també funciona) i qualifica't. Un cop la resposta és a la targeta, les seves paraules funcionen com al lector: toca'n una per la traducció i l'àudio, o l'altaveu de la frase per la frase sencera.
 - **Escriure** — produeix la resposta per escrit. Pots **Tocar** fitxes de paraules o lletres barrejades per col·locar-les, o canviar a **Escriure** i fer servir el teclat. La teva resposta es comprova automàticament.
 - **Escoltar** — la targeta es reprodueix en veu alta; escriu el que sents. Es comprova automàticament.
 - **Parlar** — llegeix l'enunciat en veu alta mentre graves (la gravació s'atura automàticament als deu segons). Immersive compara el que ha sentit amb la referència; si no s'ha pogut fer cap transcripció, et qualifiques tu mateix comparant amb la referència.

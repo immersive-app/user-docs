@@ -35,7 +35,7 @@ Está desativada até a ativar. Em **Perfil → Conta**, em **Idiomas**, marque 
 - aparece uma linha **Gramática da leitura** no fim da vista geral de Gramática, com quantas comparações diferem das suas línguas e quantas funcionam como elas;
 - as observações gramaticais que pertencem a uma comparação mostram uma entrada para ela em **Nas suas línguas**;
 - no leitor, uma frase que contém uma dessas construções recebe um **sublinhado tracejado** (ver [Ler documentos](documents/reading-documents.md));
-- um cartão de gramática em revisão aponta para a sua comparação depois de ver a resposta.
+- num cartão de gramática em revisão, a frase revelada traz a sua comparação: toque no altifalante da frase para a ver, depois de ver a resposta.
 
 Veja [A gramática da leitura](grammar/grammar-of-reading.md) para saber como a percorrer e ler uma comparação.
 

@@ -44,6 +44,8 @@ Si vous êtes connecté et connaissez plusieurs des langues d'Immersive, une pag
 
 Si une comparaison vous est utile, choisissez **Ajouter une carte de comparaison** — elle devient une carte de révision dans un paquet de comparaisons dédié, programmée comme n'importe quelle autre carte.
 
+Les phrases d'exemple fonctionnent comme dans le lecteur : touchez un mot pour sa traduction et son audio, ou le haut-parleur de la phrase pour la phrase entière.
+
 ## Dans vos paquets et vos phrases
 
 Une fois connecté, une page de verbe (et une page de forme) montre aussi deux sections sur votre propre matériel :

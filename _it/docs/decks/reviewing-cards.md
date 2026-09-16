@@ -21,7 +21,7 @@ Se non c'è nulla in scadenza, il mazzo ti dice quando arriva la prossima carta.
 
 Le schede in cima alla carta cambiano la modalità di ripasso. Immersive ricorda l'ultima modalità che hai usato e riparte da lì la volta successiva.
 
-- **Leggere** — leggi la richiesta e richiama la risposta a mente, premi **Mostra risposta** (funziona anche Spazio), poi valutati.
+- **Leggere** — leggi la richiesta e richiama la risposta a mente, premi **Mostra risposta** (funziona anche Spazio), poi valutati. Una volta che la risposta è sulla carta, le sue parole funzionano come nel lettore: toccane una per la traduzione e l'audio, o l'altoparlante della frase per la frase intera.
 - **Scrivere** — produci la risposta per iscritto. Puoi usare **Tocca** per mettere in ordine tessere mescolate di parole o lettere, oppure passare a **Digita** e usare la tastiera. La tua risposta viene controllata automaticamente.
 - **Ascoltare** — la carta viene letta ad alta voce; scrivi ciò che senti. Controllo automatico.
 - **Parlare** — leggi la richiesta ad alta voce mentre registri (la registrazione si ferma automaticamente a dieci secondi). Immersive confronta ciò che ha sentito con il riferimento; se non è stato possibile ottenere una trascrizione, ti valuti da solo rispetto al riferimento.

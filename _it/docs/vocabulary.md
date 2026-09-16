@@ -14,7 +14,7 @@ Il tuo Vocabolario è l'elenco delle parole e delle frasi che hai davvero incont
 
 Tre attività alimentano automaticamente il tuo Vocabolario:
 
-- **Le parole e le frasi che traduci nel lettore.** Tocca una parola o una frase in un documento per vederne la traduzione, e viene registrata.
+- **Le parole e le frasi che traduci nel lettore.** Tocca una parola o una frase in un documento per vederne la traduzione, e viene registrata. Tocca un termine nell'elenco per vederne la traduzione e ascoltarlo; una frase ha il suo altoparlante alla fine.
 - **Le frasi che sbagli nei ripassi.** Quando un ripasso non va bene, l'elemento finisce qui, così puoi decidere cosa farne.
 - **Le correzioni della tua scrittura.** Anche le parole che tornano corrette nei tuoi documenti scritti vengono raccolte.
 

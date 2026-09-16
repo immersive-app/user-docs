@@ -41,7 +41,7 @@ Sotto, **Vedi anche** elenca i confronti collegati, e **Approfondire** rimanda a
 
 ## Nelle tue letture
 
-Quando una frase di un documento contiene una di queste costruzioni, il lettore le dà una **sottolineatura punteggiata**. Toccala: il riquadro mostra la traduzione, poi il riassunto del confronto nella tua lingua di lettura, quale delle tue lingue funziona allo stesso modo se ce n'è una, l'esempio nelle tue lingue e **Apri il confronto**. La pagina del confronto ti riporta alla stessa frase.
+Quando una frase di un documento contiene una di queste costruzioni, il lettore le dà una **sottolineatura punteggiata**. Toccala: il riquadro mostra la traduzione, poi il riassunto del confronto nella tua lingua di lettura, quale delle tue lingue funziona allo stesso modo se ce n'è una, l'esempio nelle tue lingue e **Apri il confronto**. La pagina del confronto ti riporta alla stessa frase. **Altro** apre il confronto completo senza lasciare la pagina. In una pagina di confronto, ogni frase di esempio si può toccare nella sua lingua, con il suo audio.
 
 Tutti i confronti pubblicati sono sottolineati, compresi quelli in cui una lingua che conosci funziona già come quella che stai imparando: il riquadro allora lo dice (*Come in spagnolo*), ed è la rassicurazione, non una lacuna. Le sottolineature compaiono solo con i confronti tra lingue attivati nel tuo profilo.
 
