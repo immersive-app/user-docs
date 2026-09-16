@@ -41,7 +41,7 @@ Debajo, **Ver también** enumera las comparaciones relacionadas, y **Aprenderlo 
 
 ## En tus lecturas
 
-Cuando una frase de un documento contiene una de estas construcciones, el lector la **subraya con puntos**. Tócala: el panel muestra la traducción, luego el resumen de la comparación en tu lengua de lectura, cuál de tus lenguas funciona igual si alguna lo hace, el ejemplo en tus lenguas y **Abrir la comparación**. La página de la comparación te devuelve a la misma frase.
+Cuando una frase de un documento contiene una de estas construcciones, el lector la **subraya con puntos**. Tócala: el panel muestra la traducción, luego el resumen de la comparación en tu lengua de lectura, cuál de tus lenguas funciona igual si alguna lo hace, el ejemplo en tus lenguas y **Abrir la comparación**. La página de la comparación te devuelve a la misma frase. **Más** abre la comparación completa sin salir de la página. En una página de comparación, cada frase de ejemplo se puede tocar en su propia lengua, con su propio audio.
 
 Todas las comparaciones publicadas se subrayan, también aquellas en las que una lengua que conoces ya funciona como la que aprendes: el panel entonces lo dice (*Igual que en español*), y eso es la tranquilidad, no un hueco. Los subrayados solo aparecen con las comparaciones entre lenguas activadas en tu perfil.
 

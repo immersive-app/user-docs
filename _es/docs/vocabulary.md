@@ -14,7 +14,7 @@ Tu Vocabulario es la lista de palabras y frases que has encontrado de verdad mie
 
 Tres actividades alimentan tu Vocabulario automáticamente:
 
-- **Palabras y frases que traduces en el lector.** Toca una palabra o frase en un documento para ver su traducción, y queda registrada.
+- **Palabras y frases que traduces en el lector.** Toca una palabra o frase en un documento para ver su traducción, y queda registrada. Toca un término de la lista para ver su traducción y escucharlo; una frase tiene su altavoz al final.
 - **Frases que fallas al repasar.** Cuando un repaso no sale bien, el elemento acaba aquí para que decidas qué hacer con él.
 - **Correcciones de tu escritura.** Las palabras que vuelven corregidas en tus documentos escritos también se recogen.
 

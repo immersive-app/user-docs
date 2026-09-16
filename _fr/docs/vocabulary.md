@@ -14,7 +14,7 @@ Votre Vocabulaire est la liste des mots et des phrases que vous avez réellement
 
 Trois activités alimentent automatiquement votre Vocabulaire :
 
-- **Les mots et les phrases que vous traduisez dans le lecteur.** Touchez un mot ou une phrase dans un document pour voir sa traduction, et l'élément est enregistré.
+- **Les mots et les phrases que vous traduisez dans le lecteur.** Touchez un mot ou une phrase dans un document pour voir sa traduction, et l'élément est enregistré. Touchez un terme de la liste pour voir sa traduction et l'écouter ; une phrase a son haut-parleur à la fin.
 - **Les phrases manquées en révision.** Quand une révision se passe mal, l'élément atterrit ici pour que vous décidiez quoi en faire.
 - **Les corrections de vos écrits.** Les mots qui reviennent corrigés dans vos documents écrits sont collectés aussi.
 

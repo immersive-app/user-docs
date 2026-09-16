@@ -20,7 +20,7 @@ If nothing is due, the deck tells you when the next card comes due. When new car
 
 Tabs at the top of the card switch the review mode. Immersive remembers the last mode you used and starts there next time.
 
-- **Read** — read the prompt and recall the answer in your head, press **Show answer** (Space works too), then grade yourself.
+- **Read** — read the prompt and recall the answer in your head, press **Show answer** (Space works too), then grade yourself. Once the answer is on the card, its words work as in the reader: tap one for its translation and audio, or the sentence's speaker for the whole sentence.
 - **Write** — produce the answer in writing. You can **Tap** shuffled word or letter tiles into place, or switch to **Type** and use the keyboard. Your answer is checked automatically.
 - **Listen** — the card is spoken aloud; type what you hear. Checked automatically.
 - **Speak** — read the prompt aloud while recording (recording auto-stops at ten seconds). Immersive compares what it heard against the reference; if no transcript could be made, you grade yourself against the reference.

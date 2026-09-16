@@ -35,7 +35,7 @@ Elle est désactivée tant que vous ne l'activez pas. Dans **Profil → Compte**
 - une ligne **Grammaire de la lecture** apparaît au pied de la vue d'ensemble de Grammaire, avec le nombre de comparaisons qui diffèrent de vos langues et le nombre qui fonctionnent comme elles ;
 - les notes de grammaire qui appartiennent à une comparaison y donnent accès sous **Dans vos langues** ;
 - dans le lecteur, une phrase qui contient l'une de ces constructions reçoit un **soulignement pointillé** (voir [Lire des documents](documents/reading-documents.md)) ;
-- une carte de grammaire en révision renvoie à sa comparaison une fois la réponse vue.
+- sur une carte de grammaire en révision, la phrase révélée porte sa comparaison : touchez le haut-parleur de la phrase pour la voir, une fois la réponse affichée.
 
 Voir [La grammaire de la lecture](grammar/grammar-of-reading.md) pour la parcourir et lire une comparaison.
 

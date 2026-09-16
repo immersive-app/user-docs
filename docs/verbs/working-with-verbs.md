@@ -43,6 +43,8 @@ If you are signed in and know more than one of Immersive's languages, a conjugat
 
 If a comparison is useful, choose **Add comparison card** — it becomes a review card in a dedicated comparisons deck, scheduled like any other card.
 
+Example sentences work as in the reader: tap a word for its translation and audio, or the sentence's speaker for the whole sentence.
+
 ## In your decks and sentences
 
 Signed in, a verb page (and a form page) also shows two sections about your own material:

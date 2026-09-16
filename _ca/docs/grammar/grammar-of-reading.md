@@ -41,7 +41,7 @@ A sota, **Vegeu també** llista les comparacions relacionades, i **Aprendre-ho a
 
 ## A les teves lectures
 
-Quan una frase d'un document conté una d'aquestes construccions, el lector la **subratlla amb punts**. Toca-la: el requadre mostra la traducció, després el resum de la comparació en la teva llengua de lectura, quina de les teves llengües funciona igual si n'hi ha alguna, l'exemple en les teves llengües i **Obre la comparació**. La pàgina de la comparació et torna a la mateixa frase.
+Quan una frase d'un document conté una d'aquestes construccions, el lector la **subratlla amb punts**. Toca-la: el requadre mostra la traducció, després el resum de la comparació en la teva llengua de lectura, quina de les teves llengües funciona igual si n'hi ha alguna, l'exemple en les teves llengües i **Obre la comparació**. La pàgina de la comparació et torna a la mateixa frase. **Més** obre la comparació sencera sense sortir de la pàgina. En una pàgina de comparació, cada frase d'exemple es pot tocar en la seva pròpia llengua, amb el seu propi àudio.
 
 Totes les comparacions publicades se subratllen, també aquelles en què una llengua que coneixes ja funciona com la que aprens: el requadre llavors ho diu (*Igual que en espanyol*), i això és la tranquil·litat, no un buit. Els subratllats només apareixen amb les comparacions entre llengües activades al teu perfil.
 

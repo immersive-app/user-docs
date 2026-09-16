@@ -23,8 +23,9 @@ Pas de texte sous la main ? Ouvrez la **Bibliothèque** pour des textes choisis,
 
 Ouvrez un document pour le lire. La barre d'outils propose deux affichages — **Mots** et **Phrases** — qui déterminent ce qu'un toucher sélectionne.
 
-- **Touchez** un mot ou une phrase pour voir sa traduction dans votre langue.
-- **Touchez à nouveau** pour l'écouter. Toucher ailleurs met l'audio en pause.
+- **Touchez** un mot ou une phrase : une petite carte montre sa traduction, avec un bouton **haut-parleur** pour l'écouter et **Plus**.
+- **Touchez à nouveau** pour l'écouter. Toucher ailleurs ferme la carte.
+- **Plus** ouvre un panneau avec tout le détail : la traduction et l'audio, l'aide à la lecture, la comparaison en entier, le mot dans les six langues, et les actions — l'enregistrer dans votre Vocabulaire, l'ajouter à un paquet, ou poser une question au Coach.
 - Chaque traduction que vous consultez est mémorisée dans votre [Vocabulaire](../vocabulary.md).
 
 Les réglages de lecture permettent aussi d'ajuster l'interligne et l'alinéa des paragraphes, de choisir la **voix de lecture** pour l'audio (votre choix est mémorisé pour cette langue) et d'imprimer le document.

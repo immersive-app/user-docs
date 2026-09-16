@@ -44,6 +44,8 @@ Se hai effettuato l'accesso e conosci più di una delle lingue di Immersive, una
 
 Se un confronto ti è utile, scegli **Aggiungi una scheda di confronto** — diventa una carta di ripasso in un mazzo dedicato ai confronti, pianificata come qualsiasi altra carta.
 
+Le frasi di esempio funzionano come nel lettore: tocca una parola per la traduzione e l'audio, o l'altoparlante della frase per la frase intera.
+
 ## Nei tuoi mazzi e nelle tue frasi
 
 Se hai effettuato l'accesso, la pagina di un verbo (e quella di una forma) mostra anche due sezioni sul tuo materiale:

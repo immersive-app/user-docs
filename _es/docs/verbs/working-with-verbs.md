@@ -44,6 +44,8 @@ Si has iniciado sesión y conoces más de uno de los idiomas de Immersive, la p�
 
 Si una comparación te resulta útil, elige **Añadir tarjeta de comparación** — se convierte en una tarjeta de repaso en un mazo de comparaciones dedicado, programada como cualquier otra tarjeta.
 
+Las frases de ejemplo funcionan como en el lector: toca una palabra para su traducción y audio, o el altavoz de la frase para la frase entera.
+
 ## En tus mazos y tus frases
 
 Con la sesión iniciada, la página de un verbo (y la de una forma) muestra también dos secciones sobre tu propio material:

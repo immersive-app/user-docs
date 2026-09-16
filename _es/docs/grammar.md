@@ -35,7 +35,7 @@ Está desactivada hasta que la actives. En **Perfil → Cuenta**, bajo **Idiomas
 - aparece una fila **Gramática de la lectura** al pie de la vista general de Gramática, con cuántas comparaciones difieren de tus lenguas y cuántas funcionan como ellas;
 - las notas gramaticales que pertenecen a una comparación muestran una entrada hacia ella bajo **En tus lenguas**;
 - en el lector, una frase que contiene una de esas construcciones lleva un **subrayado de puntos** (ver [Leer documentos](documents/reading-documents.md));
-- una tarjeta de gramática en repaso señala su comparación una vez has visto la respuesta.
+- en una tarjeta de gramática en repaso, la frase revelada lleva su comparación: toca el altavoz de la frase para verla, una vez vista la respuesta.
 
 Consulta [La gramática de la lectura](grammar/grammar-of-reading.md) para saber cómo navegarla y leer una comparación.
 

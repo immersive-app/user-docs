@@ -14,7 +14,7 @@ El teu Vocabulari és la llista de paraules i frases que realment has trobat men
 
 Tres activitats alimenten el teu Vocabulari automàticament:
 
-- **Les paraules i frases que tradueixes al lector.** Toca una paraula o frase en un document per veure'n la traducció, i queda registrada.
+- **Les paraules i frases que tradueixes al lector.** Toca una paraula o frase en un document per veure'n la traducció, i queda registrada. Toca un terme de la llista per veure'n la traducció i escoltar-lo; una frase té el seu altaveu al final.
 - **Les frases que falles als repassos.** Quan un repàs no va bé, l'element aterra aquí perquè decideixis què fer-ne.
 - **Les correccions de la teva escriptura.** Les paraules que tornen corregides als teus documents escrits també es recullen.
 

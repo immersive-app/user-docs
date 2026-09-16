@@ -41,7 +41,7 @@ Abaixo, **Ver também** lista as comparações relacionadas, e **Aprender a fund
 
 ## Nas suas leituras
 
-Quando uma frase de um documento contém uma destas construções, o leitor dá-lhe um **sublinhado tracejado**. Toque-lhe: o balão mostra a tradução, depois o resumo da comparação na sua língua de leitura, qual das suas línguas funciona da mesma forma se alguma o fizer, o exemplo nas suas línguas e **Abrir a comparação**. A página da comparação devolve-o à mesma frase.
+Quando uma frase de um documento contém uma destas construções, o leitor dá-lhe um **sublinhado tracejado**. Toque-lhe: o balão mostra a tradução, depois o resumo da comparação na sua língua de leitura, qual das suas línguas funciona da mesma forma se alguma o fizer, o exemplo nas suas línguas e **Abrir a comparação**. A página da comparação devolve-o à mesma frase. **Mais** abre a comparação completa sem sair da página. Numa página de comparação, cada frase de exemplo pode ser tocada na sua própria língua, com o seu próprio áudio.
 
 Todas as comparações publicadas são sublinhadas, incluindo aquelas em que uma língua que conhece já funciona como a que está a aprender: o balão então di-lo (*Igual a espanhol*), e isso é a tranquilidade, não uma lacuna. Os sublinhados só aparecem com as comparações entre línguas ativadas no seu perfil.
 

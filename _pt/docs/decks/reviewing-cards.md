@@ -21,7 +21,7 @@ Se nada estiver pendente, o baralho diz-lhe quando chega o próximo cartão. Qua
 
 Separadores no topo do cartão mudam o modo de revisão. O Immersive lembra-se do último modo que usou e começa aí da próxima vez.
 
-- **Ler** — leia o enunciado e recorde a resposta de cabeça, prima **Mostrar resposta** (Espaço também funciona) e depois avalie-se.
+- **Ler** — leia o enunciado e recorde a resposta de cabeça, prima **Mostrar resposta** (Espaço também funciona) e depois avalie-se. Quando a resposta está no cartão, as suas palavras funcionam como no leitor: toque numa para a tradução e o áudio, ou no altifalante da frase para a frase inteira.
 - **Escrever** — produza a resposta por escrito. Pode **Tocar** em peças baralhadas de palavras ou letras para as colocar no lugar, ou mudar para **Digitar** e usar o teclado. A resposta é verificada automaticamente.
 - **Escutar** — o cartão é lido em voz alta; escreva o que ouve. Verificado automaticamente.
 - **Falar** — leia o enunciado em voz alta enquanto grava (a gravação para automaticamente aos dez segundos). O Immersive compara o que ouviu com a referência; se não for possível fazer uma transcrição, avalia-se a si próprio em comparação com a referência.

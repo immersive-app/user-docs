@@ -21,7 +21,7 @@ Si rien n'est à réviser, le paquet vous dit quand la prochaine carte arrive. S
 
 Des onglets en haut de la carte changent le mode de révision. Immersive se souvient du dernier mode utilisé et y démarre la fois suivante.
 
-- **Lire** — lisez la question et rappelez-vous la réponse mentalement, appuyez sur **Afficher la réponse** (Espace fonctionne aussi), puis notez-vous.
+- **Lire** — lisez la question et rappelez-vous la réponse mentalement, appuyez sur **Afficher la réponse** (Espace fonctionne aussi), puis notez-vous. Une fois la réponse affichée, les mots de la carte fonctionnent comme dans le lecteur : touchez-en un pour sa traduction et son audio, ou le haut-parleur de la phrase pour la phrase entière.
 - **Écrire** — produisez la réponse par écrit. Vous pouvez **Toucher** des tuiles de mots ou de caractères mélangées pour les remettre en place, ou passer en mode **Taper** et utiliser le clavier. Votre réponse est vérifiée automatiquement.
 - **Écouter** — la carte est lue à voix haute ; tapez ce que vous entendez. Vérifié automatiquement.
 - **Parler** — lisez la question à voix haute en vous enregistrant (l'enregistrement s'arrête automatiquement à dix secondes). Immersive compare ce qu'il a entendu à la référence ; si aucune transcription n'a pu être produite, vous vous notez par rapport à la référence.

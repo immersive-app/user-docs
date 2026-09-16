@@ -41,7 +41,7 @@ Plus bas, **Voir aussi** liste les comparaisons liées, et **Approfondir** renvo
 
 ## Dans vos lectures
 
-Quand une phrase d'un document contient l'une de ces constructions, le lecteur lui donne un **soulignement pointillé**. Touchez-la : la bulle montre la traduction, puis le résumé de la comparaison dans votre langue de lecture, celle de vos langues qui fonctionne de la même façon s'il y en a une, l'exemple dans vos langues, et **Ouvrir la comparaison**. La page de comparaison vous ramène à la même phrase.
+Quand une phrase d'un document contient l'une de ces constructions, le lecteur lui donne un **soulignement pointillé**. Touchez-la : la bulle montre la traduction, puis le résumé de la comparaison dans votre langue de lecture, celle de vos langues qui fonctionne de la même façon s'il y en a une, l'exemple dans vos langues, et **Ouvrir la comparaison**. La page de comparaison vous ramène à la même phrase. **Plus** ouvre la comparaison en entier sans quitter la page. Sur une page de comparaison, chaque phrase d'exemple peut être touchée dans sa propre langue, avec son propre audio.
 
 Toutes les comparaisons publiées sont soulignées, y compris celles où une langue que vous connaissez fonctionne déjà comme celle que vous apprenez : la bulle le dit alors (*Pareil qu'en espagnol*), et c'est là le réconfort, pas un manque. Les soulignements n'apparaissent qu'avec les comparaisons entre langues activées dans votre profil.
 

@@ -21,7 +21,7 @@ Si no hay nada pendiente, el mazo te dice cuándo llega la próxima tarjeta. Cua
 
 Las pestañas en la parte superior de la tarjeta cambian el modo de repaso. Immersive recuerda el último modo que usaste y empieza ahí la próxima vez.
 
-- **Leer** — lee el enunciado y recuerda la respuesta mentalmente, pulsa **Mostrar respuesta** (Espacio también funciona) y luego califícate.
+- **Leer** — lee el enunciado y recuerda la respuesta mentalmente, pulsa **Mostrar respuesta** (Espacio también funciona) y luego califícate. Una vez que la respuesta está en la tarjeta, sus palabras funcionan como en el lector: toca una para su traducción y audio, o el altavoz de la frase para la frase entera.
 - **Escribir** — produce la respuesta por escrito. Puedes **Tocar** fichas de palabras o letras desordenadas para colocarlas, o cambiar a **Escribir** y usar el teclado. Tu respuesta se comprueba automáticamente.
 - **Escuchar** — la tarjeta se lee en voz alta; escribe lo que oyes. Se comprueba automáticamente.
 - **Hablar** — lee el enunciado en voz alta mientras grabas (la grabación se detiene automáticamente a los diez segundos). Immersive compara lo que oyó con la referencia; si no se pudo obtener una transcripción, te calificas tú comparando con la referencia.

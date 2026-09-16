@@ -34,7 +34,7 @@ It is off until you turn it on. In **Profile → Account**, under **Languages**,
 - a **Grammar of reading** row appears at the foot of the Grammar overview, counting how many comparisons differ from your languages and how many work like them;
 - grammar notes that belong to a comparison show a door into it under **Across your languages**;
 - in the reader, a sentence that contains one of those constructions gets a **dotted underline** (see [Reading documents](documents/reading-documents.md));
-- a grammar card in review points to its comparison once you have seen the answer.
+- on a grammar card in review, the revealed sentence carries its comparison: tap the sentence's speaker to see it, once you have seen the answer.
 
 See [The grammar of reading](grammar/grammar-of-reading.md) for how to browse it and read a comparison.
 
