@@ -28,7 +28,7 @@ Cada observação traz distintivos com o seu nível e a sua categoria.
 
 ## A gramática da leitura
 
-Se já conhece uma ou mais das seis línguas da Immersive, Gramática também lhe pode mostrar onde a língua que está a aprender **difere das que conhece** — os pontos onde um leitor tropeça, e nada mais. É a *gramática da leitura*: uma referência curta inspirada no método de intercompreensão EuRom5, organizada pela ordem do livro e não por nível.
+Se já conhece uma ou mais das seis línguas da Immersive, Gramática também lhe pode mostrar onde a língua que está a aprender **difere das que conhece** — os pontos onde um leitor tropeça, e nada mais. É a *gramática da leitura*: o [Método Ponte](grammar/grammar-of-reading.md) aplicado à gramática, uma referência curta organizada por temas e não por nível.
 
 Está desativada até a ativar. Em **Perfil → Conta**, em **Idiomas**, marque **Usar as línguas que conheço para explicar a que estou a aprender**. A partir daí:
 
@@ -39,15 +39,11 @@ Está desativada até a ativar. Em **Perfil → Conta**, em **Idiomas**, marque 
 
 Veja [A gramática da leitura](grammar/grammar-of-reading.md) para saber como a percorrer e ler uma comparação.
 
-## Manter observações à mão
-
-Use o ícone de **marcador** em qualquer observação para a guardar, e depois filtre o índice de gramática para mostrar apenas as observações marcadas como favoritas. Os favoritos são a casa natural dos conceitos que está sempre a ter de consultar.
-
 ## Por onde começar
 
 1. Abra **Gramática** a partir da navegação.
 2. Filtre ou pesquise o conceito de que precisa — ou percorra as categorias do seu nível para ver o que há.
-3. Leia a observação, experimente os exercícios e marque-a como favorita se for querer voltar a ela.
+3. Leia a observação e experimente os exercícios.
 
 Para os pormenores, ver [Ler observações gramaticais](grammar/review-grammar.md).
 

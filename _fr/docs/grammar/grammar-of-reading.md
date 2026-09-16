@@ -7,15 +7,25 @@ lang: fr
 
 # La grammaire de la lecture
 
-Une courte référence aux endroits où la langue que vous apprenez diffère de celles que vous connaissez déjà — et où elle n'en diffère pas. Elle suit la méthode EuRom5 de lecture entre langues romanes (plus l'anglais) : seulement les points où un lecteur trébuche, chacun énoncé de la même façon dans les six langues, les formes côte à côte.
+Une courte référence aux endroits où la langue que vous apprenez diffère de celles que vous connaissez déjà — et où elle n'en diffère pas. C'est la Méthode des Ponts appliquée à la grammaire : seulement les points où un lecteur trébuche, chacun énoncé de la même façon dans les six langues, les formes côte à côte.
 
 Elle s'adresse à ceux qui connaissent plus d'une langue d'Immersive ; elle est donc désactivée tant que vous ne l'activez pas : **Profil → Compte → Langues → Utiliser les langues que je connais pour expliquer celle que j'apprends**.
 
 ---
 
+## La Méthode des Ponts
+
+Les six langues d'Immersive — portugais, espagnol, catalan, italien, français et anglais — sont de proches parentes. Si vous lisez l'une d'elles, vous possédez déjà une bonne part des autres : des milliers de mots communs, les mêmes constructions, des terminaisons parallèles. La Méthode des Ponts est l'idée derrière Immersive : au lieu d'enseigner la langue que vous apprenez à partir de zéro, chaque partie de l'application part des langues que vous connaissez et les étire.
+
+En pratique, cela tient en trois choses :
+
+- **La compréhension d'abord.** Vous réussissez en comprenant un texte, pas en traduisant chaque mot, et l'approximation est permise. La compréhension devance la parole et l'écrit, aussi Immersive suit les deux séparément.
+- **Ce que vous savez est une ressource.** Les aides de mot montrent le sosie dans une langue que vous connaissez, le lecteur ne signale que ce qui est opaque *pour vous* compte tenu de vos langues, et les aides s'estompent à mesure que votre niveau monte.
+- **La grammaire comme comparaison.** La grammaire de la lecture est la méthode appliquée à la grammaire : les constructions où un lecteur trébuche, chacune énoncée de la même façon dans les six langues, les formes côte à côte dans l'ordre du continuum roman (portugais, espagnol, catalan, italien, français, puis l'anglais du côté du français), si bien que chaque colonne n'est qu'un petit pas par rapport à sa voisine.
+
 ## Parcourir par section
 
-Ouvrez **Grammaire** et choisissez la ligne **Grammaire de la lecture** au pied de la vue d'ensemble (ou allez sur `/grammar/reading`). Les 26 sections sont listées dans l'ordre du livre sous sept rubriques : lexique, sons et graphie, syntaxe, système verbal, déterminants, mots-outils, morphologie. Chaque section indique combien de comparaisons elle contient, combien **diffèrent de vos langues** et combien fonctionnent **comme les vôtres**.
+Ouvrez **Grammaire** et choisissez la ligne **Grammaire de la lecture** au pied de la vue d'ensemble (ou allez sur `/grammar/reading`). Les 26 sections sont listées par thème sous sept rubriques : lexique, sons et graphie, syntaxe, système verbal, déterminants, mots-outils, morphologie. Chaque section indique combien de comparaisons elle contient, combien **diffèrent de vos langues** et combien fonctionnent **comme les vôtres**.
 
 Ouvrez une section pour voir ses comparaisons. Chaque ligne nomme les langues qui diffèrent et indique **Diffère des vôtres** ou **Comme en** — la langue à vous qui fonctionne de la même façon. Les lignes marquées **Tableau de formes** sont des tableaux de conjugaison et s'ouvrent dans Verbes.
 
@@ -27,17 +37,13 @@ Une page de comparaison a trois parties :
 2. **L'énoncé**, dans la langue que vous lisez le mieux. **Lire en** le bascule dans n'importe laquelle des six ; votre choix est mémorisé.
 3. **Les exemples** : les mêmes phrases dans les six langues, une ligne par langue dans l'ordre du continuum roman (portugais, espagnol, catalan, italien, français, anglais). Un pointillé marque la langue qui diffère ; vos langues et celle que vous apprenez sont en encre pleine.
 
-Plus bas, **Voir aussi** liste les comparaisons que le livre met en relation, et **Approfondir** renvoie aux notes de grammaire avec exercices qui enseignent la construction.
+Plus bas, **Voir aussi** liste les comparaisons liées, et **Approfondir** renvoie aux notes de grammaire avec exercices qui enseignent la construction.
 
 ## Dans vos lectures
 
 Quand une phrase d'un document contient l'une de ces constructions, le lecteur lui donne un **soulignement pointillé**. Touchez-la : la bulle montre la traduction, puis le résumé de la comparaison dans votre langue de lecture, celle de vos langues qui fonctionne de la même façon s'il y en a une, l'exemple dans vos langues, et **Ouvrir la comparaison**. La page de comparaison vous ramène à la même phrase.
 
 Toutes les comparaisons publiées sont soulignées, y compris celles où une langue que vous connaissez fonctionne déjà comme celle que vous apprenez : la bulle le dit alors (*Pareil qu'en espagnol*), et c'est là le réconfort, pas un manque. Les soulignements n'apparaissent qu'avec les comparaisons entre langues activées dans votre profil.
-
-## Quelque chose cloche ?
-
-Chaque comparaison se termine par **Quelque chose cloche ?**. Ouvrez-le, dites ce qui ne va pas, envoyez : le signalement parvient aux éditeurs avec la comparaison, la langue dans laquelle vous l'avez lue et les langues de votre profil. La même entrée se trouve au pied de chaque note de grammaire.
 
 ---
 

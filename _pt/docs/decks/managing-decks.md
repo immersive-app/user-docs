@@ -49,10 +49,6 @@ As etiquetas agrupam baralhos entre pastas. Adicione-as ao criar ou editar um ba
 
 Abra um baralho e escolha a ação de edição para mudar o nome (em qualquer das línguas), mudar a pasta ou ajustar as etiquetas. A partir da página do baralho, também pode adicionar, editar e eliminar cartões individuais.
 
-## Marcar baralhos como favoritos
-
-O ícone de marcador num baralho guarda-o; o filtro de favoritos na página Baralhos passa então a mostrar apenas os baralhos marcados. Útil quando alguns baralhos são o seu foco atual.
-
 ## Exportar para o Anki
 
 Qualquer baralho que consiga abrir tem uma ação **Exportar para Anki**. O Immersive prepara a exportação em segundo plano e envia-lha por e-mail quando estiver pronta.

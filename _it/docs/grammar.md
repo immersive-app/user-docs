@@ -28,7 +28,7 @@ Ogni nota porta dei badge che ne mostrano livello e categoria.
 
 ## La grammatica della lettura
 
-Se conosci già una o più delle sei lingue di Immersive, Grammatica può mostrarti anche dove la lingua che stai imparando **differisce da quelle che conosci** — i punti in cui un lettore inciampa, e nient'altro. È la *grammatica della lettura*: un breve riferimento ispirato al metodo di intercomprensione EuRom5, organizzato nell'ordine del libro e non per livello.
+Se conosci già una o più delle sei lingue di Immersive, Grammatica può mostrarti anche dove la lingua che stai imparando **differisce da quelle che conosci** — i punti in cui un lettore inciampa, e nient'altro. È la *grammatica della lettura*: il [Metodo Ponte](grammar/grammar-of-reading.md) applicato alla grammatica, un breve riferimento organizzato per argomenti e non per livello.
 
 È disattivata finché non la attivi. In **Profilo → Account**, sotto **Lingue**, spunta **Usa le lingue che conosco per spiegare quella che sto imparando**. Da quel momento:
 
@@ -39,15 +39,11 @@ Se conosci già una o più delle sei lingue di Immersive, Grammatica può mostra
 
 Vedi [La grammatica della lettura](grammar/grammar-of-reading.md) per sfogliarla e leggere un confronto.
 
-## Tenere le note a portata di mano
-
-Usa l'icona del **segnalibro** su qualsiasi nota per salvarla, poi filtra l'indice della grammatica per mostrare solo le note che hai salvato. I preferiti sono la casa naturale dei concetti che devi continuare a cercare.
-
 ## Da dove cominciare
 
 1. Apri **Grammatica** dalla navigazione.
 2. Filtra o cerca il concetto che ti serve — oppure sfoglia le categorie del tuo livello per vedere cosa c'è.
-3. Leggi la nota, prova i suoi esercizi e salvala nei preferiti se ti servirà di nuovo.
+3. Leggi la nota e prova i suoi esercizi.
 
 Per i dettagli, vedi [Leggere le note grammaticali](grammar/review-grammar.md).
 

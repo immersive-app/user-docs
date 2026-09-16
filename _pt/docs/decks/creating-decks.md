@@ -20,7 +20,7 @@ Construir um baralho tem dois passos: criar o baralho e depois adicionar-lhe car
 
 ## Adicionar cartões
 
-O segundo passo do espaço de trabalho oferece um seletor de tipo de cartão — **Palavra**, **Frase**, **Verbo**, **Número** — além de duas vias em massa, **Enviar planilha** e **Dos marcadores**.
+O segundo passo do espaço de trabalho oferece um seletor de tipo de cartão — **Palavra**, **Frase**, **Verbo**, **Número** — além de uma via em massa, **Enviar planilha**.
 
 ### Palavras
 
@@ -49,10 +49,6 @@ Escolha **Enviar planilha** para importar cartões de palavra em massa:
 1. Escolha um ficheiro **CSV ou XLSX** — as colunas são palavra e tradução, e a tradução é opcional (as que faltarem são preenchidas automaticamente e ficam marcadas para poder conferi-las de relance). Há um modelo disponível para descarregar.
 2. Reveja a **pré-visualização**: as linhas que já estão no baralho chegam desmarcadas, para não criar duplicados.
 3. Selecione as linhas que quer e escolha **Importar cartões**.
-
-## Adicionar dos marcadores
-
-**Dos marcadores** lista as palavras e frases que guardou enquanto lia e revia — os itens Salvos no seu [Vocabulário](../vocabulary.md). Filtre-os (tudo, palavras, frases), selecione os que quiser e adicione-os como cartões. Importar copia; os seus itens salvos continuam salvos.
 
 ## Frases de exemplo nos cartões de palavra
 

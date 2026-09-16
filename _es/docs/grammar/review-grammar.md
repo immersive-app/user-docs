@@ -14,7 +14,6 @@ Cómo encontrar la nota que necesitas, cambiarla de idioma, trabajar sus ejercic
 
 1. Abre la sección de Gramática.
 2. Usa la **búsqueda** en la parte superior del índice para filtrar las notas por palabra clave.
-3. Toca el **filtro de marcadores** para mostrar solo las notas que has marcado.
 
 Cada entrada de la lista muestra el título de la nota; abre una para leerla.
 
@@ -41,14 +40,6 @@ Para responder un ejercicio:
 3. Si estás atascado y el ejercicio tiene una pista, pulsa **Pista**.
 
 Algunos ejercicios incluyen una traducción de la frase entre corchetes, para que siempre sepas qué intentas decir.
-
-## ¿Algo no cuadra?
-
-Toda nota termina con **¿Algo no cuadra?**. Si una explicación o un ejemplo está mal, ábrelo, cuenta lo que encontraste y envíalo. Los avisos llegan a los editores con la nota y las lenguas de tu perfil.
-
-## Marcar una nota
-
-Pulsa el **icono de marcador** en la parte superior de una nota para guardarla. Las notas marcadas pueden filtrarse en el índice de gramática, lo que convierte tus marcadores en una estantería de referencia personal con los conceptos en los que estás trabajando.
 
 ---
 

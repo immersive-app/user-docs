@@ -20,7 +20,7 @@ Construir una baralla té dos passos: crear la baralla i afegir-hi targetes. Una
 
 ## Afegir targetes
 
-El segon pas de l'espai de treball ofereix un selector de tipus de targeta — **Paraula**, **Frase**, **Verb**, **Número** — més dues vies massives: **Puja un full de càlcul** i **Des dels marcadors**.
+El segon pas de l'espai de treball ofereix un selector de tipus de targeta — **Paraula**, **Frase**, **Verb**, **Número** — més una via massiva: **Puja un full de càlcul**.
 
 ### Paraules
 
@@ -49,10 +49,6 @@ Tria **Puja un full de càlcul** per importar targetes de paraula de manera mass
 1. Tria un fitxer **CSV o XLSX** — les columnes són paraula i traducció, i la traducció és opcional (les que faltin s'emplenen soles i queden marcades perquè els puguis fer un cop d'ull). Hi ha una plantilla disponible per descarregar.
 2. Revisa la **previsualització**: les files que ja són a la baralla arriben desmarcades perquè no creïs duplicats.
 3. Selecciona les files que vulguis i tria **Importa targetes**.
-
-## Afegir des dels marcadors
-
-**Des dels marcadors** llista les paraules i frases que has desat mentre llegies i repassaves — els elements Desats del teu [Vocabulari](../vocabulary.md). Filtra'ls (tot, paraules, frases), selecciona els que vulguis i afegeix-los com a targetes. Importar copia; els teus elements desats es conserven.
 
 ## Frases d'exemple a les targetes de paraula
 

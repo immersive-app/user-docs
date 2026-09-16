@@ -20,7 +20,7 @@ Construire un paquet se fait en deux étapes : créer le paquet, puis y ajouter 
 
 ## Ajouter des cartes
 
-La deuxième étape de l'espace de travail propose un sélecteur de type de carte — **Mot**, **Phrase**, **Verbe**, **Nombre** — plus deux voies d'ajout en masse, **Importer un tableur** et **Depuis les signets**.
+La deuxième étape de l'espace de travail propose un sélecteur de type de carte — **Mot**, **Phrase**, **Verbe**, **Nombre** — plus une voie d'ajout en masse, **Importer un tableur**.
 
 ### Mots
 
@@ -49,10 +49,6 @@ Choisissez **Importer un tableur** pour importer des cartes de mot en masse :
 1. Choisissez un fichier **CSV ou XLSX** — les colonnes sont le mot et la traduction, et la traduction est facultative (celles qui manquent se remplissent automatiquement et sont signalées pour que vous puissiez les vérifier d'un coup d'œil). Un modèle est disponible au téléchargement.
 2. Vérifiez l'**aperçu** : les lignes déjà dans le paquet arrivent décochées pour ne pas créer de doublons.
 3. Sélectionnez les lignes que vous voulez et choisissez **Importer les cartes**.
-
-## Ajouter depuis les signets
-
-**Depuis les signets** liste les mots et les phrases enregistrés pendant la lecture et la révision — les éléments Enregistrés de votre [Vocabulaire](../vocabulary.md). Filtrez-les (tout, mots, phrases), sélectionnez ceux que vous voulez et ajoutez-les comme cartes. L'importation copie ; vos éléments enregistrés restent enregistrés.
 
 ## Phrases d'exemple sur les cartes de mot
 

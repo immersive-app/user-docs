@@ -49,10 +49,6 @@ Les etiquetes agrupen baralles entre carpetes. Afegeix-les en crear o editar una
 
 Obre una baralla i tria l'acció d'edició per canviar-li el nom (en qualsevol dels dos idiomes), canviar-la de carpeta o ajustar-ne les etiquetes. Des de la pàgina de la baralla també pots afegir, editar i eliminar targetes individuals.
 
-## Marcar baralles
-
-La icona de marcador d'una baralla la desa; el filtre de marcadors de la pàgina de Baralles mostra llavors només les baralles marcades. Útil quan unes quantes baralles són el teu focus actual.
-
 ## Exportar a Anki
 
 Qualsevol baralla que puguis obrir té una acció d'**Exportar a Anki**. Immersive prepara l'exportació en segon pla i te l'envia per correu electrònic quan és a punt.

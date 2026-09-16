@@ -20,7 +20,7 @@ Construir un mazo lleva dos pasos: crear el mazo y luego añadirle tarjetas. Un 
 
 ## Añadir tarjetas
 
-El segundo paso del espacio de trabajo ofrece un selector de tipo de tarjeta — **Palabra**, **Frase**, **Verbo**, **Número** — más dos vías en bloque: **Subir hoja de cálculo** y **De marcadores**.
+El segundo paso del espacio de trabajo ofrece un selector de tipo de tarjeta — **Palabra**, **Frase**, **Verbo**, **Número** — más una vía en bloque: **Subir hoja de cálculo**.
 
 ### Palabras
 
@@ -49,10 +49,6 @@ Elige **Subir hoja de cálculo** para importar tarjetas de palabra en bloque:
 1. Elige un archivo **CSV o XLSX** — las columnas son palabra y traducción, y la traducción es opcional (las que falten se completan solas y quedan marcadas para que puedas revisarlas de un vistazo). Hay una plantilla disponible para descargar.
 2. Revisa la **vista previa**: las filas que ya están en el mazo llegan sin marcar para que no crees duplicados.
 3. Selecciona las filas que quieras y elige **Importar tarjetas**.
-
-## Añadir desde marcadores
-
-**De marcadores** lista las palabras y frases que guardaste mientras leías y repasabas — los elementos Guardados de tu [Vocabulario](../vocabulary.md). Fíltralos (todo, palabras, frases), selecciona los que quieras y añádelos como tarjetas. Importar copia; tus elementos guardados siguen guardados.
 
 ## Frases de ejemplo en tarjetas de palabra
 
