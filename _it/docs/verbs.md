@@ -25,12 +25,15 @@ Con un account, le pagine dei verbi fanno di più:
 - **Attraverso le tue lingue** — su una pagina di coniugazione, Immersive allinea lo stesso tempo e la stessa persona in ogni lingua che conosci, in un ordine che mette fianco a fianco le lingue più simili. Un tocco aggiunge il confronto come carta di ripasso nei tuoi mazzi.
 - **Mazzi pubblici** — le pagine dei verbi mostrano mazzi pubblici già pronti che esercitano quel verbo; puoi copiarne uno qualsiasi in I miei mazzi.
 - **Carte verbo nei tuoi mazzi** — quando costruisci un mazzo puoi generare carte per i verbi e i tempi che scegli. Questo avviene nello spazio di lavoro del mazzo; vedi [Creare mazzi](decks/creating-decks.md).
+- **Nei tuoi mazzi e Nelle tue frasi** — la pagina di un verbo mostra i mazzi che lo contengono, con le carte da ripassare, e le frasi dei tuoi documenti e del tuo vocabolario che lo usano.
+- **Aggiungi a un mazzo** — un link nella pagina del verbo apre il selettore dei verbi di un mazzo con il verbo selezionato.
+- **Mostra solo i tuoi verbi** — un filtro dell'elenco per i verbi già nei tuoi mazzi.
 
 ## Da dove cominciare
 
 1. Apri **Verbi** dalla navigazione (o visita semplicemente la home page).
 2. Cerca un verbo o sfoglia l'elenco — attiva **Mostra solo i verbi comuni** per tenere l'elenco corto.
-3. Apri un verbo per vederne la tabella di coniugazione, e tocca una forma qualsiasi per ascoltarla e leggere frasi di esempio.
+3. Apri un verbo: tutti i tempi sono nella pagina. Scegline uno dalla pillola del tempo, tocca l'icona di ascolto per sentire una forma e apri una forma per leggerne le frasi di esempio.
 
 Per i dettagli, vedi [Lavorare con i verbi](verbs/working-with-verbs.md).
 

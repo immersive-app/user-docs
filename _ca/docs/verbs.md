@@ -25,12 +25,15 @@ Amb un compte, les pàgines de verbs fan més coses:
 - **A través de les teves llengües** — en una pàgina de conjugació, Immersive alinea el mateix temps i persona en cada llengua que coneixes, ordenats de manera que les llengües més semblants queden una al costat de l'altra. Un toc afegeix la comparació com a targeta de repàs a les teves baralles.
 - **Baralles públiques** — les pàgines de verbs mostren baralles públiques ja fetes que practiquen aquell verb; pots copiar-ne qualsevol a Les meves baralles.
 - **Targetes de verb a les teves pròpies baralles** — quan construeixes una baralla pots generar targetes per als verbs i temps que triïs. Això passa a l'espai de treball de la baralla; vegeu [Crear baralles](decks/creating-decks.md).
+- **A les teves baralles i A les teves frases** — la pàgina d'un verb mostra les baralles que el contenen, amb les targetes per repassar, i les frases dels teus documents i vocabulari que el fan servir.
+- **Afegeix a una baralla** — un enllaç a la pàgina del verb obre el selector de verbs d'una baralla amb el verb seleccionat.
+- **Mostrar només els teus verbs** — un filtre de la llista per als verbs que ja són a les teves baralles.
 
 ## Per on començar
 
 1. Obre **Verbs** des de la navegació (o simplement visita la pàgina d'inici).
 2. Cerca un verb, o explora la llista — activa **Mostrar només verbs comuns** per mantenir la llista curta.
-3. Obre un verb per veure'n la taula de conjugació, i toca qualsevol forma per escoltar-la i llegir frases d'exemple.
+3. Obre un verb: tots els temps són a la pàgina. Tria'n un a la píndola de temps, toca la icona d'escolta per sentir una forma i obre una forma per llegir-ne les frases d'exemple.
 
 Per als detalls, vegeu [Treballar amb verbs](verbs/working-with-verbs.md).
 
