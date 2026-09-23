@@ -57,7 +57,11 @@ Tudo o que é administrativo vive aqui:
 - **Perfil** — nome, foto de perfil, localização e género.
 - **Idiomas** — a mesma grelha do registo inicial: o que fala, o que está a aprender, o seu nível e o idioma da interface. Mude quando quiser. Abaixo da grelha, **Usar as línguas que conheço para explicar a que estou a aprender** ativa as comparações entre línguas: a caixa *Nas suas línguas* das observações gramaticais, os equivalentes nas seis línguas do leitor e a [gramática da leitura](grammar/grammar-of-reading.md) com os seus sublinhados tracejados. Está desativado por defeito: a maioria aprende uma língua de cada vez.
 - **E-mail e senha** — atualizar qualquer um deles pede a sua senha atual.
-- **Os seus dados** — **Baixar os seus dados pessoais** envia-lhe por e-mail tudo o que adicionou, num ficheiro, no prazo de um dia.
+- **Os seus dados** — **Baixar os seus dados pessoais** envia-lhe por e-mail um ficheiro, no prazo de um dia,
+  com tudo o que escreveu ou guardou: os seus baralhos e cartões, os seus documentos e as palavras que contêm,
+  os seus textos, as suas conversas com o tutor, o seu vocabulário e o seu histórico de revisões. **Os
+  ficheiros que carregou não estão incluídos** — o texto de um documento sim, mas o PDF ou a imagem de onde
+  veio não. Peça-nos se precisar deles.
 - **Remover minha conta** — elimina a sua conta e todos os seus dados. Não é possível desfazer.
 
 ---

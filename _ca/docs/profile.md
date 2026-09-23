@@ -57,7 +57,11 @@ Tot l'administratiu viu aquí:
 - **Perfil** — nom, foto de perfil, ubicació i gènere.
 - **Idiomes** — la mateixa graella del registre: què parles, què estàs aprenent, el teu nivell i l'idioma de la interfície. Canvia-la quan vulguis. Sota la graella, **Fes servir les llengües que conec per explicar la que estic aprenent** activa les comparacions entre llengües: el requadre *En les teves llengües* a les notes gramaticals, els equivalents en les sis llengües al lector i la [gramàtica de la lectura](grammar/grammar-of-reading.md) amb els seus subratllats de punts. Està desactivat per defecte: la majoria aprèn una llengua a la vegada.
 - **Correu electrònic i contrasenya** — actualitzar qualsevol dels dos et demana la contrasenya actual.
-- **Les teves dades** — **Descarrega les teves dades personals** t'envia per correu tot el que has afegit, en un fitxer, en el termini d'un dia.
+- **Les teves dades** — **Descarrega les teves dades personals** t'envia per correu un fitxer, en el termini d'un
+  dia, amb tot el que has escrit o desat: els teus mazos i targetes, els teus documents i les paraules que
+  contenen, els teus escrits, les teves converses amb el tutor, el teu vocabulari i el teu historial de
+  repassos. **Els fitxers que has pujat no hi són** — el text d'un document sí, però el PDF o la imatge d'on
+  prové no. Demana'ns-els si els necessites.
 - **Elimina el meu compte** — elimina el teu compte i totes les seves dades. No es pot desfer.
 
 ---

@@ -56,7 +56,10 @@ Everything administrative lives here:
 - **Profile** — name, profile picture, location, and gender.
 - **Languages** — the same grid as onboarding: what you speak, what you are learning, your level, and your display language. Change it any time. Below the grid, **Use the languages I know to explain the one I'm learning** turns on the cross-language comparisons: the *Across your languages* box on grammar notes, the six-language equivalents in the reader, and the [grammar of reading](grammar/grammar-of-reading.md) with its dotted underlines. It is off by default — most people learn one language at a time.
 - **Email and password** — updating either asks for your current password.
-- **Your data** — **Download your personal data** emails you everything you have added, as a file, within a day.
+- **Your data** — **Download your personal data** emails you a file, within a day, holding everything you have
+  written or saved: your decks and cards, your documents and the words in them, your writing, your chats with
+  the coach, your vocabulary and your review history. **Files you uploaded are not in it** — a document's text
+  is included, but the PDF or image you made it from is not. Ask us if you need those.
 - **Remove my account** — deletes your account and all its data. This cannot be undone.
 
 ---
