@@ -1,15 +1,50 @@
 ---
 title: Getting started
 nav_order: 1
+permalink: "/"
+layout: home
+hero:
+  name: Immersive
+  text: User guide
+  tagline: 'How Immersive works, screen by screen: decks and reviews, reading and
+    writing, verbs, grammar, and your progress.'
+  actions:
+  - theme: brand
+    text: Get started
+    link: "/#start"
+  - theme: alt
+    text: Open Immersive
+    link: https://immersive-app.com
+features:
+- title: Decks & Reviews
+  details: Build decks of words, sentences, verbs, and numbers, and review them on
+    a schedule that adapts to your memory.
+  link: "/docs/decks/"
+- title: Documents
+  details: Read texts you care about with tap-to-translate and audio, or write your
+    own and get corrections.
+  link: "/docs/documents/"
+- title: Verbs
+  details: Conjugation tables with audio and example sentences, compared across the
+    languages you know.
+  link: "/docs/verbs/"
+- title: Grammar
+  details: Notes by CEFR level with exercises, and the grammar of reading.
+  link: "/docs/grammar/"
+- title: Vocabulary
+  details: The words and sentences you meet while studying, ready to become a deck.
+  link: "/docs/vocabulary/"
+- title: Profile & Progress
+  details: Where you stand in each skill, your study activity, teachers, and your
+    account.
+  link: "/docs/profile/"
 ---
 
-# Getting started with Immersive
+<span id="start"></span>
 
 Immersive is a language learning platform built around a simple idea: you learn a new language faster when you study material you actually care about, and when the languages you already know are used to help you rather than ignored.
 
 Immersive currently works with six languages: Portuguese, Spanish, Catalan, Italian, French, and English. Because these languages share so much vocabulary and structure, Immersive often shows the same word or verb form across the languages you know, so you can lean on what is already familiar.
-
----
 
 ## What you can do without an account
 
@@ -29,8 +64,6 @@ Signing up unlocks the learning tools:
 - **[Vocabulary](docs/vocabulary.md)** — the words and sentences you meet while studying, collected automatically and ready to be turned into decks.
 - **[Profile & Progress](docs/profile.md)** — where you stand in each skill, your study activity, peer evaluations, teacher access, and account settings.
 
----
-
 ## Creating an account
 
 1. Choose **Sign up** and enter the language you speak and the language you want to learn.
@@ -40,8 +73,6 @@ Signing up unlocks the learning tools:
 You can sign up with an invitation code from a friend; without one you may be placed on a waitlist. Everything is free during the beta.
 
 Your language choices matter: Immersive uses the languages you know to tailor comparisons and hints throughout the app. You can change them at any time from [Profile → Account](docs/profile.md).
-
----
 
 ## Your first session
 
@@ -54,8 +85,6 @@ A good first fifteen minutes:
 3. **Check your Profile.** The Progress tab shows your starting level and suggests first steps.
 
 From then on, Immersive keeps track of what you study. Cards come due on a schedule tuned to your memory, words you translate collect in your [Vocabulary](docs/vocabulary.md), and your [Profile](docs/profile.md) fills with evidence of what you can do.
-
----
 
 ## Getting help
 

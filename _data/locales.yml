@@ -1,0 +1,50 @@
+# Edition chrome (immersive#1211): the language switcher, search, and the
+# theme labels that are not set per page. Keys are collection names.
+en:
+  name: English
+  search: Search
+  search_placeholder: Search the guide
+  outline: On this page
+  menu: Menu
+  return_to_top: Return to top
+  language: Language
+ca:
+  name: Català
+  search: Cerca
+  search_placeholder: Cerca a la guia
+  outline: En aquesta pàgina
+  menu: Menú
+  return_to_top: Torna a dalt
+  language: Idioma
+es:
+  name: Español
+  search: Buscar
+  search_placeholder: Buscar en la guía
+  outline: En esta página
+  menu: Menú
+  return_to_top: Volver arriba
+  language: Idioma
+fr:
+  name: Français
+  search: Rechercher
+  search_placeholder: Rechercher dans le guide
+  outline: Sur cette page
+  menu: Menu
+  return_to_top: Retour en haut
+  language: Langue
+it:
+  name: Italiano
+  search: Cerca
+  search_placeholder: Cerca nella guida
+  outline: In questa pagina
+  menu: Menu
+  return_to_top: Torna su
+  language: Lingua
+pt:
+  name: Português
+  search: Pesquisar
+  search_placeholder: Pesquisar no guia
+  outline: Nesta página
+  menu: Menu
+  return_to_top: Voltar ao topo
+  language: Idioma

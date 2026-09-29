@@ -1,17 +1,51 @@
 ---
-permalink: /fr/
+permalink: "/fr/"
 title: Bien démarrer
 nav_order: 1
 lang: fr
+layout: home
+hero:
+  name: Immersive
+  text: Guide d'utilisation
+  tagline: 'Comment fonctionne Immersive, écran par écran : paquets et révisions,
+    lecture et écriture, verbes, grammaire et votre progression.'
+  actions:
+  - theme: brand
+    text: Bien démarrer
+    link: "/fr/#start"
+  - theme: alt
+    text: Ouvrir Immersive
+    link: https://immersive-app.com
+features:
+- title: Paquets et révisions
+  details: Créez des paquets de mots, de phrases, de verbes et de nombres, et révisez-les
+    selon un calendrier qui s'adapte à votre mémoire.
+  link: "/fr/docs/decks/"
+- title: Documents
+  details: Lisez des textes qui vous intéressent avec traduction et audio d'un toucher,
+    ou écrivez les vôtres et recevez des corrections.
+  link: "/fr/docs/documents/"
+- title: Verbes
+  details: Tableaux de conjugaison avec audio et phrases d'exemple, comparés entre
+    les langues que vous connaissez.
+  link: "/fr/docs/verbs/"
+- title: Grammaire
+  details: Des notes par niveau CECR avec exercices, et la grammaire de la lecture.
+  link: "/fr/docs/grammar/"
+- title: Vocabulaire
+  details: Les mots et les phrases rencontrés en étudiant, prêts à devenir un paquet.
+  link: "/fr/docs/vocabulary/"
+- title: Profil et progression
+  details: Où vous en êtes dans chaque compétence, votre activité, vos enseignants
+    et votre compte.
+  link: "/fr/docs/profile/"
 ---
 
-# Bien démarrer avec Immersive
+<span id="start"></span>
 
 Immersive est une plateforme d'apprentissage des langues construite autour d'une idée simple : vous apprenez une nouvelle langue plus vite quand vous étudiez du matériel qui vous intéresse vraiment, et quand les langues que vous connaissez déjà sont mises à contribution au lieu d'être ignorées.
 
 Immersive fonctionne actuellement avec six langues : le portugais, l'espagnol, le catalan, l'italien, le français et l'anglais. Comme ces langues partagent énormément de vocabulaire et de structures, Immersive montre souvent le même mot ou la même forme verbale dans les langues que vous connaissez, pour que vous puissiez vous appuyer sur ce qui vous est déjà familier.
-
----
 
 ## Ce que vous pouvez faire sans compte
 
@@ -31,8 +65,6 @@ L'inscription débloque les outils d'apprentissage :
 - **[Vocabulaire](docs/vocabulary.md)** — les mots et les phrases rencontrés pendant vos études, collectés automatiquement et prêts à devenir des paquets.
 - **[Profil et progression](docs/profile.md)** — où vous en êtes dans chaque compétence, votre activité d'étude, les évaluations entre pairs, l'accès professeur et les paramètres du compte.
 
----
-
 ## Créer un compte
 
 1. Choisissez **S'inscrire** et indiquez la langue que vous parlez et la langue que vous voulez apprendre.
@@ -42,8 +74,6 @@ L'inscription débloque les outils d'apprentissage :
 Vous pouvez vous inscrire avec un code d'invitation d'un ami ; sans code, vous serez peut-être placé sur liste d'attente. Tout est gratuit pendant la bêta.
 
 Vos choix de langues comptent : Immersive utilise les langues que vous connaissez pour adapter les comparaisons et les indices dans toute l'application. Vous pouvez les modifier à tout moment depuis [Profil → Compte](docs/profile.md).
-
----
 
 ## Votre première session
 
@@ -56,8 +86,6 @@ Un bon premier quart d'heure :
 3. **Consultez votre Profil.** L'onglet Progression montre votre niveau de départ et vous suggère des premiers pas.
 
 À partir de là, Immersive garde la trace de ce que vous étudiez. Les cartes reviennent selon un calendrier réglé sur votre mémoire, les mots que vous traduisez se rassemblent dans votre [Vocabulaire](docs/vocabulary.md), et votre [Profil](docs/profile.md) se remplit de preuves de ce que vous savez faire.
-
----
 
 ## Obtenir de l'aide
 

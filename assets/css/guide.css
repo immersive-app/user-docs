@@ -1,0 +1,109 @@
+/* User guide additions to the VitePress theme (immersive#1211). */
+
+/* Language switcher: a menu in the navbar, a list in the "..." menu and in
+   the phone menu. */
+.guide-lang__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.guide-lang__link {
+  display: block;
+  border-radius: 6px;
+  padding: 0 12px;
+  line-height: 32px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--vp-c-text-1);
+  white-space: nowrap;
+  transition: background-color 0.25s, color 0.25s;
+}
+
+.guide-lang__link:hover {
+  background-color: var(--vp-c-default-soft);
+  color: var(--vp-c-brand-1);
+}
+
+.guide-lang__link.is-current {
+  color: var(--vp-c-brand-1);
+}
+
+.guide-lang__label {
+  margin: 0;
+  padding: 0 12px;
+  line-height: 32px;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--vp-c-text-2);
+}
+
+.guide-lang--extra {
+  display: block;
+  width: 100%;
+}
+
+.guide-lang--screen {
+  margin-top: 24px;
+}
+
+.guide-lang--screen .guide-lang__list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.guide-lang__menu {
+  position: relative;
+}
+
+.guide-lang__button {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 0 12px;
+  height: var(--vp-nav-height);
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--vp-c-text-1);
+  cursor: pointer;
+  list-style: none;
+}
+
+.guide-lang__button::-webkit-details-marker {
+  display: none;
+}
+
+.guide-lang__button:hover {
+  color: var(--vp-c-text-2);
+}
+
+.guide-lang__button:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: -8px;
+  border-radius: 8px;
+}
+
+.guide-lang__icon {
+  width: 16px;
+  height: 16px;
+}
+
+.guide-lang__popup {
+  position: absolute;
+  top: calc(var(--vp-nav-height) / 2 + 20px);
+  right: 0;
+  z-index: 50;
+  min-width: 160px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  padding: 12px;
+  background-color: var(--vp-c-bg-elv);
+  box-shadow: var(--vp-shadow-3);
+}
+
+/* The pages separate their intro and closing sections with horizontal
+   rules, which the old theme drew thin; each h2 here already carries a rule. */
+.vp-doc hr {
+  display: none;
+}

@@ -1,26 +1,28 @@
 title: Immersive
 description: The Immersive user guide - learn how to study languages with Immersive.
-theme: just-the-docs
+theme: jekyll-vitepress-theme
 
 url: https://immersive-app.github.io
 baseurl: /user-docs
+lang: en
 
-# Directory-style URLs for the root (English) edition, matching the locale
-# collections' permalink shape so the language switcher maps pages 1:1
+# Directory-style URLs, the same shape in every edition, so the language
+# switcher maps a page to its counterpart by swapping the locale prefix
 # (immersive#612).
 permalink: pretty
-favicon_ico: "/assets/images/favicon-32x32.png"
 
-search_enabled: true
-heading_anchors: true
-nav_enabled: true
+markdown: kramdown
+kramdown:
+  input: GFM
 
-aux_links:
-  Open Immersive: https://immersive-app.com
-
-# Localized editions: one collection per locale, each with its own
-# navigation section. English lives at the root as the default edition.
+# One collection per edition (immersive#1211). The theme builds its sidebar
+# and search from collections, so English is a collection too: _en/ is served
+# at the site root, the others under their locale prefix. Page URLs are the
+# same as under the previous theme.
 collections:
+  en:
+    permalink: "/:path/"
+    output: true
   ca:
     permalink: "/ca/:path/"
     output: true
@@ -37,36 +39,123 @@ collections:
     permalink: "/pt/:path/"
     output: true
 
-just_the_docs:
-  collections:
-    ca:
-      name: Català
-    es:
-      name: Español
-    fr:
-      name: Français
-    it:
-      name: Italiano
-    pt:
-      name: Português
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - LICENSE
+jekyll_vitepress:
+  branding:
+    site_title: Immersive
+    logo:
+      default: /assets/images/favicon-32x32.png
+      alt: Immersive
+      width: 24
+      height: 24
+  # System fonts, as in the app: no font downloads.
+  typography:
+    google_fonts_url: false
+    body_font_family: "-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif"
+  # The app's accent (hue 264), light and dark.
+  tokens:
+    light:
+      --vp-c-brand-1: "oklch(0.50 0.20 264)"
+      --vp-c-brand-2: "oklch(0.56 0.19 264)"
+      --vp-c-brand-3: "oklch(0.45 0.20 264)"
+      --vp-home-hero-name-color: "var(--vp-c-brand-1)"
+      --vp-home-hero-name-background: "transparent"
+      --vp-c-brand-soft: "oklch(0.50 0.20 264 / 0.14)"
+    dark:
+      --vp-c-brand-1: "oklch(0.72 0.15 264)"
+      --vp-c-brand-2: "oklch(0.78 0.12 264)"
+      --vp-c-brand-3: "oklch(0.65 0.18 264)"
+      --vp-c-brand-soft: "oklch(0.65 0.18 264 / 0.16)"
+  seo:
+    publisher:
+      type: Organization
+      name: Immersive
+      url: https://immersive-app.com
+  # Learner docs: no "Copy page" button, no edit link, and no "Last updated"
+  # (CI checkouts reset file times, so it would show the build date).
+  copy_page:
+    enabled: false
+  edit_link:
+    enabled: false
+  last_updated:
+    enabled: false
+  footer:
+    enabled: false
+  doc_footer:
+    enabled: true
 
 plugins:
+  - jekyll-vitepress-theme
   - jekyll-relative-links
 
 relative_links:
   enabled: true
   collections: true
 
-# Every page and collection document renders with the theme layout unless
-# it opts out explicitly.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - vendor
+
+# Every document renders with the theme layout. Each edition carries its own
+# language (the <html lang>, SEO locale) and pager labels.
 defaults:
   - scope:
       path: ""
     values:
       layout: default
+  - scope:
+      path: ""
+      type: en
+    values:
+      lang: en
+      jekyll_vitepress:
+        doc_footer:
+          prev: Previous page
+          next: Next page
+  - scope:
+      path: ""
+      type: ca
+    values:
+      lang: ca
+      jekyll_vitepress:
+        doc_footer:
+          prev: Pàgina anterior
+          next: Pàgina següent
+  - scope:
+      path: ""
+      type: es
+    values:
+      lang: es
+      jekyll_vitepress:
+        doc_footer:
+          prev: Página anterior
+          next: Página siguiente
+  - scope:
+      path: ""
+      type: fr
+    values:
+      lang: fr
+      jekyll_vitepress:
+        doc_footer:
+          prev: Page précédente
+          next: Page suivante
+  - scope:
+      path: ""
+      type: it
+    values:
+      lang: it
+      jekyll_vitepress:
+        doc_footer:
+          prev: Pagina precedente
+          next: Pagina successiva
+  - scope:
+      path: ""
+      type: pt
+    values:
+      lang: pt
+      jekyll_vitepress:
+        doc_footer:
+          prev: Página anterior
+          next: Página seguinte

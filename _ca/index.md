@@ -1,17 +1,52 @@
 ---
-permalink: /ca/
+permalink: "/ca/"
 title: Primers passos
 nav_order: 1
 lang: ca
+layout: home
+hero:
+  name: Immersive
+  text: Guia d'usuari
+  tagline: 'Com funciona Immersive, pantalla per pantalla: baralles i repassos, lectura
+    i escriptura, verbs, gramàtica i el teu progrés.'
+  actions:
+  - theme: brand
+    text: Primers passos
+    link: "/ca/#start"
+  - theme: alt
+    text: Obre Immersive
+    link: https://immersive-app.com
+features:
+- title: Baralles i repassos
+  details: Crea baralles de paraules, frases, verbs i nombres, i repassa-les amb un
+    calendari que s'adapta a la teva memòria.
+  link: "/ca/docs/decks/"
+- title: Documents
+  details: Llegeix textos que t'interessen amb traducció i àudio a un toc, o escriu
+    els teus i rep correccions.
+  link: "/ca/docs/documents/"
+- title: Verbs
+  details: Taules de conjugació amb àudio i frases d'exemple, comparades entre les
+    llengües que coneixes.
+  link: "/ca/docs/verbs/"
+- title: Gramàtica
+  details: Notes per nivell MECR amb exercicis, i la gramàtica de la lectura.
+  link: "/ca/docs/grammar/"
+- title: Vocabulari
+  details: Les paraules i frases que trobes mentre estudies, a punt per convertir-se
+    en una baralla.
+  link: "/ca/docs/vocabulary/"
+- title: Perfil i progrés
+  details: On ets en cada habilitat, la teva activitat d'estudi, els professors i
+    el teu compte.
+  link: "/ca/docs/profile/"
 ---
 
-# Primers passos amb Immersive
+<span id="start"></span>
 
 Immersive és una plataforma d'aprenentatge de llengües construïda al voltant d'una idea senzilla: aprens una llengua nova més de pressa quan estudies material que realment t'interessa, i quan les llengües que ja coneixes es fan servir per ajudar-te en lloc d'ignorar-se.
 
 Actualment Immersive funciona amb sis llengües: portuguès, castellà, català, italià, francès i anglès. Com que aquestes llengües comparteixen tant vocabulari i estructura, Immersive sovint et mostra la mateixa paraula o forma verbal en les llengües que coneixes, perquè puguis recolzar-te en allò que ja et resulta familiar.
-
----
 
 ## Què pots fer sense compte
 
@@ -31,8 +66,6 @@ Registrar-te desbloqueja les eines d'aprenentatge:
 - **[Vocabulari](docs/vocabulary.md)** — les paraules i frases que trobes mentre estudies, recollides automàticament i a punt per convertir-se en baralles.
 - **[Perfil i progrés](docs/profile.md)** — on ets en cada habilitat, la teva activitat d'estudi, les avaluacions entre companys, l'accés per a professors i la configuració del compte.
 
----
-
 ## Crear un compte
 
 1. Tria **Registrar-se** i introdueix la llengua que parles i la llengua que vols aprendre.
@@ -42,8 +75,6 @@ Registrar-te desbloqueja les eines d'aprenentatge:
 Pots registrar-te amb un codi d'invitació d'un amic; sense codi és possible que et posin en llista d'espera. Tot és gratuït durant la beta.
 
 Les teves tries d'idioma importen: Immersive fa servir les llengües que coneixes per adaptar les comparacions i les pistes a tota l'aplicació. Pots canviar-les en qualsevol moment des de [Perfil → Compte](docs/profile.md).
-
----
 
 ## La teva primera sessió
 
@@ -56,8 +87,6 @@ Uns bons primers quinze minuts:
 3. **Consulta el teu Perfil.** La pestanya Progrés mostra el teu nivell de partida i et suggereix els primers passos.
 
 A partir d'aquí, Immersive fa el seguiment del que estudies. Les targetes es tornen pendents segons un calendari ajustat a la teva memòria, les paraules que tradueixes es recullen al teu [Vocabulari](docs/vocabulary.md), i el teu [Perfil](docs/profile.md) s'omple amb proves del que ja saps fer.
-
----
 
 ## Obtenir ajuda
 

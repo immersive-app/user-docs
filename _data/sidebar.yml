@@ -1,0 +1,14 @@
+# One group per edition. _includes/sidebar.html renders only the group of the
+# page's own edition, so each language sees its own pages (immersive#612).
+- title: User guide
+  collection: en
+- title: Guia d'usuari
+  collection: ca
+- title: Guía de uso
+  collection: es
+- title: Guide d'utilisation
+  collection: fr
+- title: Guida utente
+  collection: it
+- title: Guia do utilizador
+  collection: pt

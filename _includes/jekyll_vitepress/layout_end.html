@@ -1,0 +1,8 @@
+{% assign edition = page.collection | default: 'en' %}
+<script>
+  window.guideEdition = {
+    baseurl: {{ site.baseurl | jsonify }},
+    labels: {{ site.data.locales[edition] | jsonify }}
+  };
+</script>
+<script src="{{ '/assets/js/guide.js' | relative_url }}" defer></script>

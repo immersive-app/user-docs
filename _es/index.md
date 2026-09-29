@@ -1,17 +1,52 @@
 ---
-permalink: /es/
+permalink: "/es/"
 title: Primeros pasos
 nav_order: 1
 lang: es
+layout: home
+hero:
+  name: Immersive
+  text: Guía de uso
+  tagline: 'Cómo funciona Immersive, pantalla a pantalla: mazos y repasos, lectura
+    y escritura, verbos, gramática y tu progreso.'
+  actions:
+  - theme: brand
+    text: Primeros pasos
+    link: "/es/#start"
+  - theme: alt
+    text: Abrir Immersive
+    link: https://immersive-app.com
+features:
+- title: Mazos y repasos
+  details: Crea mazos de palabras, frases, verbos y números, y repásalos con un calendario
+    que se adapta a tu memoria.
+  link: "/es/docs/decks/"
+- title: Documentos
+  details: Lee textos que te interesan con traducción y audio a un toque, o escribe
+    los tuyos y recibe correcciones.
+  link: "/es/docs/documents/"
+- title: Verbos
+  details: Tablas de conjugación con audio y frases de ejemplo, comparadas entre los
+    idiomas que conoces.
+  link: "/es/docs/verbs/"
+- title: Gramática
+  details: Notas por nivel MCER con ejercicios, y la gramática de la lectura.
+  link: "/es/docs/grammar/"
+- title: Vocabulario
+  details: Las palabras y frases que encuentras mientras estudias, listas para convertirse
+    en un mazo.
+  link: "/es/docs/vocabulary/"
+- title: Perfil y progreso
+  details: Dónde estás en cada destreza, tu actividad de estudio, tus profesores y
+    tu cuenta.
+  link: "/es/docs/profile/"
 ---
 
-# Primeros pasos con Immersive
+<span id="start"></span>
 
 Immersive es una plataforma de aprendizaje de idiomas construida sobre una idea sencilla: aprendes un idioma nuevo más rápido cuando estudias material que de verdad te interesa, y cuando los idiomas que ya conoces se usan para ayudarte en lugar de ignorarse.
 
 Immersive funciona actualmente con seis idiomas: portugués, español, catalán, italiano, francés e inglés. Como estos idiomas comparten tanto vocabulario y estructura, Immersive muestra a menudo la misma palabra o forma verbal en los idiomas que conoces, para que puedas apoyarte en lo que ya te resulta familiar.
-
----
 
 ## Qué puedes hacer sin cuenta
 
@@ -31,8 +66,6 @@ Registrarte desbloquea las herramientas de aprendizaje:
 - **[Vocabulario](docs/vocabulary.md)** — las palabras y frases que encuentras mientras estudias, recogidas automáticamente y listas para convertirse en mazos.
 - **[Perfil y progreso](docs/profile.md)** — dónde estás en cada destreza, tu actividad de estudio, las evaluaciones entre compañeros, el acceso para profesores y los ajustes de tu cuenta.
 
----
-
 ## Crear una cuenta
 
 1. Elige **Registrarse** e indica el idioma que hablas y el idioma que quieres aprender.
@@ -42,8 +75,6 @@ Registrarte desbloquea las herramientas de aprendizaje:
 Puedes registrarte con un código de invitación de un amigo; sin uno, puede que entres en una lista de espera. Todo es gratuito durante la beta.
 
 Tus elecciones de idiomas importan: Immersive usa los idiomas que conoces para adaptar las comparaciones y las pistas por toda la aplicación. Puedes cambiarlas en cualquier momento desde [Perfil → Cuenta](docs/profile.md).
-
----
 
 ## Tu primera sesión
 
@@ -56,8 +87,6 @@ Un buen primer cuarto de hora:
 3. **Consulta tu Perfil.** La pestaña Progreso muestra tu nivel de partida y sugiere primeros pasos.
 
 A partir de ahí, Immersive lleva la cuenta de lo que estudias. Las tarjetas vencen según un calendario ajustado a tu memoria, las palabras que traduces se recogen en tu [Vocabulario](docs/vocabulary.md), y tu [Perfil](docs/profile.md) se llena de evidencia de lo que sabes hacer.
-
----
 
 ## Obtener ayuda
 

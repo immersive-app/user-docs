@@ -1,0 +1,27 @@
+{%- comment -%}
+  Theme override (jekyll-vitepress-theme 1.9.1) for immersive#1211: search
+  the page's own edition only (search.json for English, search/<code>.json
+  for the others), with a localized placeholder. The rest is the theme's
+  search.html.
+{%- endcomment -%}
+{% assign edition = page.collection | default: 'en' %}
+{% assign labels = site.data.locales[edition] %}
+{% if edition == 'en' %}
+  {% assign search_index_path = '/search.json' %}
+{% else %}
+  {% assign search_index_path = '/search/' | append: edition | append: '.json' %}
+{% endif %}
+<div class="VPSearch" id="vp-search" data-search-index-url="{{ search_index_path | relative_url }}"{% if page.collection %} data-search-frame-target="vp-content-frame"{% endif %} hidden>
+  <div class="VPSearchBackdrop" id="vp-search-backdrop"></div>
+
+  <div class="VPSearchDialog" role="dialog" aria-modal="true" aria-labelledby="vp-search-label">
+    <div class="VPSearchBar">
+      <span class="vpi-search" aria-hidden="true"></span>
+      <label class="visually-hidden" for="vp-search-input" id="vp-search-label">{{ labels.search_placeholder }}</label>
+      <input id="vp-search-input" type="search" autocomplete="off" placeholder="{{ labels.search_placeholder }}" />
+      <kbd>Esc</kbd>
+    </div>
+
+    <div class="VPSearchResults" id="vp-search-results" role="listbox" aria-label="Search results"></div>
+  </div>
+</div>
