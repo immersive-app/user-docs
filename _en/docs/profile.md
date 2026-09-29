@@ -64,7 +64,7 @@ Everything administrative lives here:
 - **Account** — first name, last name, and gender. Your email address is shown here.
 - **Profile** — location and profile picture.
 - **Languages** — the same grid as onboarding: what you speak, what you are learning, your level, and your display language. Change it any time. Below the grid, **Use the languages I know to explain the one I'm learning** turns on the cross-language comparisons: the *Across your languages* box on grammar notes, the six-language equivalents in the reader, and the [grammar of reading](grammar/grammar-of-reading.md) with its dotted underlines. It is off by default — most people learn one language at a time.
-- **Email and password** — updating either asks for your current password.
+- **Password** — changing it asks for your current password. Your email address is set at sign-up and cannot be changed in the app; use the contact form if you need it changed.
 - **Your data** — **Download your personal data** emails you a link to everything we hold about you: your
   decks and cards, your documents and the files you uploaded to make them, your writing, your chats with the
   coach, your vocabulary, your review history and the record of what you did in the app. It arrives as a zip

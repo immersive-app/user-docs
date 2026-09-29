@@ -65,7 +65,7 @@ Tudo o que é administrativo vive aqui:
 - **Conta** — nome próprio, apelido e género. O seu endereço de e-mail aparece aqui.
 - **Perfil** — localização e foto de perfil.
 - **Idiomas** — a mesma grelha do registo inicial: o que fala, o que está a aprender, o seu nível e o idioma da interface. Mude quando quiser. Abaixo da grelha, **Usar as línguas que conheço para explicar a que estou a aprender** ativa as comparações entre línguas: a caixa *Nas suas línguas* das notas de gramática, os equivalentes nas seis línguas do leitor e a [gramática da leitura](grammar/grammar-of-reading.md) com os seus sublinhados tracejados. Está desativado por defeito: a maioria aprende uma língua de cada vez.
-- **E-mail e senha** — atualizar qualquer um deles pede a sua senha atual.
+- **Senha** — alterá-la pede a sua senha atual. O seu e-mail é definido no registo e não pode ser alterado na aplicação; use o formulário de contacto se precisar de o alterar.
 - **Os seus dados** — **Baixar os seus dados pessoais** envia-lhe por e-mail uma ligação para tudo o que temos
   sobre si: os seus baralhos e cartões, os seus documentos e os ficheiros que carregou para os criar, os seus
   textos, as suas conversas com o tutor, o seu vocabulário, o seu histórico de revisões e o registo do que fez

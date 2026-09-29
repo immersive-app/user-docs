@@ -65,7 +65,7 @@ Todo lo administrativo vive aquí:
 - **Cuenta** — nombre, apellido y género. Aquí se muestra tu dirección de correo electrónico.
 - **Perfil** — ubicación y foto de perfil.
 - **Idiomas** — la misma cuadrícula del registro: qué hablas, qué estás aprendiendo, tu nivel y tu idioma de la interfaz. Cámbiala cuando quieras. Bajo la cuadrícula, **Usar las lenguas que conozco para explicar la que estoy aprendiendo** activa las comparaciones entre lenguas: el cuadro *En tus idiomas* de las notas de gramática, los equivalentes en seis idiomas del lector y la [gramática de la lectura](grammar/grammar-of-reading.md) con sus subrayados de puntos. Está desactivado por defecto — la mayoría aprende una lengua a la vez.
-- **Correo electrónico y contraseña** — actualizar cualquiera de los dos pide tu contraseña actual.
+- **Contraseña** — cambiarla pide tu contraseña actual. Tu correo electrónico se fija al registrarte y no se puede cambiar en la aplicación; usa el formulario de contacto si necesitas cambiarlo.
 - **Tus datos** — **Descarga tus datos personales** te envía por correo un enlace a todo lo que tenemos sobre
   ti: tus mazos y tarjetas, tus documentos y los archivos que subiste para crearlos, tus textos, tus
   conversaciones con el tutor, tu vocabulario, tu historial de repasos y el registro de lo que hiciste en la

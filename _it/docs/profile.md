@@ -65,7 +65,7 @@ Qui vive tutto ciò che è amministrativo:
 - **Account** — nome, cognome e genere. Qui è mostrato il tuo indirizzo email.
 - **Profilo** — località e immagine del profilo.
 - **Lingue** — la stessa griglia della registrazione: cosa parli, cosa stai imparando, il tuo livello e la lingua dell'interfaccia. Cambiala quando vuoi. Sotto la griglia, **Usa le lingue che conosco per spiegare quella che sto imparando** attiva i confronti tra lingue: il riquadro *Nelle tue lingue* nelle note grammaticali, gli equivalenti nelle sei lingue nel lettore e la [grammatica della lettura](grammar/grammar-of-reading.md) con le sue sottolineature punteggiate. È disattivato per impostazione predefinita — la maggior parte impara una lingua alla volta.
-- **Email e password** — per aggiornare l'una o l'altra viene chiesta la password attuale.
+- **Password** — per cambiarla viene chiesta la password attuale. L'indirizzo email si imposta alla registrazione e non si può cambiare nell'app; usa il modulo di contatto se devi cambiarlo.
 - **I tuoi dati** — **Scarica i tuoi dati personali** ti invia per email un link a tutto ciò che abbiamo su di
   te: i tuoi mazzi e le tue carte, i tuoi documenti e i file che hai caricato per crearli, i tuoi testi, le tue
   conversazioni con il tutor, il tuo vocabolario, la tua cronologia di ripasso e il registro di ciò che hai

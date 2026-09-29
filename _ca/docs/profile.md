@@ -65,7 +65,7 @@ Tot l'administratiu viu aquí:
 - **Compte** — nom, cognom i gènere. Aquí es mostra la teva adreça de correu electrònic.
 - **Perfil** — ubicació i foto de perfil.
 - **Idiomes** — la mateixa graella del registre: què parles, què estàs aprenent, el teu nivell i l'idioma de la interfície. Canvia-la quan vulguis. Sota la graella, **Fes servir les llengües que conec per explicar la que estic aprenent** activa les comparacions entre llengües: el requadre *En les teves llengües* a les notes gramaticals, els equivalents en les sis llengües al lector i la [gramàtica de la lectura](grammar/grammar-of-reading.md) amb els seus subratllats de punts. Està desactivat per defecte — la majoria aprèn una llengua a la vegada.
-- **Correu electrònic i contrasenya** — actualitzar qualsevol dels dos et demana la contrasenya actual.
+- **Contrasenya** — canviar-la et demana la contrasenya actual. El teu correu electrònic es fixa en registrar-te i no es pot canviar a l'aplicació; fes servir el formulari de contacte si necessites canviar-lo.
 - **Les teves dades** — **Descarrega les teves dades personals** t'envia per correu un enllaç a tot el que
   tenim sobre tu: els teus mazos i targetes, els teus documents i els fitxers que vas pujar per crear-los, els
   teus escrits, les teves converses amb el tutor, el teu vocabulari, el teu historial de repassos i el registre
