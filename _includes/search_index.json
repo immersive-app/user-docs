@@ -1,0 +1,16 @@
+{%- comment -%}
+  Search index for one edition (immersive#1211): the theme's generated
+  search.json lists every collection, which would mix six languages in one
+  result list. Same entry shape as the theme's (title, url, content).
+{%- endcomment -%}
+{%- assign edition = include.edition -%}
+{%- assign sidebar_collection = site.data.jekyll_vitepress_sidebar.collections[edition] -%}
+{%- assign docs = sidebar_collection.docs | default: site[edition] -%}
+[
+{%- for doc in docs -%}
+  {%- if doc.title and doc.url -%}
+    {%- assign excerpt = doc.content | markdownify | strip_html | strip_newlines | replace: '  ', ' ' | strip | truncate: 2400, '' -%}
+    {"title": {{ doc.title | strip_html | strip | jsonify }}, "url": {{ doc.url | relative_url | jsonify }}, "content": {{ excerpt | jsonify }}}{% unless forloop.last %},{% endunless %}
+  {%- endif -%}
+{%- endfor -%}
+]

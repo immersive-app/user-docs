@@ -1,55 +1,50 @@
 ---
 title: Vocabulari
-nav_order: 3
+description: Les paraules i frases que consultes, recollides al teu Perfil, i com desar-les i convertir-les en una baralla.
+nav_order: 7
 lang: ca
 ---
 
 # Vocabulari
 
-El teu Vocabulari és la llista de paraules i frases que realment has trobat mentre estudiaves. No hi escrius mai res — es recull sol mentre fas servir Immersive — i viu al teu Perfil, a la pestanya **Vocabulari**.
-
----
+El teu Vocabulari és la llista de paraules i frases que has consultat mentre estudiaves. No hi escrius mai res: es recull sol mentre fas servir Immersive, i viu al teu Perfil, a la pestanya **Vocabulari**.
 
 ## Com es recull el vocabulari
 
-Tres activitats alimenten el teu Vocabulari automàticament:
+- **Tocar una paraula o frase.** A qualsevol lloc on Immersive mostra text que es pot tocar (el lector, les frases d'exemple de les pàgines de verbs, les notes gramaticals i els seus exercicis, les comparacions), tocar una paraula o frase per veure'n la traducció la registra.
+- **Desar-la.** **Desa al vocabulari** al plafó **Més** d'una paraula la registra i la marca com a desada.
 
-- **Les paraules i frases que tradueixes al lector.** Toca una paraula o frase en un document per veure'n la traducció, i queda registrada. Toca un terme de la llista per veure'n la traducció i escoltar-lo; una frase té el seu altaveu al final.
-- **Les frases que falles als repassos.** Quan un repàs no va bé, l'element aterra aquí perquè decideixis què fer-ne.
-- **Les correccions de la teva escriptura.** Les paraules que tornen corregides als teus documents escrits també es recullen.
-
-Cada entrada recorda quantes vegades l'has **vist**, **fallat** i **repassat**, de manera que la llista serveix alhora de registre de quines paraules et costen.
+Cada entrada recorda quantes vegades l'has vista, de manera que la llista serveix alhora de registre del que no pares de consultar.
 
 ## Explorar la teva llista
 
-Obre **Perfil → Vocabulari**. A la part superior veuràs els teus totals — quants elements has recollit i quants n'has desat. Pots:
+Obre **Perfil → Vocabulari**. La llista mostra la llengua que aprens ara, el més recent primer; la línia superior compta quantes entrades has recollit i quantes n'has desat. Pots:
 
-- **Cercar** les teves paraules amb el quadre de cerca.
-- **Filtrar per tipus** — tots els tipus, només paraules o només frases.
-- Marcar **Només desades** per veure únicament els elements que has marcat com a dignes de conservar.
+- **Cerca les teves paraules** amb el quadre de cerca.
+- **Filtrar per tipus**: tots els tipus, només paraules o només frases.
+- Marcar **Només desades** per veure únicament les entrades que has desat.
 
-## Desar i descartar
+Cada fila mostra la paraula o frase (toca-la per a la traducció i l'àudio), si és una paraula o una frase, la seva traducció, els seus recomptes (vist, fallat, repassat) i on la vas trobar.
 
-No tot el que tradueixes val la pena estudiar-ho. Selecciona les entrades que t'importen i, després:
+La llista mostra les 50 entrades coincidents més recents («Es mostren 50 de 212»). Per trobar-ne una de més antiga, cerca o filtra.
 
-- **Desa** les manté marcades, de manera que destaquen i es poden filtrar amb Només desades.
-- **Descarta** elimina les entrades que no vols seguir.
+## Desar
+
+Marca les entrades que t'importen (o **Selecciona-ho tot**) i després:
+
+- **Desa** les marca com a desades, de manera que destaquen i es poden filtrar amb **Només desades**.
+- **Descarta** treu la marca de desada. Les entrades continuen a la llista.
 
 ## Convertir el vocabulari en una baralla
 
-Tot el sentit de recollir vocabulari és repassar-lo. Per crear una baralla a partir de la teva llista:
+Tot el sentit de recollir vocabulari és repassar-lo. Hi ha dues maneres:
 
-1. Obre **Perfil → Vocabulari**.
-2. Selecciona les paraules i frases que vols estudiar.
-3. Tria **Crea una baralla amb la selecció**.
-
-Immersive crea una baralla nova (anomenada «Vocabulari» amb la data d'avui) amb una targeta per cada element seleccionat, a punt per repassar com qualsevol altra baralla. Vegeu [Repassar targetes](decks/reviewing-cards.md).
+- **Des de la teva llista**: marca les paraules i frases que vols i tria **Crea una baralla amb la selecció**. Immersive crea una baralla anomenada «Vocabulari» amb la data d'avui, amb una targeta per entrada, i l'obre perquè puguis revisar les targetes abans de repassar.
+- **Des d'una baralla**: a l'espai de treball de qualsevol baralla, **Des dels marcadors** hi afegeix les entrades desades en les llengües d'aquella baralla. Vegeu [Crear baralles](decks/creating-decks.md#del-teu-vocabulari).
 
 ## Si la teva llista és buida
 
-El Vocabulari només s'omple mentre estudies. La manera més ràpida de començar-lo és obrir un document i llegir: cada paraula que tradueixes apareix aquí. Vegeu [Llegir documents](documents/reading-documents.md).
-
----
+El Vocabulari només s'omple mentre estudies. La manera més ràpida de començar-lo és **Obre un document** i llegir: cada paraula que consultes apareix aquí. Vegeu [Llegir documents](documents/reading-documents.md).
 
 ## Per llegir més
 

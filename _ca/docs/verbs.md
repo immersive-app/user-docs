@@ -1,43 +1,42 @@
 ---
 title: Verbs
-nav_order: 4
+description: Taules de conjugació de les sis llengües, amb àudio i frases d'exemple, obertes a tothom, i més coses per als estudiants amb sessió iniciada.
+nav_order: 6
 has_children: true
 lang: ca
 ---
 
 # Verbs
 
-Els verbs són la maquinària d'una frase, i Immersive els dedica una secció de referència completa: taules de conjugació senceres per a cada llengua suportada, amb pronunciació en àudio i frases d'exemple reals. Les taules de verbs són públiques — pots explorar-les sense compte — i també són la pàgina d'inici d'Immersive quan inicies sessió.
-
----
+Els verbs són la maquinària d'una frase, i Immersive els dedica una secció de referència completa: taules de conjugació per a cada llengua, amb àudio i frases d'exemple. Les taules de verbs són públiques, així que les pots explorar sense compte, i són la pàgina d'inici d'Immersive quan inicies sessió.
 
 ## Què ofereix la secció de Verbs
 
-- **Taules de conjugació** per a cada verb, organitzades per mode i temps, incloent-hi les formes nominals (infinitiu, participis, gerundi).
-- **Pronunciació en àudio** de les conjugacions, generada sota demanda — toca la icona d'escolta al costat d'una forma.
-- **Frases d'exemple** per a conjugacions individuals, extretes de l'ús real, amb traduccions.
-- **Cerca i filtres** perquè trobis un verb ràpidament o et limitis als comuns mentre comences.
+- **Taules de conjugació** per a cada verb, organitzades per mode i temps, amb les formes nominals (infinitiu, participis, gerundi) a dalt.
+- **Àudio**: escolta una forma des de la taula on hi ha un enregistrament, i a la pàgina pròpia de qualsevol forma.
+- **Frases d'exemple** amb traduccions, una sota cada temps i més a la pàgina de cada forma. Quan una forma encara no té exemple, Immersive n'escriu un per als estudiants amb sessió iniciada.
+- **Cerca i filtres** per trobar un verb ràpidament, o per limitar-te als comuns mentre comences.
+- **Baralles públiques** que practiquen el verb, que pots copiar a les teves baralles un cop iniciada la sessió.
+- **Més verbs**: uns quants verbs comuns de freqüència propera, al peu de cada pàgina de verb.
 
-## Per a estudiants amb sessió iniciada
+## Amb sessió iniciada
 
 Amb un compte, les pàgines de verbs fan més coses:
 
-- **A través de les teves llengües** — en una pàgina de conjugació, Immersive alinea el mateix temps i persona en cada llengua que coneixes, ordenats de manera que les llengües més semblants queden una al costat de l'altra. Un toc afegeix la comparació com a targeta de repàs a les teves baralles.
-- **Baralles públiques** — les pàgines de verbs mostren baralles públiques ja fetes que practiquen aquell verb; pots copiar-ne qualsevol a Les meves baralles.
-- **Targetes de verb a les teves pròpies baralles** — quan construeixes una baralla pots generar targetes per als verbs i temps que triïs. Això passa a l'espai de treball de la baralla; vegeu [Crear baralles](decks/creating-decks.md).
-- **A les teves baralles i A les teves frases** — la pàgina d'un verb mostra les baralles que el contenen, amb les targetes per repassar, i les frases dels teus documents i vocabulari que el fan servir.
-- **Afegeix a una baralla** — un enllaç a la pàgina del verb obre el selector de verbs d'una baralla amb el verb seleccionat.
-- **Mostrar només els teus verbs** — un filtre de la llista per als verbs que ja són a les teves baralles.
+- **A través de les teves llengües**: a la pàgina d'una forma, el mateix temps i persona alineats en cada llengua que coneixes, amb les llengües més semblants una al costat de l'altra. **Afegeix una targeta de comparació** ho converteix en una targeta de repàs.
+- **A les teves baralles** i **A les teves frases**: les baralles que contenen el verb, amb les targetes pendents, i les frases dels teus documents i del teu vocabulari que el fan servir.
+- **Afegeix a una baralla**: obre el selector de verbs d'una de les teves baralles amb el verb seleccionat.
+- **Mostrar només els teus verbs**: un filtre de la llista de verbs per als verbs que ja són a les teves baralles.
+- **Pronom**: tria com es mostren les formes de tercera persona (per exemple *il*, *elle* o totes dues).
+- Un verb que encara no té taules es conjuga el primer cop que l'obre un estudiant amb sessió iniciada.
 
 ## Per on començar
 
-1. Obre **Verbs** des de la navegació (o simplement visita la pàgina d'inici).
-2. Cerca un verb, o explora la llista — activa **Mostrar només verbs comuns** per mantenir la llista curta.
-3. Obre un verb: tots els temps són a la pàgina. Tria'n un a la píndola de temps, toca la icona d'escolta per sentir una forma i obre una forma per llegir-ne les frases d'exemple.
+1. Obre **Verbs** des de la navegació (o visita la pàgina d'inici).
+2. Cerca un verb, o explora la llista; **Mostrar només verbs comuns** la manté curta.
+3. Obre un verb: tots els temps són a la pàgina. Salta a un temps amb el menú de temps, toca l'altaveu per escoltar una forma i obre una forma per llegir-ne les frases d'exemple.
 
-Per als detalls, vegeu [Treballar amb verbs](verbs/working-with-verbs.md).
-
----
+Vegeu [Treballar amb verbs](verbs/working-with-verbs.md).
 
 ## Per llegir més
 

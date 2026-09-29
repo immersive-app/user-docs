@@ -1,5 +1,6 @@
 ---
 title: Crear mazos
+description: Crea un mazo y añade tarjetas de palabra, frase, verbo y número, desde una hoja de cálculo o desde tu vocabulario guardado.
 parent: Mazos y repasos
 nav_order: 1
 lang: es
@@ -9,65 +10,64 @@ lang: es
 
 Construir un mazo lleva dos pasos: crear el mazo y luego añadirle tarjetas. Un mazo sin tarjetas no repasa nada, así que el espacio de trabajo te lleva directamente de un paso al otro.
 
----
-
 ## Para crear un mazo
 
-1. Abre **Mazos** y elige **Crear un nuevo mazo** (el botón +).
-2. Ponle nombre al mazo en ambos idiomas — los repasos pueden mostrar cualquiera de los dos lados, así que dale un título en tu idioma de estudio y otro en el tuyo.
-3. Opcionalmente elige una **carpeta** (o crea una nueva ahí mismo) y añade **etiquetas**. Mis mazos es la raíz — una carpeta solo hace falta si la quieres; las etiquetas agrupan mazos entre carpetas.
+1. Abre **Mazos** y elige el botón **+** (**Crear un nuevo mazo**).
+2. Dale al mazo un título en el idioma que aprendes y otro en tu idioma. Los dos son obligatorios: los repasos pueden mostrar cualquiera de los dos lados.
+3. Opcionalmente elige una **Carpeta** (o escribe el nombre de una nueva) y añade **Etiquetas**. Si dejas la carpeta en blanco, el mazo queda en el nivel superior de Mis mazos; las etiquetas agrupan mazos entre carpetas.
 4. Elige **Guardar y añadir tarjetas**.
 
 ## Añadir tarjetas
 
-El segundo paso del espacio de trabajo ofrece un selector de tipo de tarjeta — **Palabra**, **Frase**, **Verbo**, **Número** — más una vía en bloque: **Subir hoja de cálculo**.
+El espacio de trabajo del mazo tiene cuatro tipos de tarjeta (**Palabra**, **Frase**, **Verbo**, **Número**) y otras dos fuentes: **Subir hoja de cálculo** y **De marcadores**.
 
 ### Palabras
 
-Escribe una palabra y, opcionalmente, su traducción — deja la traducción en blanco e Immersive la completa. Pulsar Intro añade la tarjeta y vacía el campo para la siguiente palabra, así que puedes introducir una lista rápidamente.
+Escribe una **Palabra** y, opcionalmente, su **Traducción**. Si dejas la traducción en blanco, Immersive la completa. Pulsar Intro añade la tarjeta y vacía el campo para la siguiente palabra, así que puedes introducir una lista rápidamente.
 
 ### Frases
 
-Introduce las frases, una por línea. Las traducciones se completan solas; puedes editarlas después en la lista de tarjetas.
+Introduce las frases, una por línea, y elige **Añadir tarjetas**. Las traducciones se completan solas; puedes editarlas después en la lista de tarjetas.
 
 ### Verbos
 
-1. Busca verbos, o recorre los niveles **Esenciales** (los primeros verbos que necesita un principiante), **Comunes** y **Todos**.
-2. Elige los **tiempos** que quieres practicar — el conmutador **Mostrar solo tiempos comunes** limita la lista a los que de verdad vas a encontrar.
-3. Elige un **estilo de tarjeta**: *Una tarjeta por persona* (yo hablo, tú hablas… repasadas por separado) o *Todas las personas en una tarjeta* (la tabla completa del tiempo en una sola tarjeta).
-
-Immersive genera automáticamente una tarjeta por persona y tiempo (o por tabla de tiempo).
+1. Elige verbos de la lista **Esenciales**, **Comunes** o **Todos**. Esenciales reúne los primeros verbos que necesita un principiante; Comunes y Todos tienen un cuadro de búsqueda. Immersive recuerda la última lista que usaste.
+2. Marca los **tiempos** que quieres practicar.
+3. Elige un estilo de tarjeta: **Una tarjeta por persona** (cada persona se repasa por separado) o **Todas las personas en una tarjeta** (la tabla completa del tiempo en una sola tarjeta).
+4. Elige **Crear tarjetas**.
 
 ### Números
 
-Introduce números, separados por comas. Cada número se convierte en una tarjeta que leerás, escribirás, escucharás o dirás con letras.
+Introduce números separados por comas, sin espacios, por ejemplo `17,70,71,80`, y elige **Añadir tarjetas**. Cada número se convierte en una tarjeta que lees, escribes, oyes o dices con letras.
 
-## Importar desde una hoja de cálculo
+## Desde una hoja de cálculo
 
-Elige **Subir hoja de cálculo** para importar tarjetas de palabra en bloque:
+Elige **Subir hoja de cálculo** para importar muchas tarjetas a la vez:
 
-1. Elige un archivo **CSV o XLSX** — las columnas son palabra y traducción, y la traducción es opcional (las que falten se completan solas y quedan marcadas para que puedas revisarlas de un vistazo). Hay una plantilla disponible para descargar.
-2. Revisa la **vista previa**: las filas que ya están en el mazo llegan sin marcar para que no crees duplicados.
-3. Selecciona las filas que quieras y elige **Importar tarjetas**.
+1. Elige un archivo **CSV o XLSX** con dos columnas: el texto en el idioma que aprendes y su traducción. La traducción es opcional. **Descargar template.csv** te da un archivo desde el que empezar. Se leen hasta 500 filas.
+2. Elige **Vista previa**. Cada fila se convierte en una tarjeta de palabra o de frase, según su texto. Las filas que ya están en el mazo se marcan **En el mazo** y llegan sin marcar, para que no crees duplicados; las traducciones que completó Immersive se marcan **Auto** para que puedas revisarlas de un vistazo.
+3. Marca las filas que quieras y elige **Importar tarjetas**.
 
-## Frases de ejemplo en tarjetas de palabra
+## Desde tu vocabulario
 
-Una tarjeta de palabra puede llevar una frase de ejemplo. Desde la fila de la tarjeta puedes adjuntar una de tres maneras:
+**De marcadores** lista las palabras y frases que marcaste como guardadas en tu [Vocabulario](../vocabulary.md), para los idiomas de este mazo, todas marcadas. Filtra por **Todo**, **Palabras** o **Frases**, desmarca lo que no quieras y elige **Añadir tarjetas**. Las entradas siguen guardadas en tu Vocabulario.
 
-- **De tus documentos** — las frases que has leído que contienen la palabra aparecen primero.
-- **Escribe la tuya** propia frase de ejemplo.
-- **Generar** — Immersive escribe una frase a tu nivel; regenérala si no encaja.
+## Frases de ejemplo
+
+Una tarjeta de palabra o de verbo puede llevar una frase de ejemplo. En la lista de tarjetas, elige **Añadir ejemplo** (o **Cambiar ejemplo**) en la tarjeta y luego:
+
+- **De tus documentos**: las frases que has leído que contienen la palabra aparecen primero.
+- **Escribe la tuya**: escribe una frase y elige **Adjuntar frase**.
+- **Generar**: Immersive escribe una frase a tu nivel; elige **Regenerar** si no encaja.
 
 ## Otras maneras de crear mazos
 
 No siempre partes de un mazo en blanco:
 
 - **Copia** un mazo de la Biblioteca o un mazo público a Mis mazos y pasa a ser tuyo para estudiar. Ver [Gestionar mazos](managing-decks.md).
-- **Crear un mazo con la selección** en tu [Vocabulario](../vocabulary.md).
-- **Añadir tarjeta de comparación** en la página de una conjugación archiva tarjetas de comparación entre idiomas en un mazo dedicado. Ver [Trabajar con verbos](../verbs/working-with-verbs.md).
-- Revelar palabras con pista en el lector construye un mazo «De la lectura» a medida que lees. Ver [Leer documentos](../documents/reading-documents.md).
-
----
+- **Añadir a un mazo** en el lector (desde el panel **Más** de una palabra) o en la página de un verbo abre el espacio de trabajo del mazo con la palabra o el verbo ya rellenados.
+- **Crear un mazo con la selección** en tu [Vocabulario](../vocabulary.md) crea un mazo nuevo con las entradas que marques.
+- Immersive llena los mazos **De la lectura**, **Comparaciones puente** y **Práctica de gramática** mientras estudias. Ver [Mazos y repasos](../decks.md#qué-contiene-un-mazo).
 
 ## Más lectura
 

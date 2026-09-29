@@ -1,0 +1,30 @@
+{%- comment -%}
+  Theme override (jekyll-vitepress-theme 1.9.1) for immersive#1211: the
+  phone bar's labels come from the page's edition (_data/locales.yml). The
+  rest is the theme's local_nav.html.
+{%- endcomment -%}
+{% assign edition = page.collection | default: 'en' %}
+{% assign labels = site.data.locales[edition] %}
+<div class="VPLocalNav has-sidebar" id="vp-local-nav">
+  <div class="container">
+    <button class="menu" aria-expanded="false" aria-controls="VPSidebarNav" id="vp-local-menu-button">
+      <span class="vpi-align-left menu-icon"></span>
+      <span class="menu-text">{{ labels.menu }}</span>
+    </button>
+
+    <div class="VPLocalNavOutlineDropdown" id="vp-local-outline-dropdown">
+      <button type="button" id="vp-local-outline-button" aria-expanded="false" aria-controls="vp-local-outline-items">
+        <span class="menu-text">{{ labels.outline }}</span>
+        <span class="vpi-chevron-right icon"></span>
+      </button>
+      <div class="items" id="vp-local-outline-items" hidden>
+        <div class="header">
+          <a class="top-link" href="#top" id="vp-local-top-link">{{ labels.return_to_top }}</a>
+        </div>
+        <div class="outline">
+          <ul class="VPDocOutlineItem"></ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

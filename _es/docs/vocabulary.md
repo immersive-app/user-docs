@@ -1,55 +1,50 @@
 ---
 title: Vocabulario
-nav_order: 3
+description: Las palabras y frases que consultas, recogidas en tu Perfil, y cómo guardarlas y convertirlas en un mazo.
+nav_order: 7
 lang: es
 ---
 
 # Vocabulario
 
-Tu Vocabulario es la lista de palabras y frases que has encontrado de verdad mientras estudias. Nunca escribes nada en él — se recoge solo a medida que usas Immersive — y vive en tu Perfil, en la pestaña **Vocabulario**.
-
----
+Tu Vocabulario es la lista de palabras y frases que has consultado mientras estudias. Nunca escribes nada en él: se recoge solo a medida que usas Immersive, y vive en tu Perfil, en la pestaña **Vocabulario**.
 
 ## Cómo se recoge el vocabulario
 
-Tres actividades alimentan tu Vocabulario automáticamente:
+- **Tocar una palabra o frase.** Dondequiera que Immersive muestra texto que se puede tocar (el lector, las frases de ejemplo de las páginas de verbos, las notas de gramática y sus ejercicios, las comparaciones), tocar una palabra o frase para ver su traducción la registra.
+- **Guardarla.** **Guardar en el vocabulario**, en el panel **Más** de una palabra, la registra y la marca como guardada.
 
-- **Palabras y frases que traduces en el lector.** Toca una palabra o frase en un documento para ver su traducción, y queda registrada. Toca un término de la lista para ver su traducción y escucharlo; una frase tiene su altavoz al final.
-- **Frases que fallas al repasar.** Cuando un repaso no sale bien, el elemento acaba aquí para que decidas qué hacer con él.
-- **Correcciones de tu escritura.** Las palabras que vuelven corregidas en tus documentos escritos también se recogen.
-
-Cada entrada recuerda cuántas veces la has **visto**, **fallado** y **repasado**, así que la lista sirve también como registro de qué palabras te están dando problemas.
+Cada entrada recuerda cuántas veces la has visto, así que la lista sirve también como registro de lo que consultas una y otra vez.
 
 ## Explorar tu lista
 
-Abre **Perfil → Vocabulario**. Arriba verás tus totales — cuántos elementos has recogido y cuántos has guardado. Puedes:
+Abre **Perfil → Vocabulario**. La lista muestra el idioma que estás aprendiendo ahora, lo más reciente primero; la línea superior cuenta cuántas entradas has recogido y cuántas has guardado. Puedes:
 
-- **Buscar** entre tus palabras con el cuadro de búsqueda.
-- **Filtrar por tipo** — todos los tipos, solo palabras o solo frases.
-- Marcar **Solo guardadas** para ver únicamente los elementos que has señalado como dignos de conservar.
+- **Buscar tus palabras** con el cuadro de búsqueda.
+- **Filtrar por tipo**: todos los tipos, solo palabras o solo frases.
+- Marcar **Solo guardadas** para ver únicamente las entradas que has guardado.
 
-## Guardar y descartar
+Cada fila muestra la palabra o la frase (tócala para ver su traducción y oír su audio), si es una palabra o una frase, su traducción, sus recuentos (visto, fallado, repasado) y dónde la encontraste.
 
-No todo lo que traduces merece estudiarse. Selecciona las entradas que te importan y luego:
+La lista muestra las 50 entradas coincidentes más recientes («Mostrando 50 de 212»). Para encontrar una más antigua, busca o filtra.
 
-- **Guardar** las deja marcadas, para que destaquen y puedan filtrarse con Solo guardadas.
-- **Descartar** elimina las entradas que no quieres seguir.
+## Guardar
+
+Marca las entradas que te importan (o **Seleccionar todo**) y luego:
+
+- **Guardar** las marca como guardadas, para que destaquen y puedan filtrarse con **Solo guardadas**.
+- **Descartar** quita la marca de guardada. Las entradas siguen en la lista.
 
 ## Convertir el vocabulario en un mazo
 
-Todo el sentido de recoger vocabulario es repasarlo. Para crear un mazo a partir de tu lista:
+Todo el sentido de recoger vocabulario es repasarlo. Hay dos maneras:
 
-1. Abre **Perfil → Vocabulario**.
-2. Selecciona las palabras y frases que quieres estudiar.
-3. Elige **Crear un mazo con la selección**.
-
-Immersive crea un mazo nuevo (llamado «Vocabulario» con la fecha de hoy) con una tarjeta por cada elemento seleccionado, listo para repasar como cualquier otro mazo. Ver [Repasar tarjetas](decks/reviewing-cards.md).
+- **Desde tu lista**: marca las palabras y frases que quieras y elige **Crear un mazo con la selección**. Immersive crea un mazo llamado «Vocabulario» con la fecha de hoy, una tarjeta por entrada, y lo abre para que puedas revisar las tarjetas antes de repasar.
+- **Desde un mazo**: en el espacio de trabajo de cualquier mazo, **De marcadores** añade tus entradas guardadas para los idiomas de ese mazo. Ver [Crear mazos](decks/creating-decks.md#desde-tu-vocabulario).
 
 ## Si tu lista está vacía
 
-El Vocabulario solo se llena mientras estudias. La forma más rápida de estrenarlo es abrir un documento y leer: cada palabra que traduces aparece aquí. Ver [Leer documentos](documents/reading-documents.md).
-
----
+El Vocabulario solo se llena mientras estudias. La forma más rápida de estrenarlo es **Abrir un documento** y leer: cada palabra que consultas aparece aquí. Ver [Leer documentos](documents/reading-documents.md).
 
 ## Más lectura
 

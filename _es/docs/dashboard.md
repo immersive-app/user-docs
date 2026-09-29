@@ -1,49 +1,54 @@
 ---
-title: Panel de control
+title: Navegación
+description: Las cinco pestañas, el menú de la cuenta, el botón del coach, la lectura y el repaso a pantalla completa, y el correo diario de repaso.
 nav_order: 2
 lang: es
 ---
 
-# Panel de control
+# Navegación
 
-Una vez que has iniciado sesión, todo en Immersive está a uno o dos toques de distancia. Esta página recorre la navegación para que siempre sepas dónde estás y cómo volver.
+Una vez que has iniciado sesión, todo en Immersive está a uno o dos toques. Esta página recorre la navegación para que siempre sepas dónde estás y cómo volver.
 
----
+## Dónde llegas
 
-## Dónde aterrizas
+La primera vez que inicias sesión pasas por la comprobación de idiomas y luego llegas a **Perfil → Progreso** (ver [Primeros pasos](../index.md)). Después, iniciar sesión te lleva a la **biblioteca de verbos**, la página de inicio de Immersive. El logotipo de Immersive también te lleva de vuelta ahí.
 
-Al iniciar sesión llegas a la **biblioteca de verbos** — la página de inicio de Immersive. Desde ahí, la barra de navegación es tu panel de control: muestra las cinco áreas principales de la aplicación y te acompaña en todas las pantallas.
+## Las pestañas
 
-## La barra de navegación
+En un ordenador o una tableta, las pestañas van en la parte superior de la página; en un teléfono, están en una barra de pestañas en la parte inferior, al alcance del pulgar:
 
-En un ordenador o una tableta, las pestañas se muestran en la parte superior de la página; en un teléfono, se sitúan en una barra de pestañas en la parte inferior, al alcance del pulgar. Las pestañas son:
+- **Mazos**: tus mazos, la Biblioteca de mazos y tu historial de repasos. Ver [Mazos y repasos](decks.md).
+- **Documentos**: los textos que estás leyendo o escribiendo, más la Biblioteca de documentos. Ver [Documentos](documents.md).
+- **Gramática**: notas por nivel MCER, práctica y la gramática de la lectura. Ver [Gramática](grammar.md).
+- **Verbos**: tablas de conjugación, audio y frases de ejemplo. Ver [Verbos](verbs.md).
+- **Perfil**: tu progreso, actividad, evaluaciones, vocabulario, chats con el coach, profesores y cuenta. Ver [Perfil y progreso](profile.md).
 
-- **Mazos** — tus mazos de repaso, la Biblioteca de mazos y tu historial de repasos. Ver [Mazos y repasos](decks.md).
-- **Documentos** — los textos que estás leyendo o escribiendo, más la Biblioteca de documentos seleccionados. Ver [Documentos](documents.md).
-- **Gramática** — notas de referencia por nivel MCER, con ejercicios. Ver [Gramática](grammar.md).
-- **Verbos** — tablas de conjugación, audio y frases de ejemplo. Ver [Verbos](verbs.md).
-- **Perfil** — tu progreso, actividad, evaluaciones, vocabulario, profesores y cuenta. Ver [Perfil y progreso](profile.md).
-
-La pestaña de la sección en la que estás aparece resaltada, así que siempre sabes dónde te encuentras.
+La pestaña de la sección en la que estás aparece resaltada.
 
 ## El menú de la cuenta
 
-Tu foto de perfil está al final de la barra de navegación. Al seleccionarla se abre un pequeño menú con tu nombre y tu correo electrónico, y un botón de **Cerrar sesión**.
+Tu foto de perfil está al final de la barra de navegación. Al seleccionarla se abre un pequeño menú con tu nombre, tu correo electrónico y **Cerrar sesión**.
 
-## Las sesiones de repaso ocupan toda la pantalla
+## El botón del coach
 
-Cuando empiezas una sesión de repaso, la navegación desaparece: la sesión ocupa toda la pantalla para que puedas concentrarte en la tarjeta que tienes delante. Usa el botón de cierre (la X en la parte superior de la tarjeta) para volver al mazo en cualquier momento — tu progreso en la sesión se va guardando sobre la marcha.
+En la parte inferior de las páginas con barra de navegación hay un botón para preguntar al coach. Su etiqueta sigue lo que estás viendo: **Preguntar al coach** en general, **Preguntar sobre esta nota** en una nota de gramática, **Preguntar sobre este verbo** en la página de un verbo. Ver [Coach](coach.md).
+
+## Pantalla completa
+
+Dos lugares ocultan la navegación para que puedas concentrarte:
+
+- **El lector.** Al abrir un documento solo se muestran el texto y sus controles. El botón de cierre (X) te devuelve a tus documentos.
+- **Las sesiones de repaso.** La tarjeta ocupa toda la pantalla. La X en la parte superior de la tarjeta te devuelve al mazo; cada calificación que das se guarda sobre la marcha.
 
 ## El correo diario de repaso
 
-Si tienes tarjetas esperando, Immersive puede enviarte un breve correo por la mañana — «3 tarjetas pendientes hoy» — con un botón de **Empezar a repasar** que te lleva directamente a tus mazos.
+Cuando tus mazos tienen tarjetas esperando, Immersive envía un correo al día hacia las 7:00 en tu zona horaria. El asunto dice qué te espera («3 tarjetas pendientes hoy» o «5 tarjetas nuevas listas para aprender hoy»). El correo lista cada mazo con sus recuentos y dos enunciados de muestra, y cada mazo tiene su propio enlace **Empezar a repasar** que abre la sesión de repaso de ese mazo.
 
-Cada uno de estos correos incluye un enlace para cancelar la suscripción. Cancelarla solo detiene el correo; puedes seguir repasando cuando quieras desde tus mazos.
-
----
+El correo está activado a menos que lo detengas. **Dejar de recibir este correo diario**, al pie de cada envío, lo desactiva con un clic; no hay ningún ajuste en la aplicación para volver a activarlo. Detener el correo nunca detiene tus repasos.
 
 ## Más lectura
 
 - [Mazos y repasos](decks.md)
 - [Documentos](documents.md)
+- [Coach](coach.md)
 - [Perfil y progreso](profile.md)

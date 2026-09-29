@@ -1,51 +1,62 @@
 ---
 title: Leggere le note grammaticali
+description: Trova una nota di grammatica, leggila in una delle due lingue, usa gli esercizi, salvala tra i segnalibri e segnala un problema.
 parent: Grammatica
+nav_order: 1
 lang: it
 ---
 
 # Leggere le note grammaticali
 
-Come trovare la nota che ti serve, passarla da una lingua all'altra e lavorare sui suoi esercizi.
-
----
+Come trovare la nota che ti serve, leggerla e lavorare sui suoi esercizi.
 
 ## Trovare una nota
 
-1. Apri la sezione Grammatica.
-2. Usa la **ricerca** in cima all'indice per filtrare le note per parola chiave.
-
-Ogni voce dell'elenco mostra il titolo della nota; aprine una per leggerla.
+- **Ricerca**: scrivi nella casella di ricerca in cima alla pagina Grammatica. I risultati elencano ogni nota corrispondente con il suo livello, la sua area e la tua padronanza; livelli e aree sono nascosti durante la ricerca.
+- **Sfoglia**: apri un livello, poi un'area, per vederne le note, 20 alla volta.
+- **Segnalibri**: l'icona del segnalibro su una nota la contrassegna; il pulsante del segnalibro nella pagina Grammatica elenca solo le note che hai salvato tra i segnalibri.
 
 ## Leggere una nota
 
-Una nota grammaticale spiega un concetto — il suo titolo appare nella lingua obiettivo, con il titolo tradotto sotto quando esiste una traduzione. I badge mostrano il **livello CEFR** della nota (A1–C1) e la sua **categoria**.
+Una nota di grammatica spiega un punto. Il suo titolo è nella lingua che stai imparando, con il titolo tradotto sotto. I badge mostrano il **livello QCER** della nota (da A1 a C1) e la sua **area**; entrambi sono link.
+
+Sotto il titolo, **A che punto sei su questa nota** mostra la tua padronanza, quante carte di pratica hai e quante sono da ripassare, e quando hai ripassato l'ultima volta. **Esercitati** trasforma la nota in carte di ripasso; vedi [Pratica di grammatica](grammar-practice.md).
+
+Le parole e le frasi di esempio si possono toccare come il testo nel lettore, per la traduzione e l'audio.
 
 ### Cambiare lingua
 
-Quando una nota ha una traduzione, si apre nella tua lingua per chiarezza. Usa l'**interruttore della lingua** in fondo alla nota per passare alla versione nella lingua obiettivo. Leggere la spiegazione nella lingua che stai imparando è una sfida che vale la pena, una volta che il concetto in sé non è più nuovo.
+Una nota si apre nella lingua che stai imparando. Quando ha una traduzione, **Leggi in** (seguito dalla tua lingua) alla fine della nota passa a quella; torna indietro allo stesso modo. Leggere la spiegazione nella lingua che stai imparando è una buona sfida, una volta che il punto in sé non è più nuovo.
 
 ### Nelle tue lingue
 
-Con i confronti attivati (**Profilo → Account → Lingue**), una nota che esiste in una lingua che conosci mostra un riquadro **Nelle tue lingue**: lo stesso punto nella lingua che stai imparando e nella tua, a un tocco di distanza. Quando la nota appartiene a un confronto della [grammatica della lettura](grammar-of-reading.md), il riquadro termina con una riga che lo apre.
+Con i confronti attivati (**Profilo → Account → Lingue**), una nota mostra un riquadro **Nelle tue lingue** quando lo stesso punto ha una nota in una lingua che conosci: «Lo stesso punto, in una lingua che già conosci», a un tocco di distanza. Quando la nota appartiene a un confronto della [grammatica della lettura](grammar-of-reading.md), il riquadro termina con una riga che lo apre.
 
-## Lavorare sugli esercizi
+## Esercizi
 
-Molte note terminano con una sezione **Esercizi**: frasi numerate da completare che usano il concetto che hai appena letto.
+Molte note terminano con gli **Esercizi**, numerati, ciascuno con il suo tipo:
 
-Per rispondere a un esercizio:
+- **Riempi lo spazio** e **Completa la frase**: scrivi le parole mancanti.
+- **Scegli la forma**: scegli da un elenco o tocca una delle opzioni.
+- **Correggi la frase**: la frase con gli errori è già nella casella; correggila. L'esercizio ti dice quante cose ci sono da correggere, e mostra cosa è cambiato una volta che hai fatto giusto.
+- **Traduci in** la lingua che stai imparando.
 
-1. Completa lo spazio vuoto — scrivendo la tua risposta o scegliendo da un elenco, a seconda dell'esercizio.
-2. Premi **Controlla**. Ricevi subito un riscontro sulla correttezza della tua risposta.
-3. Se sei bloccato e l'esercizio ha un suggerimento, premi **Suggerimento**.
+Per rispondere:
 
-Alcuni esercizi includono tra parentesi una traduzione della frase, così sai sempre cosa stai cercando di dire.
+1. Scrivi o scegli la tua risposta. Quando tocchi un'opzione, viene controllata subito; altrimenti premi **Controlla**.
+2. Il riscontro dice **Corretto** oppure **Non proprio — riprova**.
+3. **Suggerimento** ti dà una spinta, quando l'esercizio ne ha uno. Dopo una risposta sbagliata, **Mostra la risposta** la rivela.
 
----
+Alcuni esercizi mostrano sotto la frase la sua traduzione, così sai cosa stai cercando di dire.
+
+## Chiedere e segnalare
+
+- **Chiedi di questa nota**, e **Chiedi di questo esercizio** su ogni esercizio, aprono il [Coach](../coach.md) con la nota sotto gli occhi. Selezionando del testo in una nota puoi chiedere di quel passaggio.
+- **Qualcosa non torna?** alla fine della nota invia una segnalazione al team, con la nota allegata.
 
 ## Per approfondire
 
 - [Grammatica](../grammar.md)
+- [Pratica di grammatica](grammar-practice.md)
 - [La grammatica della lettura](grammar-of-reading.md)
-- [Scrivere documenti](../documents/writing-documents.md) — applica la grammatica nella tua scrittura e ricevi correzioni
-- [Ripassare le carte](../decks/reviewing-cards.md)
+- [Scrivere documenti](../documents/writing-documents.md): applica la grammatica nella tua scrittura e ricevi correzioni

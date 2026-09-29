@@ -1,5 +1,6 @@
 ---
 title: Ripassare le carte
+description: Avviare un ripasso, le modalità Leggi, Scrivi, Ascolta e Parla, la valutazione, i risultati, i limiti giornalieri e la cronologia dei ripassi.
 parent: Mazzi e ripassi
 nav_order: 2
 lang: it
@@ -7,56 +8,65 @@ lang: it
 
 # Ripassare le carte
 
-Una sessione di ripasso ti mostra le carte in scadenza, una alla volta, a schermo intero. Ogni risposta che dai alimenta la pianificazione: le carte che conosci bene si allontanano, quelle che sbagli tornano presto. I ripassi usano la ripetizione dilazionata che si adatta alla tua memoria — la pianificazione FSRS.
-
----
+Una sessione di ripasso ti mostra le carte da ripassare, una alla volta, a schermo intero. Ogni risposta alimenta la pianificazione: le carte che conosci bene si allontanano, quelle che sbagli tornano presto. I ripassi usano la ripetizione dilazionata che si adatta alla tua memoria (la pianificazione FSRS).
 
 ## Avviare una sessione
 
-Apri un mazzo. Se ci sono carte in attesa, la pagina del mazzo mostra un unico grande pulsante — **Inizia il ripasso**, con il numero di carte — e una didascalia che lo scompone in carte da ripassare e nuove. Premilo (o premi Spazio) per cominciare.
+Apri uno dei tuoi mazzi. Se ci sono carte in attesa, la pagina del mazzo mostra un unico grande pulsante, **Inizia il ripasso** con il numero di carte, e una didascalia che scompone quel numero in carte da ripassare e nuove. Premilo, oppure premi Spazio.
 
-Se non c'è nulla in scadenza, il mazzo ti dice quando arriva la prossima carta. Quando restano carte nuove, puoi comunque premere **Studia in anticipo** per introdurle prima del tempo.
+Se non c'è nulla da ripassare, il mazzo ti dice quando arriva la prossima carta. Quando restano carte nuove, **Studia in anticipo** le introduce prima del tempo.
+
+Un mazzo con carte da ripassare mostra anche il suo conteggio **Da rivedere** come link nella pagina Mazzi, che avvia direttamente il ripasso.
+
+Per ripassare un mazzo della Biblioteca o pubblico, copialo prima in I miei mazzi.
 
 ## Le quattro modalità
 
-Le schede in cima alla carta cambiano la modalità di ripasso. Immersive ricorda l'ultima modalità che hai usato e riparte da lì la volta successiva.
+Le schede in cima alla carta cambiano la modalità. Immersive ricorda la modalità che hai scelto, per tutti i tuoi mazzi, e riparte da lì la volta successiva.
 
-- **Leggere** — leggi la richiesta e richiama la risposta a mente, premi **Mostra risposta** (funziona anche Spazio), poi valutati. Una volta che la risposta è sulla carta, le sue parole funzionano come nel lettore: toccane una per la traduzione e l'audio, o l'altoparlante della frase per la frase intera.
-- **Scrivere** — produci la risposta per iscritto. Puoi usare **Tocca** per mettere in ordine tessere mescolate di parole o lettere, oppure passare a **Digita** e usare la tastiera. La tua risposta viene controllata automaticamente.
-- **Ascoltare** — la carta viene letta ad alta voce; scrivi ciò che senti. Controllo automatico.
-- **Parlare** — leggi la richiesta ad alta voce mentre registri (la registrazione si ferma automaticamente a dieci secondi). Immersive confronta ciò che ha sentito con il riferimento; se non è stato possibile ottenere una trascrizione, ti valuti da solo rispetto al riferimento.
+- **Leggi**: leggi la richiesta e richiama la risposta a mente, poi premi **Mostra risposta** (o Spazio) e valutati. I tasti numerici da 1 a 4 scelgono un giudizio. Una volta che la risposta è sulla carta, le sue parole funzionano come nel lettore: toccane una per la traduzione e l'audio.
+- **Scrivi**: la carta mostra la traduzione; scrivi la risposta nella lingua che stai imparando. **Tocca** ti dà tessere di parole mescolate da mettere in ordine (posizionare l'ultima parola invia la risposta), oppure passa a **Digita** e usa la tastiera, poi **Invia** (o Cmd+Invio / Ctrl+Invio).
+- **Ascolta**: la carta viene letta ad alta voce; scrivi ciò che senti, con la stessa scelta tra **Tocca** e **Digita**. Se una carta non ha audio, mostra invece il testo.
+- **Parla**: leggi la richiesta ad alta voce. **Registra** cattura la tua voce e si ferma da solo dopo dieci secondi. Puoi scrivere ciò che hai detto in **Oppure scrivi ciò che hai detto**; Immersive lo confronta poi con la risposta. Se lo lasci vuoto, riascolta **La tua** registrazione e il **Riferimento** e valutati da solo.
 
 ## La valutazione
 
 Ogni ripasso si conclude con uno di quattro giudizi:
 
-- **Ancora** — non l'hai richiamata; la carta torna molto presto.
-- **Difficile** — ci sei arrivato, con fatica.
-- **Bene** — richiamata con un certo sforzo.
-- **Facile** — senza sforzo; la carta si allontana il più possibile.
+- **Ancora**: non l'hai richiamata; la carta torna molto presto.
+- **Difficile**: ci sei arrivato, con fatica.
+- **Bene**: richiamata con un certo sforzo.
+- **Facile**: senza sforzo; la carta si allontana il più possibile.
 
-In modalità Leggere scegli tu il giudizio; sugli schermi più grandi ogni giudizio mostra l'intervallo che programmerebbe. Nelle modalità Scrivere, Ascoltare e Parlare la risposta viene valutata automaticamente — il giudizio è mostrato insieme al risultato, e puoi sceglierne un altro per correggerlo.
+In modalità Leggi scegli tu il giudizio. In Scrivi, Ascolta e Parla (quando hai scritto ciò che hai detto), Immersive confronta la tua risposta con quella attesa e propone un giudizio: il risultato mostra quanto ti sei avvicinato («92% di corrispondenza · valutato Bene»). Scegli un giudizio diverso per correggerlo. Il ripasso viene salvato quando scegli un giudizio.
 
-## Avanzamento della sessione e risultati
+Su un computer, **Mostra gli intervalli** sotto la carta aggiunge a ogni pulsante di giudizio fra quanto tempo la carta tornerà; **Nascondi gli intervalli** li toglie. Immersive ricorda la tua scelta. Sui telefoni gli intervalli non vengono mostrati.
 
-Una sottile barra di avanzamento segue la sessione. Quando la coda è finita ricevi un riepilogo: carte ripassate, quante ne hai ricordate al primo colpo e il tuo tempo di impegno concentrato. Se alcune carte non sono andate bene, un link **da rivedere** fa ripartire subito solo quelle — le riprese sono esercizio extra e non contano per i limiti giornalieri.
+## Durante la sessione
+
+- Una sottile barra di avanzamento segue la sessione.
+- Una riga sotto la carta conta ciò che resta: da ripassare oggi, nuove e in apprendimento.
+- Una volta mostrata la risposta, **Chiedi di questa carta** apre il [Coach](../coach.md) con la carta sotto gli occhi.
+- La X in cima alla carta ti riporta al mazzo.
+
+## Risultati
+
+Quando la coda è finita vedi **Sessione completata**: le carte ripassate, quante ne hai ricordate al primo colpo e il tuo tempo di impegno concentrato, poi ogni carta con il momento in cui tornerà. Le carte che hai valutato **Ancora** sono contrassegnate **da rivedere**. **Torna al mazzo** ti riporta al mazzo.
 
 ## Limiti giornalieri
 
-Per mantenere le sessioni sostenibili, ogni mazzo introduce al massimo un numero fisso di nuove carte al giorno e smette di programmare dopo un limite giornaliero di ripassi. Se raggiungi un limite, il mazzo te lo dice — le carte rimanenti aspettano semplicemente domani.
+Ogni mazzo introduce al massimo 20 carte nuove al giorno. Non c'è limite ai ripassi delle carte che hai già iniziato. Quando il mazzo raggiunge il limite di carte nuove per la giornata, la sessione termina con un avviso, e le carte nuove rimanenti aspettano domani. Il limite non si può cambiare.
 
 ## Cronologia dei ripassi
 
-Dalla pagina Mazzi, l'icona dell'orologio apre la tua **Cronologia dei ripassi**: ogni sessione, dalla più recente, con il mazzo, quante carte hai ripassato, quante ne hai ricordate e quanto tempo ci è voluto. Le sessioni con errori offrono un link per rivedere quelle carte.
+Nella pagina Mazzi, l'orologio apre la tua **Cronologia dei ripassi**: ogni sessione, dalla più recente e raggruppata per giorno, con il mazzo, la modalità, il numero di carte, quante ne hai ricordate e quanto tempo ci è voluto. Quando una sessione ha avuto carte valutate Ancora o Difficile, **da rivedere** avvia una breve sessione con solo quelle carte, nella stessa modalità. Le riprese sono ripassi veri: aggiornano la pianificazione come qualsiasi altro.
 
 ## L'email quotidiana di ripasso
 
-Quando ci sono carte in scadenza, Immersive può inviarti ogni mattina un'email con il conteggio e un pulsante **Inizia il ripasso**. Ogni email ha un link per annullare l'iscrizione; fermare l'email non ferma mai i tuoi ripassi.
-
----
+Quando ci sono carte in attesa, Immersive può inviarti un'email ogni mattina. Vedi [Navigazione](../dashboard.md#lemail-quotidiana-di-ripasso).
 
 ## Per approfondire
 
 - [Creare mazzi](creating-decks.md)
 - [Gestire i mazzi](managing-decks.md)
-- [Profilo e progressi](../profile.md) — i tuoi ripassi alimentano le schede Attività e Progressi
+- [Profilo e progressi](../profile.md): i tuoi ripassi alimentano le schede Attività e Progressi

@@ -1,0 +1,7 @@
+---
+layout: null
+permalink: /search/ca.json
+sitemap: false
+llms: false
+---
+{% include search_index.json edition="ca" %}

@@ -1,0 +1,7 @@
+---
+layout: null
+permalink: /search/fr.json
+sitemap: false
+llms: false
+---
+{% include search_index.json edition="fr" %}

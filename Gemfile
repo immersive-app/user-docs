@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
 
-gem "jekyll", "~> 4.4" # installed by `gem jekyll`
-# gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2
+gem "jekyll", "~> 4.4"
 
-gem "just-the-docs", "0.12.0" # pinned to the current release
-# gem "just-the-docs"        # always download the latest release
+# VitePress-style docs theme and plugin (immersive#1211). Pinned to the minor
+# release: overrides in _includes/ are copies of its includes.
+gem "jekyll-vitepress-theme", "~> 1.9.1"
 
 # Stdlib gems Jekyll needs that are no longer default gems on Ruby >= 3.4
 gem "csv"

@@ -1,55 +1,50 @@
 ---
 title: Vocabulário
-nav_order: 3
+description: As palavras e frases que consulta, recolhidas no seu Perfil, e como as salvar e transformar num baralho.
+nav_order: 7
 lang: pt
 ---
 
 # Vocabulário
 
-O seu Vocabulário é a lista das palavras e frases que realmente encontrou enquanto estudava. Nunca escreve nada nele — recolhe-se sozinho à medida que usa o Immersive — e vive no seu Perfil, no separador **Vocabulário**.
-
----
+O seu Vocabulário é a lista das palavras e frases que consultou enquanto estudava. Nunca escreve nada nele: recolhe-se sozinho à medida que usa o Immersive, e vive no seu Perfil, no separador **Vocabulário**.
 
 ## Como o vocabulário é recolhido
 
-Três atividades alimentam o seu Vocabulário automaticamente:
+- **Tocar numa palavra ou frase.** Em qualquer sítio onde o Immersive mostra texto em que pode tocar (o leitor, as frases de exemplo das páginas de verbos, as notas de gramática e os exercícios, as comparações), tocar numa palavra ou frase para ver a tradução regista-a.
+- **Guardá-la.** **Guardar no vocabulário**, no painel **Mais** de uma palavra, regista-a e marca-a como salva.
 
-- **Palavras e frases que traduz no leitor.** Toque numa palavra ou frase num documento para ver a sua tradução, e ela fica registada. Toque num termo da lista para ver a tradução e ouvi-lo; uma frase tem o seu altifalante no fim.
-- **Frases que falha na revisão.** Quando uma revisão não corre bem, o item aterra aqui, para poder decidir o que fazer com ele.
-- **Correções da sua escrita.** As palavras que voltam corrigidas nos seus documentos escritos também são recolhidas.
-
-Cada entrada lembra quantas vezes a **viu**, **errou** e **reviu**, pelo que a lista serve também de registo das palavras que lhe estão a dar trabalho.
+Cada entrada lembra quantas vezes a viu, pelo que a lista serve também de registo daquilo que continua a consultar.
 
 ## Percorrer a sua lista
 
-Abra **Perfil → Vocabulário**. No topo vê os seus totais — quantos itens recolheu e quantos salvou. Pode:
+Abra **Perfil → Vocabulário**. A lista mostra a língua que está a aprender agora, as mais recentes primeiro; a linha do topo conta quantas entradas recolheu e quantas salvou. Pode:
 
-- **Pesquisar** as suas palavras com a caixa de pesquisa.
-- **Filtrar por tipo** — todos os tipos, só palavras ou só frases.
-- Marcar **Só salvas** para ver apenas os itens que marcou como dignos de guardar.
+- Pesquisar as suas palavras na caixa de pesquisa (**Busque suas palavras**).
+- **Filtrar por tipo**: todos os tipos, só palavras ou só frases.
+- Marcar **Só salvas** para ver apenas as entradas que salvou.
 
-## Salvar e descartar
+Cada linha mostra a palavra ou frase (toque-lhe para ver a tradução e ouvir o áudio), se é uma palavra ou uma frase, a sua tradução, as suas contagens (visto, errado, revisado) e onde a encontrou.
 
-Nem tudo o que traduz vale a pena estudar. Selecione as entradas que lhe interessam e depois:
+A lista mostra as 50 entradas correspondentes mais recentes («Mostrando 50 de 212»). Para encontrar uma mais antiga, pesquise ou filtre.
 
-- **Salvar** mantém-nas marcadas, para se destacarem e poderem ser filtradas com Só salvas.
-- **Descartar** limpa as entradas que não quer acompanhar.
+## Salvar
+
+Marque as entradas que lhe interessam (ou **Selecionar tudo**), e depois:
+
+- **Salvar** marca-as como salvas, para se destacarem e poderem ser filtradas com **Só salvas**.
+- **Descartar** retira a marca de salva. As entradas continuam na lista.
 
 ## Transformar o vocabulário num baralho
 
-Todo o sentido de recolher vocabulário é revê-lo. Para criar um baralho a partir da sua lista:
+Todo o sentido de recolher vocabulário é revê-lo. Há duas formas:
 
-1. Abra **Perfil → Vocabulário**.
-2. Selecione as palavras e frases que quer estudar.
-3. Escolha **Criar um baralho com a seleção**.
-
-O Immersive cria um baralho novo (chamado «Vocabulário» com a data de hoje) com um cartão por item selecionado, pronto a rever como qualquer outro baralho. Ver [Rever cartões](decks/reviewing-cards.md).
+- **A partir da sua lista**: marque as palavras e frases que quer e escolha **Criar um baralho com a seleção**. O Immersive cria um baralho chamado «Vocabulário» com a data de hoje, um cartão por entrada, e abre-o para que possa conferir os cartões antes de rever.
+- **A partir de um baralho**: no espaço de trabalho de qualquer baralho, **Dos marcadores** adiciona as suas entradas salvas para as línguas desse baralho. Ver [Criar baralhos](decks/creating-decks.md#do-seu-vocabulário).
 
 ## Se a sua lista estiver vazia
 
-O Vocabulário só se enche à medida que estuda. A forma mais rápida de o pôr a andar é abrir um documento e ler: todas as palavras que traduzir aparecem aqui. Ver [Ler documentos](documents/reading-documents.md).
-
----
+O Vocabulário só se enche à medida que estuda. A forma mais rápida de o começar é **Abrir um documento** e ler: todas as palavras que consultar aparecem aqui. Ver [Ler documentos](documents/reading-documents.md).
 
 ## Para saber mais
 

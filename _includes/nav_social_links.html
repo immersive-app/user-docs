@@ -1,0 +1,49 @@
+{%- comment -%}
+  Theme override (jekyll-vitepress-theme 1.9.1) for immersive#1211: the
+  slot the theme fills with social links (navbar, the "..." menu, and the
+  phone menu) holds the language switcher instead. The six editions mirror
+  the English page structure, so a page maps to its counterpart by swapping
+  the locale prefix (immersive#612). The links are rendered for the page that
+  loaded; guide.js rewrites them after in-frame navigation and stores the
+  choice that head_end.html's browser-language redirect then respects.
+{%- endcomment -%}
+{% assign edition = page.collection | default: 'en' %}
+{% assign labels = site.data.locales[edition] %}
+{% assign codes = "en|ca|es|fr|it|pt" | split: "|" %}
+{% assign suffix = page.url %}
+{% if edition != 'en' %}
+  {% assign prefix_size = edition.size | plus: 1 %}
+  {% assign suffix = page.url | slice: prefix_size, page.url.size %}
+{% endif %}
+{% capture guide_lang_links %}
+  {% for code in codes %}
+    {% assign name = site.data.locales[code].name %}
+    {% if code == 'en' %}
+      {% assign target = suffix %}
+    {% else %}
+      {% capture target %}/{{ code }}{{ suffix }}{% endcapture %}
+    {% endif %}
+    <li><a class="guide-lang__link{% if code == edition %} is-current{% endif %}" href="{{ target | relative_url }}" hreflang="{{ code }}" lang="{{ code }}" data-guide-lang="{{ code }}" data-turbo="false"{% if code == edition %} aria-current="true"{% endif %}>{{ name }}</a></li>
+  {% endfor %}
+{% endcapture %}
+{% if include.variant == 'extra' %}
+  <div class="VPSocialLinks VPNavBarExtraSocialLinks guide-lang guide-lang--extra">
+    <p class="guide-lang__label">{{ labels.language }}</p>
+    <ul class="guide-lang__list">{{ guide_lang_links }}</ul>
+  </div>
+{% elsif include.variant == 'screen' %}
+  <div class="VPNavScreenSocialLinks guide-lang guide-lang--screen">
+    <p class="guide-lang__label">{{ labels.language }}</p>
+    <ul class="guide-lang__list">{{ guide_lang_links }}</ul>
+  </div>
+{% else %}
+  <div class="VPSocialLinks VPNavBarSocialLinks guide-lang guide-lang--navbar">
+    <details class="guide-lang__menu">
+      <summary class="guide-lang__button" aria-label="{{ labels.language }}: {{ labels.name }}">
+        <svg class="guide-lang__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="m5 8 6 6M4 14l6-6 2-3M2 5h12M7 2h1m14 20-5-10-5 10m2-4h6"/></svg>
+        <span>{{ labels.name }}</span>
+      </summary>
+      <ul class="guide-lang__list guide-lang__popup">{{ guide_lang_links }}</ul>
+    </details>
+  </div>
+{% endif %}
