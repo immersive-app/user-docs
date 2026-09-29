@@ -1,14 +1,15 @@
 ---
 title: The grammar of reading
+description: Where the language you are learning differs from the languages you know, section by section, with the forms side by side.
 parent: Grammar
-nav_order: 2
+nav_order: 3
 ---
 
 # The grammar of reading
 
 A short reference to where the language you are learning differs from the languages you already know — and where it does not. It is the Bridge Method applied to grammar: only the points that trip a reader, each one stated the same way in all six languages, with the forms side by side.
 
-It is for learners who know more than one of Immersive's languages, so it is off until you turn it on: **Profile → Account → Languages → Use the languages I know to explain the one I'm learning**.
+It is for learners who know more than one of Immersive's languages, so the comparisons are off until you turn them on: **Profile → Account → Languages → Use the languages I know to explain the one I'm learning**. With them off, the pages can still be opened, but nothing is measured against your languages or underlined in your reading.
 
 ---
 
@@ -24,9 +25,9 @@ In practice it comes down to three things:
 
 ## Browsing by section
 
-Open **Grammar** and choose the **Grammar of reading** row at the foot of the overview (or go to `/grammar/reading`). The 26 sections are listed by topic under seven headings — lexicon, sound and spelling, syntax, the verb system, determiners, function words, morphology. Each section shows how many comparisons it has, how many **differ from your languages**, and how many work **like yours**.
+Open **Grammar** and choose the **Grammar of reading** row at the foot of the page (or go to `/grammar/reading`). The page shows your languages beside the one you are learning, with **Edit in Profile** to change them. The 26 sections are listed by topic under seven headings: Lexicon, Sound and spelling, Syntax, Verb system, Determiners, Function words, and Morphology. Each section shows how many comparisons it has and, once you have recorded languages you know, how many **differ from yours** and how many work **like yours**.
 
-Open a section to see its comparisons. Each row names the languages that differ, and says either **Differs from yours** or **Same as** the language of yours that works the same way. Rows marked **Forms table** are pure conjugation tables and open in Verbs instead.
+Open a section to see its comparisons. Each row names the languages that differ, and says either **Differs from yours** or **Same as** the language of yours that works the same way. Rows marked **Forms table** are conjugation tables: they open the Verbs section instead.
 
 ## Reading a comparison
 
@@ -36,7 +37,9 @@ A comparison page has three parts:
 2. **The statement**, in the language you read best. Use **Read in** to switch it to any of the six; your choice is remembered.
 3. **The examples**: the same sentences in all six languages, one row per language in the order of the Romance continuum (Portuguese, Spanish, Catalan, Italian, French, English). A dotted underline marks the language that differs; your own languages and the one you are learning are in full ink.
 
-Below, **See also** lists the related comparisons, and **Learn this properly** links to the grammar notes with exercises that teach the construction.
+Below, **See also** lists the related comparisons, and **Learn this properly** links to the grammar notes with exercises that teach the construction, in the language you are learning and in yours.
+
+**Ask about this comparison** opens the [Coach](../coach.md) with the comparison in view, and **Something wrong here?** sends the team a report about it. When you arrived from a document or a review, the link at the top takes you back there.
 
 ## In your reading
 

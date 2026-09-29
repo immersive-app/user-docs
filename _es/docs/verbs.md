@@ -1,43 +1,42 @@
 ---
 title: Verbos
-nav_order: 4
+description: Tablas de conjugación de los seis idiomas, con audio y frases de ejemplo, abiertas a todo el mundo, y más funciones para quienes inician sesión.
+nav_order: 6
 has_children: true
 lang: es
 ---
 
 # Verbos
 
-Los verbos son la maquinaria de la frase, e Immersive les dedica una sección de referencia completa: tablas de conjugación íntegras para todos los idiomas disponibles, con pronunciación en audio y frases de ejemplo reales. Las tablas de verbos son públicas — puedes explorarlas sin cuenta — y además son la página de inicio de Immersive cuando inicias sesión.
-
----
+Los verbos son la maquinaria de la frase, e Immersive les dedica una sección de referencia completa: tablas de conjugación para cada idioma, con audio y frases de ejemplo. Las tablas de verbos son públicas, así que puedes explorarlas sin cuenta, y son la página de inicio de Immersive cuando inicias sesión.
 
 ## Qué ofrece la sección de Verbos
 
-- **Tablas de conjugación** de cada verbo, organizadas por modo y tiempo, incluidas las formas nominales (infinitivo, participios, gerundio).
-- **Pronunciación en audio** de las conjugaciones, generada bajo demanda — toca el icono de escucha junto a una forma.
-- **Frases de ejemplo** para conjugaciones individuales, extraídas del uso real, con traducciones.
-- **Búsqueda y filtros** para encontrar un verbo rápidamente o quedarte con los más comunes mientras estás empezando.
+- **Tablas de conjugación** de cada verbo, organizadas por modo y tiempo, con las formas nominales (infinitivo, participios, gerundio) arriba.
+- **Audio**: escucha una forma desde la tabla cuando existe una grabación, y en la página propia de cualquier forma.
+- **Frases de ejemplo** con traducciones, una bajo cada tiempo y más en la página de cada forma. Cuando una forma aún no tiene ejemplo, Immersive escribe uno para quienes han iniciado sesión.
+- **Búsqueda y filtros** para encontrar un verbo rápidamente, o para quedarte con los comunes mientras estás empezando.
+- **Mazos públicos** que practican el verbo, que puedes copiar a tus mazos una vez iniciada la sesión.
+- **Más verbos**: unos cuantos verbos comunes de frecuencia parecida, al pie de cada página de verbo.
 
-## Para quienes han iniciado sesión
+## Con la sesión iniciada
 
 Con una cuenta, las páginas de verbos hacen más:
 
-- **A través de tus idiomas** — en la página de una conjugación, Immersive alinea el mismo tiempo y persona en cada idioma que conoces, ordenados de forma que los idiomas más parecidos queden uno junto al otro. Un toque añade la comparación como tarjeta de repaso en tus mazos.
-- **Mazos públicos** — las páginas de verbos muestran mazos públicos listos para usar que practican ese verbo; puedes copiar cualquiera a Mis mazos.
-- **Tarjetas de verbos en tus propios mazos** — al construir un mazo puedes generar tarjetas para los verbos y tiempos que elijas. Eso ocurre en el espacio de trabajo del mazo; ver [Crear mazos](decks/creating-decks.md).
-- **En tus mazos y En tus frases** — la página de un verbo muestra los mazos que lo contienen, con las tarjetas pendientes, y las frases de tus documentos y vocabulario que lo usan.
-- **Añadir a un mazo** — un enlace en la página del verbo abre el selector de verbos de un mazo con el verbo seleccionado.
-- **Mostrar solo tus verbos** — un filtro de la lista para los verbos que ya están en tus mazos.
+- **A través de tus idiomas**: en la página de una forma, el mismo tiempo y la misma persona alineados en cada idioma que conoces, con los idiomas más parecidos uno junto al otro. **Añadir una tarjeta de comparación** lo convierte en una tarjeta de repaso.
+- **En tus mazos** y **En tus frases**: los mazos que contienen el verbo, con las tarjetas pendientes, y las frases de tus documentos y tu vocabulario que lo usan.
+- **Añadir a un mazo**: abre el selector de verbos de uno de tus mazos con el verbo seleccionado.
+- **Mostrar solo tus verbos**: un filtro de la lista de verbos para los verbos que ya están en tus mazos.
+- **Pronombre**: elige cómo se muestran las formas de tercera persona (por ejemplo *il*, *elle* o los dos).
+- Un verbo que aún no tiene tablas se conjuga la primera vez que lo abre alguien con la sesión iniciada.
 
 ## Por dónde empezar
 
-1. Abre **Verbos** desde la navegación (o simplemente visita la página de inicio).
-2. Busca un verbo, o recorre la lista — activa **Mostrar solo verbos comunes** para mantener la lista corta.
-3. Abre un verbo: todos los tiempos están en la página. Elige uno en la píldora de tiempo, toca el icono de escucha para oír una forma y abre una forma para leer sus frases de ejemplo.
+1. Abre **Verbos** desde la navegación (o visita la página de inicio).
+2. Busca un verbo o recorre la lista; **Mostrar solo verbos comunes** la mantiene corta.
+3. Abre un verbo: todos los tiempos están en la página. Salta a un tiempo con el menú de tiempos, toca el altavoz para oír una forma y abre una forma para leer sus frases de ejemplo.
 
-Para los detalles, ver [Trabajar con verbos](verbs/working-with-verbs.md).
-
----
+Ver [Trabajar con verbos](verbs/working-with-verbs.md).
 
 ## Más lectura
 

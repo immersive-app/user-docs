@@ -1,42 +1,41 @@
 ---
 title: Verbs
-nav_order: 4
+description: Conjugation tables for the six languages, with audio and example sentences, open to everyone, and more for signed-in learners.
+nav_order: 6
 has_children: true
 ---
 
 # Verbs
 
-Verbs are the machinery of a sentence, and Immersive gives them a full reference section: complete conjugation tables for every supported language, with audio pronunciation and real example sentences. The verb tables are public — you can browse them without an account — and they are also Immersive's home page when you sign in.
-
----
+Verbs are the machinery of a sentence, and Immersive gives them a full reference section: conjugation tables for each language, with audio and example sentences. The verb tables are public, so you can browse them without an account, and they are Immersive's home page when you sign in.
 
 ## What the Verbs section offers
 
-- **Conjugation tables** for each verb, organised by mood and tense, including nominal forms (infinitive, participles, gerund).
-- **Audio pronunciation** for conjugations, generated on demand — tap the listen icon next to a form.
-- **Example sentences** for individual conjugations, drawn from real usage, with translations.
-- **Search and filters** so you can find a verb quickly or stick to the common ones while you are starting out.
+- **Conjugation tables** for each verb, organised by mood and tense, with the nominal forms (infinitive, participles, gerund) at the top.
+- **Audio**: listen to a form from the table where a recording exists, and on any form's own page.
+- **Example sentences** with translations, one under each tense and more on each form's page. Where a form has no example yet, Immersive writes one for signed-in learners.
+- **Search and filters** to find a verb quickly, or to stick to the common ones while you are starting out.
+- **Public decks** that practise the verb, which you can copy to your decks once signed in.
+- **More verbs**: a few common verbs close in frequency, at the foot of each verb page.
 
 ## For signed-in learners
 
 With an account, the verb pages do more:
 
-- **Across your languages** — on a conjugation page, Immersive lines up the same tense and person in each language you know, ordered so that the most similar languages sit side by side. One tap adds the comparison as a review card in your decks.
-- **Public decks** — verb pages surface ready-made public decks that practise that verb; you can copy any of them to My Decks.
-- **Verb cards in your own decks** — when building a deck you can generate cards for the verbs and tenses you choose. That happens in the deck workspace; see [Creating decks](decks/creating-decks.md).
-- **In your decks and In your sentences** — a verb page shows the decks holding it, with due counts, and the sentences from your documents and vocabulary that use it.
-- **Add to a deck** — one link on the verb page opens a deck's verb picker with the verb selected.
-- **Show only your verbs** — a filter on the list for the verbs already in your decks.
+- **Across your languages**: on a form's page, the same tense and person lined up in each language you know, most similar languages side by side. **Add a comparison card** turns it into a review card.
+- **In your decks** and **In your sentences**: the decks that hold the verb, with due counts, and the sentences from your documents and vocabulary that use it.
+- **Add to a deck**: opens one of your decks' verb picker with the verb selected.
+- **Show only your verbs**: a filter on the verb list for the verbs already in your decks.
+- **Pronoun**: choose how third-person forms are shown (for example *il*, *elle*, or both).
+- A verb with no tables yet is conjugated the first time a signed-in learner opens it.
 
 ## Where to start
 
-1. Open **Verbs** from the navigation (or just visit the home page).
-2. Search for a verb, or browse the list — turn on **Show only common verbs** to keep the list short.
-3. Open a verb: every tense is on the page. Choose one from the tense pill, tap the listen icon to hear a form, and open a form to read its example sentences.
+1. Open **Verbs** from the navigation (or visit the home page).
+2. Search for a verb, or browse the list; **Show only common verbs** keeps it short.
+3. Open a verb: every tense is on the page. Jump to a tense with the tense menu, tap the speaker to hear a form, and open a form to read its example sentences.
 
-For the details, see [Working with verbs](verbs/working-with-verbs.md).
-
----
+See [Working with verbs](verbs/working-with-verbs.md).
 
 ## Further reading
 

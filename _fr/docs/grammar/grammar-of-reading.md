@@ -1,7 +1,8 @@
 ---
 title: La grammaire de la lecture
+description: Où la langue que vous apprenez diffère des langues que vous connaissez, section par section, les formes côte à côte.
 parent: Grammaire
-nav_order: 2
+nav_order: 3
 lang: fr
 ---
 
@@ -9,7 +10,7 @@ lang: fr
 
 Une courte référence aux endroits où la langue que vous apprenez diffère de celles que vous connaissez déjà — et où elle n'en diffère pas. C'est la Méthode des Ponts appliquée à la grammaire : seulement les points où un lecteur trébuche, chacun énoncé de la même façon dans les six langues, les formes côte à côte.
 
-Elle s'adresse à ceux qui connaissent plus d'une langue d'Immersive ; elle est donc désactivée tant que vous ne l'activez pas : **Profil → Compte → Langues → Utiliser les langues que je connais pour expliquer celle que j'apprends**.
+Elle s'adresse à ceux qui connaissent plus d'une langue d'Immersive ; les comparaisons sont donc désactivées tant que vous ne les activez pas : **Profil → Compte → Langues → Utiliser les langues que je connais pour expliquer celle que j'apprends**. Désactivées, les pages s'ouvrent quand même, mais rien n'est mesuré par rapport à vos langues ni souligné dans vos lectures.
 
 ---
 
@@ -25,19 +26,21 @@ En pratique, cela tient en trois choses :
 
 ## Parcourir par section
 
-Ouvrez **Grammaire** et choisissez la ligne **Grammaire de la lecture** au pied de la vue d'ensemble (ou allez sur `/grammar/reading`). Les 26 sections sont listées par thème sous sept rubriques : lexique, sons et graphie, syntaxe, système verbal, déterminants, mots-outils, morphologie. Chaque section indique combien de comparaisons elle contient, combien **diffèrent de vos langues** et combien fonctionnent **comme les vôtres**.
+Ouvrez **Grammaire** et choisissez la ligne **Grammaire de la lecture** au pied de la page (ou allez sur `/grammar/reading`). La page montre vos langues à côté de celle que vous apprenez, avec **Modifier dans le profil** pour les changer. Les 26 sections sont listées par thème sous sept rubriques : Lexique, Sons et graphie, Syntaxe, Système verbal, Déterminants, Mots-outils et Morphologie. Chaque section indique combien de comparaisons elle contient et, une fois que vous avez indiqué les langues que vous connaissez, combien **diffèrent des vôtres** et combien fonctionnent **comme les vôtres**.
 
-Ouvrez une section pour voir ses comparaisons. Chaque ligne nomme les langues qui diffèrent et indique **Diffère des vôtres** ou **Comme en** — la langue à vous qui fonctionne de la même façon. Les lignes marquées **Tableau de formes** sont des tableaux de conjugaison et s'ouvrent dans Verbes.
+Ouvrez une section pour voir ses comparaisons. Chaque ligne nomme les langues qui diffèrent et indique **Diffère des vôtres** ou **Comme en** — la langue à vous qui fonctionne de la même façon. Les lignes marquées **Tableau de formes** sont des tableaux de conjugaison : ils ouvrent plutôt la section Verbes.
 
 ## Lire une comparaison
 
 Une page de comparaison a trois parties :
 
 1. **Quelles langues diffèrent**, et où cette comparaison se situe par rapport aux vôtres. Quand l'une de vos langues fonctionne comme celle que vous apprenez, la page cite la forme partagée, pour que vous voyiez la ressemblance au lieu de la croire sur parole.
-2. **L'énoncé**, dans la langue que vous lisez le mieux. **Lire en** le bascule dans n'importe laquelle des six ; votre choix est mémorisé.
+2. **L'énoncé**, dans la langue que vous lisez le mieux. **Lire dans** le bascule dans n'importe laquelle des six ; votre choix est mémorisé.
 3. **Les exemples** : les mêmes phrases dans les six langues, une ligne par langue dans l'ordre du continuum roman (portugais, espagnol, catalan, italien, français, anglais). Un pointillé marque la langue qui diffère ; vos langues et celle que vous apprenez sont en encre pleine.
 
-Plus bas, **Voir aussi** liste les comparaisons liées, et **Approfondir** renvoie aux notes de grammaire avec exercices qui enseignent la construction.
+Plus bas, **Voir aussi** liste les comparaisons liées, et **Approfondir** renvoie aux notes de grammaire avec exercices qui enseignent la construction, dans la langue que vous apprenez et dans la vôtre.
+
+**Demander à propos de cette comparaison** ouvre le [Coach](../coach.md) avec la comparaison sous les yeux, et **Quelque chose cloche ?** envoie un signalement à l'équipe à son sujet. Quand vous arrivez depuis un document ou une révision, le lien en haut vous y ramène.
 
 ## Dans vos lectures
 

@@ -1,49 +1,55 @@
 ---
 title: Mazzi e ripassi
-nav_order: 6
+description: Cosa contiene un mazzo, come funzionano i ripassi a ripetizione dilazionata, la pagina Mazzi e Anki.
+nav_order: 3
 has_children: true
 lang: it
 ---
 
 # Mazzi e ripassi
 
-I mazzi sono il luogo dove in Immersive avviene la memorizzazione. Un mazzo è una raccolta di carte — parole, frasi, coniugazioni verbali o numeri — e ripassare un mazzo ti mostra ogni carta nel momento in cui stai per dimenticarla, con la ripetizione dilazionata che si adatta alla tua memoria (la pianificazione FSRS, la stessa famiglia di algoritmi usata dall'Anki moderno).
+I mazzi sono il luogo dove in Immersive avviene la memorizzazione. Un mazzo è una raccolta di carte (parole, frasi, forme verbali o numeri), e ripassare un mazzo ti mostra ogni carta nel momento in cui stai per dimenticarla, con la ripetizione dilazionata che si adatta alla tua memoria (la pianificazione FSRS, la stessa famiglia di algoritmi usata dall'Anki moderno).
 
----
+## Cosa contiene un mazzo
 
-## Cosa può contenere un mazzo
+Puoi aggiungere tu stesso quattro tipi di carte:
 
-Un mazzo mescola quattro tipi di carte:
+- **Carte parola**: una parola, la sua traduzione e, facoltativamente, una frase di esempio.
+- **Carte frase**: una frase completa con la sua traduzione.
+- **Carte verbo**: i verbi e i tempi che scegli, una carta per persona oppure un'intera tabella di un tempo per carta.
+- **Carte numero**: numeri scritti in lettere nella lingua che stai imparando.
 
-- **Carte parola** — una parola, la sua traduzione e, facoltativamente, una frase di esempio.
-- **Carte frase** — una frase completa con la sua traduzione.
-- **Carte verbo** — le coniugazioni dei verbi e dei tempi che scegli, una carta per persona oppure un'intera tabella di un tempo per carta.
-- **Carte numero** — numeri scritti in lettere nella tua lingua obiettivo.
+Le carte arrivano da molti posti: scritte a mano, importate da un foglio di calcolo, aggiunte dalle parole che hai salvato nel tuo [Vocabolario](vocabulary.md), copiate con un mazzo della Biblioteca o pubblico, oppure aggiunte dal lettore e dalle pagine dei verbi con **Aggiungi a un mazzo**.
 
-Le carte possono arrivare da molti posti: scritte a mano, importate da un foglio di calcolo, riprese da parole e frasi che hai salvato durante la lettura, generate dal tuo [Vocabolario](vocabulary.md), copiate da un mazzo pubblico o della Biblioteca, o create dalle tabelle di confronto dei verbi.
+Immersive riempie anche tre mazzi per te mentre studi. Compaiono in I miei mazzi come tutti gli altri:
+
+- **Dalla lettura (lingua)**: una carta ogni volta che riveli una parola intuibile nel lettore. Vedi [Leggere documenti](documents/reading-documents.md).
+- **Confronti ponte (lingua)**: le carte che aggiungi con **Aggiungi una scheda di confronto** nella pagina di una forma verbale. Vedi [Lavorare con i verbi](verbs/working-with-verbs.md).
+- **Pratica di grammatica (lingua)**: carte dalle note di grammatica su cui ti eserciti. Vedi [Pratica di grammatica](grammar/grammar-practice.md).
 
 ## Come funziona il ripasso
 
-Ogni carta è pianificata individualmente. Quando ripassi una carta, tu (o Immersive) valutate la risposta — **Ancora**, **Difficile**, **Bene** o **Facile** — e la pianificazione si aggiusta: le carte che trovi facili si allontanano nel futuro, quelle che sbagli tornano presto. Col tempo, i minuti di ripasso finiscono quasi tutti sul materiale che ne ha davvero bisogno.
+Ogni carta è pianificata individualmente. Quando ripassi una carta, riceve un giudizio (**Ancora**, **Difficile**, **Bene** o **Facile**) e la pianificazione si aggiusta: le carte che trovi facili si allontanano nel futuro, quelle che sbagli tornano presto. Col tempo, i tuoi minuti di ripasso vanno al materiale che ne ha bisogno.
 
-Puoi ripassare ogni carta in quattro modalità — **Leggere**, **Scrivere**, **Ascoltare** e **Parlare** — così lo stesso mazzo allena riconoscimento, ortografia, comprensione e pronuncia.
+Puoi ripassare in quattro modalità (**Leggi**, **Scrivi**, **Ascolta** e **Parla**), così lo stesso mazzo allena riconoscimento, ortografia, ascolto e pronuncia. Vedi [Ripassare le carte](decks/reviewing-cards.md).
 
 ## La pagina Mazzi
 
-Aprendo **Mazzi** dalla navigazione trovi:
+Aprendo **Mazzi** trovi:
 
-- **Biblioteca** — mazzi pronti forniti da Immersive, come un mazzo di Essenziali con i verbi di base e le parole più comuni nella tua lingua, da copiare in I miei mazzi per studiarli.
-- **I miei mazzi** — i tuoi mazzi, con cartelle, e colonne che mostrano quante carte sono Nuove, In apprendimento e Da ripassare in ciascuno.
-- **Cronologia dei ripassi** — il registro delle tue sessioni passate, tramite l'icona dell'orologio.
+- **Biblioteca**: mazzi pronti nella lingua che stai imparando, chiusa finché non la apri. Copiane uno in I miei mazzi con il suo pulsante **+**.
+- **I miei mazzi**: i tuoi mazzi e le tue cartelle, con colonne che mostrano quante carte sono **Nuove**, **In corso** e **Da rivedere**.
+- Tre pulsanti in alto: l'orologio apre la tua **Cronologia dei ripassi**, il segnalibro mostra solo i mazzi che hai salvato tra i segnalibri e **+** crea un nuovo mazzo.
 
 ## Anki
 
-Se usi anche Anki, ogni mazzo che puoi aprire ha un'azione **Esporta in Anki** — Immersive prepara il file e te lo invia per email. Immersive pubblica inoltre mazzi Anki già pronti per le sue coppie di lingue nella pagina **Mazzi Anki**; accedi per scaricarli.
+Se usi anche Anki:
 
----
+- **Esporta in Anki** su uno dei tuoi mazzi prepara un file Anki (.apkg) e te lo invia per email. Per esportare un mazzo della Biblioteca, copialo prima in I miei mazzi.
+- La pagina **Anki** (collegata nel piè di pagina delle pagine pubbliche di Immersive) offre mazzi Anki pronti da scaricare. Se hai effettuato l'accesso, scarichi direttamente. Senza un account, inserisci il tuo indirizzo email per scaricare; Immersive ti invia poi anche il suo corso gratuito del Metodo Ponte via email, cinque brevi lezioni, da cui puoi disiscriverti in qualsiasi momento.
 
 ## In questa sezione
 
-- [Creare mazzi](decks/creating-decks.md) — costruisci un mazzo e riempilo di carte.
-- [Ripassare le carte](decks/reviewing-cards.md) — la sessione di ripasso, le quattro modalità e la valutazione.
-- [Gestire i mazzi](decks/managing-decks.md) — cartelle, etichette, copia, esportazione ed eliminazione.
+- [Creare mazzi](decks/creating-decks.md): costruisci un mazzo e riempilo di carte.
+- [Ripassare le carte](decks/reviewing-cards.md): la sessione di ripasso, le quattro modalità, la valutazione e i limiti giornalieri.
+- [Gestire i mazzi](decks/managing-decks.md): la Biblioteca, cartelle, etichette, segnalibri, copia, esportazione ed eliminazione.

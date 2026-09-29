@@ -1,5 +1,6 @@
 ---
 title: Escrever documentos
+description: O editor, os temas, a revisão do Coach, as correções, o assistente de escrita (Edições, Reescrever, Tom, Suba de nível) e o histórico.
 parent: Documentos
 nav_order: 2
 lang: pt
@@ -7,52 +8,60 @@ lang: pt
 
 # Escrever documentos
 
-Escrever é onde uma língua se torna sua. O editor dá-lhe uma página limpa na língua que está a aprender, e ajuda exatamente quando a pede: um tema quando está bloqueado, um coach quando tem uma pergunta, correções quando termina e reescritas que lhe mostram o nível seguinte.
+Escrever é onde uma língua se torna sua. O editor dá-lhe uma página limpa na língua que está a aprender, e ajuda quando a pede: um tema quando está bloqueado, uma revisão curta do coach, correções quando termina e reescritas que lhe mostram o nível seguinte.
 
----
+## O editor
 
-## Escrever um documento
+1. Abra **Documentos** e escolha **+** (**Criar um novo documento**), ou abra um documento e mude para **Escrever** no topo do leitor.
+2. Escreva. A barra de ferramentas oferece negrito, itálico, títulos, listas e citações, além de recuo de parágrafo, entrelinha e impressão, e mostra uma contagem de palavras em curso.
+3. **Salvar** quando quiser. Um documento guardado pode ser lido como qualquer outro, com traduções, áudio e ajudas de leitura.
 
-1. Abra **Documentos** e comece um documento novo (ou abra um e mude para **Escrever**).
-2. Escreva. O editor oferece formatação ligeira — títulos, negrito, itálico, listas, citações — e mostra uma contagem de palavras em curso.
-3. **Guarde** quando quiser; um documento guardado pode ser lido como qualquer outro, com traduções, áudio e ajudas de leitura.
+**Tema**, **Coach**, **Histórico**, **Corrigir** e o assistente aparecem depois de o documento ter sido guardado pela primeira vez. O menu de ficheiros no topo lista os outros documentos da mesma pasta, para poder passar de um para outro.
 
-Preso por falta de ideia? Escolha **Tema** — o Immersive sugere algo sobre que escrever, no seu nível. Dispense-o ou peça um novo até algo encaixar.
+## Temas
 
-## Perguntar ao Coach
+Sem ideias? A barra **Tema** sugere algo sobre que escrever, no seu nível. **Novo tema** dá-lhe outro; o ✕ dispensa-o. O Immersive evita repetir os seus temas recentes.
 
-O **Coach** é um assistente que pode chamar enquanto escreve. Peça-lhe ajuda com o seu texto — explicações, ideias, formulações — e ele responde na sua própria língua, com o seu documento à frente.
+## A revisão do Coach
 
-## Obter correções
+**Coach**, na barra de ferramentas, lê o seu documento guardado e dá uma revisão curta na sua língua: uma coisa que o texto faz bem, até três melhorias com uma explicação cada, e uma ideia para continuar. Revê a última versão guardada, por isso guarde primeiro.
 
-Quando o rascunho estiver pronto, escolha **Corrigir**. O seu texto é enviado para correção e volta com:
+É uma revisão única, não uma conversa. Para fazer perguntas, use o [Coach](../coach.md) a partir do leitor ou da página de correção.
 
-- **Correções**, cada uma com uma explicação, na sua língua, do que mudou e porquê.
-- **Outras formas de dizer** — alternativas naturais, mais simples, formais e informais.
-- Uma **estimativa CEFR** do nível de escrita do seu texto.
+## Correções
 
-Reveja o texto corrigido e, se estiver satisfeito, **Aplicar ao documento** — o documento adota o texto corrigido, e a versão anterior fica no Histórico, para que nada se perca. Os envios anteriores continuam disponíveis, para poder olhar para trás e ver o que continuava a ser corrigido.
+Quando o rascunho estiver pronto, guarde-o e escolha **Corrigir**. A correção demora um momento («Corrigindo o seu texto…»); a página **Correção de escrita** terminada mostra:
+
+- **Estimativa QECR**: o nível da escrita do seu texto.
+- **Texto corrigido**, com **Aplicar ao documento**.
+- **Correções**: cada linha original ao lado da corrigida, com uma explicação na sua língua. As linhas corrigidas podem ser tocadas como o texto no leitor, e **Perguntar sobre esta correção** abre o coach sobre ela.
+- **Outras formas de dizer**: versões natural, mais simples, formal e informal.
+- **Algo errado aqui?** para comunicar uma correção que lhe pareça errada.
+
+**Aplicar ao documento** substitui o texto do documento pelo texto corrigido. A versão anterior fica no Histórico, por isso nada se perde. O texto corrigido é simples: títulos, negrito e outra formatação não são mantidos.
+
+As correções anteriores continuam disponíveis: o botão de fechar de uma página de correção leva à lista dos seus envios para o documento.
 
 ## O assistente de escrita
 
-Ao lado do editor fica um assistente com três separadores:
+Ao lado do editor (um painel num computador, uma folha num telemóvel) fica o **Assistente**, com três separadores:
 
-- **Edições** mostra as suas correções mais recentes no lugar, o seu nível de escrita e o botão Corrigir.
-- **Reescrever** trabalha sobre uma seleção: selecione uma passagem e peça uma sugestão — o Immersive reescreve-a um nível acima do seu nível de escrita atual, com o mesmo significado. A sugestão aparece sob o parágrafo; **Substituir** aceita-a, **Dispensar** deixa o seu texto em paz.
-- **Tom** reescreve o rascunho inteiro para uma situação que descreve com as suas próprias palavras — «um e-mail formal ao meu senhorio sobre o aquecimento avariado». As reescritas de tom mantêm-se dentro do seu nível: é a sua voz, ajustada, não a de outra pessoa. **Aplicar ao documento** para a manter, ou **Exportar .docx** para a levar para outro lado.
+- **Edições** mostra o seu nível de escrita («Nível de escrita ≈ B1»), até três das suas correções mais recentes, **Abrir o relatório completo** e o botão **Corrigir**. Também contém **Suba de nível** (abaixo).
+- **Reescrever** trabalha sobre uma seleção: selecione uma passagem (até 4.000 caracteres) e escolha **Sugerir reescrita**. O Immersive reescreve-a um nível acima do seu nível de escrita, com o mesmo significado. A sugestão aparece por baixo do parágrafo; **Substituir** aceita-a, **Dispensar** deixa o seu texto em paz.
+- **Tom** reescreve o rascunho inteiro para uma situação que descreve com as suas próprias palavras em **Reescrever isto como…** («um e-mail formal ao meu senhorio sobre o aquecimento avariado»), e depois **Reescrever**. A reescrita mantém-se perto do seu nível: é a sua voz, ajustada. **Aplicar ao documento** põe-na no editor, e **Exportar .docx** descarrega-a como ficheiro Word.
+
+O seu nível de escrita vem da estimativa QECR da sua correção mais recente; antes da primeira correção, é o nível que definiu para a língua no seu perfil.
 
 ## Suba de nível
 
-Curioso sobre como ficaria a sua escrita um passo à frente? **Suba de nível** mostra o seu texto tal como o escreveria alguém um nível CEFR acima do seu — conectores e verbos mais ricos, a mesma história. É um espelho, não uma correção: o seu documento não muda.
+Curioso sobre como ficaria a sua escrita um passo à frente? No separador Edições, **Mostre-me isto em B2** (ou no nível seguinte para si) reescreve o seu texto tal como o escreveria alguém um nível QECR acima de si: conectores e verbos mais ricos, a mesma história. **Aplicar ao documento** põe essa versão no editor (guarde para a manter); **Dispensar** deixa o seu texto como está. Suba de nível deixa de ser oferecido quando o seu nível de escrita é C2.
 
 ## Histórico
 
-Cada edição, importação e correção aplicada guarda a versão anterior no **Histórico** do documento, onde pode comparar e restaurar. Experimente à vontade — pode sempre voltar atrás.
-
----
+**Histórico**, no editor, abre o **Histórico de alterações** do documento. A versão anterior é guardada antes de cada edição, importação, correção aplicada ou restauro; compare qualquer versão com o texto atual e escolha **Restaurar**. Experimente à vontade: pode sempre voltar atrás.
 
 ## Para saber mais
 
 - [Ler documentos](reading-documents.md)
-- [Gramática](../grammar.md) — consulte os conceitos que as suas correções continuam a mencionar
-- [Vocabulário](../vocabulary.md) — as palavras corrigidas são recolhidas para revisão
+- [Coach](../coach.md)
+- [Gramática](../grammar.md): consulte os conceitos que as suas correções continuam a mencionar

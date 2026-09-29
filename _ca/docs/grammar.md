@@ -1,5 +1,6 @@
 ---
 title: Gramàtica
+description: Notes gramaticals per nivell MECR, amb exercicis, targetes de pràctica i la gramàtica de la lectura.
 nav_order: 5
 has_children: true
 lang: ca
@@ -7,51 +8,50 @@ lang: ca
 
 # Gramàtica
 
-Les notes gramaticals són els articles de referència d'Immersive: cadascuna explica un únic concepte gramatical de la teva llengua d'aprenentatge, amb exemples, i moltes inclouen exercicis que pots comprovar al moment. Estan organitzades per nivell CEFR, de manera que et pots quedar al teu nivell en lloc de perdre't en tot un llibre de gramàtica.
+Les notes gramaticals són els articles de referència d'Immersive: cadascuna explica un sol punt gramatical de la llengua que aprens, amb exemples, i la majoria inclouen exercicis que pots comprovar al moment. Les notes que practiques tornen com a targetes de repàs, perquè la gramàtica es fixi.
 
-La gramàtica és una de les cinc àrees principals de l'aplicació: un cop iniciada la sessió, obre **Gramàtica** des de la barra de navegació.
+Obre **Gramàtica** des de la barra de navegació un cop hagis iniciat sessió.
 
----
+## La pàgina de Gramàtica
 
-## Com s'organitzen les notes gramaticals
+- **On ets**: «Comença a A2» fins que comences, després «Treballant a B1», amb un botó: **Repassa** per a les targetes de gramàtica pendents, o **Practica** per començar-ne de noves. Vegeu [Pràctica de gramàtica](grammar/grammar-practice.md).
+- **Recomanat** (o **Comença aquí** al principi): una llista curta de notes per llegir, practicar o repassar a continuació, cadascuna marcada amb el motiu: **Pendent**, **Següent**, **A punt** o **Feble**.
+- **Per nivell**: d'A1 a C1, cadascun amb el teu domini, el nombre de notes i quantes targetes hi ha pendents. Obre un nivell per veure'n les àrees («Verbs, temps i conjugació», «Pronoms»...), i una àrea per veure'n les notes.
+- La **cerca** a dalt troba notes per paraula clau; el botó del marcador mostra només les notes marcades.
 
-- **Per nivell** — les notes estan graduades des d'A1 (principiant) fins a C1 (avançat), perquè les puguis ajustar al punt on ets.
-- **Per categoria** — dins de cada nivell, les notes s'agrupen per tema, com ara «Verbs, temps i conjugació», «Pronoms» o «Preposicions i conjuncions».
+## Domini
 
-Cada nota porta insígnies que en mostren el nivell i la categoria.
+A mesura que practiques, cada nota, àrea i nivell rep una valoració de domini: **Sense començar**, **Principiant**, **En desenvolupament**, **Intermedi**, **Competent** o **Fluid**. Surt de com van les teves targetes de pràctica d'aquelles notes.
 
 ## Què conté una nota
 
-- Una explicació del concepte, escrita per a estudiants, amb paraules i frases d'exemple.
-- Quan existeix una traducció, la nota es mostra en **la teva llengua**, amb un commutador per canviar a la versió en la **llengua d'aprenentatge** — una bona manera d'exigir-te més un cop el concepte et sigui familiar.
-- Algunes notes acaben amb **exercicis**: frases per omplir buits que pots respondre i comprovar immediatament.
+- Una explicació del punt, escrita per a estudiants, amb paraules i frases d'exemple que pots tocar per a la traducció i l'àudio.
+- La nota està escrita en la llengua que aprens. Quan existeix una traducció, **Llegir en** (la teva llengua) al final hi canvia.
+- Exercicis de diversos tipus, comprovats al moment.
+- On ets en la nota, i **Practica** per convertir-la en targetes de repàs.
+
+Vegeu [Llegir notes gramaticals](grammar/review-grammar.md).
 
 ## La gramàtica de la lectura
 
-Si ja coneixes una o més de les sis llengües d'Immersive, Gramàtica també et pot mostrar on la llengua que aprens **difereix de les que coneixes** — els punts on un lector ensopega, i res més. És la *gramàtica de la lectura*: el [Mètode Pont](grammar/grammar-of-reading.md) aplicat a la gramàtica, una referència breu organitzada per temes i no per nivell.
+Si ja coneixes una o més de les sis llengües d'Immersive, Gramàtica també et pot mostrar on la llengua que aprens **difereix de les que coneixes**: els punts on un lector ensopega, i res més. És la *gramàtica de la lectura*: el [Mètode Pont](grammar/grammar-of-reading.md#el-mètode-pont) aplicat a la gramàtica, una referència breu organitzada per temes i no per nivell.
 
-Està desactivada fins que l'actives. A **Perfil → Compte**, sota **Llengües**, marca **Fes servir les llengües que conec per explicar la que estic aprenent**. A partir de llavors:
+Està desactivada fins que l'actives. A **Perfil → Compte**, sota **Idiomes**, marca **Fes servir les llengües que conec per explicar la que estic aprenent** i tria **Desa els idiomes**. A partir de llavors:
 
-- apareix una fila **Gramàtica de la lectura** al peu de la visió general de Gramàtica, amb quantes comparacions difereixen de les teves llengües i quantes funcionen com elles;
+- apareix una fila **Gramàtica de la lectura** («Què canvia quan llegeixes francès») al peu de la pàgina de Gramàtica, amb quantes comparacions difereixen de les teves llengües i quantes funcionen com elles;
 - les notes gramaticals que pertanyen a una comparació hi mostren una entrada sota **En les teves llengües**;
-- al lector, una frase que conté una d'aquestes construccions rep un **subratllat de punts** (vegeu [Llegir documents](documents/reading-documents.md));
-- en una targeta de gramàtica en repàs, la frase revelada porta la seva comparació: toca l'altaveu de la frase per veure-la, un cop vista la resposta.
+- al lector, una frase que conté una d'aquestes construccions rep un **subratllat de punts** (vegeu [Llegir documents](documents/reading-documents.md#ajudes-de-lectura)).
 
-Vegeu [La gramàtica de la lectura](grammar/grammar-of-reading.md) per saber com navegar-hi i llegir una comparació.
+Vegeu [La gramàtica de la lectura](grammar/grammar-of-reading.md).
 
 ## Per on començar
 
-1. Obre **Gramàtica** des de la navegació.
-2. Filtra o cerca el concepte que necessites — o explora les categories del teu nivell per veure què hi ha.
-3. Llegeix la nota i prova'n els exercicis.
+1. Obre **Gramàtica**.
+2. Segueix **Comença aquí**, o cerca el punt que necessites, o explora el teu nivell.
+3. Llegeix la nota, prova'n els exercicis i tria **Practica**.
 
-Per als detalls, vegeu [Llegir notes gramaticals](grammar/review-grammar.md).
+## En aquesta secció
 
----
-
-## Per llegir més
-
-- [Llegir notes gramaticals](grammar/review-grammar.md)
-- [La gramàtica de la lectura](grammar/grammar-of-reading.md)
-- [Verbs](verbs.md)
-- [Documents](documents.md)
+- [Llegir notes gramaticals](grammar/review-grammar.md): trobar una nota, llegir-la i els exercicis.
+- [Pràctica de gramàtica](grammar/grammar-practice.md): targetes de pràctica i repassos de gramàtica.
+- [La gramàtica de la lectura](grammar/grammar-of-reading.md): com difereix de la teva la llengua que aprens.
