@@ -66,7 +66,11 @@ Todo lo administrativo vive aquí:
 - **Perfil** — ubicación y foto de perfil.
 - **Idiomas** — la misma cuadrícula del registro: qué hablas, qué estás aprendiendo, tu nivel y tu idioma de la interfaz. Cámbiala cuando quieras. Bajo la cuadrícula, **Usar las lenguas que conozco para explicar la que estoy aprendiendo** activa las comparaciones entre lenguas: el cuadro *En tus idiomas* de las notas de gramática, los equivalentes en seis idiomas del lector y la [gramática de la lectura](grammar/grammar-of-reading.md) con sus subrayados de puntos. Está desactivado por defecto — la mayoría aprende una lengua a la vez.
 - **Correo electrónico y contraseña** — actualizar cualquiera de los dos pide tu contraseña actual.
-- **Tus datos** — **Descarga tus datos personales** te envía por correo todo lo que has añadido, en un archivo, en el plazo de un día.
+- **Tus datos** — **Descarga tus datos personales** te envía por correo un enlace a todo lo que tenemos sobre
+  ti: tus mazos y tarjetas, tus documentos y los archivos que subiste para crearlos, tus textos, tus
+  conversaciones con el tutor, tu vocabulario, tu historial de repasos y el registro de lo que hiciste en la
+  aplicación. Llega como un archivo zip. Tienes que haber iniciado sesión para descargarlo, y el enlace
+  funciona durante una semana.
 - **Eliminar mi cuenta** — elimina tu cuenta y todos sus datos. No se puede deshacer.
 
 ---

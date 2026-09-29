@@ -66,7 +66,11 @@ Tout l'administratif se trouve ici :
 - **Profil** — localisation et photo de profil.
 - **Langues** — la même grille qu'à l'inscription : ce que vous parlez, ce que vous apprenez, votre niveau et votre langue d'affichage. Modifiable à tout moment. Sous la grille, **Utiliser les langues que je connais pour expliquer celle que j'apprends** active les comparaisons entre langues : l'encadré *Dans vos langues* des notes de grammaire, les équivalents dans les six langues du lecteur, et la [grammaire de la lecture](grammar/grammar-of-reading.md) avec ses soulignements pointillés. Désactivé par défaut : la plupart apprennent une langue à la fois.
 - **E-mail et mot de passe** — la modification de l'un ou l'autre demande votre mot de passe actuel.
-- **Vos données** — **Télécharger vos données personnelles** vous envoie par e-mail tout ce que vous avez ajouté, dans un fichier, sous un jour.
+- **Vos données** — **Télécharger vos données personnelles** vous envoie par e-mail un lien vers tout ce que
+  nous avons sur vous : vos paquets et vos cartes, vos documents et les fichiers que vous avez importés pour
+  les créer, vos textes, vos échanges avec le tuteur, votre vocabulaire, votre historique de révisions et le
+  relevé de ce que vous avez fait dans l'application. Il arrive sous forme de fichier zip. Vous devez être
+  connecté pour le télécharger, et le lien fonctionne pendant une semaine.
 - **Supprimer mon compte** — supprime votre compte et toutes ses données. Cette action est irréversible.
 
 ---
