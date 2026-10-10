@@ -66,9 +66,8 @@ Quand vous révélez un mot devinable, Immersive crée une carte de révision à
 
 ## Réglages de lecture
 
-Le bouton à curseurs ouvre les réglages de lecture :
+Deux boutons ronds se trouvent en bas à droite du lecteur (empilés sur un téléphone) : le bouton de chat ouvre le [Coach](../coach.md) avec le document sous les yeux, et le bouton à curseurs ouvre les réglages de lecture :
 
-- **Demander à propos de ce texte** ouvre le [Coach](../coach.md) avec le document sous les yeux.
 - **Affichage** : **Mots** ou **Phrases**.
 - **Interligne** (1, 1,5 ou 2) et **Alinéa** (non ou oui).
 - **Voix de lecture** : **Voix automatique** ou une voix nommée, affichée quand des voix sont disponibles pour la langue.

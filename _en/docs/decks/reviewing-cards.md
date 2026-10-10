@@ -54,7 +54,7 @@ When the queue is finished you see **Session complete**: the cards reviewed, how
 
 ## Daily limits
 
-Each deck introduces at most 20 new cards a day. There is no limit on reviews of cards you have already started. When the deck reaches its new-card limit for the day, the session ends with a notice, and the remaining new cards wait for tomorrow. The limit cannot be changed.
+Each deck introduces at most 20 new cards a day. There is no limit on reviews of cards you have already started. When the deck reaches its new-card limit for the day, the session says so and goes on with the cards that are due; the remaining new cards wait for tomorrow. The limit cannot be changed.
 
 ## Review history
 

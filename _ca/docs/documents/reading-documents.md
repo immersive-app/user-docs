@@ -66,9 +66,8 @@ Quan reveles una paraula deduïble, Immersive crea una targeta de repàs d'aquel
 
 ## Controls de lectura
 
-El botó dels controls lliscants obre els controls de lectura:
+Dos botons rodons són a baix a la dreta del lector (apilats en un mòbil): el botó de xat obre el [Coach](../coach.md) amb el document a la vista, i el botó dels controls lliscants obre els controls de lectura:
 
-- **Pregunta sobre aquest text** obre el [Coach](../coach.md) amb el document a la vista.
 - **Vista**: **Paraules** o **Frases**.
 - **Interlineat** (1, 1,5 o 2) i **Sagnat** (sí o no).
 - **Veu de lectura**: **Veu automàtica** o una veu amb nom, que es mostra quan hi ha veus disponibles per a la llengua.

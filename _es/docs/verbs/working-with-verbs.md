@@ -47,7 +47,7 @@ Cada forma de la tabla es un enlace. Abre una para ver su propia página:
 
 ## A través de tus idiomas
 
-Con la sesión iniciada, la página de una forma muestra **A través de tus idiomas**: el mismo tiempo y la misma persona alineados en el idioma que aprendes y en los demás idiomas que conoces, ordenados de forma que las columnas vecinas sean las más parecidas. Ver *falo – hablo – parlo – parle* en una misma fila es a menudo todo lo que hace falta para que una forma se quede grabada. Aparece cuando al menos uno de tus idiomas registrados (tu idioma de la interfaz cuenta) tiene la forma correspondiente.
+Con las comparaciones activadas (**Perfil → Cuenta → Idiomas**), la página de una forma muestra **A través de tus idiomas**: el mismo tiempo y la misma persona alineados en el idioma que aprendes y en los demás idiomas que conoces, ordenados de forma que las columnas vecinas sean las más parecidas. Ver *falo – hablo – parlo – parle* en una misma fila es a menudo todo lo que hace falta para que una forma se quede grabada. Aparece cuando al menos uno de tus idiomas registrados (tu idioma de la interfaz cuenta) tiene la forma correspondiente.
 
 **Añadir una tarjeta de comparación** la convierte en una tarjeta de repaso en un mazo llamado **Comparaciones puente** para el idioma, programada como cualquier otra tarjeta.
 

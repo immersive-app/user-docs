@@ -55,7 +55,7 @@ Quan s'acaba la cua veus **Sessió completada**: les targetes repassades, quante
 
 ## Límits diaris
 
-Cada baralla introdueix com a màxim 20 targetes noves al dia. No hi ha límit per als repassos de targetes que ja has començat. Quan la baralla arriba al límit de targetes noves del dia, la sessió acaba amb un avís, i les targetes noves restants esperen fins demà. El límit no es pot canviar.
+Cada baralla introdueix com a màxim 20 targetes noves al dia. No hi ha límit per als repassos de targetes que ja has començat. Quan la baralla arriba al límit de targetes noves del dia, la sessió t'ho diu i continua amb les targetes pendents; les targetes noves restants esperen fins demà. El límit no es pot canviar.
 
 ## Historial de repassos
 

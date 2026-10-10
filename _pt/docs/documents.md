@@ -35,11 +35,11 @@ Ver [Escrever documentos](documents/writing-documents.md).
 
 ## A Biblioteca
 
-A página Documentos também mostra a **Biblioteca**: textos disponibilizados pelo Immersive, a maioria com nível e contagem de palavras, para que haja sempre algo para ler. A página mostra alguns títulos; **Ver tudo** abre a Biblioteca inteira, que inclui textos nas seis línguas. Ler um documento da Biblioteca funciona como ler um seu; se começar a escrever num deles, obtém a sua própria cópia e o original fica como está.
+A página Documentos também mostra a **Biblioteca**: textos autênticos disponibilizados pelo Immersive na língua que está a aprender, cada um com nível (A1 a C2) e contagem de palavras, para que haja sempre algo para ler. A página mostra alguns títulos; **Ver tudo** abre a Biblioteca inteira dessa língua. Os textos da Biblioteca vêm com as ajudas de leitura prontas. Ler um documento da Biblioteca funciona como ler um seu; se começar a escrever num deles, obtém a sua própria cópia e o original fica como está.
 
 ## A lista de documentos
 
-A página Documentos lista os documentos na língua que está a aprender, com uma caixa de pesquisa para os títulos. Cada linha mostra a tradução do título, o nível e a contagem de palavras. O ícone do marcador num documento marca-o, e o botão do marcador no topo da página mostra apenas os documentos que marcou.
+A página Documentos lista os documentos na língua que está a aprender, com uma caixa de pesquisa para os títulos. Cada linha mostra a tradução do título, o nível e a contagem de palavras. O ícone do marcador num documento marca-o, e o botão do marcador no topo da página mostra apenas os documentos que marcou. **Filtros** restringe a lista por nível: **A1–A2**, **B1–B2** ou **C1–C2**.
 
 Para criar um documento, escolha **+** (**Criar um novo documento**). O documento fica na língua que está a aprender nesse momento.
 

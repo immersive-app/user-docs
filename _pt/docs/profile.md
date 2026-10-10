@@ -19,7 +19,7 @@ O seu Perfil é o centro de comando de tudo o que lhe diz respeito enquanto estu
 
 **A seguir.** O que está realmente à espera: cartões pendentes para rever, cartões de gramática para rever, palavras desta semana ainda fora de um baralho. Quando nada está à espera, di-lo.
 
-**Idiomas.** As línguas que conhece e a que está a aprender, usadas pelas comparações e pelas dicas, com **Editar** para as mudar.
+**Idiomas.** Primeiro a língua que está a aprender, com o seu nível (**Nível não definido** até escolher um), depois as línguas que fala, com **Editar** para as mudar. As comparações e as dicas usam-nas.
 
 Enquanto não tiver cartões, documentos ou vocabulário, o separador mostra **Primeiros passos** em vez disso: o seu nível de partida do registo e até três ações concretas — abrir o seu primeiro baralho, ler algo do seu nível e ler a sua primeira nota de gramática.
 
@@ -64,7 +64,9 @@ Tudo o que é administrativo vive aqui:
 
 - **Conta** — nome próprio, apelido e género. O seu endereço de e-mail aparece aqui.
 - **Perfil** — localização e foto de perfil.
-- **Idiomas** — a mesma grelha do registo inicial: o que fala, o que está a aprender, o seu nível e o idioma da interface. Mude quando quiser. Abaixo da grelha, **Usar as línguas que conheço para explicar a que estou a aprender** ativa as comparações entre línguas: a caixa *Nas suas línguas* das notas de gramática, os equivalentes nas seis línguas do leitor e a [gramática da leitura](grammar/grammar-of-reading.md) com os seus sublinhados tracejados. Está desativado por defeito: a maioria aprende uma língua de cada vez.
+- **Idiomas** — um bloco para cada uma das seis línguas, com o seu nível; toque num para dizer se a fala ou a está a aprender, e a que nível. Por baixo da grelha, **Idioma de aprendizagem** e **Idioma de exibição** são o par que a barra de navegação mostra, e um interruptor esconde esse botão se preferir. **Usar as línguas que conheço para explicar a que estou a aprender** ativa as comparações entre línguas: a caixa *Nas suas línguas* das notas de gramática e das formas verbais, os equivalentes nas seis línguas do leitor e a [gramática da leitura](grammar/grammar-of-reading.md) com os seus sublinhados tracejados. Está desativado por defeito: a maioria aprende uma língua de cada vez.
+- **E-mails** — o e-mail diário de revisão, ativo ou não. Ver [Navegação](dashboard.md#o-e-mail-diário-de-revisão).
+- **Métodos de login** — se a sua conta está vinculada ao Iniciar sessão com a Apple, com **Vincular** e **Desvincular**. Ver [A sua conta](account.md#iniciar-sessão).
 - **Senha** — alterá-la pede a sua senha atual. O seu e-mail é definido no registo e não pode ser alterado na aplicação; use o formulário de contacto se precisar de o alterar.
 - **Os seus dados** — **Baixar os seus dados pessoais** envia-lhe por e-mail uma ligação para tudo o que temos
   sobre si: os seus baralhos e cartões, os seus documentos e os ficheiros que carregou para os criar, os seus

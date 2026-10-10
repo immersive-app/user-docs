@@ -19,7 +19,7 @@ Costruire un mazzo richiede due passaggi: crea il mazzo, poi aggiungici le carte
 
 ## Aggiungere carte
 
-Lo spazio di lavoro del mazzo ha quattro tipi di carta (**Parola**, **Frase**, **Verbo**, **Numero**) e altre due fonti: **Carica foglio di calcolo** e **Dai segnalibri**.
+Lo spazio di lavoro del mazzo ha cinque tipi di carta (**Parola**, **Frase**, **Verbo**, **Numero**, **Grammatica**) e altre due fonti: **Carica foglio di calcolo** e **Dai segnalibri**.
 
 ### Parole
 
@@ -38,7 +38,11 @@ Inserisci le frasi una per riga e scegli **Aggiungi carte**. Le traduzioni si co
 
 ### Numeri
 
-Inserisci i numeri separati da virgole, senza spazi, per esempio `17,70,71,80`, e scegli **Aggiungi carte**. Ogni numero diventa una carta che leggi, scrivi, ascolti o dici in lettere.
+Inserisci i numeri separati da virgole, per esempio `17, 70, 71, 80`, e scegli **Aggiungi carte**. Ogni numero diventa una carta che leggi, scrivi, ascolti o dici in lettere.
+
+### Grammatica
+
+Scegli un livello (il tuo viene per primo), poi spunta **Tutto l'A2**, intere aree o singole note; ciascuna mostra quante carte crea, e le note già nel mazzo sono contrassegnate. Scegli **Crea carte**. Le carte sono gli esercizi delle note, o le loro frasi di esempio con il punto lasciato in bianco.
 
 ## Da un foglio di calcolo
 

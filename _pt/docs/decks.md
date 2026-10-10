@@ -12,12 +12,13 @@ Os baralhos são onde a memorização acontece no Immersive. Um baralho é uma c
 
 ## O que um baralho contém
 
-Pode adicionar quatro tipos de cartões:
+Pode adicionar cinco tipos de cartões:
 
 - **Cartões de palavra**: uma palavra, a sua tradução e, opcionalmente, uma frase de exemplo.
 - **Cartões de frase**: uma frase completa com a sua tradução.
 - **Cartões de verbo**: os verbos e tempos que escolher, com um cartão por pessoa ou uma tabela de tempo inteira por cartão.
 - **Cartões de número**: números escritos por extenso na língua que está a aprender.
+- **Cartões de gramática**: cartões de prática feitos a partir das notas de gramática que escolher, por nível, área ou nota.
 
 Os cartões vêm de muitos sítios: escritos à mão, importados de uma planilha, adicionados a partir das palavras que salvou no seu [Vocabulário](vocabulary.md), copiados com um baralho da Biblioteca ou público, ou adicionados a partir do leitor e das páginas de verbos com **Adicionar a um baralho**.
 
@@ -45,7 +46,7 @@ Abrir **Baralhos** mostra:
 
 Se também usa o Anki:
 
-- **Exportar para Anki**, num dos seus baralhos, prepara um ficheiro Anki (.apkg) e envia-lho por e-mail. Para exportar um baralho da Biblioteca, copie-o primeiro para Meus Baralhos.
+- **Exportar para Anki**, num baralho, seu ou da Biblioteca, prepara um ficheiro Anki (.apkg) e envia-lho por e-mail. O ficheiro contém os cartões de verbo do baralho; um baralho sem nenhum não tem botão de exportação.
 - A página **Baralhos Anki** (com ligação no rodapé das páginas públicas do Immersive) oferece baralhos Anki prontos para descarregar. Com sessão iniciada, descarrega diretamente. Sem conta, introduz o seu endereço de e-mail para descarregar; o Immersive envia-lhe então também o seu curso gratuito do Método Ponte por e-mail, cinco lições curtas, que pode cancelar a qualquer momento.
 
 ## Nesta secção

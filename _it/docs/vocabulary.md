@@ -13,8 +13,9 @@ Il tuo Vocabolario è l'elenco delle parole e delle frasi che hai consultato men
 
 - **Toccando una parola o una frase.** Ovunque Immersive mostri testo da toccare (il lettore, le frasi di esempio nelle pagine dei verbi, le note di grammatica e gli esercizi, i confronti), toccare una parola o una frase per vederne la traduzione la registra.
 - **Salvandola.** **Salva nel vocabolario** nel pannello **Altro** di una parola la registra e la contrassegna come salvata.
+- **Ripassandola.** Conta anche una carta parola o frase ripassata in un mazzo: **Ancora** o **Difficile** come sbagliata, **Bene** o **Facile** come ripassata.
 
-Ogni voce ricorda quante volte l'hai vista, così l'elenco funziona anche da registro di ciò che continui a consultare.
+Ogni voce ricorda quante volte l'hai vista, sbagliata e ripassata, così l'elenco funziona anche da registro di ciò che continui a consultare.
 
 ## Sfogliare il tuo elenco
 

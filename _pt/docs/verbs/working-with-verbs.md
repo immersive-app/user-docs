@@ -47,7 +47,7 @@ Cada forma na tabela é uma ligação. Abra uma para chegar à sua própria pág
 
 ## Através dos seus idiomas
 
-Com sessão iniciada, a página de uma forma mostra **Através dos seus idiomas**: o mesmo tempo e a mesma pessoa alinhados na língua que está a aprender e nas outras línguas que conhece, ordenados para que as colunas vizinhas sejam as mais parecidas. Ver *falo – hablo – parlo – parle* numa só linha é muitas vezes tudo o que é preciso para uma forma ficar na memória. Aparece quando pelo menos uma das línguas que indicou (o seu idioma da interface conta) tem a forma correspondente.
+Com as comparações ativadas (**Perfil → Conta → Idiomas**), a página de uma forma mostra **Através dos seus idiomas**: o mesmo tempo e a mesma pessoa alinhados na língua que está a aprender e nas outras línguas que conhece, ordenados para que as colunas vizinhas sejam as mais parecidas. Ver *falo – hablo – parlo – parle* numa só linha é muitas vezes tudo o que é preciso para uma forma ficar na memória. Aparece quando pelo menos uma das línguas que indicou (o seu idioma da interface conta) tem a forma correspondente.
 
 **Adicionar um cartão de comparação** transforma-a num cartão de revisão num baralho chamado **Comparações ponte** da língua, agendado como qualquer outro cartão.
 

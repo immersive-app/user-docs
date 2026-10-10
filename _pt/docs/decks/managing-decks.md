@@ -50,11 +50,11 @@ O ícone do marcador num baralho (na lista ou na página do baralho) marca-o. O 
 
 ## Editar um baralho
 
-Abra um baralho e escolha o lápis para abrir o seu espaço de trabalho. **Editar baralho** abre as definições: mude o nome em qualquer das línguas, mude a pasta ou ajuste as etiquetas, e depois escolha **Atualizar baralho**. A lista de cartões por baixo permite editar ou eliminar cartões individuais e adicionar exemplos.
+Abra um baralho e escolha o lápis para abrir o seu espaço de trabalho. **Editar baralho** abre as definições: mude o nome em qualquer das línguas, mude a pasta ou ajuste as etiquetas, e depois escolha **Atualizar baralho**. A lista de cartões por baixo permite editar ou eliminar cartões individuais e adicionar exemplos; mostra 25 cartões de cada vez, e **Mostrar mais** lista os restantes.
 
 ## Exportar para o Anki
 
-**Exportar para Anki**, num dos seus baralhos, prepara um ficheiro Anki em segundo plano e envia-lho por e-mail quando estiver pronto. Para exportar um baralho da Biblioteca ou público, copie-o primeiro para Meus Baralhos.
+**Exportar para Anki**, num baralho, seu, da Biblioteca ou público, prepara um ficheiro Anki em segundo plano e envia-lho por e-mail quando estiver pronto. O ficheiro contém os cartões de verbo do baralho (um por pessoa, ou tabelas de tempo inteiras); um baralho sem nenhum não tem botão de exportação.
 
 ## Eliminar um baralho
 

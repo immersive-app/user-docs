@@ -35,11 +35,11 @@ Voir [Écrire des documents](documents/writing-documents.md).
 
 ## La Bibliothèque
 
-La page Documents montre aussi la **Bibliothèque** : des textes proposés par Immersive, la plupart avec leur niveau et leur nombre de mots, pour qu'il y ait toujours quelque chose à lire. La page montre quelques titres ; **Tout parcourir** ouvre toute la Bibliothèque, qui comprend des textes dans les six langues. Lire un document de la Bibliothèque fonctionne comme lire le vôtre ; si vous commencez à écrire dans l'un d'eux, vous obtenez votre propre copie et l'original reste tel quel.
+La page Documents montre aussi la **Bibliothèque** : des textes authentiques proposés par Immersive dans la langue que vous apprenez, chacun avec son niveau (de A1 à C2) et son nombre de mots, pour qu'il y ait toujours quelque chose à lire. La page montre quelques titres ; **Tout parcourir** ouvre toute la Bibliothèque pour cette langue. Les textes de la Bibliothèque arrivent avec leurs aides à la lecture prêtes. Lire un document de la Bibliothèque fonctionne comme lire le vôtre ; si vous commencez à écrire dans l'un d'eux, vous obtenez votre propre copie et l'original reste tel quel.
 
 ## La liste des documents
 
-La page Documents liste les documents dans la langue que vous apprenez, avec un champ de recherche sur les titres. Chaque ligne montre la traduction du titre, le niveau et le nombre de mots. L'icône de signet sur un document le met en favori, et le bouton signet en haut de la page n'affiche que vos documents favoris.
+La page Documents liste les documents dans la langue que vous apprenez, avec un champ de recherche sur les titres. Chaque ligne montre la traduction du titre, le niveau et le nombre de mots. L'icône de signet sur un document le met en favori, et le bouton signet en haut de la page n'affiche que vos documents favoris. **Filtres** restreint la liste par niveau : **A1–A2**, **B1–B2** ou **C1–C2**.
 
 Pour créer un document, choisissez **+** (**Créer un nouveau document**). Le document est dans la langue que vous apprenez à ce moment-là.
 

@@ -25,6 +25,10 @@ En un ordenador o una tableta, las pestañas van en la parte superior de la pág
 
 La pestaña de la sección en la que estás aparece resaltada.
 
+## El par de idiomas
+
+El botón **fr | en** de la barra de navegación muestra el idioma que aprendes y el idioma en que te habla la aplicación. Tócalo para cambiar cualquiera de los dos: **Aprendo** alterna entre los idiomas que marcaste como en aprendizaje, **Hablo** fija tu idioma de la interfaz. Cada elección se guarda al hacerla. Los mismos dos ajustes están en **Perfil → Cuenta → Idiomas**, donde también puedes ocultar el botón.
+
 ## El menú de la cuenta
 
 Tu foto de perfil está al final de la barra de navegación. Al seleccionarla se abre un pequeño menú con tu nombre, tu correo electrónico y **Cerrar sesión**.
@@ -44,7 +48,7 @@ Dos lugares ocultan la navegación para que puedas concentrarte:
 
 Cuando tus mazos tienen tarjetas esperando, Immersive envía un correo al día hacia las 7:00 en tu zona horaria. El asunto dice qué te espera («3 tarjetas pendientes hoy» o «5 tarjetas nuevas listas para aprender hoy»). El correo lista cada mazo con sus recuentos y dos enunciados de muestra, y cada mazo tiene su propio enlace **Empezar a repasar** que abre la sesión de repaso de ese mazo.
 
-El correo está activado a menos que lo detengas. **Dejar de recibir este correo diario**, al pie de cada envío, lo desactiva con un clic; no hay ningún ajuste en la aplicación para volver a activarlo. Detener el correo nunca detiene tus repasos.
+El correo está activado a menos que lo detengas. **Dejar de recibir este correo diario**, al pie de cada envío, lo desactiva con un clic, y **Perfil → Cuenta → Correos** tiene el mismo interruptor, así que puedes volver a activarlo. Detener el correo nunca detiene tus repasos.
 
 ## Más lectura
 

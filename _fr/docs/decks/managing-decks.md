@@ -50,11 +50,11 @@ L'icône de signet sur un paquet (dans la liste ou sur la page du paquet) le met
 
 ## Modifier un paquet
 
-Ouvrez un paquet et choisissez le crayon pour ouvrir son espace de travail. **Modifier le paquet** ouvre les réglages : renommez-le dans l'une ou l'autre langue, changez son dossier ou ajustez ses étiquettes, puis choisissez **Mettre à jour le paquet**. La liste des cartes en dessous permet de modifier ou supprimer des cartes individuelles et d'ajouter des exemples.
+Ouvrez un paquet et choisissez le crayon pour ouvrir son espace de travail. **Modifier le paquet** ouvre les réglages : renommez-le dans l'une ou l'autre langue, changez son dossier ou ajustez ses étiquettes, puis choisissez **Mettre à jour le paquet**. La liste des cartes en dessous permet de modifier ou supprimer des cartes individuelles et d'ajouter des exemples ; elle affiche 25 cartes à la fois, et **Afficher plus** liste le reste.
 
 ## Exporter vers Anki
 
-**Exporter vers Anki** sur l'un de vos paquets prépare un fichier Anki en arrière-plan et vous l'envoie par e-mail quand il est prêt. Pour exporter un paquet de la Bibliothèque ou un paquet public, copiez-le d'abord dans Mes paquets.
+**Exporter vers Anki** sur un paquet, le vôtre, un paquet de la Bibliothèque ou un paquet public, prépare un fichier Anki en arrière-plan et vous l'envoie par e-mail quand il est prêt. Le fichier contient les cartes de verbe du paquet (une par personne, ou des tableaux de temps complets) ; un paquet qui n'en a aucune n'a pas de bouton d'export.
 
 ## Supprimer un paquet
 

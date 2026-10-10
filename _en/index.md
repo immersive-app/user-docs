@@ -90,6 +90,8 @@ Everything is free during the beta.
 3. Open the confirmation email and follow its link. You cannot sign in until the address is confirmed.
 4. On your first sign-in, Immersive shows the language grid again, filled in, so you can check it. Press **Confirm** and you land on **Profile → Progress**, with first steps to try.
 
+Or choose **Continue with Apple** on the sign-up page: your Apple ID creates the account, already confirmed, and you go straight to the language grid. See [Your account](docs/account.md#signing-in).
+
 A friend who already uses Immersive can also invite you by email; see [Your account](docs/account.md#invitations).
 
 Your language choices matter: Immersive uses the languages you know for comparisons and hints throughout the app. You can change them at any time in [Profile → Account](docs/profile.md#account).

@@ -91,6 +91,8 @@ Tot és gratuït durant la beta.
 3. Obre el correu de confirmació i segueix-ne l'enllaç. No pots iniciar sessió fins que l'adreça estigui confirmada.
 4. El primer cop que inicies sessió, Immersive torna a mostrar la graella d'idiomes, ja omplerta, perquè la comprovis. Prem **Confirma** i arribes a **Perfil → Progrés**, amb uns primers passos per provar.
 
+O tria **Continuar amb Apple** a la pàgina de registre: el teu ID d'Apple crea el compte, ja confirmat, i vas directament a la graella d'idiomes. Vegeu [El teu compte](docs/account.md#iniciar-sessió).
+
 Un amic que ja fa servir Immersive també et pot convidar per correu; vegeu [El teu compte](docs/account.md#invitacions).
 
 Les teves tries d'idioma importen: Immersive fa servir les llengües que coneixes per a comparacions i pistes a tota l'aplicació. Pots canviar-les en qualsevol moment a [Perfil → Compte](docs/profile.md#compte).

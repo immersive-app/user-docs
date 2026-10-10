@@ -19,7 +19,7 @@ Construir um baralho tem dois passos: criar o baralho e depois adicionar-lhe car
 
 ## Adicionar cartões
 
-O espaço de trabalho do baralho tem quatro tipos de cartão (**Palavra**, **Frase**, **Verbo**, **Número**) e duas outras fontes: **Enviar planilha** e **Dos marcadores**.
+O espaço de trabalho do baralho tem cinco tipos de cartão (**Palavra**, **Frase**, **Verbo**, **Número**, **Gramática**) e duas outras fontes: **Enviar planilha** e **Dos marcadores**.
 
 ### Palavras
 
@@ -38,7 +38,11 @@ Introduza frases, uma por linha, e escolha **Adicionar cartões**. As traduçõe
 
 ### Números
 
-Introduza números separados por vírgulas, sem espaços, por exemplo `17,70,71,80`, e escolha **Adicionar cartões**. Cada número torna-se um cartão que vai ler, escrever, ouvir ou dizer por extenso.
+Introduza números separados por vírgulas, por exemplo `17, 70, 71, 80`, e escolha **Adicionar cartões**. Cada número torna-se um cartão que vai ler, escrever, ouvir ou dizer por extenso.
+
+### Gramática
+
+Escolha um nível (o seu vem primeiro) e depois marque **Todo o A2**, áreas inteiras ou notas individuais; cada um mostra quantos cartões faz, e as notas que já estão no baralho aparecem assinaladas. Escolha **Criar cartões**. Os cartões são os exercícios das notas, ou as suas frases de exemplo com o ponto em branco.
 
 ## A partir de uma planilha
 

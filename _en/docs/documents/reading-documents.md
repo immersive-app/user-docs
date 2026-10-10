@@ -65,9 +65,8 @@ When you reveal a guessable word, Immersive creates a review card from that mome
 
 ## Reading controls
 
-The sliders button opens the reading controls:
+Two round buttons sit at the bottom right of the reader (stacked on a phone): the chat button opens the [Coach](../coach.md) with the document in view, and the sliders button opens the reading controls:
 
-- **Ask about this text** opens the [Coach](../coach.md) with the document in view.
 - **View**: **Words** or **Sentences**.
 - **Line spacing** (1, 1.5, or 2) and **Paragraph indent** (off or on).
 - **Reading voice**: **Automatic voice** or a named voice, shown when voices are available for the language.

@@ -12,12 +12,13 @@ Les paquets sont le lieu de la mémorisation dans Immersive. Un paquet est une c
 
 ## Ce qu'un paquet contient
 
-Vous pouvez ajouter vous-même quatre types de cartes :
+Vous pouvez ajouter vous-même cinq types de cartes :
 
 - **Cartes de mot** : un mot, sa traduction et, en option, une phrase d'exemple.
 - **Cartes de phrase** : une phrase complète avec sa traduction.
 - **Cartes de verbe** : les verbes et les temps de votre choix, soit une carte par personne, soit un tableau de temps complet par carte.
 - **Cartes de nombre** : des nombres écrits en toutes lettres dans la langue que vous apprenez.
+- **Cartes de grammaire** : des cartes d'entraînement tirées des notes de grammaire que vous choisissez, par niveau, par domaine ou par note.
 
 Les cartes viennent de nombreux endroits : saisies à la main, importées depuis un tableur, ajoutées depuis les mots enregistrés dans votre [Vocabulaire](vocabulary.md), copiées avec un paquet de la Bibliothèque ou un paquet public, ou ajoutées depuis le lecteur et les pages de verbe avec **Ajouter à un paquet**.
 
@@ -45,7 +46,7 @@ Ouvrir **Paquets** affiche :
 
 Si vous utilisez aussi Anki :
 
-- **Exporter vers Anki** sur l'un de vos paquets prépare un fichier Anki (.apkg) et vous l'envoie par e-mail. Pour exporter un paquet de la Bibliothèque, copiez-le d'abord dans Mes paquets.
+- **Exporter vers Anki** sur un paquet, le vôtre ou un paquet de la Bibliothèque, prépare un fichier Anki (.apkg) et vous l'envoie par e-mail. Le fichier contient les cartes de verbe du paquet ; un paquet qui n'en a aucune n'a pas de bouton d'export.
 - La page **Anki** (en lien dans le pied de page des pages publiques d'Immersive) propose des paquets Anki prêts à télécharger. Connecté, vous téléchargez directement. Sans compte, vous saisissez votre adresse e-mail pour télécharger ; Immersive vous envoie alors aussi son cours gratuit par e-mail sur la Méthode des Ponts, cinq courtes leçons, dont vous pouvez vous désabonner à tout moment.
 
 ## Dans cette section

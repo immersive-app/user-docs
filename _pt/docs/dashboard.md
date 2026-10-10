@@ -25,6 +25,10 @@ Num computador ou tablet, os separadores correm ao longo do topo da página; num
 
 O separador da secção em que está fica realçado.
 
+## O par de línguas
+
+O botão **fr | en** na barra de navegação mostra a língua que está a aprender e aquela em que a aplicação lhe fala. Toque-lhe para mudar qualquer uma delas: **Aprendo** alterna entre as línguas que marcou como a aprender, **Falo** define o seu idioma da interface. Cada escolha fica guardada ao fazê-la. As mesmas duas definições estão em **Perfil → Conta → Idiomas**, onde também pode esconder o botão.
+
 ## O menu da conta
 
 A sua foto de perfil fica no fim da barra de navegação. Ao selecioná-la, abre-se um pequeno menu com o seu nome próprio, o seu e-mail e **Desconectar-se**.
@@ -44,7 +48,7 @@ Dois sítios escondem a navegação para que se possa concentrar:
 
 Quando os seus baralhos têm cartões à espera, o Immersive envia um e-mail por dia, por volta das 7:00 no seu fuso horário. O assunto diz o que está à espera («3 cartões para revisar hoje», ou «5 cartões novos para aprender hoje»). O e-mail lista cada baralho com as suas contagens e dois enunciados de exemplo, e cada baralho tem a sua própria ligação **Começar a revisar**, que abre a sessão de revisão desse baralho.
 
-O e-mail está ativo a não ser que o pare. **Parar de receber este e-mail diário**, no fim de cada e-mail, desativa-o com um clique; não há nenhuma definição na aplicação para o voltar a ativar. Parar o e-mail nunca para as suas revisões.
+O e-mail está ativo a não ser que o pare. **Parar de receber este e-mail diário**, no fim de cada e-mail, desativa-o com um clique, e **Perfil → Conta → E-mails** tem o mesmo interruptor, para o poder voltar a ativar. Parar o e-mail nunca para as suas revisões.
 
 ## Para saber mais
 

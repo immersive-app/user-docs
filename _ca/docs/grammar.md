@@ -16,7 +16,7 @@ Obre **Gramàtica** des de la barra de navegació un cop hagis iniciat sessió.
 
 - **On ets**: «Comença a A2» fins que comences, després «Treballant a B1», amb un botó: **Repassa** per a les targetes de gramàtica pendents, o **Practica** per començar-ne de noves. Vegeu [Pràctica de gramàtica](grammar/grammar-practice.md).
 - **Recomanat** (o **Comença aquí** al principi): una llista curta de notes per llegir, practicar o repassar a continuació, cadascuna marcada amb el motiu: **Pendent**, **Següent**, **A punt** o **Feble**.
-- **Per nivell**: d'A1 a C1, cadascun amb el teu domini, el nombre de notes i quantes targetes hi ha pendents. Obre un nivell per veure'n les àrees («Verbs, temps i conjugació», «Pronoms»...), i una àrea per veure'n les notes.
+- **Per nivell**: d'A1 a C1, cadascun amb el teu domini, el nombre de notes i quantes targetes hi ha pendents. Obre un nivell per veure'n les àrees («Verbs, temps i conjugació», «Pronoms»...), i una àrea per veure'n les notes. La pàgina d'un nivell o d'una àrea ofereix **Practica-ho tot**, que fa targetes de totes les seves notes.
 - La **cerca** a dalt troba notes per paraula clau; el botó del marcador mostra només les notes marcades.
 
 ## Domini
@@ -28,7 +28,7 @@ A mesura que practiques, cada nota, àrea i nivell rep una valoració de domini:
 - Una explicació del punt, escrita per a estudiants, amb paraules i frases d'exemple que pots tocar per a la traducció i l'àudio.
 - La nota està escrita en la llengua que aprens. Quan existeix una traducció, **Llegir en** (la teva llengua) al final hi canvia.
 - Exercicis de diversos tipus, comprovats al moment.
-- On ets en la nota, i **Practica** per convertir-la en targetes de repàs.
+- On ets en la nota, i **Practica** per convertir-la en targetes de repàs, o per afegir-les a una de les teves baralles.
 
 Vegeu [Llegir notes gramaticals](grammar/review-grammar.md).
 

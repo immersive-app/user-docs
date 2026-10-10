@@ -18,7 +18,7 @@ Building a deck takes two steps: create the deck, then add cards to it. A deck r
 
 ## Adding cards
 
-The deck's workspace has four card types (**Word**, **Sentence**, **Verb**, **Number**) and two other sources: **Upload spreadsheet** and **From bookmarks**.
+The deck's workspace has five card types (**Word**, **Sentence**, **Verb**, **Number**, **Grammar**) and two other sources: **Upload spreadsheet** and **From bookmarks**.
 
 ### Words
 
@@ -37,7 +37,11 @@ Enter sentences one per line and choose **Add cards**. Translations fill in auto
 
 ### Numbers
 
-Enter numbers separated by commas, without spaces, for example `17,70,71,80`, and choose **Add cards**. Each number becomes a card that you read, write, hear, or say in words.
+Enter numbers separated by commas, for example `17, 70, 71, 80`, and choose **Add cards**. Each number becomes a card that you read, write, hear, or say in words.
+
+### Grammar
+
+Pick a level (yours comes first), then tick **All of A2**, whole areas, or single notes; each shows how many cards it makes, and notes already in the deck are marked. Choose **Create cards**. The cards are the notes' exercises, or their example sentences with the point blanked out.
 
 ## From a spreadsheet
 

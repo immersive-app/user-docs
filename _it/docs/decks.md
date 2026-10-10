@@ -12,12 +12,13 @@ I mazzi sono il luogo dove in Immersive avviene la memorizzazione. Un mazzo è u
 
 ## Cosa contiene un mazzo
 
-Puoi aggiungere tu stesso quattro tipi di carte:
+Puoi aggiungere tu stesso cinque tipi di carte:
 
 - **Carte parola**: una parola, la sua traduzione e, facoltativamente, una frase di esempio.
 - **Carte frase**: una frase completa con la sua traduzione.
 - **Carte verbo**: i verbi e i tempi che scegli, una carta per persona oppure un'intera tabella di un tempo per carta.
 - **Carte numero**: numeri scritti in lettere nella lingua che stai imparando.
+- **Carte grammatica**: carte di pratica create dalle note di grammatica che scegli, per livello, area o nota.
 
 Le carte arrivano da molti posti: scritte a mano, importate da un foglio di calcolo, aggiunte dalle parole che hai salvato nel tuo [Vocabolario](vocabulary.md), copiate con un mazzo della Biblioteca o pubblico, oppure aggiunte dal lettore e dalle pagine dei verbi con **Aggiungi a un mazzo**.
 
@@ -45,7 +46,7 @@ Aprendo **Mazzi** trovi:
 
 Se usi anche Anki:
 
-- **Esporta in Anki** su uno dei tuoi mazzi prepara un file Anki (.apkg) e te lo invia per email. Per esportare un mazzo della Biblioteca, copialo prima in I miei mazzi.
+- **Esporta in Anki** su un mazzo, tuo o della Biblioteca, prepara un file Anki (.apkg) e te lo invia per email. Il file contiene le carte verbo del mazzo; un mazzo che non ne contiene non ha il pulsante di esportazione.
 - La pagina **Anki** (collegata nel piè di pagina delle pagine pubbliche di Immersive) offre mazzi Anki pronti da scaricare. Se hai effettuato l'accesso, scarichi direttamente. Senza un account, inserisci il tuo indirizzo email per scaricare; Immersive ti invia poi anche il suo corso gratuito del Metodo Ponte via email, cinque brevi lezioni, da cui puoi disiscriverti in qualsiasi momento.
 
 ## In questa sezione

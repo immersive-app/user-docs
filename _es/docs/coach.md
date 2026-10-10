@@ -18,7 +18,7 @@ Las páginas con barra de navegación tienen un botón del coach en la parte inf
 - **Preguntar sobre esta nota**, o **Preguntar sobre este ejercicio** en un ejercicio: en una nota de gramática. Si seleccionas un fragmento de una nota, se te ofrece preguntar solo por ese fragmento.
 - **Preguntar sobre este verbo**: en la página de un verbo o de una forma.
 - **Preguntar sobre esta comparación**: en una comparación de la gramática de la lectura.
-- **Preguntar sobre este texto**: en el lector (también en los controles de lectura) y en una página de corrección.
+- **Preguntar sobre este texto**: el botón de chat en la parte inferior derecha del lector y del editor, y en una página de corrección.
 - **Preguntar sobre esto**: en el panel **Más** de una palabra o frase en el lector.
 - **Preguntar sobre esta corrección**: en cada corrección de tu escritura.
 
@@ -29,6 +29,7 @@ Escribe tu pregunta y pulsa Intro (Mayús+Intro empieza una línea nueva). La re
 - En tu idioma de la interfaz, salvo que le escribas en el idioma que estás aprendiendo.
 - Con brevedad, y sobre la lengua: señala dónde un idioma que conoces funciona igual, y rechaza las preguntas que no tienen nada que ver con aprender idiomas.
 - Cada vez que abres el coach, empieza un chat nuevo.
+- Un mensaje a la vez: mientras se escribe la respuesta, el cuadro de mensaje espera a que termine.
 
 Si envías muchos mensajes seguidos, el coach te pide que esperes un minuto («Demasiados mensajes seguidos»). Si no puede responder, tu mensaje se conserva y **Reintentar** lo vuelve a enviar.
 

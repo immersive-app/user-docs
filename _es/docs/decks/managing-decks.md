@@ -50,11 +50,11 @@ El icono del marcador en un mazo (en la lista o en la página del mazo) lo marca
 
 ## Editar un mazo
 
-Abre un mazo y elige el lápiz para abrir su espacio de trabajo. **Editar mazo** abre los ajustes: renómbralo en cualquiera de los dos idiomas, cambia su carpeta o ajusta sus etiquetas, y luego elige **Actualizar mazo**. La lista de tarjetas de debajo te permite editar o eliminar tarjetas individuales y añadir ejemplos.
+Abre un mazo y elige el lápiz para abrir su espacio de trabajo. **Editar mazo** abre los ajustes: renómbralo en cualquiera de los dos idiomas, cambia su carpeta o ajusta sus etiquetas, y luego elige **Actualizar mazo**. La lista de tarjetas de debajo te permite editar o eliminar tarjetas individuales y añadir ejemplos; muestra 25 tarjetas cada vez, y **Mostrar más** lista el resto.
 
 ## Exportar a Anki
 
-**Exportar a Anki**, en uno de tus mazos, prepara un archivo de Anki en segundo plano y te lo envía por correo cuando está listo. Para exportar un mazo de la Biblioteca o un mazo público, cópialo antes a Mis mazos.
+**Exportar a Anki**, en un mazo, tuyo, de la Biblioteca o público, prepara un archivo de Anki en segundo plano y te lo envía por correo cuando está listo. El archivo contiene las tarjetas de verbo del mazo (una por persona, o tablas de tiempo completas); un mazo sin ninguna no tiene botón de exportación.
 
 ## Eliminar un mazo
 

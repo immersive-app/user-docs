@@ -13,6 +13,8 @@ Criar uma conta está explicado em [Começar](../index.md#criar-uma-conta). Esta
 
 **Conectar-se** pede o seu e-mail e a sua senha. **Lembrar-se de mim** mantém a sessão iniciada nesse dispositivo.
 
+**Continuar com a Apple**, nas páginas de início de sessão e de registo, inicia a sessão com o seu Apple ID. Uma conta criada assim não tem senha para escrever, e uma conta existente com o mesmo e-mail é vinculada, não duplicada. **Perfil → Conta → Métodos de login** mostra se a sua conta está vinculada à Apple e permite vinculá-la ou desvinculá-la.
+
 Terminar sessão: abra a sua foto de perfil na barra de navegação e escolha **Desconectar-se**.
 
 ## Não consegue entrar?
@@ -34,7 +36,7 @@ Com sessão iniciada, **Convidar um amigo**, no rodapé das páginas públicas d
 ## E-mails do Immersive
 
 - **E-mails da conta**: confirmar o seu endereço, redefinir a senha, desbloquear a conta.
-- **O e-mail diário de revisão**, quando os seus baralhos têm cartões à espera. Ver [Navegação](dashboard.md#o-e-mail-diário-de-revisão).
+- **O e-mail diário de revisão**, quando os seus baralhos têm cartões à espera; desative-o ou ative-o em **Perfil → Conta → E-mails**. Ver [Navegação](dashboard.md#o-e-mail-diário-de-revisão).
 - **Exportações para o Anki** que pedir, com o ficheiro do baralho em anexo. Ver [Gerir baralhos](decks/managing-decks.md#exportar-para-o-anki).
 - **Os seus dados pessoais**, quando os pedir (abaixo).
 

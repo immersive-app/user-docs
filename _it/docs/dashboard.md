@@ -25,6 +25,10 @@ Su un computer o un tablet le schede corrono lungo la parte alta della pagina; s
 
 La scheda della sezione in cui ti trovi è evidenziata.
 
+## La coppia di lingue
+
+Il pulsante **fr | en** nella barra di navigazione mostra la lingua che stai imparando e quella in cui l'app ti parla. Toccalo per cambiare l'una o l'altra: **Imparo** passa tra le lingue che hai segnato come in apprendimento, **Parlo** imposta la tua lingua dell'interfaccia. Ogni scelta si salva subito. Le stesse due impostazioni sono in **Profilo → Account → Lingue**, dove puoi anche nascondere il pulsante.
+
 ## Il menu dell'account
 
 La tua immagine del profilo sta in fondo alla barra di navigazione. Selezionandola si apre un piccolo menu con il tuo nome, la tua email ed **Esci**.
@@ -44,7 +48,7 @@ Due luoghi nascondono la navigazione perché tu possa concentrarti:
 
 Quando i tuoi mazzi hanno carte in attesa, Immersive invia un'email al giorno verso le 7:00 nel tuo fuso orario. L'oggetto dice cosa ti aspetta («3 schede da ripassare oggi» oppure «5 nuove schede da imparare oggi»). L'email elenca ogni mazzo con i suoi conteggi e due richieste di esempio, e ogni mazzo ha il suo link **Inizia il ripasso** che apre la sessione di ripasso di quel mazzo.
 
-L'email è attiva finché non la fermi. **Smetti di ricevere questa email quotidiana**, in fondo a ogni copia, la disattiva con un clic; nell'app non c'è un'impostazione per riattivarla. Fermare l'email non ferma mai i tuoi ripassi.
+L'email è attiva finché non la fermi. **Smetti di ricevere questa email quotidiana**, in fondo a ogni copia, la disattiva con un clic, e **Profilo → Account → Email** ha lo stesso interruttore, così puoi riattivarla. Fermare l'email non ferma mai i tuoi ripassi.
 
 ## Per approfondire
 

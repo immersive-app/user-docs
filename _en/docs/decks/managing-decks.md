@@ -49,11 +49,11 @@ The bookmark icon on a deck (in the list, or on the deck page) marks it. The boo
 
 ## Editing a deck
 
-Open a deck and choose the pencil to open its workspace. **Edit deck** opens the settings: rename it in either language, change its folder, or adjust its tags, then choose **Update Deck**. The card list below lets you edit or delete individual cards and add examples.
+Open a deck and choose the pencil to open its workspace. **Edit deck** opens the settings: rename it in either language, change its folder, or adjust its tags, then choose **Update Deck**. The card list below lets you edit or delete individual cards and add examples; it shows 25 cards at a time, and **Show more** lists the rest.
 
 ## Exporting to Anki
 
-**Export to Anki** on one of your decks prepares an Anki file in the background and emails it to you when it is ready. To export a Library or public deck, copy it to My Decks first.
+**Export to Anki** on a deck, yours, a Library deck, or a public one, prepares an Anki file in the background and emails it to you when it is ready. The file holds the deck's verb cards (one per person, or whole tense tables); a deck without any has no export button.
 
 ## Deleting a deck
 

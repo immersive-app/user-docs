@@ -18,7 +18,7 @@ As páginas com a barra de navegação têm um botão do coach na parte de baixo
 - **Perguntar sobre esta nota**, ou **Perguntar sobre este exercício** num exercício: numa nota de gramática. Selecionar uma passagem numa nota oferece perguntar só sobre essa passagem.
 - **Perguntar sobre este verbo**: numa página de verbo ou de forma.
 - **Perguntar sobre esta comparação**: numa comparação da gramática da leitura.
-- **Perguntar sobre este texto**: no leitor (também nos ajustes de leitura) e numa página de correção.
+- **Perguntar sobre este texto**: o botão de conversa no canto inferior direito do leitor e do editor, e numa página de correção.
 - **Perguntar sobre isto**: no painel **Mais** de uma palavra ou frase, no leitor.
 - **Perguntar sobre esta correção**: em cada correção da sua escrita.
 
@@ -29,6 +29,7 @@ Escreva a sua pergunta e prima Enter (Shift+Enter começa uma linha nova). A res
 - Na sua língua da interface, a não ser que lhe escreva na língua que está a aprender.
 - Com brevidade, e sobre a língua: assinala onde uma língua que conhece funciona da mesma forma, e recusa perguntas que nada têm a ver com a aprendizagem de línguas.
 - Cada vez que abre o coach, começa uma conversa nova.
+- Uma mensagem de cada vez: enquanto a resposta está a ser escrita, a caixa de mensagem espera até ela terminar.
 
 Se enviar muitas mensagens seguidas, o coach pede-lhe que espere um minuto («Demasiadas mensagens seguidas»). Se não conseguir responder, a sua mensagem fica guardada e **Tentar de novo** volta a enviá-la.
 

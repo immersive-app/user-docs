@@ -13,8 +13,9 @@ O seu Vocabulário é a lista das palavras e frases que consultou enquanto estud
 
 - **Tocar numa palavra ou frase.** Em qualquer sítio onde o Immersive mostra texto em que pode tocar (o leitor, as frases de exemplo das páginas de verbos, as notas de gramática e os exercícios, as comparações), tocar numa palavra ou frase para ver a tradução regista-a.
 - **Guardá-la.** **Guardar no vocabulário**, no painel **Mais** de uma palavra, regista-a e marca-a como salva.
+- **Revê-la.** Um cartão de palavra ou de frase revisto num baralho também conta: **De novo** ou **Difícil** como erro, **Bem** ou **Fácil** como revisão.
 
-Cada entrada lembra quantas vezes a viu, pelo que a lista serve também de registo daquilo que continua a consultar.
+Cada entrada lembra quantas vezes a viu, errou e reviu, pelo que a lista serve também de registo daquilo que continua a consultar.
 
 ## Percorrer a sua lista
 

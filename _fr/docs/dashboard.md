@@ -25,6 +25,10 @@ Sur un ordinateur ou une tablette, les onglets s'alignent en haut de la page ; s
 
 L'onglet de la section où vous vous trouvez est mis en évidence.
 
+## La paire de langues
+
+Le bouton **en | fr** de la barre de navigation montre la langue que vous apprenez et celle dans laquelle l'application vous parle. Touchez-le pour changer l'une ou l'autre : **J'apprends** bascule entre les langues que vous apprenez, **Je parle** définit votre langue d'affichage. Chaque choix est enregistré aussitôt. Les deux mêmes réglages se trouvent dans **Profil → Compte → Langues**, où vous pouvez aussi masquer le bouton.
+
 ## Le menu du compte
 
 Votre photo de profil se trouve au bout de la barre de navigation. La sélectionner ouvre un petit menu avec votre prénom, votre e-mail et **Se déconnecter**.
@@ -44,7 +48,7 @@ Deux endroits masquent la navigation pour que vous puissiez vous concentrer :
 
 Quand vos paquets ont des cartes en attente, Immersive envoie un e-mail par jour vers 7 h 00 dans votre fuseau horaire. L'objet dit ce qui attend (« 3 cartes à revoir aujourd'hui » ou « 5 nouvelles cartes à apprendre aujourd'hui »). L'e-mail liste chaque paquet avec ses compteurs et deux exemples de questions, et chaque paquet a son propre lien **Commencer la révision** qui ouvre la session de révision de ce paquet.
 
-L'e-mail est activé tant que vous ne l'arrêtez pas. **Ne plus recevoir cet e-mail quotidien**, en bas de chaque e-mail, le désactive en un clic ; aucun réglage dans l'application ne permet de le réactiver. Arrêter l'e-mail n'arrête jamais vos révisions.
+L'e-mail est activé tant que vous ne l'arrêtez pas. **Ne plus recevoir cet e-mail quotidien**, en bas de chaque e-mail, le désactive en un clic, et **Profil → Compte → E-mails** a le même interrupteur, pour le réactiver. Arrêter l'e-mail n'arrête jamais vos révisions.
 
 ## Pour aller plus loin
 

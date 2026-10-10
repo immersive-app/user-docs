@@ -47,7 +47,7 @@ Ogni forma nella tabella è un link. Aprine una per avere la sua pagina:
 
 ## Attraverso le tue lingue
 
-Se hai effettuato l'accesso, la pagina di una forma mostra **Attraverso le tue lingue**: lo stesso tempo e la stessa persona allineati nella lingua che stai imparando e nelle altre lingue che conosci, ordinati in modo che le colonne vicine siano le più simili. Vedere *falo – hablo – parlo – parle* in un'unica riga spesso è tutto ciò che serve perché una forma resti impressa. Compare quando almeno una delle lingue che hai indicato (conta anche la tua lingua dell'interfaccia) ha la forma corrispondente.
+Con i confronti attivati (**Profilo → Account → Lingue**), la pagina di una forma mostra **Attraverso le tue lingue**: lo stesso tempo e la stessa persona allineati nella lingua che stai imparando e nelle altre lingue che conosci, ordinati in modo che le colonne vicine siano le più simili. Vedere *falo – hablo – parlo – parle* in un'unica riga spesso è tutto ciò che serve perché una forma resti impressa. Compare quando almeno una delle lingue che hai indicato (conta anche la tua lingua dell'interfaccia) ha la forma corrispondente.
 
 **Aggiungi una scheda di confronto** la trasforma in una carta di ripasso in un mazzo chiamato **Confronti ponte** per la lingua, pianificata come qualsiasi altra carta.
 

@@ -16,7 +16,7 @@ Une fois connecté, ouvrez **Grammaire** depuis la barre de navigation.
 
 - **Où vous en êtes** : « Commencez au niveau A2 » tant que vous n'avez pas commencé, puis « Vous travaillez le niveau B1 », avec un bouton pour **Réviser** les cartes de grammaire à revoir ou **S'entraîner** sur de nouvelles. Voir [Pratique de grammaire](grammar/grammar-practice.md).
 - **Recommandé** (ou **Commencez ici** au début) : une courte liste de notes à lire, pratiquer ou réviser ensuite, chacune marquée de sa raison : **À revoir**, **Suivant**, **Prêt** ou **Fragile**.
-- **Par niveau** : de A1 à C1, chacun avec votre maîtrise, le nombre de notes et combien de cartes sont à revoir. Ouvrez un niveau pour voir ses domaines (« Verbes, temps et conjugaison », « Pronoms »...), et un domaine pour voir ses notes.
+- **Par niveau** : de A1 à C1, chacun avec votre maîtrise, le nombre de notes et combien de cartes sont à revoir. Ouvrez un niveau pour voir ses domaines (« Verbes, temps et conjugaison », « Pronoms »...), et un domaine pour voir ses notes. La page d'un niveau ou d'un domaine propose **Tout pratiquer**, qui crée des cartes pour chacune de ses notes.
 - La **recherche** en haut trouve des notes par mot-clé ; le bouton signet n'affiche que vos notes favorites.
 
 ## Maîtrise
@@ -28,7 +28,7 @@ Une fois connecté, ouvrez **Grammaire** depuis la barre de navigation.
 - Une explication du point, écrite pour les apprenants, avec des mots et des phrases d'exemple que vous pouvez toucher pour la traduction et l'audio.
 - La note est écrite dans la langue que vous apprenez. Quand une traduction existe, **Lire dans** (votre langue), à la fin, bascule vers elle.
 - Des exercices de plusieurs sortes, vérifiés sur place.
-- Où vous en êtes sur la note, et **S'entraîner** pour la transformer en cartes de révision.
+- Où vous en êtes sur la note, et **S'entraîner** pour la transformer en cartes de révision, ou pour les ajouter à l'un de vos propres paquets.
 
 Voir [Lire les notes de grammaire](grammar/review-grammar.md).
 

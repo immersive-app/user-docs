@@ -19,7 +19,7 @@ Construir una baralla té dos passos: crear la baralla i afegir-hi targetes. Una
 
 ## Afegir targetes
 
-L'espai de treball de la baralla té quatre tipus de targeta (**Paraula**, **Frase**, **Verb**, **Número**) i dues fonts més: **Puja un full de càlcul** i **Des dels marcadors**.
+L'espai de treball de la baralla té cinc tipus de targeta (**Paraula**, **Frase**, **Verb**, **Número**, **Gramàtica**) i dues fonts més: **Puja un full de càlcul** i **Des dels marcadors**.
 
 ### Paraules
 
@@ -38,7 +38,11 @@ Introdueix les frases una per línia i tria **Afegeix targetes**. Les traduccion
 
 ### Números
 
-Introdueix números separats per comes, sense espais, per exemple `17,70,71,80`, i tria **Afegeix targetes**. Cada número es converteix en una targeta que llegeixes, escrius, escoltes o dius en paraules.
+Introdueix números separats per comes, per exemple `17, 70, 71, 80`, i tria **Afegeix targetes**. Cada número es converteix en una targeta que llegeixes, escrius, escoltes o dius en paraules.
+
+### Gramàtica
+
+Tria un nivell (el teu surt primer), i després marca **Tot l'A2**, àrees senceres o notes soltes; cadascuna mostra quantes targetes fa, i les notes que ja són a la baralla queden marcades. Tria **Crea targetes**. Les targetes són els exercicis de les notes, o les seves frases d'exemple amb el punt en blanc.
 
 ## Des d'un full de càlcul
 

@@ -25,6 +25,10 @@ En un ordinador o una tauleta, les pestanyes són a la part superior de la pàgi
 
 La pestanya de la secció on ets queda ressaltada.
 
+## El parell de llengües
+
+El botó **fr | en** de la barra de navegació mostra la llengua que aprens i la llengua en què et parla l'aplicació. Toca'l per canviar qualsevol de les dues: **Aprenc** canvia entre les llengües que has marcat com a aprenent, **Parlo** estableix l'idioma de la interfície. Cada tria es desa en fer-la. Els mateixos dos ajustos són a **Perfil → Compte → Idiomes**, on també pots amagar el botó.
+
 ## El menú del compte
 
 La teva foto de perfil és al final de la barra de navegació. En seleccionar-la s'obre un petit menú amb el teu nom, el teu correu electrònic i **Tancar sessió**.
@@ -44,7 +48,7 @@ Dos llocs amaguen la navegació perquè et puguis concentrar:
 
 Quan les teves baralles tenen targetes esperant, Immersive envia un correu al dia cap a les 7:00 de la teva zona horària. L'assumpte diu què t'espera («3 targetes pendents avui» o «5 targetes noves per aprendre avui»). El correu llista cada baralla amb els seus recomptes i dos enunciats d'exemple, i cada baralla té el seu propi enllaç **Comença a repassar** que obre la sessió de repàs d'aquella baralla.
 
-El correu està activat tret que l'aturis. **Deixa de rebre aquest correu diari**, al final de cada correu, el desactiva amb un sol clic; no hi ha cap opció a l'aplicació per tornar-lo a activar. Aturar el correu no atura mai els teus repassos.
+El correu està activat tret que l'aturis. **Deixa de rebre aquest correu diari**, al final de cada correu, el desactiva amb un sol clic, i **Perfil → Compte → Correus** té el mateix interruptor, perquè el puguis tornar a activar. Aturar el correu no atura mai els teus repassos.
 
 ## Per llegir més
 

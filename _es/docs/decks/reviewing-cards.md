@@ -55,7 +55,7 @@ Cuando la cola termina ves **Sesión completada**: las tarjetas repasadas, cuán
 
 ## Límites diarios
 
-Cada mazo introduce como máximo 20 tarjetas nuevas al día. No hay límite para los repasos de las tarjetas que ya has empezado. Cuando el mazo alcanza su límite de tarjetas nuevas del día, la sesión termina con un aviso, y las tarjetas nuevas restantes esperan a mañana. El límite no se puede cambiar.
+Cada mazo introduce como máximo 20 tarjetas nuevas al día. No hay límite para los repasos de las tarjetas que ya has empezado. Cuando el mazo alcanza su límite de tarjetas nuevas del día, la sesión lo indica y continúa con las tarjetas pendientes; las tarjetas nuevas restantes esperan a mañana. El límite no se puede cambiar.
 
 ## Historial de repasos
 

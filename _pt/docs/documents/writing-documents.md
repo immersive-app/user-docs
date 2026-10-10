@@ -16,7 +16,7 @@ Escrever é onde uma língua se torna sua. O editor dá-lhe uma página limpa na
 2. Escreva. A barra de ferramentas oferece negrito, itálico, títulos, listas e citações, além de recuo de parágrafo, entrelinha e impressão, e mostra uma contagem de palavras em curso.
 3. **Salvar** quando quiser. Um documento guardado pode ser lido como qualquer outro, com traduções, áudio e ajudas de leitura.
 
-**Tema**, **Coach**, **Histórico**, **Corrigir** e o assistente aparecem depois de o documento ter sido guardado pela primeira vez. O menu de ficheiros no topo lista os outros documentos da mesma pasta, para poder passar de um para outro.
+**Tema**, **Coach**, **Histórico**, **Corrigir** e o assistente aparecem depois de o documento ter sido guardado pela primeira vez. O menu de ficheiros no topo lista os outros documentos da mesma pasta, para poder passar de um para outro. Dois botões redondos ficam no canto inferior direito, como no leitor: o botão de conversa abre o [Coach](../coach.md) com o documento à vista, e o botão dos controlos deslizantes abre o assistente de escrita.
 
 ## Temas
 
@@ -44,7 +44,7 @@ As correções anteriores continuam disponíveis: o botão de fechar de uma pág
 
 ## O assistente de escrita
 
-Ao lado do editor (um painel num computador, uma folha num telemóvel) fica o **Assistente**, com três separadores:
+O botão dos controlos deslizantes abre o **Assistente**: um painel ao lado do editor num computador, uma folha num telemóvel. Fica fora do caminho até o abrir, e o Immersive lembra-se se o mantém aberto. Tem três separadores:
 
 - **Edições** mostra o seu nível de escrita («Nível de escrita ≈ B1»), até três das suas correções mais recentes, **Abrir o relatório completo** e o botão **Corrigir**. Também contém **Suba de nível** (abaixo).
 - **Reescrever** trabalha sobre uma seleção: selecione uma passagem (até 4.000 caracteres) e escolha **Sugerir reescrita**. O Immersive reescreve-a um nível acima do seu nível de escrita, com o mesmo significado. A sugestão aparece por baixo do parágrafo; **Substituir** aceita-a, **Dispensar** deixa o seu texto em paz.

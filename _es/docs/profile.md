@@ -19,7 +19,7 @@ Tu Perfil es el centro de mando de todo lo que te concierne como estudiante: dó
 
 **A continuación.** Lo que de verdad está esperando: tarjetas pendientes por repasar, tarjetas de gramática pendientes, palabras de esta semana que aún no están en un mazo. Cuando no hay nada esperando, lo dice.
 
-**Idiomas.** Los idiomas que conoces y el que estás aprendiendo, que usan las comparaciones y las pistas, con **Editar** para cambiarlos.
+**Idiomas.** Primero el idioma que estás aprendiendo, con su nivel (**Nivel sin definir** hasta que elijas uno), y luego los idiomas que hablas, con **Editar** para cambiarlos. Las comparaciones y las pistas los usan.
 
 Hasta que tengas tarjetas, documentos o vocabulario, la pestaña muestra en su lugar **Primeros pasos**: tu nivel de partida del registro y hasta tres acciones concretas — abre tu primer mazo, lee algo de tu nivel y lee tu primera nota de gramática.
 
@@ -64,7 +64,9 @@ Todo lo administrativo vive aquí:
 
 - **Cuenta** — nombre, apellido y género. Aquí se muestra tu dirección de correo electrónico.
 - **Perfil** — ubicación y foto de perfil.
-- **Idiomas** — la misma cuadrícula del registro: qué hablas, qué estás aprendiendo, tu nivel y tu idioma de la interfaz. Cámbiala cuando quieras. Bajo la cuadrícula, **Usar las lenguas que conozco para explicar la que estoy aprendiendo** activa las comparaciones entre lenguas: el cuadro *En tus idiomas* de las notas de gramática, los equivalentes en seis idiomas del lector y la [gramática de la lectura](grammar/grammar-of-reading.md) con sus subrayados de puntos. Está desactivado por defecto — la mayoría aprende una lengua a la vez.
+- **Idiomas** — una ficha por cada uno de los seis idiomas con tu nivel; toca una para indicar si lo hablas o lo estás aprendiendo, y a qué nivel. Bajo la cuadrícula, **Idioma de aprendizaje** e **Idioma de visualización** son el par que muestra la barra de navegación, y un interruptor oculta ese botón si lo prefieres. **Usar las lenguas que conozco para explicar la que estoy aprendiendo** activa las comparaciones entre lenguas: el cuadro *En tus idiomas* de las notas de gramática y de las formas verbales, los equivalentes en seis idiomas del lector y la [gramática de la lectura](grammar/grammar-of-reading.md) con sus subrayados de puntos. Está desactivado por defecto — la mayoría aprende una lengua a la vez.
+- **Correos** — el correo diario de repaso, activado o desactivado. Ver [Navegación](dashboard.md#el-correo-diario-de-repaso).
+- **Métodos de acceso** — si tu cuenta está vinculada a Iniciar sesión con Apple, con **Vincular** y **Desvincular**. Ver [Tu cuenta](account.md#iniciar-sesión).
 - **Contraseña** — cambiarla pide tu contraseña actual. Tu correo electrónico se fija al registrarte y no se puede cambiar en la aplicación; usa el formulario de contacto si necesitas cambiarlo.
 - **Tus datos** — **Descarga tus datos personales** te envía por correo un enlace a todo lo que tenemos sobre
   ti: tus mazos y tarjetas, tus documentos y los archivos que subiste para crearlos, tus textos, tus

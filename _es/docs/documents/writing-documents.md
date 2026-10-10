@@ -16,7 +16,7 @@ Escribir es donde un idioma se hace tuyo. El editor te da una página limpia en 
 2. Escribe. La barra de herramientas ofrece negrita, cursiva, encabezados, listas y citas, además de sangría de párrafo, interlineado e impresión, y muestra un recuento de palabras en directo.
 3. **Guardar** cuando quieras. Un documento guardado puede leerse como cualquier otro, con traducciones, audio y ayudas de lectura.
 
-**Tema**, **Coach**, **Historial**, **Corregir** y el asistente aparecen una vez que el documento se ha guardado por primera vez. El menú de archivos de la parte superior lista los demás documentos de la misma carpeta, para que puedas pasar de uno a otro.
+**Tema**, **Coach**, **Historial**, **Corregir** y el asistente aparecen una vez que el documento se ha guardado por primera vez. El menú de archivos de la parte superior lista los demás documentos de la misma carpeta, para que puedas pasar de uno a otro. Dos botones redondos están en la parte inferior derecha, como en el lector: el botón de chat abre el [Coach](../coach.md) con el documento a la vista, y el botón de los controles deslizantes abre el asistente de escritura.
 
 ## Temas
 
@@ -44,7 +44,7 @@ Las correcciones anteriores siguen disponibles: el botón de cierre de una pági
 
 ## El asistente de escritura
 
-Junto al editor (un panel en un ordenador, una hoja en un teléfono) está el **Asistente**, con tres pestañas:
+El botón de los controles deslizantes abre el **Asistente**: un panel junto al editor en un ordenador, una hoja en un teléfono. No estorba hasta que lo abres, e Immersive recuerda si lo mantienes abierto. Tiene tres pestañas:
 
 - **Ediciones** muestra tu nivel de escritura («Nivel de escritura ≈ B1»), hasta tres de tus últimas correcciones, **Abrir el informe completo** y el botón **Corregir**. También contiene **Sube de nivel** (más abajo).
 - **Reescribir** trabaja sobre una selección: selecciona un pasaje (de hasta 4.000 caracteres) y elige **Sugerir reescritura**. Immersive lo reescribe un nivel por encima de tu nivel de escritura, con el mismo significado. La sugerencia aparece bajo el párrafo; **Reemplazar** la adopta, **Descartar** deja tu texto como estaba.

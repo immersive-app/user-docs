@@ -47,7 +47,7 @@ Cada forma de la taula és un enllaç. Obre'n una per arribar a la seva pròpia 
 
 ## A través de les teves llengües
 
-Amb la sessió iniciada, la pàgina d'una forma mostra **A través de les teves llengües**: el mateix temps i persona alineats en la llengua que aprens i en les altres llengües que coneixes, ordenats de manera que les columnes veïnes són les més semblants. Veure *falo – hablo – parlo – parle* en una sola fila sovint és tot el que cal perquè una forma quedi gravada. Apareix quan almenys una de les llengües que tens registrades (l'idioma de la interfície compta) té la forma corresponent.
+Amb les comparacions activades (**Perfil → Compte → Idiomes**), la pàgina d'una forma mostra **A través de les teves llengües**: el mateix temps i persona alineats en la llengua que aprens i en les altres llengües que coneixes, ordenats de manera que les columnes veïnes són les més semblants. Veure *falo – hablo – parlo – parle* en una sola fila sovint és tot el que cal perquè una forma quedi gravada. Apareix quan almenys una de les llengües que tens registrades (l'idioma de la interfície compta) té la forma corresponent.
 
 **Afegeix una targeta de comparació** ho converteix en una targeta de repàs en una baralla anomenada **Comparacions pont** per a la llengua, programada com qualsevol altra targeta.
 
