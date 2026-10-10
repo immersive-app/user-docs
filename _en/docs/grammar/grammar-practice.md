@@ -11,7 +11,7 @@ Reading a note once is not enough to make a grammar point stick. **Practice** tu
 
 ## Practising a note
 
-On a grammar note, **Practice** (with how many cards are due, new, or waiting) creates the note's cards, if you have none yet, and starts a review of that note. The cards go into a deck called **Grammar practice** for the language, which you also see in My Decks. The menu beside it, **To a deck**, adds the note's cards to one of your own decks instead, through the deck's **Grammar** tab (see [Creating decks](../decks/creating-decks.md#grammar)). A note with no exercises is practised from its own example sentences, so every note can be practised.
+On a grammar note, **Practice** (with how many cards are due, new, or waiting) creates the note's cards, if you have none yet, and starts a review of that note. The cards go into a deck called **Grammar practice** for the language, which you also see in My Decks. The arrow beside it lists your decks, to add the note's cards to one of them instead, through the deck's **Grammar** tab (see [Creating decks](../decks/creating-decks.md#grammar)). A note with no exercises is practised from its own example sentences, so every note can be practised.
 
 A level or area page offers **Practise all**, with the number of cards, for every note in it.
 

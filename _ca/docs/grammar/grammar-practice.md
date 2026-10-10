@@ -12,7 +12,7 @@ Llegir una nota una vegada no n'hi ha prou perquè un punt gramatical es fixi. *
 
 ## Practicar una nota
 
-En una nota gramatical, **Practica** (amb quantes targetes hi ha pendents, noves o esperant) crea les targetes de la nota, si encara no en tens, i comença un repàs d'aquella nota. Les targetes van a una baralla anomenada **Pràctica de gramàtica** per a la llengua, que també veus a Les meves baralles. El menú del costat, **A un joc**, afegeix en canvi les targetes de la nota a una de les teves baralles, a través de la pestanya **Gramàtica** de la baralla (vegeu [Crear baralles](../decks/creating-decks.md#gramàtica)). Una nota sense exercicis es practica amb les seves pròpies frases d'exemple, de manera que totes les notes es poden practicar.
+En una nota gramatical, **Practica** (amb quantes targetes hi ha pendents, noves o esperant) crea les targetes de la nota, si encara no en tens, i comença un repàs d'aquella nota. Les targetes van a una baralla anomenada **Pràctica de gramàtica** per a la llengua, que també veus a Les meves baralles. La fletxa del costat llista les teves baralles, per afegir-hi en canvi les targetes de la nota, a través de la pestanya **Gramàtica** de la baralla (vegeu [Crear baralles](../decks/creating-decks.md#gramàtica)). Una nota sense exercicis es practica amb les seves pròpies frases d'exemple, de manera que totes les notes es poden practicar.
 
 La pàgina d'un nivell o d'una àrea ofereix **Practica-ho tot**, amb el nombre de targetes, per a totes les seves notes.
 
