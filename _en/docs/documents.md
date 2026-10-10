@@ -48,3 +48,4 @@ Documents keep an **edit history**: the previous version is saved before each ed
 
 - [Reading documents](documents/reading-documents.md): bringing texts in and using the reader.
 - [Writing documents](documents/writing-documents.md): the editor, corrections, and the writing assistant.
+- [Books](documents/books.md): adding a book and reading it chapter by chapter.

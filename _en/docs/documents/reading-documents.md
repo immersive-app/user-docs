@@ -17,6 +17,8 @@ The reader is built on one principle: you succeed by understanding the text, not
 
 No text of your own handy? Open the **Library** for texts with a known level and word count.
 
+For a whole book, read in chapters, use **Add a book** instead: see [Books](books.md).
+
 ## Reading
 
 Open a document to read it. Under the title you see its translation in your language.

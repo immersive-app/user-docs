@@ -49,3 +49,4 @@ Els documents conserven un **historial de canvis**: la versió anterior es desa 
 
 - [Llegir documents](documents/reading-documents.md): portar-hi textos i fer servir el lector.
 - [Escriure documents](documents/writing-documents.md): l'editor, les correccions i l'assistent d'escriptura.
+- [Llibres](documents/books.md): afegir un llibre i llegir-lo capítol a capítol.
