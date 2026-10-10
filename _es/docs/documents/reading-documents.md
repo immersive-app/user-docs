@@ -18,6 +18,8 @@ El lector se basa en un principio: triunfas entendiendo el texto, no traduciendo
 
 ¿No tienes ningún texto a mano? Abre la **Biblioteca** para encontrar textos con nivel y recuento de palabras conocidos.
 
+Para un libro entero, leído por capítulos, usa **Añadir un libro**: ver [Libros](books.md).
+
 ## Leer
 
 Abre un documento para leerlo. Bajo el título ves su traducción en tu idioma.
