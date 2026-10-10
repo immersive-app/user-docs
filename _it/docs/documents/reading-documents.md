@@ -18,6 +18,8 @@ Il lettore è costruito su un principio: riesci quando capisci il testo, non qua
 
 Non hai un testo tuo sottomano? Apri la **Biblioteca** per testi con livello e conteggio di parole noti.
 
+Per un libro intero, letto a capitoli, usa invece **Aggiungi un libro**: vedi [Libri](books.md).
+
 ## Leggere
 
 Apri un documento per leggerlo. Sotto il titolo vedi la sua traduzione nella tua lingua.

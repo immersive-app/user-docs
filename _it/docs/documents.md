@@ -49,3 +49,4 @@ I documenti conservano una **cronologia delle modifiche**: la versione precedent
 
 - [Leggere documenti](documents/reading-documents.md): portare dentro i testi e usare il lettore.
 - [Scrivere documenti](documents/writing-documents.md): l'editor, le correzioni e l'assistente di scrittura.
+- [Libri](documents/books.md): aggiungere un libro e leggerlo capitolo per capitolo.
