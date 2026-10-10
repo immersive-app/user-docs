@@ -42,7 +42,7 @@ Introdueix números separats per comes, per exemple `17, 70, 71, 80`, i tria **A
 
 ### Gramàtica
 
-Tria un nivell (el teu surt primer), i després marca **Tot el A2**, àrees senceres o notes soltes; cadascuna mostra quantes targetes fa, i les notes que ja són a la baralla queden marcades. Tria **Crea targetes**. Les targetes són els exercicis de les notes, o les seves frases d'exemple amb el punt en blanc.
+Tria un nivell (el teu surt primer), i després marca **Tot l'A2**, àrees senceres o notes soltes; cadascuna mostra quantes targetes fa, i les notes que ja són a la baralla queden marcades. Tria **Crea targetes**. Les targetes són els exercicis de les notes, o les seves frases d'exemple amb el punt en blanc.
 
 ## Des d'un full de càlcul
 

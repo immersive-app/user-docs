@@ -42,7 +42,7 @@ Inserisci i numeri separati da virgole, per esempio `17, 70, 71, 80`, e scegli *
 
 ### Grammatica
 
-Scegli un livello (il tuo viene per primo), poi spunta **Tutto il A2**, intere aree o singole note; ciascuna mostra quante carte crea, e le note già nel mazzo sono contrassegnate. Scegli **Crea carte**. Le carte sono gli esercizi delle note, o le loro frasi di esempio con il punto lasciato in bianco.
+Scegli un livello (il tuo viene per primo), poi spunta **Tutto l'A2**, intere aree o singole note; ciascuna mostra quante carte crea, e le note già nel mazzo sono contrassegnate. Scegli **Crea carte**. Le carte sono gli esercizi delle note, o le loro frasi di esempio con il punto lasciato in bianco.
 
 ## Da un foglio di calcolo
 
