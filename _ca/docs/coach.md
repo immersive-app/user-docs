@@ -18,7 +18,7 @@ Les pàgines amb la barra de navegació tenen un botó del coach a la part infer
 - **Pregunta sobre aquesta nota**, o **Pregunta sobre aquest exercici** en un exercici: en una nota gramatical. Seleccionar un fragment d'una nota ofereix preguntar només sobre aquell fragment.
 - **Pregunta sobre aquest verb**: en una pàgina de verb o de forma.
 - **Pregunta sobre aquesta comparació**: en una comparació de la gramàtica de la lectura.
-- **Pregunta sobre aquest text**: al lector (també als controls de lectura) i en una pàgina de correcció.
+- **Pregunta sobre aquest text**: el botó de xat a baix a la dreta del lector i de l'editor, i en una pàgina de correcció.
 - **Pregunta sobre això**: al plafó **Més** d'una paraula o frase al lector.
 - **Pregunta sobre aquesta correcció**: a cada correcció de la teva escriptura.
 
@@ -29,6 +29,7 @@ Escriu la pregunta i prem Retorn (Majúscules+Retorn comença una línia nova). 
 - En l'idioma de la interfície, tret que li escriguis en la llengua que aprens.
 - Breument, i sobre la llengua: t'assenyala on una llengua que coneixes funciona igual, i declina les preguntes que no tenen res a veure amb l'aprenentatge de llengües.
 - Cada vegada que obres el coach, comença un xat nou.
+- Un missatge a la vegada: mentre s'escriu la resposta, el quadre de missatge espera fins que acaba.
 
 Si envies molts missatges seguits, el coach et demana que esperis un minut («Massa missatges seguits»). Si no pot respondre, el teu missatge es conserva i **Torna-ho a provar** el torna a enviar.
 

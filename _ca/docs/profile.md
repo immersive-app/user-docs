@@ -19,7 +19,7 @@ El teu Perfil és el centre de comandament de tot allò que t'afecta com a estud
 
 **A continuació.** El que realment t'espera: targetes pendents per repassar, targetes de gramàtica pendents, paraules d'aquesta setmana que encara no són en cap baralla. Quan no hi ha res esperant, t'ho diu.
 
-**Idiomes.** Les llengües que coneixes i la que aprens, que fan servir les comparacions i les pistes, amb **Edita** per canviar-les.
+**Idiomes.** Primer la llengua que aprens, amb el seu nivell (**Nivell no definit** fins que en tries un), després les llengües que parles, amb **Edita** per canviar-les. Les comparacions i les pistes les fan servir.
 
 Fins que no tens targetes, documents o vocabulari, la pestanya mostra **Primers passos** en lloc d'això: el teu nivell de partida del registre i fins a tres accions concretes — obre la teva primera baralla, llegeix alguna cosa del teu nivell i llegeix la teva primera nota gramatical.
 
@@ -64,7 +64,9 @@ Tot l'administratiu viu aquí:
 
 - **Compte** — nom, cognom i gènere. Aquí es mostra la teva adreça de correu electrònic.
 - **Perfil** — ubicació i foto de perfil.
-- **Idiomes** — la mateixa graella del registre: què parles, què estàs aprenent, el teu nivell i l'idioma de la interfície. Canvia-la quan vulguis. Sota la graella, **Fes servir les llengües que conec per explicar la que estic aprenent** activa les comparacions entre llengües: el requadre *En les teves llengües* a les notes gramaticals, els equivalents en les sis llengües al lector i la [gramàtica de la lectura](grammar/grammar-of-reading.md) amb els seus subratllats de punts. Està desactivat per defecte — la majoria aprèn una llengua a la vegada.
+- **Idiomes** — una fitxa per a cadascuna de les sis llengües amb el teu nivell; toca'n una per dir si la parles o l'estàs aprenent, i a quin nivell. Sota la graella, **Llengua d'aprenentatge** i **Llengua de visualització** són el parell que mostra la barra de navegació, i un interruptor amaga aquell botó si ho prefereixes. **Fes servir les llengües que conec per explicar la que estic aprenent** activa les comparacions entre llengües: el requadre *En les teves llengües* a les notes gramaticals i les formes verbals, els equivalents en les sis llengües al lector i la [gramàtica de la lectura](grammar/grammar-of-reading.md) amb els seus subratllats de punts. Està desactivat per defecte — la majoria aprèn una llengua a la vegada.
+- **Correus** — el correu diari de repàs, activat o desactivat. Vegeu [Navegació](dashboard.md#el-correu-diari-de-repàs).
+- **Mètodes d'inici de sessió** — si el teu compte està vinculat a «Inicia la sessió amb Apple», amb **Vincula Apple** i **Desvincula Apple**. Vegeu [El teu compte](account.md#iniciar-sessió).
 - **Contrasenya** — canviar-la et demana la contrasenya actual. El teu correu electrònic es fixa en registrar-te i no es pot canviar a l'aplicació; fes servir el formulari de contacte si necessites canviar-lo.
 - **Les teves dades** — **Descarrega les teves dades personals** t'envia per correu un enllaç a tot el que
   tenim sobre tu: els teus mazos i targetes, els teus documents i els fitxers que vas pujar per crear-los, els

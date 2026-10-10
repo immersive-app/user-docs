@@ -13,6 +13,8 @@ Crear un compte s'explica a [Primers passos](../index.md#crear-un-compte). Aques
 
 **Iniciar sessió** et demana el correu electrònic i la contrasenya. **Recordar-me** et manté la sessió iniciada en aquell dispositiu.
 
+**Continuar amb Apple**, a les pàgines d'inici de sessió i de registre, inicia la sessió amb el teu ID d'Apple en lloc del correu i la contrasenya. Un compte creat així no té cap contrasenya per escriure, i un compte existent amb el mateix correu s'hi vincula en lloc de duplicar-se. **Perfil → Compte → Mètodes d'inici de sessió** mostra si el teu compte està vinculat a Apple, i et permet vincular-lo o desvincular-lo.
+
 Per tancar la sessió: obre la teva foto de perfil a la barra de navegació i tria **Tancar sessió**.
 
 ## No pots entrar?
@@ -34,7 +36,7 @@ Amb la sessió iniciada, **Convida un amic** al peu de les pàgines públiques d
 ## Correus d'Immersive
 
 - **Correus del compte**: confirmar l'adreça, restablir la contrasenya, desbloquejar el compte.
-- **El correu diari de repàs**, quan les teves baralles tenen targetes esperant. Vegeu [Navegació](dashboard.md#el-correu-diari-de-repàs).
+- **El correu diari de repàs**, quan les teves baralles tenen targetes esperant; desactiva'l o activa'l a **Perfil → Compte → Correus**. Vegeu [Navegació](dashboard.md#el-correu-diari-de-repàs).
 - Les **exportacions a Anki** que demanes, amb el fitxer de la baralla adjunt. Vegeu [Gestionar baralles](decks/managing-decks.md#exportar-a-anki).
 - **Les teves dades personals**, quan les demanes (a sota).
 

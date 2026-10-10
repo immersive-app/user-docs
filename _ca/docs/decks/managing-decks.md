@@ -50,11 +50,11 @@ La icona del marcador d'una baralla (a la llista o a la pàgina de la baralla) l
 
 ## Editar una baralla
 
-Obre una baralla i tria el llapis per obrir-ne l'espai de treball. **Edita la baralla** obre la configuració: canvia-li el nom en qualsevol dels dos idiomes, canvia-la de carpeta o ajusta'n les etiquetes, i després tria **Actualitza la baralla**. La llista de targetes de sota et permet editar o eliminar targetes individuals i afegir-hi exemples.
+Obre una baralla i tria el llapis per obrir-ne l'espai de treball. **Edita la baralla** obre la configuració: canvia-li el nom en qualsevol dels dos idiomes, canvia-la de carpeta o ajusta'n les etiquetes, i després tria **Actualitza la baralla**. La llista de targetes de sota et permet editar o eliminar targetes individuals i afegir-hi exemples; mostra 25 targetes a la vegada, i **Mostra'n més** llista la resta.
 
 ## Exportar a Anki
 
-**Exportar a Anki** en una de les teves baralles prepara un fitxer d'Anki en segon pla i te l'envia per correu quan és a punt. Per exportar una baralla de la Biblioteca o pública, copia-la primer a Les meves baralles.
+**Exportar a Anki** en una baralla, teva, de la Biblioteca o pública, prepara un fitxer d'Anki en segon pla i te l'envia per correu quan és a punt. El fitxer conté les targetes de verb de la baralla (una per persona, o taules de temps senceres); una baralla sense cap no té botó d'exportació.
 
 ## Eliminar una baralla
 

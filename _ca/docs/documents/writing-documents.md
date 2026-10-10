@@ -16,7 +16,7 @@ Escriure és on una llengua es fa teva. L'editor et dona una pàgina neta en la 
 2. Escriu. La barra d'eines ofereix negreta, cursiva, encapçalaments, llistes i citacions, a més de sagnat de paràgraf, interlineat i impressió, i mostra un recompte de paraules en directe.
 3. Tria **Desar** quan vulguis. Un document desat es pot llegir com qualsevol altre, amb traduccions, àudio i ajudes de lectura.
 
-**Tema**, **Coach**, **Historial**, **Corregeix** i l'assistent apareixen un cop el document s'ha desat per primera vegada. El menú de fitxers de dalt llista els altres documents de la mateixa carpeta, perquè puguis canviar d'un a l'altre.
+**Tema**, **Coach**, **Historial**, **Corregeix** i l'assistent apareixen un cop el document s'ha desat per primera vegada. El menú de fitxers de dalt llista els altres documents de la mateixa carpeta, perquè puguis canviar d'un a l'altre. Dos botons rodons són a baix a la dreta, com al lector: el botó de xat obre el [Coach](../coach.md) amb el document a la vista, i el botó dels controls lliscants obre l'assistent d'escriptura.
 
 ## Temes
 
@@ -44,7 +44,7 @@ Les correccions anteriors continuen disponibles: el botó de tancar d'una pàgin
 
 ## L'assistent d'escriptura
 
-Al costat de l'editor (un plafó en un ordinador, un full en un mòbil) hi ha l'**Assistent**, amb tres pestanyes:
+El botó dels controls lliscants obre l'**Assistent**: un plafó al costat de l'editor en un ordinador, un full en un mòbil. No fa nosa fins que l'obres, i Immersive recorda si el deixes obert. Té tres pestanyes:
 
 - **Esmenes** mostra el teu nivell d'escriptura («Nivell d'escriptura ≈ B1»), fins a tres de les teves últimes correccions, **Obre l'informe complet** i el botó **Corregeix**. També conté **Puja de nivell** (a sota).
 - **Reescriu** treballa sobre una selecció: selecciona un fragment (fins a 4.000 caràcters) i tria **Suggereix una reescriptura**. Immersive el reescriu un nivell per sobre del teu nivell d'escriptura, amb el mateix significat. El suggeriment apareix sota el paràgraf; **Substitueix** l'adopta, **Descarta** deixa el teu text intacte.

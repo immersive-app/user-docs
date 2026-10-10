@@ -13,8 +13,9 @@ El teu Vocabulari és la llista de paraules i frases que has consultat mentre es
 
 - **Tocar una paraula o frase.** A qualsevol lloc on Immersive mostra text que es pot tocar (el lector, les frases d'exemple de les pàgines de verbs, les notes gramaticals i els seus exercicis, les comparacions), tocar una paraula o frase per veure'n la traducció la registra.
 - **Desar-la.** **Desa al vocabulari** al plafó **Més** d'una paraula la registra i la marca com a desada.
+- **Repassar-la.** Una targeta de paraula o de frase repassada en una baralla també compta: **Una altra vegada** o **Difícil** com a error, **Bé** o **Fàcil** com a repàs.
 
-Cada entrada recorda quantes vegades l'has vista, de manera que la llista serveix alhora de registre del que no pares de consultar.
+Cada entrada recorda quantes vegades l'has vista, fallada i repassada, de manera que la llista serveix alhora de registre del que no pares de consultar.
 
 ## Explorar la teva llista
 

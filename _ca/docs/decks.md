@@ -12,12 +12,13 @@ Les baralles són on passa la memorització a Immersive. Una baralla és una col
 
 ## Què conté una baralla
 
-Pots afegir-hi tu mateix quatre tipus de targetes:
+Pots afegir-hi tu mateix cinc tipus de targetes:
 
 - **Targetes de paraula**: una paraula, la seva traducció i, opcionalment, una frase d'exemple.
 - **Targetes de frase**: una frase completa amb la seva traducció.
 - **Targetes de verb**: els verbs i temps que triïs, amb una targeta per persona o tota la taula del temps en una sola targeta.
 - **Targetes de nombre**: nombres escrits en lletres en la llengua que aprens.
+- **Targetes de gramàtica**: targetes de pràctica fetes de les notes gramaticals que tries, per nivell, àrea o nota.
 
 Les targetes venen de molts llocs: escrites a mà, importades d'un full de càlcul, afegides des de les paraules que has desat al teu [Vocabulari](vocabulary.md), copiades amb una baralla de la Biblioteca o pública, o afegides des del lector i des de les pàgines de verbs amb **Afegeix a una baralla**.
 
@@ -45,7 +46,7 @@ Obrir **Baralles** mostra:
 
 Si també fas servir Anki:
 
-- **Exportar a Anki** en una de les teves baralles prepara un fitxer d'Anki (.apkg) i te l'envia per correu. Per exportar una baralla de la Biblioteca, copia-la primer a Les meves baralles.
+- **Exportar a Anki** en una baralla, teva o de la Biblioteca, prepara un fitxer d'Anki (.apkg) i te l'envia per correu. El fitxer conté les targetes de verb de la baralla; una baralla sense cap no té botó d'exportació.
 - La pàgina d'**Anki** (enllaçada al peu de les pàgines públiques d'Immersive) ofereix baralles d'Anki ja fetes per descarregar. Amb la sessió iniciada, les descarregues directament. Sense compte, introdueixes la teva adreça de correu per descarregar-les; llavors Immersive també t'envia el seu curs gratuït del Mètode Pont per correu, cinc lliçons breus, del qual et pots donar de baixa en qualsevol moment.
 
 ## En aquesta secció
