@@ -17,7 +17,7 @@ Pages with the navigation bar have a coach button at the bottom of the screen; t
 - **Ask about this note**, or **Ask about this exercise** on an exercise: on a grammar note. Selecting a passage in a note offers to ask about just that passage.
 - **Ask about this verb**: on a verb page or a form page.
 - **Ask about this comparison**: on a grammar-of-reading comparison.
-- **Ask about this text**: in the reader (also in the reading controls), and on a correction page.
+- **Ask about this text**: the chat button at the bottom right of the reader and the editor, and on a correction page.
 - **Ask about this**: in a word's or sentence's **More** panel in the reader.
 - **Ask about this correction**: on each correction of your writing.
 
@@ -28,6 +28,7 @@ Type your question and press Enter (Shift+Enter starts a new line). The answer a
 - In your display language, unless you write to it in the language you are learning.
 - Briefly, and about language: it points out where a language you know works the same way, and it declines questions that have nothing to do with language learning.
 - Each time you open the coach, it starts a new chat.
+- One message at a time: while the answer is being written, the message box waits until it ends.
 
 If you send many messages in a row, the coach asks you to wait a minute ("Too many messages in a row"). If it cannot answer, your message is kept and **Try again** sends it again.
 

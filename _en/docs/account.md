@@ -12,6 +12,8 @@ Creating an account is covered in [Getting started](../index.md#creating-an-acco
 
 **Log In** asks for your email and password. **Remember me** keeps you signed in on that device.
 
+**Continue with Apple**, on the sign-in and sign-up pages, signs you in with your Apple ID instead. An account created that way has no password to type, and an existing account with the same email is linked rather than duplicated. **Profile → Account → Sign-in methods** shows whether your account is linked to Apple, and lets you connect or disconnect it.
+
 Signing out: open your profile picture in the navigation bar and choose **Log out**.
 
 ## Can't log in?
@@ -33,7 +35,7 @@ Signed in, **Invite a friend** in the footer of Immersive's public pages sends a
 ## Emails from Immersive
 
 - **Account emails**: confirming your address, resetting your password, unlocking your account.
-- **The daily review email**, when your decks have cards waiting. See [Navigation](dashboard.md#the-daily-review-email).
+- **The daily review email**, when your decks have cards waiting; turn it off or on in **Profile → Account → Emails**. See [Navigation](dashboard.md#the-daily-review-email).
 - **Anki exports** you ask for, with the deck file attached. See [Managing decks](decks/managing-decks.md#exporting-to-anki).
 - **Your personal data**, when you ask for it (below).
 

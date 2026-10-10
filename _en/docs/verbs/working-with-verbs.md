@@ -46,7 +46,7 @@ Every form in the table is a link. Open one to get its own page:
 
 ## Across your languages
 
-Signed in, a form's page shows **Across your languages**: the same tense and person aligned in the language you are learning and the other languages you know, ordered so that neighbouring columns are the most similar. Seeing *falo – hablo – parlo – parle* in one row is often all it takes for a form to stick. It appears when at least one of your recorded languages (your display language counts) has the matching form.
+With comparisons turned on (**Profile → Account → Languages**), a form's page shows **Across your languages**: the same tense and person aligned in the language you are learning and the other languages you know, ordered so that neighbouring columns are the most similar. Seeing *falo – hablo – parlo – parle* in one row is often all it takes for a form to stick. It appears when at least one of your recorded languages (your display language counts) has the matching form.
 
 **Add a comparison card** makes it a review card in a deck called **Bridge comparisons** for the language, scheduled like any other card.
 

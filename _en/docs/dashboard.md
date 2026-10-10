@@ -24,6 +24,10 @@ On a computer or tablet, the tabs run along the top of the page; on a phone, the
 
 The tab for the section you are in is highlighted.
 
+## The language pair
+
+The **fr | en** button in the navigation bar shows the language you are learning and the one the app speaks to you in. Tap it to change either: **I'm learning** switches between the languages you marked as learning, **I speak** sets your display language. Each choice saves as you make it. The same two settings are on **Profile → Account → Languages**, where you can also hide the button.
+
 ## The account menu
 
 Your profile picture sits at the end of the navigation bar. Selecting it opens a small menu with your first name, your email, and **Log out**.
@@ -43,7 +47,7 @@ Two places hide the navigation so you can concentrate:
 
 When your decks have cards waiting, Immersive sends one email a day at about 7:00 in your time zone. The subject says what is waiting ("3 cards are due today", or "5 new cards ready to learn today"). The email lists each deck with its counts and two sample prompts, and each deck has its own **Start reviewing** link that opens that deck's review session.
 
-The email is on unless you stop it. **Stop receiving this daily email**, at the bottom of every copy, turns it off in one click; there is no setting in the app to turn it back on. Stopping the email never stops your reviews.
+The email is on unless you stop it. **Stop receiving this daily email**, at the bottom of every copy, turns it off in one click, and **Profile → Account → Emails** has the same switch, so you can turn it back on. Stopping the email never stops your reviews.
 
 ## Further reading
 

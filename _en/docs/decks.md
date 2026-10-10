@@ -11,12 +11,13 @@ Decks are where memorising happens in Immersive. A deck is a collection of cards
 
 ## What a deck holds
 
-You can add four kinds of cards yourself:
+You can add five kinds of cards yourself:
 
 - **Word cards**: a word, its translation, and optionally an example sentence.
 - **Sentence cards**: a full sentence with its translation.
 - **Verb cards**: the verbs and tenses you choose, either one card per person or a whole tense table per card.
 - **Number cards**: numbers written out in the language you are learning.
+- **Grammar cards**: practice cards made from the grammar notes you pick, by level, area, or note.
 
 Cards come from many places: typed in by hand, imported from a spreadsheet, added from the words you saved in your [Vocabulary](vocabulary.md), copied with a Library or public deck, or added from the reader and from verb pages with **Add to a deck**.
 
@@ -44,7 +45,7 @@ Opening **Decks** shows:
 
 If you also use Anki:
 
-- **Export to Anki** on one of your decks prepares an Anki file (.apkg) and emails it to you. To export a Library deck, copy it to My Decks first.
+- **Export to Anki** on a deck, yours or one from the Library, prepares an Anki file (.apkg) and emails it to you. The file holds the deck's verb cards; a deck without any has no export button.
 - The **Anki** page (linked in the footer of Immersive's public pages) offers ready-made Anki decks for download. Signed in, you download directly. Without an account, you enter your email address to download; Immersive then also sends you its free Bridge Method email course, five short lessons, which you can unsubscribe from at any time.
 
 ## In this section

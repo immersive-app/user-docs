@@ -15,7 +15,7 @@ Writing is where a language becomes yours. The editor gives you a clean page in 
 2. Write. The toolbar offers bold, italic, headings, lists, and quotes, plus paragraph indent, line spacing, and print, and shows a running word count.
 3. **Save** whenever you like. A saved document can be read like any other, with translations, audio, and reading aids.
 
-**Topic**, **Coach**, **History**, **Correct**, and the assistant appear once the document has been saved for the first time. The files menu at the top lists the other documents in the same folder, so you can switch between them.
+**Topic**, **Coach**, **History**, **Correct**, and the assistant appear once the document has been saved for the first time. The files menu at the top lists the other documents in the same folder, so you can switch between them. Two round buttons sit at the bottom right, as in the reader: the chat button opens the [Coach](../coach.md) with the document in view, and the sliders button opens the writing assistant.
 
 ## Topics
 
@@ -43,7 +43,7 @@ Past corrections stay available: the close button on a correction page leads to 
 
 ## The writing assistant
 
-Beside the editor (a panel on a computer, a sheet on a phone) is the **Assistant**, with three tabs:
+The sliders button opens the **Assistant**: a panel beside the editor on a computer, a sheet on a phone. It stays out of the way until you open it, and Immersive remembers whether you keep it open. It has three tabs:
 
 - **Edits** shows your writing level ("Writing level ≈ B1"), up to three of your latest corrections, **Open the full report**, and the **Correct** button. It also holds **Level up** (below).
 - **Rewrite** works on a selection: select a passage (up to 4,000 characters) and choose **Suggest rewrite**. Immersive rewrites it one level above your writing level, with the same meaning. The suggestion appears under the paragraph; **Replace** takes it, **Dismiss** leaves your text alone.

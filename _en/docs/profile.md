@@ -18,7 +18,7 @@ Your Profile is the command center for everything about you as a learner: where 
 
 **Up next.** What is actually waiting: due cards to review, due grammar cards, words from this week not yet in a deck. When nothing is waiting, it says so.
 
-**Languages.** The languages you know and the one you are learning, which comparisons and hints use, with **Edit** to change them.
+**Languages.** The language you are learning first, with its level (**Level not set** until you choose one), then the languages you speak, with **Edit** to change them. Comparisons and hints use these.
 
 Until you have cards, documents, or vocabulary, the tab shows **First steps** instead: your starting level from sign-up and up to three concrete actions — open your first deck, read something at your level, and read your first grammar note.
 
@@ -63,7 +63,9 @@ Everything administrative lives here:
 
 - **Account** — first name, last name, and gender. Your email address is shown here.
 - **Profile** — location and profile picture.
-- **Languages** — the same grid as onboarding: what you speak, what you are learning, your level, and your display language. Change it any time. Below the grid, **Use the languages I know to explain the one I'm learning** turns on the cross-language comparisons: the *Across your languages* box on grammar notes, the six-language equivalents in the reader, and the [grammar of reading](grammar/grammar-of-reading.md) with its dotted underlines. It is off by default — most people learn one language at a time.
+- **Languages** — a tile for each of the six languages with your level; tap one to say whether you speak it or are learning it, and at what level. Under the grid, **Learning language** and **Display language** are the pair the navigation bar shows, and a switch hides that button if you prefer. **Use the languages I know to explain the one I'm learning** turns on the cross-language comparisons: the *Across your languages* box on grammar notes and verb forms, the six-language equivalents in the reader, and the [grammar of reading](grammar/grammar-of-reading.md) with its dotted underlines. It is off by default — most people learn one language at a time.
+- **Emails** — the daily review email, on or off. See [Navigation](dashboard.md#the-daily-review-email).
+- **Sign-in methods** — whether your account is linked to Sign in with Apple, with **Connect** and **Disconnect**. See [Your account](account.md#signing-in).
 - **Password** — changing it asks for your current password. Your email address is set at sign-up and cannot be changed in the app; use the contact form if you need it changed.
 - **Your data** — **Download your personal data** emails you a link to everything we hold about you: your
   decks and cards, your documents and the files you uploaded to make them, your writing, your chats with the

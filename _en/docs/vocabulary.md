@@ -12,8 +12,9 @@ Your Vocabulary is the list of words and sentences you have looked up while stud
 
 - **Tapping a word or sentence.** Anywhere Immersive shows tappable text (the reader, example sentences on verb pages, grammar notes and exercises, comparisons), tapping a word or sentence to see its translation records it.
 - **Saving it.** **Save to vocabulary** in a word's **More** panel records it and marks it as saved.
+- **Reviewing it.** A word or sentence card reviewed in a deck counts too: **Again** or **Hard** as a miss, **Good** or **Easy** as a review.
 
-Each entry remembers how often you have seen it, so the list doubles as a record of what you keep looking up.
+Each entry remembers how often you have seen, missed, and reviewed it, so the list doubles as a record of what you keep looking up.
 
 ## Browsing your list
 
