@@ -58,8 +58,14 @@ These are copies of the theme's includes with marked edits. When bumping
 The guide documents the shipped app, so it goes stale silently. The rule:
 **whenever a documented feature changes in the immersive repo, the same
 change set includes (or is paired with) a user-docs PR**. Audits are the
-backstop, not the mechanism. Treat any EN change without the five locale
-edits as incomplete.
+backstop, not the mechanism.
+
+**English first, then review, then the other editions** (Sean, 2026-10-10).
+A change lands as an English-only PR that Sean reviews; once it is merged,
+the five other editions follow in their own PRs, one pass over the same
+edits. The other editions lag the English between those two steps, and that
+is expected. The guide is not detailed: a feature gets the sentence a
+learner needs, not every control.
 
 ## Conventions
 
