@@ -7,7 +7,7 @@ nav_order: 3
 
 # Books
 
-A book is a long text in chapters: a novel, a collection of stories, a textbook. You read it one chapter at a time, in the same reader as any document, with the same tap-to-translate, aids, and **Read to me**. Immersive keeps your place, so you open the book where you left it.
+A book is a longer text in chapters: a novel, a collection of stories, a textbook. You read it one chapter at a time, in the same reader as any document, with the same tap-to-translate, aids, and **Read to me**. Immersive keeps your place, so you open the book where you left it.
 
 Books come first on the **Documents** page, above your documents and the **Library**. A book's chapters are not listed among your documents: you reach them through the book. A book is private: only you see it.
 
