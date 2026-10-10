@@ -1,6 +1,6 @@
 ---
 title: Books
-description: Add a book from a file or a Project Gutenberg link, read it chapter by chapter, pick up where you left off, and fix its contents.
+description: Add a book from a file or a Project Gutenberg link, read it chapter by chapter, pick up where you left off, and edit its contents.
 parent: Documents
 nav_order: 3
 ---
