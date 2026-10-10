@@ -18,6 +18,8 @@ El lector es basa en un principi: reeixir vol dir entendre el text, no traduir c
 
 No tens cap text a mà? Obre la **Biblioteca** per trobar textos amb un nivell i un recompte de paraules coneguts.
 
+Per a un llibre sencer, llegit per capítols, fes servir **Afegeix un llibre**: vegeu [Llibres](books.md).
+
 ## Llegir
 
 Obre un document per llegir-lo. Sota el títol en veus la traducció en la teva llengua.
