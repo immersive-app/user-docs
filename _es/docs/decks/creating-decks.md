@@ -19,7 +19,7 @@ Construir un mazo lleva dos pasos: crear el mazo y luego añadirle tarjetas. Un 
 
 ## Añadir tarjetas
 
-El espacio de trabajo del mazo tiene cuatro tipos de tarjeta (**Palabra**, **Frase**, **Verbo**, **Número**) y otras dos fuentes: **Subir hoja de cálculo** y **De marcadores**.
+El espacio de trabajo del mazo tiene cinco tipos de tarjeta (**Palabra**, **Frase**, **Verbo**, **Número**, **Gramática**) y otras dos fuentes: **Subir hoja de cálculo** y **De marcadores**.
 
 ### Palabras
 
@@ -38,7 +38,11 @@ Introduce las frases, una por línea, y elige **Añadir tarjetas**. Las traducci
 
 ### Números
 
-Introduce números separados por comas, sin espacios, por ejemplo `17,70,71,80`, y elige **Añadir tarjetas**. Cada número se convierte en una tarjeta que lees, escribes, oyes o dices con letras.
+Introduce números separados por comas, por ejemplo `17, 70, 71, 80`, y elige **Añadir tarjetas**. Cada número se convierte en una tarjeta que lees, escribes, oyes o dices con letras.
+
+### Gramática
+
+Elige un nivel (el tuyo va primero) y luego marca **Todo el A2**, áreas enteras o notas sueltas; cada una muestra cuántas tarjetas crea, y las notas que ya están en el mazo aparecen marcadas. Elige **Crear tarjetas**. Las tarjetas son los ejercicios de las notas, o sus frases de ejemplo con el punto gramatical en blanco.
 
 ## Desde una hoja de cálculo
 

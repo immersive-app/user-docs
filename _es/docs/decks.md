@@ -12,12 +12,13 @@ Los mazos son donde ocurre la memorización en Immersive. Un mazo es una colecci
 
 ## Qué contiene un mazo
 
-Puedes añadir tú mismo cuatro tipos de tarjetas:
+Puedes añadir tú mismo cinco tipos de tarjetas:
 
 - **Tarjetas de palabra**: una palabra, su traducción y, opcionalmente, una frase de ejemplo.
 - **Tarjetas de frase**: una frase completa con su traducción.
 - **Tarjetas de verbo**: los verbos y tiempos que elijas, ya sea una tarjeta por persona o toda la tabla del tiempo en cada tarjeta.
 - **Tarjetas de número**: números escritos con letras en el idioma que aprendes.
+- **Tarjetas de gramática**: tarjetas de práctica hechas a partir de las notas de gramática que elijas, por nivel, área o nota.
 
 Las tarjetas vienen de muchos sitios: escritas a mano, importadas de una hoja de cálculo, añadidas desde las palabras que guardaste en tu [Vocabulario](vocabulary.md), copiadas con un mazo de la Biblioteca o un mazo público, o añadidas desde el lector y desde las páginas de verbos con **Añadir a un mazo**.
 
@@ -45,7 +46,7 @@ Al abrir **Mazos** verás:
 
 Si también usas Anki:
 
-- **Exportar a Anki**, en uno de tus mazos, prepara un archivo de Anki (.apkg) y te lo envía por correo. Para exportar un mazo de la Biblioteca, cópialo antes a Mis mazos.
+- **Exportar a Anki**, en un mazo, tuyo o de la Biblioteca, prepara un archivo de Anki (.apkg) y te lo envía por correo. El archivo contiene las tarjetas de verbo del mazo; un mazo sin ninguna no tiene botón de exportación.
 - La página **Anki** (enlazada en el pie de las páginas públicas de Immersive) ofrece mazos de Anki listos para descargar. Con la sesión iniciada, descargas directamente. Sin cuenta, introduces tu dirección de correo para descargar; Immersive te envía entonces también su curso gratuito del Método Puente por correo, cinco lecciones breves, del que puedes darte de baja en cualquier momento.
 
 ## En esta sección

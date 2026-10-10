@@ -13,8 +13,9 @@ Tu Vocabulario es la lista de palabras y frases que has consultado mientras estu
 
 - **Tocar una palabra o frase.** Dondequiera que Immersive muestra texto que se puede tocar (el lector, las frases de ejemplo de las páginas de verbos, las notas de gramática y sus ejercicios, las comparaciones), tocar una palabra o frase para ver su traducción la registra.
 - **Guardarla.** **Guardar en el vocabulario**, en el panel **Más** de una palabra, la registra y la marca como guardada.
+- **Repasarla.** Una tarjeta de palabra o de frase repasada en un mazo también cuenta: **Otra vez** o **Difícil** como fallo, **Bien** o **Fácil** como repaso.
 
-Cada entrada recuerda cuántas veces la has visto, así que la lista sirve también como registro de lo que consultas una y otra vez.
+Cada entrada recuerda cuántas veces la has visto, fallado y repasado, así que la lista sirve también como registro de lo que consultas una y otra vez.
 
 ## Explorar tu lista
 

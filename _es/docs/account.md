@@ -13,6 +13,8 @@ Cómo crear una cuenta se explica en [Primeros pasos](../index.md#crear-una-cuen
 
 **Acceder** te pide tu correo electrónico y tu contraseña. **Recordarme** mantiene la sesión iniciada en ese dispositivo.
 
+**Continuar con Apple**, en las páginas de inicio de sesión y de registro, inicia la sesión con tu Apple ID en su lugar. Una cuenta creada así no tiene contraseña que escribir, y una cuenta existente con el mismo correo se vincula en lugar de duplicarse. **Perfil → Cuenta → Métodos de acceso** muestra si tu cuenta está vinculada a Apple, y te permite vincularla o desvincularla.
+
 Para cerrar sesión: abre tu foto de perfil en la barra de navegación y elige **Cerrar sesión**.
 
 ## Problemas de acceso
@@ -34,7 +36,7 @@ Con la sesión iniciada, **Invitar a un amigo**, en el pie de las páginas públ
 ## Correos de Immersive
 
 - **Correos de la cuenta**: confirmar tu dirección, restablecer tu contraseña, desbloquear tu cuenta.
-- **El correo diario de repaso**, cuando tus mazos tienen tarjetas esperando. Ver [Navegación](dashboard.md#el-correo-diario-de-repaso).
+- **El correo diario de repaso**, cuando tus mazos tienen tarjetas esperando; desactívalo o actívalo en **Perfil → Cuenta → Correos**. Ver [Navegación](dashboard.md#el-correo-diario-de-repaso).
 - **Las exportaciones a Anki** que pidas, con el archivo del mazo adjunto. Ver [Gestionar mazos](decks/managing-decks.md#exportar-a-anki).
 - **Tus datos personales**, cuando los pidas (abajo).
 

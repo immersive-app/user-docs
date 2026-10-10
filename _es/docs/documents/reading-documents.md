@@ -66,9 +66,8 @@ Cuando revelas una palabra deducible, Immersive crea una tarjeta de repaso a par
 
 ## Controles de lectura
 
-El botón de los controles deslizantes abre los controles de lectura:
+Dos botones redondos están en la parte inferior derecha del lector (apilados en un teléfono): el botón de chat abre el [Coach](../coach.md) con el documento a la vista, y el botón de los controles deslizantes abre los controles de lectura:
 
-- **Preguntar sobre este texto** abre el [Coach](../coach.md) con el documento a la vista.
 - **Vista**: **Palabras** o **Frases**.
 - **Interlineado** (1, 1.5 o 2) y **Sangría** (desactivada o activada).
 - **Voz de lectura**: **Voz automática** o una voz con nombre, que se muestra cuando hay voces disponibles para el idioma.

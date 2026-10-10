@@ -12,7 +12,9 @@ Leer una nota una vez no basta para que un punto gramatical se quede. **Practica
 
 ## Practicar una nota
 
-En una nota de gramática, **Practicar** (con cuántas tarjetas hay pendientes, nuevas o en espera) crea las tarjetas de la nota, si aún no tienes ninguna, y empieza un repaso de esa nota. Las tarjetas van a un mazo llamado **Práctica de gramática** para el idioma, que también ves en Mis mazos.
+En una nota de gramática, **Practicar** (con cuántas tarjetas hay pendientes, nuevas o en espera) crea las tarjetas de la nota, si aún no tienes ninguna, y empieza un repaso de esa nota. Las tarjetas van a un mazo llamado **Práctica de gramática** para el idioma, que también ves en Mis mazos. El menú de al lado, **A un mazo**, añade en cambio las tarjetas de la nota a uno de tus propios mazos, a través de la pestaña **Gramática** del mazo (ver [Crear mazos](../decks/creating-decks.md#gramática)). Una nota sin ejercicios se practica a partir de sus propias frases de ejemplo, así que todas las notas se pueden practicar.
+
+Una página de nivel o de área ofrece **Practicar todo**, con el número de tarjetas, para todas sus notas.
 
 ## Repasar gramática
 
