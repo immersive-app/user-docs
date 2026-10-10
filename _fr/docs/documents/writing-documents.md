@@ -16,7 +16,7 @@ lang: fr
 2. Écrivez. La barre d'outils propose le gras, l'italique, les titres, les listes et les citations, plus l'alinéa, l'interligne et l'impression, et affiche un compteur de mots en continu.
 3. **Enregistrer** quand vous voulez. Un document enregistré se lit comme n'importe quel autre, avec traductions, audio et aides à la lecture.
 
-**Sujet**, **Coach**, **Historique**, **Corriger** et l'assistant apparaissent une fois le document enregistré pour la première fois. Le menu des fichiers en haut liste les autres documents du même dossier, pour passer de l'un à l'autre.
+**Sujet**, **Coach**, **Historique**, **Corriger** et l'assistant apparaissent une fois le document enregistré pour la première fois. Le menu des fichiers en haut liste les autres documents du même dossier, pour passer de l'un à l'autre. Deux boutons ronds se trouvent en bas à droite, comme dans le lecteur : le bouton de chat ouvre le [Coach](../coach.md) avec le document sous les yeux, et le bouton à curseurs ouvre l'assistant d'écriture.
 
 ## Sujets
 
@@ -44,7 +44,7 @@ Les corrections passées restent disponibles : le bouton de fermeture d'une page
 
 ## L'assistant d'écriture
 
-À côté de l'éditeur (un panneau sur ordinateur, un volet sur téléphone) se trouve l'**Assistant**, avec trois onglets :
+Le bouton à curseurs ouvre l'**Assistant** : un panneau à côté de l'éditeur sur ordinateur, un volet sur téléphone. Il reste à l'écart tant que vous ne l'ouvrez pas, et Immersive se souvient si vous le gardez ouvert. Il a trois onglets :
 
 - **Corrections** montre votre niveau d'écriture (« Niveau d'écriture ≈ B1 »), jusqu'à trois de vos dernières corrections, **Ouvrir le rapport complet** et le bouton **Corriger**. Il contient aussi **Niveau supérieur** (plus bas).
 - **Réécrire** travaille sur une sélection : sélectionnez un passage (jusqu'à 4 000 caractères) et choisissez **Proposer une réécriture**. Immersive le réécrit un niveau au-dessus de votre niveau d'écriture, avec le même sens. La proposition apparaît sous le paragraphe ; **Remplacer** l'adopte, **Ignorer** laisse votre texte tel quel.

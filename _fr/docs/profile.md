@@ -19,7 +19,7 @@ Votre Profil est le centre de commande de tout ce qui vous concerne en tant qu'a
 
 **À suivre.** Ce qui attend réellement : les cartes à réviser, les cartes de grammaire à revoir, les mots de la semaine pas encore dans un paquet. Quand rien n'attend, c'est dit clairement.
 
-**Langues.** Les langues que vous connaissez et celle que vous apprenez, sur lesquelles s'appuient les comparaisons et les indices, avec **Modifier** pour les changer.
+**Langues.** La langue que vous apprenez d'abord, avec son niveau (**Niveau non défini** tant que vous n'en choisissez pas un), puis les langues que vous parlez, avec **Modifier** pour les changer. Les comparaisons et les indices s'appuient dessus.
 
 Tant que vous n'avez ni cartes, ni documents, ni vocabulaire, l'onglet affiche à la place **Premiers pas** : votre niveau de départ indiqué à l'inscription et jusqu'à trois actions concrètes — ouvrir votre premier paquet, lire quelque chose à votre niveau et lire votre première note de grammaire.
 
@@ -64,7 +64,9 @@ Tout l'administratif se trouve ici :
 
 - **Compte** — prénom, nom de famille et genre. Votre adresse e-mail est affichée ici.
 - **Profil** — localisation et photo de profil.
-- **Langues** — la même grille qu'à l'inscription : ce que vous parlez, ce que vous apprenez, votre niveau et votre langue d'affichage. Modifiable à tout moment. Sous la grille, **Utiliser les langues que je connais pour expliquer celle que j'apprends** active les comparaisons entre langues : l'encadré *Dans vos langues* des notes de grammaire, les équivalents dans les six langues du lecteur, et la [grammaire de la lecture](grammar/grammar-of-reading.md) avec ses soulignements pointillés. Désactivé par défaut : la plupart apprennent une langue à la fois.
+- **Langues** — une tuile pour chacune des six langues avec votre niveau ; touchez-en une pour dire si vous la parlez ou l'apprenez, et à quel niveau. Sous la grille, **Langue d'apprentissage** et **Langue d'affichage** sont la paire que montre la barre de navigation, et un interrupteur masque ce bouton si vous préférez. **Utiliser les langues que je connais pour expliquer celle que j'apprends** active les comparaisons entre langues : l'encadré *Dans vos langues* des notes de grammaire et des formes verbales, les équivalents dans les six langues du lecteur, et la [grammaire de la lecture](grammar/grammar-of-reading.md) avec ses soulignements pointillés. Désactivé par défaut : la plupart apprennent une langue à la fois.
+- **E-mails** — l'e-mail quotidien de révision, activé ou non. Voir [Navigation](dashboard.md#le-mail-quotidien-de-révision).
+- **Méthodes de connexion** — si votre compte est associé à Apple (Se connecter avec Apple), avec **Associer Apple** et **Dissocier Apple**. Voir [Votre compte](account.md#se-connecter).
 - **Mot de passe** — le modifier demande votre mot de passe actuel. Votre adresse e-mail est fixée à l'inscription et ne peut pas être changée dans l'application ; utilisez le formulaire de contact si vous devez la changer.
 - **Vos données** — **Télécharger vos données personnelles** vous envoie par e-mail un lien vers tout ce que
   nous avons sur vous : vos paquets et vos cartes, vos documents et les fichiers que vous avez importés pour

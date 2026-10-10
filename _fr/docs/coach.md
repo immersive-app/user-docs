@@ -18,7 +18,7 @@ Les pages qui ont la barre de navigation ont un bouton du coach en bas de l'écr
 - **Demander à propos de cette note**, ou **Demander à propos de cet exercice** sur un exercice : sur une note de grammaire. Sélectionner un passage d'une note propose de poser une question sur ce seul passage.
 - **Demander à propos de ce verbe** : sur une page de verbe ou une page de forme.
 - **Demander à propos de cette comparaison** : sur une comparaison de la grammaire de la lecture.
-- **Demander à propos de ce texte** : dans le lecteur (aussi dans les réglages de lecture), et sur une page de correction.
+- **Demander à propos de ce texte** : le bouton de chat en bas à droite du lecteur et de l'éditeur, et sur une page de correction.
 - **Poser une question** : dans le panneau **Plus** d'un mot ou d'une phrase, dans le lecteur.
 - **Demander à propos de cette correction** : sur chaque correction de votre écrit.
 
@@ -29,6 +29,7 @@ Tapez votre question et appuyez sur Entrée (Maj+Entrée passe à la ligne). La 
 - Dans votre langue d'affichage, sauf si vous lui écrivez dans la langue que vous apprenez.
 - Brièvement, et à propos de la langue : il signale quand une langue que vous connaissez fonctionne de la même façon, et il décline les questions qui n'ont rien à voir avec l'apprentissage des langues.
 - Chaque fois que vous ouvrez le coach, il commence un nouveau chat.
+- Un message à la fois : pendant que la réponse s'écrit, le champ de message attend qu'elle se termine.
 
 Si vous envoyez beaucoup de messages d'affilée, le coach vous demande de patienter une minute (« Trop de messages d'affilée »). S'il ne peut pas répondre, votre message est conservé et **Réessayer** le renvoie.
 

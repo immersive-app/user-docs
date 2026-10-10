@@ -19,7 +19,7 @@ Construire un paquet se fait en deux étapes : créer le paquet, puis y ajouter 
 
 ## Ajouter des cartes
 
-L'espace de travail du paquet propose quatre types de cartes (**Mot**, **Phrase**, **Verbe**, **Nombre**) et deux autres sources : **Importer un tableur** et **Depuis les signets**.
+L'espace de travail du paquet propose cinq types de cartes (**Mot**, **Phrase**, **Verbe**, **Nombre**, **Grammaire**) et deux autres sources : **Importer un tableur** et **Depuis les signets**.
 
 ### Mots
 
@@ -38,7 +38,11 @@ Saisissez les phrases, une par ligne, et choisissez **Ajouter les cartes**. Les 
 
 ### Nombres
 
-Saisissez des nombres séparés par des virgules, sans espaces, par exemple `17,70,71,80`, et choisissez **Ajouter les cartes**. Chaque nombre devient une carte que vous lirez, écrirez, écouterez ou direz en toutes lettres.
+Saisissez des nombres séparés par des virgules, par exemple `17, 70, 71, 80`, et choisissez **Ajouter les cartes**. Chaque nombre devient une carte que vous lirez, écrirez, écouterez ou direz en toutes lettres.
+
+### Grammaire
+
+Choisissez un niveau (le vôtre vient en premier), puis cochez **Tout le A2**, des domaines entiers ou des notes seules ; chacun indique combien de cartes il produit, et les notes déjà dans le paquet sont marquées. Choisissez **Créer les cartes**. Les cartes sont les exercices des notes, ou leurs phrases d'exemple avec le point de grammaire masqué.
 
 ## Depuis un tableur
 

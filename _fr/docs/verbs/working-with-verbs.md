@@ -47,7 +47,7 @@ Chaque forme du tableau est un lien. Ouvrez-en une pour accéder à sa propre pa
 
 ## À travers vos langues
 
-Une fois connecté, la page d'une forme montre **À travers vos langues** : le même temps et la même personne alignés dans la langue que vous apprenez et les autres langues que vous connaissez, ordonnés pour que les colonnes voisines soient les plus proches. Voir *falo – hablo – parlo – parle* sur une même ligne suffit souvent pour qu'une forme reste en mémoire. La comparaison apparaît quand au moins une de vos langues enregistrées (votre langue d'affichage compte) a la forme correspondante.
+Avec les comparaisons activées (**Profil → Compte → Langues**), la page d'une forme montre **À travers vos langues** : le même temps et la même personne alignés dans la langue que vous apprenez et les autres langues que vous connaissez, ordonnés pour que les colonnes voisines soient les plus proches. Voir *falo – hablo – parlo – parle* sur une même ligne suffit souvent pour qu'une forme reste en mémoire. La comparaison apparaît quand au moins une de vos langues enregistrées (votre langue d'affichage compte) a la forme correspondante.
 
 **Ajouter une carte de comparaison** en fait une carte de révision dans un paquet appelé **Comparaisons pont** pour la langue, programmée comme n'importe quelle autre carte.
 

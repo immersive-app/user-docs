@@ -92,6 +92,8 @@ Tout est gratuit pendant la bêta.
 3. Ouvrez l'e-mail de confirmation et suivez son lien. Vous ne pouvez pas vous connecter tant que l'adresse n'est pas confirmée.
 4. À votre première connexion, Immersive affiche de nouveau la grille de langues, remplie, pour que vous la vérifiiez. Appuyez sur **Confirmer** et vous arrivez sur **Profil → Progression**, avec des premiers pas à essayer.
 
+Ou choisissez **Continuer avec Apple** sur la page d'inscription : votre identifiant Apple crée le compte, déjà confirmé, et vous arrivez directement sur la grille de langues. Voir [Votre compte](docs/account.md#se-connecter).
+
 Un ami qui utilise déjà Immersive peut aussi vous inviter par e-mail ; voir [Votre compte](docs/account.md#invitations).
 
 Vos choix de langues comptent : Immersive utilise les langues que vous connaissez pour les comparaisons et les indices dans toute l'application. Vous pouvez les modifier à tout moment dans [Profil → Compte](docs/profile.md#compte).

@@ -12,7 +12,9 @@ Lire une note une fois ne suffit pas à fixer un point de grammaire. **S'entraî
 
 ## S'entraîner sur une note
 
-Sur une note de grammaire, **S'entraîner** (avec le nombre de cartes à revoir, nouvelles ou en attente) crée les cartes de la note, si vous n'en avez pas encore, et lance une révision de cette note. Les cartes vont dans un paquet appelé **Pratique de grammaire** pour la langue, que vous voyez aussi dans Mes paquets.
+Sur une note de grammaire, **S'entraîner** (avec le nombre de cartes à revoir, nouvelles ou en attente) crée les cartes de la note, si vous n'en avez pas encore, et lance une révision de cette note. Les cartes vont dans un paquet appelé **Pratique de grammaire** pour la langue, que vous voyez aussi dans Mes paquets. Le menu à côté, **Au paquet**, ajoute plutôt les cartes de la note à l'un de vos propres paquets, via l'onglet **Grammaire** du paquet (voir [Créer des paquets](../decks/creating-decks.md#grammaire)). Une note sans exercices se pratique à partir de ses propres phrases d'exemple, si bien que toute note peut être pratiquée.
+
+La page d'un niveau ou d'un domaine propose **Tout pratiquer**, avec le nombre de cartes, pour chacune de ses notes.
 
 ## Réviser la grammaire
 

@@ -13,6 +13,8 @@ La création d'un compte est traitée dans [Bien démarrer](../index.md#créer-u
 
 **S'identifier** demande votre e-mail et votre mot de passe. **Se souvenir de moi ?** vous garde connecté sur cet appareil.
 
+**Continuer avec Apple**, sur les pages de connexion et d'inscription, vous connecte avec votre identifiant Apple à la place. Un compte créé ainsi n'a pas de mot de passe à saisir, et un compte existant avec le même e-mail est associé plutôt que dupliqué. **Profil → Compte → Méthodes de connexion** indique si votre compte est associé à Apple, et permet de l'associer ou de le dissocier.
+
 Pour vous déconnecter : ouvrez votre photo de profil dans la barre de navigation et choisissez **Se déconnecter**.
 
 ## Connexion impossible
@@ -34,7 +36,7 @@ Une fois connecté, **Inviter un ami**, dans le pied de page des pages publiques
 ## E-mails d'Immersive
 
 - **Les e-mails du compte** : confirmer votre adresse, réinitialiser votre mot de passe, débloquer votre compte.
-- **L'e-mail quotidien de révision**, quand vos paquets ont des cartes en attente. Voir [Navigation](dashboard.md#le-mail-quotidien-de-révision).
+- **L'e-mail quotidien de révision**, quand vos paquets ont des cartes en attente ; désactivez-le ou réactivez-le dans **Profil → Compte → E-mails**. Voir [Navigation](dashboard.md#le-mail-quotidien-de-révision).
 - **Les exports Anki** que vous demandez, avec le fichier du paquet en pièce jointe. Voir [Gérer les paquets](decks/managing-decks.md#exporter-vers-anki).
 - **Vos données personnelles**, quand vous les demandez (plus bas).
 

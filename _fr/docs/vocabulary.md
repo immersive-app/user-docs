@@ -13,8 +13,9 @@ Votre Vocabulaire est la liste des mots et des phrases que vous avez consultés 
 
 - **Toucher un mot ou une phrase.** Partout où Immersive affiche du texte à toucher (le lecteur, les phrases d'exemple des pages de verbe, les notes de grammaire et leurs exercices, les comparaisons), toucher un mot ou une phrase pour voir sa traduction l'enregistre.
 - **L'enregistrer.** **Enregistrer dans le vocabulaire**, dans le panneau **Plus** d'un mot, l'ajoute et le marque comme enregistré.
+- **Le réviser.** Une carte de mot ou de phrase révisée dans un paquet compte aussi : **Encore** ou **Difficile** comme manqué, **Bien** ou **Facile** comme révisé.
 
-Chaque entrée retient combien de fois vous l'avez vue, si bien que la liste sert aussi de registre de ce que vous consultez sans cesse.
+Chaque entrée retient combien de fois vous l'avez vue, manquée et révisée, si bien que la liste sert aussi de registre de ce que vous consultez sans cesse.
 
 ## Parcourir votre liste
 

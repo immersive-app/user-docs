@@ -55,7 +55,7 @@ Quand la file est terminée, vous voyez **Session terminée** : les cartes révi
 
 ## Limites quotidiennes
 
-Chaque paquet introduit au maximum 20 nouvelles cartes par jour. Les révisions des cartes déjà commencées ne sont pas limitées. Quand le paquet atteint sa limite de nouvelles cartes pour la journée, la session se termine par un message, et les nouvelles cartes restantes attendent demain. La limite ne peut pas être modifiée.
+Chaque paquet introduit au maximum 20 nouvelles cartes par jour. Les révisions des cartes déjà commencées ne sont pas limitées. Quand le paquet atteint sa limite de nouvelles cartes pour la journée, la session le signale et continue avec les cartes à revoir ; les nouvelles cartes restantes attendent demain. La limite ne peut pas être modifiée.
 
 ## Historique des révisions
 
