@@ -49,3 +49,4 @@ Los documentos conservan un **historial de cambios**: la versión anterior se gu
 
 - [Leer documentos](documents/reading-documents.md): traer textos y usar el lector.
 - [Escribir documentos](documents/writing-documents.md): el editor, las correcciones y el asistente de escritura.
+- [Libros](documents/books.md): añadir un libro y leerlo capítulo a capítulo.
