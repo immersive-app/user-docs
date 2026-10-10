@@ -50,11 +50,11 @@ L'icona del segnalibro su un mazzo (nell'elenco, o nella pagina del mazzo) lo co
 
 ## Modificare un mazzo
 
-Apri un mazzo e scegli la matita per aprire il suo spazio di lavoro. **Modifica mazzo** apre le impostazioni: rinominalo in una delle due lingue, cambiane la cartella o sistemane le etichette, poi scegli **Aggiorna mazzo**. L'elenco delle carte sotto ti permette di modificare o eliminare singole carte e di aggiungere esempi.
+Apri un mazzo e scegli la matita per aprire il suo spazio di lavoro. **Modifica mazzo** apre le impostazioni: rinominalo in una delle due lingue, cambiane la cartella o sistemane le etichette, poi scegli **Aggiorna mazzo**. L'elenco delle carte sotto ti permette di modificare o eliminare singole carte e di aggiungere esempi; mostra 25 carte alla volta, e **Mostra altre** elenca le restanti.
 
 ## Esportare in Anki
 
-**Esporta in Anki** su uno dei tuoi mazzi prepara un file Anki in background e te lo invia per email quando è pronto. Per esportare un mazzo della Biblioteca o pubblico, copialo prima in I miei mazzi.
+**Esporta in Anki** su un mazzo, tuo, della Biblioteca o pubblico, prepara un file Anki in background e te lo invia per email quando è pronto. Il file contiene le carte verbo del mazzo (una per persona, o intere tabelle di un tempo); un mazzo che non ne contiene non ha il pulsante di esportazione.
 
 ## Eliminare un mazzo
 

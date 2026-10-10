@@ -13,6 +13,8 @@ La creazione di un account è spiegata in [Per iniziare](../index.md#creare-un-a
 
 **Accedi** chiede la tua email e la tua password. **Ricordami** ti mantiene connesso su quel dispositivo.
 
+**Continua con Apple**, nelle pagine di accesso e di registrazione, ti fa accedere invece con il tuo ID Apple. Un account creato così non ha una password da digitare, e un account esistente con la stessa email viene collegato anziché duplicato. **Profilo → Account → Metodi di accesso** mostra se il tuo account è collegato ad Apple, e ti permette di collegarlo o scollegarlo.
+
 Per uscire: apri la tua immagine del profilo nella barra di navigazione e scegli **Esci**.
 
 ## Non riesci ad accedere?
@@ -34,7 +36,7 @@ Dopo aver effettuato l'accesso, **Invita un amico** nel piè di pagina delle pag
 ## Email da Immersive
 
 - **Email dell'account**: conferma dell'indirizzo, reimpostazione della password, sblocco dell'account.
-- **L'email quotidiana di ripasso**, quando i tuoi mazzi hanno carte in attesa. Vedi [Navigazione](dashboard.md#lemail-quotidiana-di-ripasso).
+- **L'email quotidiana di ripasso**, quando i tuoi mazzi hanno carte in attesa; disattivala o riattivala in **Profilo → Account → Email**. Vedi [Navigazione](dashboard.md#lemail-quotidiana-di-ripasso).
 - **Le esportazioni Anki** che richiedi, con il file del mazzo allegato. Vedi [Gestire i mazzi](decks/managing-decks.md#esportare-in-anki).
 - **I tuoi dati personali**, quando li richiedi (vedi sotto).
 

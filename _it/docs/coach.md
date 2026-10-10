@@ -18,7 +18,7 @@ Le pagine con la barra di navigazione hanno un pulsante del coach in fondo allo 
 - **Chiedi di questa nota**, oppure **Chiedi di questo esercizio** su un esercizio: in una nota di grammatica. Selezionando un passaggio di una nota puoi chiedere solo di quel passaggio.
 - **Chiedi di questo verbo**: nella pagina di un verbo o di una forma.
 - **Chiedi di questo confronto**: in un confronto della grammatica della lettura.
-- **Chiedi di questo testo**: nel lettore (anche nelle impostazioni di lettura) e nella pagina di una correzione.
+- **Chiedi di questo testo**: il pulsante della chat in basso a destra nel lettore e nell'editor, e nella pagina di una correzione.
 - **Chiedi di questo**: nel pannello **Altro** di una parola o di una frase, nel lettore.
 - **Chiedi di questa correzione**: su ogni correzione della tua scrittura.
 
@@ -29,6 +29,7 @@ Scrivi la tua domanda e premi Invio (Maiusc+Invio va a capo). La risposta compar
 - Nella tua lingua dell'interfaccia, a meno che tu non gli scriva nella lingua che stai imparando.
 - In breve, e sulla lingua: ti segnala dove una lingua che conosci funziona allo stesso modo, e declina le domande che non hanno niente a che fare con l'apprendimento delle lingue.
 - Ogni volta che apri il coach, inizia una nuova chat.
+- Un messaggio alla volta: mentre la risposta viene scritta, la casella del messaggio aspetta che finisca.
 
 Se invii molti messaggi di fila, il coach ti chiede di aspettare un minuto («Troppi messaggi di fila»). Se non riesce a rispondere, il tuo messaggio viene conservato e **Riprova** lo invia di nuovo.
 

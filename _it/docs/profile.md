@@ -19,7 +19,7 @@ Il tuo Profilo è il centro di comando di tutto ciò che ti riguarda come studen
 
 **Prossimi passi.** Ciò che è davvero in attesa: carte da ripassare, carte di grammatica da ripassare, parole di questa settimana non ancora in un mazzo. Quando non c'è niente in attesa, lo dice.
 
-**Lingue.** Le lingue che conosci e quella che stai imparando, usate da confronti e suggerimenti, con **Modifica** per cambiarle.
+**Lingue.** Prima la lingua che stai imparando, con il suo livello (**Livello non impostato** finché non ne scegli uno), poi le lingue che parli, con **Modifica** per cambiarle. Confronti e suggerimenti usano queste.
 
 Finché non hai carte, documenti o vocabolario, la scheda mostra invece **Primi passi**: il tuo livello di partenza dalla registrazione e fino a tre azioni concrete — apri il tuo primo mazzo, leggi qualcosa al tuo livello e leggi la tua prima nota di grammatica.
 
@@ -64,7 +64,9 @@ Qui vive tutto ciò che è amministrativo:
 
 - **Account** — nome, cognome e genere. Qui è mostrato il tuo indirizzo email.
 - **Profilo** — località e immagine del profilo.
-- **Lingue** — la stessa griglia della registrazione: cosa parli, cosa stai imparando, il tuo livello e la lingua dell'interfaccia. Cambiala quando vuoi. Sotto la griglia, **Usa le lingue che conosco per spiegare quella che sto imparando** attiva i confronti tra lingue: il riquadro *Nelle tue lingue* nelle note grammaticali, gli equivalenti nelle sei lingue nel lettore e la [grammatica della lettura](grammar/grammar-of-reading.md) con le sue sottolineature punteggiate. È disattivato per impostazione predefinita — la maggior parte impara una lingua alla volta.
+- **Lingue** — un riquadro per ognuna delle sei lingue con il tuo livello; toccane uno per dire se la parli o la stai imparando, e a che livello. Sotto la griglia, **Lingua di apprendimento** e **Lingua di visualizzazione** sono la coppia mostrata dalla barra di navigazione, e un interruttore nasconde quel pulsante se preferisci. **Usa le lingue che conosco per spiegare quella che sto imparando** attiva i confronti tra lingue: il riquadro *Nelle tue lingue* nelle note grammaticali e nelle forme verbali, gli equivalenti nelle sei lingue nel lettore e la [grammatica della lettura](grammar/grammar-of-reading.md) con le sue sottolineature punteggiate. È disattivato per impostazione predefinita — la maggior parte impara una lingua alla volta.
+- **Email** — l'email quotidiana di ripasso, attiva o no. Vedi [Navigazione](dashboard.md#lemail-quotidiana-di-ripasso).
+- **Metodi di accesso** — se il tuo account è collegato ad Accedi con Apple, con **Collega** e **Scollega**. Vedi [Il tuo account](account.md#accedere).
 - **Password** — per cambiarla viene chiesta la password attuale. L'indirizzo email si imposta alla registrazione e non si può cambiare nell'app; usa il modulo di contatto se devi cambiarlo.
 - **I tuoi dati** — **Scarica i tuoi dati personali** ti invia per email un link a tutto ciò che abbiamo su di
   te: i tuoi mazzi e le tue carte, i tuoi documenti e i file che hai caricato per crearli, i tuoi testi, le tue

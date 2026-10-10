@@ -16,7 +16,7 @@ Una volta effettuato l'accesso, apri **Grammatica** dalla barra di navigazione.
 
 - **A che punto sei**: «Inizia da A2» finché non cominci, poi «Stai lavorando su B1», con un pulsante per **Ripassa** le carte di grammatica da ripassare o **Esercitati** su quelle nuove. Vedi [Pratica di grammatica](grammar/grammar-practice.md).
 - **Consigliato** (o **Inizia qui** all'inizio): un breve elenco di note da leggere, esercitare o ripassare, ciascuna con il motivo: **Da ripassare**, **Prossimo**, **Pronto** o **Debole**.
-- **Per livello**: da A1 a C1, ciascuno con la tua padronanza, il numero di note e quante carte sono da ripassare. Apri un livello per vederne le aree («Verbi, tempi e coniugazione», «Pronomi»...), e un'area per vederne le note.
+- **Per livello**: da A1 a C1, ciascuno con la tua padronanza, il numero di note e quante carte sono da ripassare. Apri un livello per vederne le aree («Verbi, tempi e coniugazione», «Pronomi»...), e un'area per vederne le note. Una pagina di livello o di area offre **Pratica tutto**, che crea le carte per ogni nota che contiene.
 - La **ricerca** in alto trova le note per parola chiave; il pulsante del segnalibro mostra solo le note che hai salvato tra i segnalibri.
 
 ## Padronanza
@@ -28,7 +28,7 @@ Man mano che ti eserciti, ogni nota, area e livello riceve un grado di padronanz
 - Una spiegazione del punto, scritta per chi impara, con parole e frasi di esempio che puoi toccare per la traduzione e l'audio.
 - La nota è scritta nella lingua che stai imparando. Quando esiste una traduzione, **Leggi in** (la tua lingua) alla fine passa a quella.
 - Esercizi di vari tipi, verificati sul momento.
-- A che punto sei sulla nota, ed **Esercitati** per trasformarla in carte di ripasso.
+- A che punto sei sulla nota, ed **Esercitati** per trasformarla in carte di ripasso, o per aggiungerle a uno dei tuoi mazzi.
 
 Vedi [Leggere le note grammaticali](grammar/review-grammar.md).
 

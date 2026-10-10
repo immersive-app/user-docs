@@ -55,7 +55,7 @@ Quando la coda è finita vedi **Sessione completata**: le carte ripassate, quant
 
 ## Limiti giornalieri
 
-Ogni mazzo introduce al massimo 20 carte nuove al giorno. Non c'è limite ai ripassi delle carte che hai già iniziato. Quando il mazzo raggiunge il limite di carte nuove per la giornata, la sessione termina con un avviso, e le carte nuove rimanenti aspettano domani. Il limite non si può cambiare.
+Ogni mazzo introduce al massimo 20 carte nuove al giorno. Non c'è limite ai ripassi delle carte che hai già iniziato. Quando il mazzo raggiunge il limite di carte nuove per la giornata, la sessione lo dice e prosegue con le carte da ripassare; le carte nuove rimanenti aspettano domani. Il limite non si può cambiare.
 
 ## Cronologia dei ripassi
 

@@ -16,7 +16,7 @@ Scrivere è il momento in cui una lingua diventa tua. L'editor ti dà una pagina
 2. Scrivi. La barra degli strumenti offre grassetto, corsivo, titoli, elenchi e citazioni, più rientro dei paragrafi, interlinea e stampa, e mostra un conteggio delle parole in tempo reale.
 3. **Salva** quando vuoi. Un documento salvato può essere letto come qualsiasi altro, con traduzioni, audio e aiuti alla lettura.
 
-**Tema**, **Coach**, **Cronologia**, **Correggi** e l'assistente compaiono dopo il primo salvataggio del documento. Il menu dei file in alto elenca gli altri documenti della stessa cartella, così puoi passare dall'uno all'altro.
+**Tema**, **Coach**, **Cronologia**, **Correggi** e l'assistente compaiono dopo il primo salvataggio del documento. Il menu dei file in alto elenca gli altri documenti della stessa cartella, così puoi passare dall'uno all'altro. Due pulsanti rotondi stanno in basso a destra, come nel lettore: il pulsante della chat apre il [Coach](../coach.md) con il documento sotto gli occhi, e il pulsante dei cursori apre l'assistente di scrittura.
 
 ## Temi
 
@@ -44,7 +44,7 @@ Le correzioni passate restano disponibili: il pulsante di chiusura nella pagina 
 
 ## L'assistente di scrittura
 
-Accanto all'editor (un pannello su un computer, un foglio su un telefono) c'è l'**Assistente**, con tre schede:
+Il pulsante dei cursori apre l'**Assistente**: un pannello accanto all'editor su un computer, un foglio su un telefono. Resta in disparte finché non lo apri, e Immersive ricorda se lo tieni aperto. Ha tre schede:
 
 - **Modifiche** mostra il tuo livello di scrittura («Livello di scrittura ≈ B1»), fino a tre delle tue ultime correzioni, **Apri il rapporto completo** e il pulsante **Correggi**. Contiene anche **Sali di livello** (vedi sotto).
 - **Riscrivi** lavora su una selezione: seleziona un passaggio (fino a 4.000 caratteri) e scegli **Suggerisci riscrittura**. Immersive lo riscrive un livello sopra il tuo livello di scrittura, con lo stesso significato. Il suggerimento appare sotto il paragrafo; **Sostituisci** lo adotta, **Ignora** lascia il tuo testo com'è.

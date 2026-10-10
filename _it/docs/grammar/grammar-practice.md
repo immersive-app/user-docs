@@ -12,7 +12,9 @@ Leggere una nota una volta non basta perché un punto di grammatica resti. **Ese
 
 ## Esercitarsi su una nota
 
-In una nota di grammatica, **Esercitati** (con quante carte sono da ripassare, nuove o in attesa) crea le carte della nota, se non ne hai ancora, e avvia un ripasso di quella nota. Le carte finiscono in un mazzo chiamato **Pratica di grammatica** per la lingua, che vedi anche in I miei mazzi.
+In una nota di grammatica, **Esercitati** (con quante carte sono da ripassare, nuove o in attesa) crea le carte della nota, se non ne hai ancora, e avvia un ripasso di quella nota. Le carte finiscono in un mazzo chiamato **Pratica di grammatica** per la lingua, che vedi anche in I miei mazzi. Il menu accanto, **A un mazzo**, aggiunge invece le carte della nota a uno dei tuoi mazzi, attraverso la scheda **Grammatica** del mazzo (vedi [Creare mazzi](../decks/creating-decks.md#grammatica)). Una nota senza esercizi si esercita con le sue frasi di esempio, così ogni nota si può esercitare.
+
+Una pagina di livello o di area offre **Pratica tutto**, con il numero di carte, per ogni nota che contiene.
 
 ## Ripassare la grammatica
 

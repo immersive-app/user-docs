@@ -66,9 +66,8 @@ Quando riveli una parola intuibile, Immersive crea una carta di ripasso da quel 
 
 ## Impostazioni di lettura
 
-Il pulsante dei cursori apre le impostazioni di lettura:
+Due pulsanti rotondi stanno in basso a destra nel lettore (impilati su un telefono): il pulsante della chat apre il [Coach](../coach.md) con il documento sotto gli occhi, e il pulsante dei cursori apre le impostazioni di lettura:
 
-- **Chiedi di questo testo** apre il [Coach](../coach.md) con il documento sotto gli occhi.
 - **Vista**: **Parole** o **Frasi**.
 - **Interlinea** (1, 1,5 o 2) e **Rientro** (no o sì).
 - **Voce di lettura**: **Voce automatica** o una voce con un nome, mostrata quando per la lingua sono disponibili delle voci.
