@@ -12,7 +12,9 @@ Ler uma nota uma vez não chega para fixar um ponto de gramática. **Praticar** 
 
 ## Praticar uma nota
 
-Numa nota de gramática, **Praticar** (com quantos cartões estão para rever, são novos ou estão à espera) cria os cartões da nota, se ainda não tiver nenhum, e começa uma revisão dessa nota. Os cartões vão para um baralho chamado **Prática de gramática** da língua, que também vê em Meus Baralhos.
+Numa nota de gramática, **Praticar** (com quantos cartões estão para rever, são novos ou estão à espera) cria os cartões da nota, se ainda não tiver nenhum, e começa uma revisão dessa nota. Os cartões vão para um baralho chamado **Prática de gramática** da língua, que também vê em Meus Baralhos. O menu ao lado, **A um baralho**, adiciona antes os cartões da nota a um dos seus baralhos, através do separador **Gramática** do baralho (ver [Criar baralhos](../decks/creating-decks.md#gramática)). Uma nota sem exercícios pratica-se a partir das suas próprias frases de exemplo, por isso todas as notas podem ser praticadas.
+
+A página de um nível ou de uma área oferece **Praticar tudo**, com o número de cartões, para todas as notas que contém.
 
 ## Rever a gramática
 

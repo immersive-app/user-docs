@@ -55,7 +55,7 @@ Quando a fila termina, vê **Sessão concluída**: os cartões revistos, quantos
 
 ## Limites diários
 
-Cada baralho introduz no máximo 20 cartões novos por dia. Não há limite para as revisões de cartões que já começou. Quando o baralho atinge o limite de cartões novos do dia, a sessão termina com um aviso, e os restantes cartões novos esperam por amanhã. O limite não pode ser alterado.
+Cada baralho introduz no máximo 20 cartões novos por dia. Não há limite para as revisões de cartões que já começou. Quando o baralho atinge o limite de cartões novos do dia, a sessão di-lo e continua com os cartões pendentes; os restantes cartões novos esperam por amanhã. O limite não pode ser alterado.
 
 ## Histórico de revisões
 

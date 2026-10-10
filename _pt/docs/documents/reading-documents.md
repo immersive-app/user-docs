@@ -66,9 +66,8 @@ Quando revela uma palavra dedutível, o Immersive cria um cartão de revisão a 
 
 ## Ajustes de leitura
 
-O botão dos controlos deslizantes abre os ajustes de leitura:
+Dois botões redondos ficam no canto inferior direito do leitor (empilhados num telemóvel): o botão de conversa abre o [Coach](../coach.md) com o documento à vista, e o botão dos controlos deslizantes abre os ajustes de leitura:
 
-- **Perguntar sobre este texto** abre o [Coach](../coach.md) com o documento à vista.
 - **Visualização**: **Palavras** ou **Frases**.
 - **Entrelinha** (1, 1.5 ou 2) e **Recuo** (**Não** ou **Sim**).
 - **Voz de leitura**: **Voz automática** ou uma voz com nome, mostrada quando há vozes disponíveis para a língua.
