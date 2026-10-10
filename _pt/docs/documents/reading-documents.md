@@ -18,6 +18,8 @@ O leitor assenta num princípio: tem êxito quando compreende o texto, não quan
 
 Não tem nenhum texto seu à mão? Abra a **Biblioteca** para textos com nível e contagem de palavras conhecidos.
 
+Para um livro inteiro, lido por capítulos, use antes **Adicionar um livro**: ver [Livros](books.md).
+
 ## Ler
 
 Abra um documento para o ler. Por baixo do título vê a tradução na sua língua.
