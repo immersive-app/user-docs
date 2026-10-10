@@ -18,6 +18,8 @@ Le lecteur repose sur un principe : vous réussissez en comprenant le texte, pas
 
 Pas de texte sous la main ? Ouvrez la **Bibliothèque** pour des textes au niveau et au nombre de mots connus.
 
+Pour un livre entier, lu par chapitres, utilisez plutôt **Ajouter un livre** : voir [Livres](books.md).
+
 ## Lire
 
 Ouvrez un document pour le lire. Sous le titre, vous voyez sa traduction dans votre langue.
