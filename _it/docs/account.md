@@ -13,7 +13,7 @@ La creazione di un account è spiegata in [Per iniziare](../index.md#creare-un-a
 
 **Accedi** chiede la tua email e la tua password. **Ricordami** ti mantiene connesso su quel dispositivo.
 
-**Continua con Apple**, nelle pagine di accesso e di registrazione, ti fa accedere invece con il tuo ID Apple. Un account creato così non ha una password da digitare, e un account esistente con la stessa email viene collegato anziché duplicato. **Profilo → Account → Metodi di accesso** mostra se il tuo account è collegato ad Apple, e ti permette di collegarlo o scollegarlo.
+**Continua con Apple** e **Continua con Google**, nelle pagine di accesso e di registrazione e nella schermata di accesso dell'app iOS, ti fanno accedere invece con il tuo ID Apple o il tuo account Google. Un account creato così non ha una password da digitare, e un account esistente con la stessa email (verificata da Google, nel caso di Google) viene collegato anziché duplicato. **Profilo → Account → Metodi di accesso** mostra se il tuo account è collegato ad Apple o a Google, e ti permette di collegarlo o scollegarlo.
 
 Per uscire: apri la tua immagine del profilo nella barra di navigazione e scegli **Esci**.
 

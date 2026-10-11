@@ -66,7 +66,7 @@ Tudo o que é administrativo vive aqui:
 - **Perfil** — localização e foto de perfil.
 - **Idiomas** — um bloco para cada uma das seis línguas, com o seu nível; toque num para dizer se a fala ou a está a aprender, e a que nível. Por baixo da grelha, **Idioma de aprendizagem** e **Idioma de exibição** são o par que a barra de navegação mostra, e um interruptor esconde esse botão se preferir. **Usar as línguas que conheço para explicar a que estou a aprender** ativa as comparações entre línguas: a caixa *Nas suas línguas* das notas de gramática e das formas verbais, os equivalentes nas seis línguas do leitor e a [gramática da leitura](grammar/grammar-of-reading.md) com os seus sublinhados tracejados. Está desativado por defeito: a maioria aprende uma língua de cada vez.
 - **E-mails** — o e-mail diário de revisão, ativo ou não. Ver [Navegação](dashboard.md#o-e-mail-diário-de-revisão).
-- **Métodos de login** — se a sua conta está vinculada ao Iniciar sessão com a Apple, com **Vincular** e **Desvincular**. Ver [A sua conta](account.md#iniciar-sessão).
+- **Métodos de login** — se a sua conta está vinculada ao Iniciar sessão com a Apple ou com o Google, com **Vincular** e **Desvincular**. Ver [A sua conta](account.md#iniciar-sessão).
 - **Senha** — alterá-la pede a sua senha atual. O seu e-mail é definido no registo e não pode ser alterado na aplicação; use o formulário de contacto se precisar de o alterar.
 - **Os seus dados** — **Baixar os seus dados pessoais** envia-lhe por e-mail uma ligação para tudo o que temos
   sobre si: os seus baralhos e cartões, os seus documentos e os ficheiros que carregou para os criar, os seus

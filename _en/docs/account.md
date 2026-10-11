@@ -12,7 +12,7 @@ Creating an account is covered in [Getting started](../index.md#creating-an-acco
 
 **Log In** asks for your email and password. **Remember me** keeps you signed in on that device.
 
-**Continue with Apple**, on the sign-in and sign-up pages, signs you in with your Apple ID instead. An account created that way has no password to type, and an existing account with the same email is linked rather than duplicated. **Profile → Account → Sign-in methods** shows whether your account is linked to Apple, and lets you connect or disconnect it.
+**Continue with Apple** and **Continue with Google**, on the sign-in and sign-up pages and on the iOS app's sign-in screen, sign you in with your Apple ID or your Google account instead. An account created that way has no password to type, and an existing account with the same email (one Google has verified, for Google) is linked rather than duplicated. **Profile → Account → Sign-in methods** shows whether your account is linked to Apple or Google, and lets you connect or disconnect it.
 
 Signing out: open your profile picture in the navigation bar and choose **Log out**.
 

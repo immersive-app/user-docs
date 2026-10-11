@@ -91,7 +91,7 @@ Tudo é gratuito durante a beta.
 3. Abra o e-mail de confirmação e siga a ligação. Não pode iniciar sessão enquanto o endereço não estiver confirmado.
 4. No primeiro início de sessão, o Immersive mostra de novo a grelha de idiomas, já preenchida, para que a possa verificar. Prima **Confirmar** e chega a **Perfil → Progresso**, com primeiros passos para experimentar.
 
-Ou escolha **Continuar com a Apple** na página de registo: o seu Apple ID cria a conta, já confirmada, e passa diretamente para a grelha de idiomas. Ver [A sua conta](docs/account.md#iniciar-sessão).
+Ou escolha **Continuar com a Apple** ou **Continuar com o Google** na página de registo: o seu Apple ID ou a sua conta Google cria a conta, já confirmada, e passa diretamente para a grelha de idiomas. Ver [A sua conta](docs/account.md#iniciar-sessão).
 
 Um amigo que já usa o Immersive também o pode convidar por e-mail; ver [A sua conta](docs/account.md#convites).
 

@@ -13,7 +13,7 @@ Criar uma conta está explicado em [Começar](../index.md#criar-uma-conta). Esta
 
 **Conectar-se** pede o seu e-mail e a sua senha. **Lembrar-se de mim** mantém a sessão iniciada nesse dispositivo.
 
-**Continuar com a Apple**, nas páginas de início de sessão e de registo, inicia a sessão com o seu Apple ID. Uma conta criada assim não tem senha para escrever, e uma conta existente com o mesmo e-mail é vinculada, não duplicada. **Perfil → Conta → Métodos de login** mostra se a sua conta está vinculada à Apple e permite vinculá-la ou desvinculá-la.
+**Continuar com a Apple** e **Continuar com o Google**, nas páginas de início de sessão e de registo e no ecrã de início de sessão da app iOS, iniciam a sessão com o seu Apple ID ou a sua conta Google. Uma conta criada assim não tem senha para escrever, e uma conta existente com o mesmo e-mail (verificado pelo Google, no caso do Google) é vinculada, não duplicada. **Perfil → Conta → Métodos de login** mostra se a sua conta está vinculada à Apple ou ao Google e permite vinculá-la ou desvinculá-la.
 
 Terminar sessão: abra a sua foto de perfil na barra de navegação e escolha **Desconectar-se**.
 
