@@ -26,7 +26,7 @@ Tabs at the top of the card switch the mode. Immersive remembers the mode you ch
 - **Read**: read the prompt and recall the answer in your head, then press **Show answer** (or Space) and grade yourself. The number keys 1 to 4 choose a grade. Once the answer is on the card, its words work as in the reader: tap one for its translation and audio.
 - **Write**: the card shows the translation; write the answer in the language you are learning. **Tap** gives you shuffled word tiles to put in order (placing the last word submits), or switch to **Type** and use the keyboard, then **Submit** (or Cmd+Enter / Ctrl+Enter).
 - **Listen**: the card is spoken; write what you hear, with the same **Tap** and **Type** choice. If a card has no audio, it shows the text instead.
-- **Speak**: read the prompt aloud. **Record** captures your voice and stops by itself after ten seconds. You can type what you said in **Or type what you said**; Immersive then compares it with the answer. If you leave it empty, play back **Yours** and the **Reference** and grade yourself.
+- **Speak**: read the prompt aloud. **Record** captures your voice and stops by itself after ten seconds. A moment after you submit, a transcript of what you said appears under **You said**, with the words that differ from the answer marked, and a suggested grade ("Close: 92%"). Play back **Yours** and the **Reference** to hear the difference. If no transcript appears, grade yourself against the reference.
 
 ## Grading
 
@@ -37,7 +37,7 @@ Every review ends in one of four grades:
 - **Good**: recalled with some effort.
 - **Easy**: effortless; the card moves furthest out.
 
-In Read mode you choose the grade. In Write, Listen, and Speak (when you typed what you said), Immersive compares your answer with the expected one and proposes a grade: the result shows how close you were ("92% match · graded Good"). Pick a different grade to override it. The review is saved when you choose a grade.
+In Read mode you choose the grade. In Write and Listen, Immersive compares your answer with the expected one and proposes a grade: the result shows how close you were ("92% match · graded Good"). In Speak it compares a transcript of what you said, and suggests the grade the same way. Pick a different grade to override it. The review is saved when you choose a grade.
 
 On a computer, **Show intervals** under the card adds to each grade button how long until the card returns; **Hide intervals** removes them. Immersive remembers your choice. Intervals are not shown on phones.
 
