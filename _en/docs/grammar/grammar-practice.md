@@ -21,7 +21,7 @@ Grammar reviews can cover one note, one area, one level, or everything:
 
 - On the Grammar page: **Review 3 due**, or **Practice · 5 new** when nothing is due.
 - On a level page: **Review 3 due at B1**.
-- On an area page: **Review this area** or **Practice this area**.
+- On an area page: **Review this area** or **Practise this area**.
 - On a note: **Practice**.
 
 The review works like a deck review (see [Reviewing cards](../decks/reviewing-cards.md)), with three modes:

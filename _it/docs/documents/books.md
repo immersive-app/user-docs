@@ -39,7 +39,7 @@ Se l'importazione non riesce, la pagina dice perché. **Riprova** importa lo ste
 
 ## Leggere
 
-Nella pagina **Documenti**, la riga di un libro mostra a che punto sei, con **Inizia** per un libro nuovo e **Continua** per uno che stai leggendo. Tocca la riga per la pagina del libro: la copertina, l'indice e la via d'ingresso, **Leggi il capitolo 1** o **Continua a leggere**.
+Nella pagina **Documenti**, la riga di un libro mostra a che punto sei, con **Inizia** per un libro nuovo e **Continua** per uno che stai leggendo. Tocca la riga per la pagina del libro: la copertina, l'indice e la via d'ingresso, **Leggi il capitolo 1** o **Continua a leggere**. **Documenti**, sopra il titolo, riporta alla pagina Documenti con il libro evidenziato.
 
 Un capitolo si apre nel lettore:
 

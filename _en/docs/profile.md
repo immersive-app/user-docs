@@ -6,7 +6,7 @@ nav_order: 9
 
 # Profile & Progress
 
-Your Profile is the command center for everything about you as a learner: where you stand, what you have done, the words you have collected, your chats with the coach, the people you study with, and your account itself. Open **Profile** from the navigation — it remembers which tab you used last. The tabs are **Progress**, **Activity**, **Evaluate**, **Vocabulary**, **Coach**, **Teachers**, and **Account**.
+Your Profile is the command centre for everything about you as a learner: where you stand, what you have done, the words you have collected, your chats with the coach, the people you study with, and your account itself. Open **Profile** from the navigation — it remembers which tab you used last. The tabs are **Progress**, **Activity**, **Evaluate**, **Vocabulary**, **Coach**, **Teachers**, and **Account**.
 
 ---
 
@@ -24,7 +24,7 @@ Until you have cards, documents, or vocabulary, the tab shows **First steps** in
 
 ## Activity
 
-Your study, added up — effort only, never judgment:
+Your study, added up — effort only, never judgement:
 
 - **This week** and **All time**: sessions, time studied, and reviews.
 - A **heatmap** of the last 12 months: one square per day, darker meaning more study, with your total study days, longest run, and current run.

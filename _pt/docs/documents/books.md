@@ -1,6 +1,6 @@
 ---
 title: Livros
-description: Adicione um livro a partir de um ficheiro ou de um link do Project Gutenberg, leia-o capítulo a capítulo, retome onde ficou e edite o seu índice.
+description: Adicione um livro a partir de um ficheiro ou de uma ligação do Project Gutenberg, leia-o capítulo a capítulo, retome onde ficou e edite o seu índice.
 parent: Documentos
 nav_order: 3
 lang: pt
@@ -15,7 +15,7 @@ Os livros aparecem primeiro na página **Documentos**, acima dos seus documentos
 ## Adicionar um livro
 
 1. Em **Documentos**, escolha **Adicionar um livro** na secção **Livros**. Na web, o botão **+** também o oferece.
-2. **Enviar um ficheiro** (**Escolha um ficheiro**, ou largue um na caixa: EPUB, texto, Markdown ou PDF, até 25 MB), ou **Colar um link do Project Gutenberg**. Use um ou outro, não os dois.
+2. **Carregar um ficheiro** (**Escolha um ficheiro**, ou largue um na caixa: EPUB, texto, Markdown ou PDF, até 25 MB), ou **Colar uma ligação do Project Gutenberg**. Use um ou outro, não os dois.
 3. **Título** e **Autor** são opcionais. Em branco, vêm do ficheiro.
 4. **Adicionar livro**. A página do livro abre-se.
 
@@ -27,9 +27,9 @@ Um livro é adicionado na língua que está a aprender. Um livro noutra língua 
 
 ### Project Gutenberg
 
-O [Project Gutenberg](https://www.gutenberg.org) é uma biblioteca de ebooks gratuitos. Cole um link para um dos seus livros (a página do livro ou o link do EPUB) e o Immersive vai buscá-lo por si, com o título, o autor e a capa. A página do livro indica o ebook e a sua licença, a licença do Project Gutenberg.
+O [Project Gutenberg](https://www.gutenberg.org) é uma biblioteca de ebooks gratuitos. Cole uma ligação para um dos seus livros (a página do livro ou a ligação do EPUB) e o Immersive vai buscá-lo por si, com o título, o autor e a capa. A página do livro indica o ebook e a sua licença, a licença do Project Gutenberg.
 
-Pode adicionar um livro a partir de um link de cada vez, e até dez em 24 horas. Se a obtenção falhar, a página do livro diz porquê e oferece **Tentar outra vez** ou **Enviar o EPUB**: descarregue o EPUB da página do livro em gutenberg.org e envie-o aí. Enviar um ficheiro não tem esse limite.
+Pode adicionar um livro a partir de uma ligação de cada vez, e até dez em 24 horas. Se a obtenção falhar, a página do livro diz porquê e oferece **Tentar outra vez** ou **Carregar o EPUB**: descarregue o EPUB da página do livro em gutenberg.org e envie-o aí. Enviar um ficheiro não tem esse limite.
 
 ## Importação
 
@@ -39,14 +39,14 @@ Se a importação falhar, a página diz porquê. **Tentar outra vez** importa o 
 
 ## Ler
 
-Na página **Documentos**, a linha de um livro mostra onde vai, com **Começar** para um livro novo e **Continuar** para um que está a ler. Toque na linha para a página do livro: a capa, o índice e a entrada, **Ler o capítulo 1** ou **Continuar a ler**.
+Na página **Documentos**, a linha de um livro mostra onde vai, com **Começar** para um livro novo e **Continuar** para um que está a ler. Toque na linha para a página do livro: a capa, o índice e a entrada, **Ler o capítulo 1** ou **Continuar a ler**. **Documentos**, por cima do título, volta à página Documentos com o livro destacado.
 
 Um capítulo abre-se no leitor:
 
 - A barra no topo mostra o título do livro e o capítulo («Capítulo 2 de 24 · ...»); toque-lhe para a página do livro. O botão de fechar também volta à página do livro.
 - Uma linha fina por baixo da barra enche-se à medida que lê o capítulo.
-- Nos ajustes de leitura (o botão dos controlos deslizantes), a primeira linha é **Índice**. As setas abrem o capítulo anterior e o seguinte. O meio («2 de 24») abre a lista de capítulos: aquele em que está diz **A ler**, os que já leu estão marcados, e **Página do livro** abre a página do livro. Escolha um capítulo para o abrir.
-- No fundo dos ajustes de leitura vê onde vai: a parte do capítulo, os minutos que faltam nele e a parte do livro.
+- Nas definições de leitura (o botão dos controlos deslizantes), a primeira linha é **Índice**. As setas abrem o capítulo anterior e o seguinte. O meio («2 de 24») abre a lista de capítulos: aquele em que está diz **A ler**, os que já leu estão marcados, e **Página do livro** abre a página do livro. Escolha um capítulo para o abrir.
+- No fundo das definições de leitura vê onde vai: a parte do capítulo, os minutos que faltam nele e a parte do livro.
 - Num computador, as teclas de seta para a esquerda e para a direita abrem o capítulo anterior e o seguinte.
 
 ## Fim do capítulo

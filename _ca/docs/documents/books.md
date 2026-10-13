@@ -39,7 +39,7 @@ Si la importació falla, la pàgina en diu el motiu. **Torna-ho a provar** impor
 
 ## Lectura
 
-A la pàgina de **Documents**, la fila d'un llibre mostra fins on has arribat, amb **Comença** per a un llibre nou i **Continua** per a un que estàs llegint. Toca la fila per anar a la pàgina del llibre: la coberta, l'índex i l'entrada, **Llegeix el capítol 1** o **Continua llegint**.
+A la pàgina de **Documents**, la fila d'un llibre mostra fins on has arribat, amb **Comença** per a un llibre nou i **Continua** per a un que estàs llegint. Toca la fila per anar a la pàgina del llibre: la coberta, l'índex i l'entrada, **Llegeix el capítol 1** o **Continua llegint**. **Documents**, damunt del títol, torna a la pàgina de Documents amb el llibre ressaltat.
 
 Un capítol s'obre al lector:
 

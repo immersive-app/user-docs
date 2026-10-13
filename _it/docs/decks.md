@@ -47,7 +47,7 @@ Aprendo **Mazzi** trovi:
 Se usi anche Anki:
 
 - **Esporta in Anki** su un mazzo, tuo o della Biblioteca, prepara un file Anki (.apkg) e te lo invia per email. Il file contiene le carte verbo del mazzo; un mazzo che non ne contiene non ha il pulsante di esportazione.
-- La pagina **Anki** (collegata nel piè di pagina delle pagine pubbliche di Immersive) offre mazzi Anki pronti da scaricare. Se hai effettuato l'accesso, scarichi direttamente. Senza un account, inserisci il tuo indirizzo email per scaricare; Immersive ti invia poi anche il suo corso gratuito del Metodo Ponte via email, cinque brevi lezioni, da cui puoi disiscriverti in qualsiasi momento.
+- La pagina **Anki** (collegata nel piè di pagina delle pagine pubbliche di Immersive) spiega l'esportazione, con **Vai ai miei mazzi** se hai effettuato l'accesso. Quando ci sono mazzi pronti, li elenca sotto **Mazzi gratuiti da scaricare**: se hai effettuato l'accesso, scarichi direttamente; senza un account, inserisci il tuo indirizzo email per scaricare, e Immersive ti invia anche il suo corso gratuito del Metodo Ponte via email, cinque brevi lezioni, da cui puoi disiscriverti in qualsiasi momento.
 
 ## In questa sezione
 

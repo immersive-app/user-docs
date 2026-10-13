@@ -35,8 +35,8 @@ El teu estudi, sumat — només esforç, mai judici:
 
 Després d'estudiar amb un company, podeu intercanviar avaluacions ràpides — una impressió general (Excel·lent, Bé o En camí) més un comentari opcional. És una cortesia entre estudiants, mai una classificació.
 
-- **Mostrar el meu codi** mostra un codi curt perquè el teu company l'introdueixi. Els codis duren 10 minuts i serveixen un cop.
-- **Introduir un codi** de la pantalla d'un company per avaluar-lo: tria una impressió, afegeix-hi una frase si vols, i envia-la.
+- **Mostrar el meu codi** mostra el teu codi com a codi QR, amb el codi a sota. El teu company escaneja el codi QR amb la càmera del seu mòbil, o escriu el codi. Els codis duren 10 minuts i serveixen un cop.
+- Per avaluar un company, escaneja el codi QR de la seva pantalla amb la càmera del teu mòbil, o tria **Introduir un codi** i escriu-lo. Després tria una impressió, afegeix-hi una frase si vols, i envia-la.
 
 Les avaluacions que dones i reps apareixen llistades a la pestanya, i les avaluacions de parla compten com a proves a la teva pestanya de Progrés.
 
@@ -62,11 +62,13 @@ Si estudies amb un professor, pots deixar que segueixi el teu progrés — en le
 
 Tot l'administratiu viu aquí:
 
-- **Compte** — nom, cognom i gènere. Aquí es mostra la teva adreça de correu electrònic.
+- **Compte** — nom, cognom i **Com adreçar-nos a tu**. Aquí es mostra la teva adreça de correu electrònic.
+  Com adreçar-nos a tu és opcional: **No indicat** (l'opció per defecte), **Femení** o **Masculí**. Algunes llengües canvien les paraules segons la persona de qui parlen, com el francès *prêt* i *prête*; aquesta opció fixa la forma que es fa servir per a tu.
 - **Perfil** — ubicació i foto de perfil.
 - **Idiomes** — una fitxa per a cadascuna de les sis llengües amb el teu nivell; toca'n una per dir si la parles o l'estàs aprenent, i a quin nivell. Sota la graella, **Llengua d'aprenentatge** i **Llengua de visualització** són el parell que mostra la barra de navegació, i un interruptor amaga aquell botó si ho prefereixes. **Fes servir les llengües que conec per explicar la que estic aprenent** activa les comparacions entre llengües: el requadre *En les teves llengües* a les notes gramaticals i les formes verbals, els equivalents en les sis llengües al lector i la [gramàtica de la lectura](grammar/grammar-of-reading.md) amb els seus subratllats de punts. Està desactivat per defecte — la majoria aprèn una llengua a la vegada.
 - **Correus** — el correu diari de repàs, activat o desactivat. Vegeu [Navegació](dashboard.md#el-correu-diari-de-repàs).
-- **Mètodes d'inici de sessió** — si el teu compte està vinculat a «Inicia la sessió amb Apple» o amb Google, amb **Vincula Apple** i **Desvincula Apple**. Vegeu [El teu compte](account.md#iniciar-sessió).
+- **Tema** — l'estil d'Immersive: **Clàssic**, **Paper**, **Tranquil** o **Solarized**, cadascun amb una **Aparença** **Clar**, **Fosc** o **Sistema** (la del teu dispositiu). Es desa en triar-lo. Els controls de lectura ofereixen la mateixa opció.
+- **Mètodes d'inici de sessió** — si el teu compte està vinculat a «Inicia la sessió amb Apple» o amb Google, amb **Vincula Apple** o **Vincula Google**, i **Desvincula** seguit del servei vinculat. Vegeu [El teu compte](account.md#iniciar-sessió).
 - **Contrasenya** — canviar-la et demana la contrasenya actual. El teu correu electrònic es fixa en registrar-te i no es pot canviar a l'aplicació; fes servir el formulari de contacte si necessites canviar-lo.
 - **Les teves dades** — **Descarrega les teves dades personals** t'envia per correu un enllaç a tot el que
   tenim sobre tu: els teus mazos i targetes, els teus documents i els fitxers que vas pujar per crear-los, els
