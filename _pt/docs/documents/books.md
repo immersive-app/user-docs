@@ -39,7 +39,7 @@ Se a importação falhar, a página diz porquê. **Tentar outra vez** importa o 
 
 ## Ler
 
-Na página **Documentos**, a linha de um livro mostra onde vai, com **Começar** para um livro novo e **Continuar** para um que está a ler. Toque na linha para a página do livro: a capa, o índice e a entrada, **Ler o capítulo 1** ou **Continuar a ler**.
+Na página **Documentos**, a linha de um livro mostra onde vai, com **Começar** para um livro novo e **Continuar** para um que está a ler. Toque na linha para a página do livro: a capa, o índice e a entrada, **Ler o capítulo 1** ou **Continuar a ler**. **Documentos**, por cima do título, volta à página Documentos com o livro destacado.
 
 Um capítulo abre-se no leitor:
 

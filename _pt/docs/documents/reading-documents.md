@@ -71,13 +71,15 @@ Quando revela uma palavra dedutível, o Immersive cria um cartão de revisão a 
 Dois botões redondos ficam no canto inferior direito do leitor (empilhados num telemóvel): o botão de conversa abre o [Coach](../coach.md) com o documento à vista, e o botão dos controlos deslizantes abre os ajustes de leitura:
 
 - **Visualização**: **Palavras** ou **Frases**.
+- **Tamanho do texto**: o A pequeno e o A grande tornam o texto de leitura mais pequeno ou maior, em cinco passos. Os ajustes e os cartões das palavras mantêm o tamanho.
 - **Entrelinha** (1, 1.5 ou 2) e **Recuo** (**Não** ou **Sim**).
+- **Tema** (**Clássico**, **Papel**, **Calmo** ou **Solarized**) e **Aparência** (**Claro**, **Escuro** ou **Sistema**), a mesma escolha que em [Perfil → Conta](../profile.md#conta).
 - **Voz de leitura**: **Voz automática** ou uma voz com nome, mostrada quando há vozes disponíveis para a língua.
 - **Ajudas**: **Completa** ou **Leve**.
 - **Ler em voz alta**, e um botão para imprimir.
 - O nível do documento, a contagem de palavras e o tempo de leitura.
 
-O Immersive lembra-se da entrelinha, do recuo, da densidade das ajudas e da voz (a voz por língua).
+O Immersive lembra-se do tamanho do texto, da entrelinha, do recuo, da densidade das ajudas, do tema e da voz (a voz por língua). Toque fora dos ajustes, ou prima Esc, para os fechar.
 
 ## Ler em voz alta
 

@@ -35,8 +35,8 @@ O seu estudo, somado — apenas esforço, nunca julgamento:
 
 Depois de estudar com um colega, podem trocar avaliações rápidas — uma impressão geral (Excelente, Bem ou A caminho) mais um comentário opcional. É uma cortesia entre estudantes, nunca uma classificação.
 
-- **Mostrar o meu código** apresenta um código curto para o seu colega introduzir. Os códigos duram 10 minutos e servem uma vez.
-- **Inserir um código** do ecrã de um colega serve para o avaliar: escolha uma impressão, acrescente uma frase se quiser e envie.
+- **Mostrar o meu código** apresenta o seu código como código QR, com o código por baixo. O seu colega lê o código QR com a câmara do telemóvel, ou escreve o código. Os códigos duram 10 minutos e servem uma vez.
+- Para avaliar um colega, leia o código QR no ecrã dele com a câmara do seu telemóvel, ou escolha **Inserir um código** e escreva-o. Depois escolha uma impressão, acrescente uma frase se quiser e envie.
 
 As avaliações que dá e recebe ficam listadas no separador, e as avaliações de fala contam como evidência no seu separador Progresso.
 
@@ -62,10 +62,12 @@ Se estuda com um professor, pode deixá-lo acompanhar o seu progresso — nos se
 
 Tudo o que é administrativo vive aqui:
 
-- **Conta** — nome próprio, apelido e género. O seu endereço de e-mail aparece aqui.
+- **Conta** — nome próprio, apelido e **Como nos dirigimos a você**. O seu endereço de e-mail aparece aqui.
+  Esta opção é facultativa: **Não indicado** (a predefinida), **Feminino** ou **Masculino**. Algumas línguas mudam as palavras conforme a pessoa de quem falam, como o francês *prêt* e *prête*; esta opção define a forma usada para si.
 - **Perfil** — localização e foto de perfil.
 - **Idiomas** — um bloco para cada uma das seis línguas, com o seu nível; toque num para dizer se a fala ou a está a aprender, e a que nível. Por baixo da grelha, **Idioma de aprendizagem** e **Idioma de exibição** são o par que a barra de navegação mostra, e um interruptor esconde esse botão se preferir. **Usar as línguas que conheço para explicar a que estou a aprender** ativa as comparações entre línguas: a caixa *Nas suas línguas* das notas de gramática e das formas verbais, os equivalentes nas seis línguas do leitor e a [gramática da leitura](grammar/grammar-of-reading.md) com os seus sublinhados tracejados. Está desativado por defeito: a maioria aprende uma língua de cada vez.
 - **E-mails** — o e-mail diário de revisão, ativo ou não. Ver [Navegação](dashboard.md#o-e-mail-diário-de-revisão).
+- **Tema** — o estilo do Immersive: **Clássico**, **Papel**, **Calmo** ou **Solarized**, cada um com uma **Aparência** **Claro**, **Escuro** ou **Sistema** (a do seu dispositivo). Fica guardado assim que escolhe. Os ajustes de leitura oferecem a mesma escolha.
 - **Métodos de login** — se a sua conta está vinculada ao Iniciar sessão com a Apple ou com o Google, com **Vincular** e **Desvincular**. Ver [A sua conta](account.md#iniciar-sessão).
 - **Senha** — alterá-la pede a sua senha atual. O seu e-mail é definido no registo e não pode ser alterado na aplicação; use o formulário de contacto se precisar de o alterar.
 - **Os seus dados** — **Baixar os seus dados pessoais** envia-lhe por e-mail uma ligação para tudo o que temos
