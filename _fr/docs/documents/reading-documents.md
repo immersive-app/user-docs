@@ -71,13 +71,15 @@ Quand vous révélez un mot devinable, Immersive crée une carte de révision à
 Deux boutons ronds se trouvent en bas à droite du lecteur (empilés sur un téléphone) : le bouton de chat ouvre le [Coach](../coach.md) avec le document sous les yeux, et le bouton à curseurs ouvre les réglages de lecture :
 
 - **Affichage** : **Mots** ou **Phrases**.
+- **Taille du texte** : le petit A et le grand A rendent le texte de lecture plus petit ou plus grand, en cinq paliers. Les réglages et les cartes des mots gardent leur taille.
 - **Interligne** (1, 1,5 ou 2) et **Alinéa** (non ou oui).
+- **Thème** (**Classique**, **Papier**, **Calme** ou **Solarized**) et **Apparence** (**Clair**, **Sombre** ou **Système**), le même choix que dans [Profil → Compte](../profile.md#compte).
 - **Voix de lecture** : **Voix automatique** ou une voix nommée, affichée quand des voix sont disponibles pour la langue.
 - **Aides** : **Complète** ou **Légère**.
 - **Lecture à voix haute**, et un bouton d'impression.
 - Le niveau du document, son nombre de mots et son temps de lecture.
 
-Immersive se souvient de votre interligne, de votre alinéa, de la densité des aides et de votre voix (la voix par langue).
+Immersive se souvient de votre taille de texte, de votre interligne, de votre alinéa, de la densité des aides, de votre thème et de votre voix (la voix par langue). Touchez en dehors des réglages, ou appuyez sur Échap, pour les fermer.
 
 ## Lecture à voix haute
 
