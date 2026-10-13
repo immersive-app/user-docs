@@ -97,6 +97,7 @@ exclude:
   - README.md
   - LICENSE
   - vendor
+  - script
 
 # Every document renders with the theme layout. Each edition carries its own
 # language (the <html lang>, SEO locale) and pager labels.

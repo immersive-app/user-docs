@@ -8,45 +8,45 @@ lang: fr
 
 # La grammaire de la lecture
 
-Une courte référence aux endroits où la langue que vous apprenez diffère de celles que vous connaissez déjà — et où elle n'en diffère pas. C'est la Méthode des Ponts appliquée à la grammaire : seulement les points où un lecteur trébuche, chacun énoncé de la même façon dans les six langues, les formes côte à côte.
+Une courte référence aux endroits où la langue que vous apprenez diffère de celles que vous connaissez déjà — et où elle n'en diffère pas. C'est la Méthode des Ponts appliquée à la grammaire : seulement les points où un lecteur trébuche, chacun énoncé de la même façon dans les six langues, les formes côte à côte.
 
-Elle s'adresse à ceux qui connaissent plus d'une langue d'Immersive ; les comparaisons sont donc désactivées tant que vous ne les activez pas : **Profil → Compte → Langues → Utiliser les langues que je connais pour expliquer celle que j'apprends**. Désactivées, les pages s'ouvrent quand même, mais rien n'est mesuré par rapport à vos langues ni souligné dans vos lectures.
+Elle s'adresse à ceux qui connaissent plus d'une langue d'Immersive ; les comparaisons sont donc désactivées tant que vous ne les activez pas : **Profil → Compte → Langues → Utiliser les langues que je connais pour expliquer celle que j'apprends**. Désactivées, les pages s'ouvrent quand même, mais rien n'est mesuré par rapport à vos langues ni souligné dans vos lectures.
 
 ---
 
 ## La Méthode des Ponts
 
-Les six langues d'Immersive — portugais, espagnol, catalan, italien, français et anglais — sont de proches parentes. Si vous lisez l'une d'elles, vous possédez déjà une bonne part des autres : des milliers de mots communs, les mêmes constructions, des terminaisons parallèles. La Méthode des Ponts est l'idée derrière Immersive : au lieu d'enseigner la langue que vous apprenez à partir de zéro, chaque partie de l'application part des langues que vous connaissez et les étire.
+Les six langues d'Immersive — portugais, espagnol, catalan, italien, français et anglais — sont de proches parentes. Si vous lisez l'une d'elles, vous possédez déjà une bonne part des autres : des milliers de mots communs, les mêmes constructions, des terminaisons parallèles. La Méthode des Ponts est l'idée derrière Immersive : au lieu d'enseigner la langue que vous apprenez à partir de zéro, chaque partie de l'application part des langues que vous connaissez et les étire.
 
-En pratique, cela tient en trois choses :
+En pratique, cela tient en trois choses :
 
 - **La compréhension d'abord.** Vous réussissez en comprenant un texte, pas en traduisant chaque mot, et l'approximation est permise. La compréhension devance la parole et l'écrit, aussi Immersive suit les deux séparément.
 - **Ce que vous savez est une ressource.** Les aides de mot montrent le sosie dans une langue que vous connaissez, le lecteur ne signale que ce qui est opaque *pour vous* compte tenu de vos langues, et les aides s'estompent à mesure que votre niveau monte.
-- **La grammaire comme comparaison.** La grammaire de la lecture est la méthode appliquée à la grammaire : les constructions où un lecteur trébuche, chacune énoncée de la même façon dans les six langues, les formes côte à côte dans l'ordre du continuum roman (portugais, espagnol, catalan, italien, français, puis l'anglais du côté du français), si bien que chaque colonne n'est qu'un petit pas par rapport à sa voisine.
+- **La grammaire comme comparaison.** La grammaire de la lecture est la méthode appliquée à la grammaire : les constructions où un lecteur trébuche, chacune énoncée de la même façon dans les six langues, les formes côte à côte dans l'ordre du continuum roman (portugais, espagnol, catalan, italien, français, puis l'anglais du côté du français), si bien que chaque colonne n'est qu'un petit pas par rapport à sa voisine.
 
 ## Parcourir par section
 
-Ouvrez **Grammaire** et choisissez la ligne **Grammaire de la lecture** au pied de la page (ou allez sur `/grammar/reading`). La page montre vos langues à côté de celle que vous apprenez, avec **Modifier dans le profil** pour les changer. Les 26 sections sont listées par thème sous sept rubriques : Lexique, Sons et graphie, Syntaxe, Système verbal, Déterminants, Mots-outils et Morphologie. Chaque section indique combien de comparaisons elle contient et, une fois que vous avez indiqué les langues que vous connaissez, combien **diffèrent des vôtres** et combien fonctionnent **comme les vôtres**.
+Ouvrez **Grammaire** et choisissez la ligne **Grammaire de la lecture** au pied de la page (ou allez sur `/grammar/reading`). La page montre vos langues à côté de celle que vous apprenez, avec **Modifier dans le profil** pour les changer. Les 26 sections sont listées par thème sous sept rubriques : Lexique, Sons et graphie, Syntaxe, Système verbal, Déterminants, Mots-outils et Morphologie. Chaque section indique combien de comparaisons elle contient et, une fois que vous avez indiqué les langues que vous connaissez, combien **diffèrent des vôtres** et combien fonctionnent **comme les vôtres**.
 
-Ouvrez une section pour voir ses comparaisons. Chaque ligne nomme les langues qui diffèrent et indique **Diffère des vôtres** ou **Comme en** — la langue à vous qui fonctionne de la même façon. Les lignes marquées **Tableau de formes** sont des tableaux de conjugaison : ils ouvrent plutôt la section Verbes.
+Ouvrez une section pour voir ses comparaisons. Chaque ligne nomme les langues qui diffèrent et indique **Diffère des vôtres** ou **Comme en** — la langue à vous qui fonctionne de la même façon. Les lignes marquées **Tableau de formes** sont des tableaux de conjugaison : ils ouvrent plutôt la section Verbes.
 
 ## Lire une comparaison
 
-Une page de comparaison a trois parties :
+Une page de comparaison a trois parties :
 
 1. **Quelles langues diffèrent**, et où cette comparaison se situe par rapport aux vôtres. Quand l'une de vos langues fonctionne comme celle que vous apprenez, la page cite la forme partagée, pour que vous voyiez la ressemblance au lieu de la croire sur parole.
-2. **L'énoncé**, dans la langue que vous lisez le mieux. **Lire dans** le bascule dans n'importe laquelle des six ; votre choix est mémorisé.
-3. **Les exemples** : les mêmes phrases dans les six langues, une ligne par langue dans l'ordre du continuum roman (portugais, espagnol, catalan, italien, français, anglais). Un pointillé marque la langue qui diffère ; vos langues et celle que vous apprenez sont en encre pleine.
+2. **L'énoncé**, dans la langue que vous lisez le mieux. **Lire dans** le bascule dans n'importe laquelle des six ; votre choix est mémorisé.
+3. **Les exemples** : les mêmes phrases dans les six langues, une ligne par langue dans l'ordre du continuum roman (portugais, espagnol, catalan, italien, français, anglais). Un pointillé marque la langue qui diffère ; vos langues et celle que vous apprenez sont en encre pleine.
 
 Plus bas, **Voir aussi** liste les comparaisons liées, et **Approfondir** renvoie aux notes de grammaire avec exercices qui enseignent la construction, dans la langue que vous apprenez et dans la vôtre.
 
-**Demander à propos de cette comparaison** ouvre le [Coach](../coach.md) avec la comparaison sous les yeux, et **Quelque chose cloche ?** envoie un signalement à l'équipe à son sujet. Quand vous arrivez depuis un document ou une révision, le lien en haut vous y ramène.
+**Demander à propos de cette comparaison** ouvre le [Coach](../coach.md) avec la comparaison sous les yeux, et **Quelque chose cloche ?** envoie un signalement à l'équipe à son sujet. Quand vous arrivez depuis un document ou une révision, le lien en haut vous y ramène.
 
 ## Dans vos lectures
 
-Quand une phrase d'un document contient l'une de ces constructions, le lecteur lui donne un **soulignement pointillé**. Touchez-la : la bulle montre la traduction, puis le résumé de la comparaison dans votre langue de lecture, celle de vos langues qui fonctionne de la même façon s'il y en a une, l'exemple dans vos langues, et **Ouvrir la comparaison**. La page de comparaison vous ramène à la même phrase. **Plus** ouvre la comparaison en entier sans quitter la page. Sur une page de comparaison, chaque phrase d'exemple peut être touchée dans sa propre langue, avec son propre audio.
+Quand une phrase d'un document contient l'une de ces constructions, le lecteur lui donne un **soulignement pointillé**. Touchez-la : la bulle montre la traduction, puis le résumé de la comparaison dans votre langue de lecture, celle de vos langues qui fonctionne de la même façon s'il y en a une, l'exemple dans vos langues, et **Ouvrir la comparaison**. La page de comparaison vous ramène à la même phrase. **Plus** ouvre la comparaison en entier sans quitter la page. Sur une page de comparaison, chaque phrase d'exemple peut être touchée dans sa propre langue, avec son propre audio.
 
-Toutes les comparaisons publiées sont soulignées, y compris celles où une langue que vous connaissez fonctionne déjà comme celle que vous apprenez : la bulle le dit alors (*Pareil qu'en espagnol*), et c'est là le réconfort, pas un manque. Les soulignements n'apparaissent qu'avec les comparaisons entre langues activées dans votre profil.
+Toutes les comparaisons publiées sont soulignées, y compris celles où une langue que vous connaissez fonctionne déjà comme celle que vous apprenez : la bulle le dit alors (*Pareil qu'en espagnol*), et c'est là le réconfort, pas un manque. Les soulignements n'apparaissent qu'avec les comparaisons entre langues activées dans votre profil.
 
 ---
 
