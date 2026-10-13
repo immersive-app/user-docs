@@ -35,8 +35,8 @@ Il tuo studio, sommato — solo impegno, mai giudizio:
 
 Dopo aver studiato con un compagno, potete scambiarvi valutazioni rapide — un'impressione complessiva (Eccellente, Bene o Sulla buona strada) più un commento facoltativo. È una cortesia tra studenti, mai una classifica.
 
-- **Mostra il mio codice** visualizza un breve codice che il tuo compagno inserisce. I codici durano 10 minuti e valgono una volta sola.
-- **Inserisci un codice** dallo schermo di un compagno per valutarlo: scegli un'impressione, aggiungi una frase se vuoi e invia.
+- **Mostra il mio codice** visualizza il tuo codice come codice QR, con il codice stesso sotto. Il tuo compagno inquadra il codice QR con la fotocamera del suo telefono, oppure digita il codice. I codici durano 10 minuti e valgono una volta sola.
+- Per valutare un compagno, inquadra il codice QR sul suo schermo con la fotocamera del tuo telefono, oppure scegli **Inserisci un codice** e digitalo. Poi scegli un'impressione, aggiungi una frase se vuoi e invia.
 
 Le valutazioni che dai e ricevi sono elencate nella scheda, e le valutazioni del parlato contano come prove nella tua scheda Progressi.
 
@@ -62,10 +62,12 @@ Se studi con un insegnante, puoi permettergli di seguire i tuoi progressi — al
 
 Qui vive tutto ciò che è amministrativo:
 
-- **Account** — nome, cognome e genere. Qui è mostrato il tuo indirizzo email.
+- **Account** — nome, cognome e **Come rivolgerci a te**. Qui è mostrato il tuo indirizzo email.
+  Come rivolgerci a te è facoltativo: **Non indicato** (l'impostazione predefinita), **Femminile** o **Maschile**. Alcune lingue cambiano le parole in base alla persona di cui parlano, come il francese *prêt* e *prête*; questa scelta stabilisce la forma usata per te.
 - **Profilo** — località e immagine del profilo.
 - **Lingue** — un riquadro per ognuna delle sei lingue con il tuo livello; toccane uno per dire se la parli o la stai imparando, e a che livello. Sotto la griglia, **Lingua di apprendimento** e **Lingua di visualizzazione** sono la coppia mostrata dalla barra di navigazione, e un interruttore nasconde quel pulsante se preferisci. **Usa le lingue che conosco per spiegare quella che sto imparando** attiva i confronti tra lingue: il riquadro *Nelle tue lingue* nelle note grammaticali e nelle forme verbali, gli equivalenti nelle sei lingue nel lettore e la [grammatica della lettura](grammar/grammar-of-reading.md) con le sue sottolineature punteggiate. È disattivato per impostazione predefinita — la maggior parte impara una lingua alla volta.
 - **Email** — l'email quotidiana di ripasso, attiva o no. Vedi [Navigazione](dashboard.md#lemail-quotidiana-di-ripasso).
+- **Tema** — lo stile di Immersive: **Classico**, **Carta**, **Quieto** o **Solarized**, ciascuno con un **Aspetto** **Chiaro**, **Scuro** o **Sistema** (quello del tuo dispositivo). Si salva appena scegli. Le impostazioni di lettura offrono la stessa scelta.
 - **Metodi di accesso** — se il tuo account è collegato ad Accedi con Apple o a Google, con **Collega** e **Scollega**. Vedi [Il tuo account](account.md#accedere).
 - **Password** — per cambiarla viene chiesta la password attuale. L'indirizzo email si imposta alla registrazione e non si può cambiare nell'app; usa il modulo di contatto se devi cambiarlo.
 - **I tuoi dati** — **Scarica i tuoi dati personali** ti invia per email un link a tutto ciò che abbiamo su di
