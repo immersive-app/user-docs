@@ -43,7 +43,7 @@ Muitas notas terminam com **Exercícios**, numerados, cada um com a indicação 
 
 Para responder:
 
-1. Escreva ou escolha a sua resposta. Quando toca numa opção, ela é verificada logo; caso contrário, prima **Checar**.
+1. Escreva ou escolha a sua resposta. Quando toca numa opção, ela é verificada logo; caso contrário, prima **Verificar**.
 2. O feedback diz **Correto** ou **Quase — tente de novo**.
 3. **Dica** dá-lhe uma ajuda, quando o exercício tem uma. Depois de uma resposta errada, **Mostrar a resposta** revela-a.
 

@@ -21,7 +21,7 @@ Com sessão iniciada, abra **Gramática** a partir da barra de navegação.
 
 ## Domínio
 
-À medida que pratica, cada nota, área e nível recebe uma classificação de domínio: **Por começar**, **Iniciante**, **Em desenvolvimento**, **Intermédio**, **Proficiente** ou **Fluente**. Vem de como estão a correr os seus cartões de prática dessas notas.
+À medida que pratica, cada nota, área e nível recebe uma classificação de domínio: **Por começar**, **Principiante**, **Em desenvolvimento**, **Intermédio**, **Proficiente** ou **Fluente**. Vem de como estão a correr os seus cartões de prática dessas notas.
 
 ## O que uma nota contém
 
@@ -36,7 +36,7 @@ Ver [Ler notas de gramática](grammar/review-grammar.md).
 
 Se já conhece uma ou mais das seis línguas do Immersive, a Gramática também lhe pode mostrar onde a língua que está a aprender **difere das que conhece**: os pontos onde um leitor tropeça, e nada mais. É a *gramática da leitura*: o [Método Ponte](grammar/grammar-of-reading.md#o-método-ponte) aplicado à gramática, uma referência curta organizada por temas e não por nível.
 
-Está desativada até a ativar. Em **Perfil → Conta**, em **Idiomas**, marque **Usar as línguas que conheço para explicar a que estou a aprender** e escolha **Salvar idiomas**. A partir daí:
+Está desativada até a ativar. Em **Perfil → Conta**, em **Idiomas**, marque **Usar as línguas que conheço para explicar a que estou a aprender**: fica guardado ao escolher. A partir daí:
 
 - aparece uma linha **Gramática da leitura** («O que muda quando lê Francês») no fim da página Gramática, com quantas comparações diferem das suas línguas e quantas funcionam como elas;
 - as notas de gramática que pertencem a uma comparação mostram uma entrada para ela em **Nas suas línguas**;

@@ -13,7 +13,7 @@ O seu Perfil é o centro de comando de tudo o que lhe diz respeito enquanto estu
 
 ## Progresso
 
-**Onde você está.** O Immersive mede **compreensão** e **produção** separadamente, porque compreender corre legitimamente à frente de falar e escrever — essa diferença é o método a funcionar, não um problema. **Compreensão** mostra o nível que se atribuiu no registo, com as evidências a acumularem-se por baixo para Leitura e Escuta. **Produção** mostra a avaliação mediana da sua escrita corrigida, com as evidências para Escrita e Fala (textos avaliados, avaliações de colegas).
+**Onde está.** O Immersive mede **compreensão** e **produção** separadamente, porque compreender corre legitimamente à frente de falar e escrever — essa diferença é o método a funcionar, não um problema. **Compreensão** mostra o nível que se atribuiu no registo, com as evidências a acumularem-se por baixo para Leitura e Escuta. **Produção** mostra a avaliação mediana da sua escrita corrigida, com as evidências para Escrita e Fala (textos avaliados, avaliações de colegas).
 
 **Por área.** Resumos de cada área — os seus baralhos (cartões dominados, em aprendizagem, novos e pendentes agora), a sua gramática (nível de trabalho, notas começadas, domínio e cartões para rever), os seus documentos, o seu vocabulário e a sua escrita avaliada. As linhas dos baralhos, da gramática, dos documentos e do vocabulário abrem a respetiva secção.
 
@@ -62,20 +62,20 @@ Se estuda com um professor, pode deixá-lo acompanhar o seu progresso — nos se
 
 Tudo o que é administrativo vive aqui:
 
-- **Conta** — nome próprio, apelido e **Como nos dirigimos a você**. O seu endereço de e-mail aparece aqui.
+- **Conta** — nome próprio, apelido e **Forma de tratamento**. O seu endereço de e-mail aparece aqui.
   Esta opção é facultativa: **Não indicado** (a predefinida), **Feminino** ou **Masculino**. Algumas línguas mudam as palavras conforme a pessoa de quem falam, como o francês *prêt* e *prête*; esta opção define a forma usada para si.
 - **Perfil** — localização e foto de perfil.
 - **Idiomas** — um bloco para cada uma das seis línguas, com o seu nível; toque num para dizer se a fala ou a está a aprender, e a que nível. Por baixo da grelha, **Idioma de aprendizagem** e **Idioma de exibição** são o par que a barra de navegação mostra, e um interruptor esconde esse botão se preferir. **Usar as línguas que conheço para explicar a que estou a aprender** ativa as comparações entre línguas: a caixa *Nas suas línguas* das notas de gramática e das formas verbais, os equivalentes nas seis línguas do leitor e a [gramática da leitura](grammar/grammar-of-reading.md) com os seus sublinhados tracejados. Está desativado por defeito: a maioria aprende uma língua de cada vez.
 - **E-mails** — o e-mail diário de revisão, ativo ou não. Ver [Navegação](dashboard.md#o-e-mail-diário-de-revisão).
 - **Tema** — o estilo do Immersive: **Clássico**, **Papel**, **Calmo** ou **Solarized**, cada um com uma **Aparência** **Claro**, **Escuro** ou **Sistema** (a do seu dispositivo). Fica guardado assim que escolhe. Os ajustes de leitura oferecem a mesma escolha.
-- **Métodos de login** — se a sua conta está vinculada ao Iniciar sessão com a Apple ou com o Google, com **Vincular** e **Desvincular**. Ver [A sua conta](account.md#iniciar-sessão).
-- **Senha** — alterá-la pede a sua senha atual. O seu e-mail é definido no registo e não pode ser alterado na aplicação; use o formulário de contacto se precisar de o alterar.
-- **Os seus dados** — **Baixar os seus dados pessoais** envia-lhe por e-mail uma ligação para tudo o que temos
+- **Métodos de início de sessão** — se a sua conta está associada ao Iniciar sessão com a Apple ou com o Google, com **Associar** e **Dissociar**. Ver [A sua conta](account.md#iniciar-sessão).
+- **Palavra-passe** — alterá-la pede a sua palavra-passe atual. O seu e-mail é definido no registo e não pode ser alterado na aplicação; use o formulário de contacto se precisar de o alterar.
+- **Os seus dados** — **Descarregar os seus dados pessoais** envia-lhe por e-mail uma ligação para tudo o que temos
   sobre si: os seus baralhos e cartões, os seus documentos e os ficheiros que carregou para os criar, os seus
   textos, as suas conversas com o tutor, o seu vocabulário, o seu histórico de revisões e o registo do que fez
-  na aplicação. Chega como um ficheiro zip. Tem de ter sessão iniciada para o baixar, e a ligação funciona
+  na aplicação. Chega como um ficheiro zip. Tem de ter sessão iniciada para o descarregar, e a ligação funciona
   durante uma semana.
-- **Remover minha conta** — elimina a sua conta e todos os seus dados. Não é possível desfazer.
+- **Remover a minha conta** — elimina a sua conta e todos os seus dados. Não é possível desfazer.
 
 ---
 

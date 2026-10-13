@@ -12,7 +12,7 @@ A página Baralhos é a sua biblioteca de material de estudo. Esta página expli
 
 ## A lista de baralhos
 
-**Meus Baralhos** lista os seus baralhos com três colunas:
+**Os meus baralhos** lista os seus baralhos com três colunas:
 
 - **Novas**: cartões que ainda não viu.
 - **A aprender**: cartões que está a meio de aprender.
@@ -24,11 +24,11 @@ Estes números dizem-lhe de relance onde o seu tempo de revisão é preciso.
 
 Acima dos seus baralhos fica a **Biblioteca**: baralhos prontos do Immersive na língua que está a aprender, com a indicação de quantos são. Começa fechada; abra-a para ver os baralhos. Inclui baralhos das palavras mais comuns divididos por frequência (as primeiras 500 palavras, depois 501 a 1.000, depois 1.001 a 5.000), para que nunca estude a mesma palavra duas vezes, e, para algumas línguas, um baralho de **Essenciais** com os verbos fundamentais no presente.
 
-Os baralhos da Biblioteca estudam-se através da sua própria cópia: prima o **+** ao lado de um (**Copiar para meus baralhos**) e a cópia aparece em Meus Baralhos.
+Os baralhos da Biblioteca estudam-se através da sua própria cópia: prima o **+** ao lado de um (**Copiar para os meus baralhos**) e a cópia aparece em **Os meus baralhos**.
 
 ## Baralhos públicos
 
-As páginas de verbos e de formas verbais listam **Baralhos públicos** que praticam esse verbo. Abra um para ver os seus cartões e escolha **Copiar para meus baralhos** para o estudar. A sua cópia mostra de que baralho foi copiada.
+As páginas de verbos e de formas verbais listam **Baralhos públicos** que praticam esse verbo. Abra um para ver os seus cartões e escolha **Copiar para os meus baralhos** para o estudar. A sua cópia mostra de que baralho foi copiada.
 
 ## Pastas
 
@@ -36,7 +36,7 @@ As pastas mantêm controlável uma lista longa de baralhos:
 
 - **Crie** uma pasta ao criar ou editar um baralho: escolha uma pasta existente ou escreva o nome de uma nova.
 - **Mova** um baralho com **Mover para uma pasta**, no menu do baralho na página Baralhos.
-- O menu de uma pasta permite **Mudar o nome da pasta**, começar um **Novo baralho na pasta** ou **Eliminar pasta**. Eliminar uma pasta nunca elimina baralhos: eles voltam para Meus Baralhos.
+- O menu de uma pasta permite **Mudar o nome da pasta**, começar um **Novo baralho na pasta** ou **Eliminar pasta**. Eliminar uma pasta nunca elimina baralhos: eles voltam para **Os meus baralhos**.
 
 As pastas abrem e fecham no próprio lugar na página Baralhos.
 

@@ -1,6 +1,6 @@
 ---
 title: Criar baralhos
-description: Crie um baralho e adicione cartões de palavra, frase, verbo e número, a partir de uma planilha ou do vocabulário que salvou.
+description: Crie um baralho e adicione cartões de palavra, frase, verbo e número, a partir de uma folha de cálculo ou do vocabulário que guardou.
 parent: Baralhos e Revisões
 nav_order: 1
 lang: pt
@@ -14,12 +14,12 @@ Construir um baralho tem dois passos: criar o baralho e depois adicionar-lhe car
 
 1. Abra **Baralhos** e escolha o botão **+** (**Criar um novo baralho**).
 2. Dê ao baralho um título na língua que está a aprender e outro na sua língua. Os dois são obrigatórios: as revisões podem mostrar qualquer um dos lados.
-3. Opcionalmente, escolha uma **Pasta** (ou escreva o nome de uma pasta nova) e adicione **Etiquetas**. Deixar a pasta em branco mantém o baralho no nível de topo de Meus Baralhos; as etiquetas agrupam baralhos entre pastas.
-4. Escolha **Salvar e adicionar cartões**.
+3. Opcionalmente, escolha uma **Pasta** (ou escreva o nome de uma pasta nova) e adicione **Etiquetas**. Deixar a pasta em branco mantém o baralho no nível de topo de **Os meus baralhos**; as etiquetas agrupam baralhos entre pastas.
+4. Escolha **Guardar e adicionar cartões**.
 
 ## Adicionar cartões
 
-O espaço de trabalho do baralho tem cinco tipos de cartão (**Palavra**, **Frase**, **Verbo**, **Número**, **Gramática**) e duas outras fontes: **Enviar planilha** e **Dos marcadores**.
+O espaço de trabalho do baralho tem cinco tipos de cartão (**Palavra**, **Frase**, **Verbo**, **Número**, **Gramática**) e duas outras fontes: **Carregar folha de cálculo** e **Dos marcadores**.
 
 ### Palavras
 
@@ -44,17 +44,17 @@ Introduza números separados por vírgulas, por exemplo `17, 70, 71, 80`, e esco
 
 Escolha um nível (o seu vem primeiro) e depois marque **Todo o A2**, áreas inteiras ou notas individuais; cada um mostra quantos cartões faz, e as notas que já estão no baralho aparecem assinaladas. Escolha **Criar cartões**. Os cartões são os exercícios das notas, ou as suas frases de exemplo com o ponto em branco.
 
-## A partir de uma planilha
+## A partir de uma folha de cálculo
 
-Escolha **Enviar planilha** para importar muitos cartões de uma vez:
+Escolha **Carregar folha de cálculo** para importar muitos cartões de uma vez:
 
-1. Escolha um ficheiro **CSV ou XLSX** com duas colunas: o texto na língua que está a aprender e a sua tradução. A tradução é opcional. **Baixar template.csv** dá-lhe um ficheiro por onde começar. São lidas até 500 linhas.
+1. Escolha um ficheiro **CSV ou XLSX** com duas colunas: o texto na língua que está a aprender e a sua tradução. A tradução é opcional. **Descarregar template.csv** dá-lhe um ficheiro por onde começar. São lidas até 500 linhas.
 2. Escolha **Pré-visualizar**. Cada linha torna-se um cartão de palavra ou de frase, conforme o texto. As linhas que já estão no baralho aparecem marcadas **No baralho** e chegam desmarcadas, para não criar duplicados; as traduções que o Immersive preencheu aparecem marcadas **Auto** para as poder conferir de relance.
 3. Marque as linhas que quer e escolha **Importar cartões**.
 
 ## Do seu vocabulário
 
-**Dos marcadores** lista as palavras e frases que marcou como salvas no seu [Vocabulário](../vocabulary.md), para as línguas deste baralho, todas marcadas. Filtre por **Tudo**, **Palavras** ou **Frases**, desmarque o que não quer e escolha **Adicionar cartões**. As entradas continuam salvas no seu Vocabulário.
+**Dos marcadores** lista as palavras e frases que marcou como guardadas no seu [Vocabulário](../vocabulary.md), para as línguas deste baralho, todas marcadas. Filtre por **Tudo**, **Palavras** ou **Frases**, desmarque o que não quer e escolha **Adicionar cartões**. As entradas continuam salvas no seu Vocabulário.
 
 ## Frases de exemplo
 
@@ -68,7 +68,7 @@ Um cartão de palavra ou de verbo pode ter uma frase de exemplo. Na lista de car
 
 Nem sempre parte de um baralho em branco:
 
-- **Copie** um baralho da Biblioteca ou público para Meus Baralhos e ele passa a ser seu para estudar. Ver [Gerir baralhos](managing-decks.md).
+- **Copie** um baralho da Biblioteca ou público para **Os meus baralhos** e ele passa a ser seu para estudar. Ver [Gerir baralhos](managing-decks.md).
 - **Adicionar a um baralho** no leitor (a partir do painel **Mais** de uma palavra) ou numa página de verbo abre o espaço de trabalho do baralho com a palavra ou o verbo já preenchido.
 - **Criar um baralho com a seleção** no seu [Vocabulário](../vocabulary.md) cria um baralho novo com as entradas que marcar.
 - O Immersive enche os baralhos **Da leitura**, **Comparações ponte** e **Prática de gramática** à medida que estuda. Ver [Baralhos e Revisões](../decks.md#o-que-um-baralho-contém).

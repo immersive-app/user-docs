@@ -20,9 +20,9 @@ Pode adicionar cinco tipos de cartões:
 - **Cartões de número**: números escritos por extenso na língua que está a aprender.
 - **Cartões de gramática**: cartões de prática feitos a partir das notas de gramática que escolher, por nível, área ou nota.
 
-Os cartões vêm de muitos sítios: escritos à mão, importados de uma planilha, adicionados a partir das palavras que salvou no seu [Vocabulário](vocabulary.md), copiados com um baralho da Biblioteca ou público, ou adicionados a partir do leitor e das páginas de verbos com **Adicionar a um baralho**.
+Os cartões vêm de muitos sítios: escritos à mão, importados de uma folha de cálculo, adicionados a partir das palavras que guardou no seu [Vocabulário](vocabulary.md), copiados com um baralho da Biblioteca ou público, ou adicionados a partir do leitor e das páginas de verbos com **Adicionar a um baralho**.
 
-O Immersive também enche três baralhos por si à medida que estuda. Aparecem em Meus Baralhos como qualquer outro:
+O Immersive também enche três baralhos por si à medida que estuda. Aparecem em **Os meus baralhos** como qualquer outro:
 
 - **Da leitura (língua)**: um cartão cada vez que revela uma palavra dedutível no leitor. Ver [Ler documentos](documents/reading-documents.md).
 - **Comparações ponte (língua)**: cartões que adiciona com **Adicionar um cartão de comparação** na página de uma forma verbal. Ver [Trabalhar com verbos](verbs/working-with-verbs.md).
@@ -32,14 +32,14 @@ O Immersive também enche três baralhos por si à medida que estuda. Aparecem e
 
 Cada cartão é agendado individualmente. Quando revê um cartão, ele é avaliado com **De novo**, **Difícil**, **Bem** ou **Fácil**, e o calendário ajusta-se: os cartões que acha fáceis afastam-se mais no futuro, os que falha voltam depressa. Com o tempo, os seus minutos de revisão vão para o material que precisa deles.
 
-Pode rever em quatro modos (**Ler**, **Escrever**, **Escutar** e **Falar**), para que o mesmo baralho treine reconhecimento, ortografia, compreensão oral e fala. Ver [Rever cartões](decks/reviewing-cards.md).
+Pode rever em quatro modos (**Ler**, **Escrever**, **Ouvir** e **Falar**), para que o mesmo baralho treine reconhecimento, ortografia, compreensão oral e fala. Ver [Rever cartões](decks/reviewing-cards.md).
 
 ## A página Baralhos
 
 Abrir **Baralhos** mostra:
 
-- **Biblioteca**: baralhos prontos na língua que está a aprender, fechada até a abrir. Copie um para Meus Baralhos com o seu botão **+**.
-- **Meus Baralhos**: os seus baralhos e pastas, com colunas que mostram quantos cartões estão **Novas**, **A aprender** e **Pendentes**.
+- **Biblioteca**: baralhos prontos na língua que está a aprender, fechada até a abrir. Copie um para **Os meus baralhos** com o seu botão **+**.
+- **Os meus baralhos**: os seus baralhos e pastas, com colunas que mostram quantos cartões estão **Novas**, **A aprender** e **Pendentes**.
 - Três botões no topo: o relógio abre o seu **Histórico de revisões**, o marcador mostra apenas os baralhos que marcou, e **+** cria um baralho novo.
 
 ## Anki
@@ -47,7 +47,7 @@ Abrir **Baralhos** mostra:
 Se também usa o Anki:
 
 - **Exportar para Anki**, num baralho, seu ou da Biblioteca, prepara um ficheiro Anki (.apkg) e envia-lho por e-mail. O ficheiro contém os cartões de verbo do baralho; um baralho sem nenhum não tem botão de exportação.
-- A página **Baralhos Anki** (com ligação no rodapé das páginas públicas do Immersive) explica a exportação, com **Ir para meus baralhos** quando tem sessão iniciada. Quando há baralhos prontos, lista-os em **Baralhos gratuitos para baixar**: com sessão iniciada, descarrega diretamente; sem conta, introduz o seu endereço de e-mail para descarregar, e o Immersive envia-lhe também o seu curso gratuito do Método Ponte por e-mail, cinco lições curtas, que pode cancelar a qualquer momento.
+- A página **Baralhos Anki** (com ligação no rodapé das páginas públicas do Immersive) explica a exportação, com **Ir para os meus baralhos** quando tem sessão iniciada. Quando há baralhos prontos, lista-os em **Baralhos gratuitos para descarregar**: com sessão iniciada, descarrega diretamente; sem conta, introduz o seu endereço de e-mail para descarregar, e o Immersive envia-lhe também o seu curso gratuito do Método Ponte por e-mail, cinco lições curtas, que pode cancelar a qualquer momento.
 
 ## Nesta secção
 
