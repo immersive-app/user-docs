@@ -47,7 +47,7 @@ Obrir **Baralles** mostra:
 Si també fas servir Anki:
 
 - **Exportar a Anki** en una baralla, teva o de la Biblioteca, prepara un fitxer d'Anki (.apkg) i te l'envia per correu. El fitxer conté les targetes de verb de la baralla; una baralla sense cap no té botó d'exportació.
-- La pàgina d'**Anki** (enllaçada al peu de les pàgines públiques d'Immersive) ofereix baralles d'Anki ja fetes per descarregar. Amb la sessió iniciada, les descarregues directament. Sense compte, introdueixes la teva adreça de correu per descarregar-les; llavors Immersive també t'envia el seu curs gratuït del Mètode Pont per correu, cinc lliçons breus, del qual et pots donar de baixa en qualsevol moment.
+- La pàgina d'**Anki** (enllaçada al peu de les pàgines públiques d'Immersive) explica l'exportació, amb **Anar a les meves baralles** quan tens la sessió iniciada. Quan hi ha baralles ja fetes, les llista a **Baralles gratuïtes per descarregar**: amb la sessió iniciada, les descarregues directament; sense compte, introdueixes la teva adreça de correu per descarregar-les, i Immersive també t'envia el seu curs gratuït del Mètode Pont per correu, cinc lliçons breus, del qual et pots donar de baixa en qualsevol moment.
 
 ## En aquesta secció
 
