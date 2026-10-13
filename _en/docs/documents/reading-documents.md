@@ -71,12 +71,13 @@ Two round buttons sit at the bottom right of the reader (stacked on a phone): th
 
 - **View**: **Words** or **Sentences**.
 - **Line spacing** (1, 1.5, or 2) and **Paragraph indent** (off or on).
+- **Theme** (**Classic**, **Paper**, **Quiet**, or **Solarized**) and **Appearance** (**Light**, **Dark**, or **System**), the same choice as in [Profile → Account](../profile.md#account).
 - **Reading voice**: **Automatic voice** or a named voice, shown when voices are available for the language.
 - **Aids**: **Full** or **Light**.
 - **Read to me**, and a print button.
 - The document's level, word count, and reading time.
 
-Immersive remembers your spacing, indent, aid density, and voice (the voice per language).
+Immersive remembers your spacing, indent, aid density, theme, and voice (the voice per language). Tap outside the controls, or press Escape, to close them.
 
 ## Read to me
 
