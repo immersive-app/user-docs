@@ -74,7 +74,7 @@ Parte do material de referência do Immersive está aberta a todos:
 
 Criar conta desbloqueia as ferramentas de aprendizagem:
 
-- **[Baralhos e Revisões](docs/decks.md)**: crie baralhos de palavras, frases, formas verbais e números, e depois reveja-os nos modos Ler, Escrever, Escutar e Falar, com um calendário que se adapta à sua memória.
+- **[Baralhos e Revisões](docs/decks.md)**: crie baralhos de palavras, frases, formas verbais e números, e depois reveja-os nos modos Ler, Escrever, Ouvir e Falar, com um calendário que se adapta à sua memória.
 - **[Documentos](docs/documents.md)**: traga um texto (cole-o, envie um ficheiro ou fotografe uma página) e leia-o com tradução ao toque, áudio e ajudas de leitura. Ou escreva os seus próprios textos e receba correções e reescritas.
 - **[Gramática](docs/grammar.md)**: notas por nível QECR (A1 a C1) com exercícios, e cartões de prática que voltam para revisão.
 - **[Verbos](docs/verbs.md)**: os seus baralhos e as suas próprias frases em cada página de verbo, e comparações entre as línguas que conhece.
@@ -86,12 +86,12 @@ Tudo é gratuito durante a beta.
 
 ## Criar uma conta
 
-1. Escolha **Registrar-se**. O primeiro ecrã é a sua **grelha de idiomas**: para cada uma das seis línguas, marque **Eu falo** ou **Estou aprendendo** e escolha o seu nível, de A1 («Conheço algumas palavras e frases.») até C2 ou **Nativo**. Se estiver a aprender mais do que uma, use **Definir como idioma de aprendizado** na que quer estudar agora. Escolha um **Idioma da interface** e prima **Continuar**.
-2. Preencha o formulário da conta (nome próprio, apelido, e-mail e uma senha com pelo menos 6 caracteres) e escolha **Criar conta**.
+1. Escolha **Registar-se**. O primeiro ecrã é a sua **grelha de idiomas**: para cada uma das seis línguas, marque **Eu falo** ou **Estou aprendendo** e escolha o seu nível, de A1 («Conheço algumas palavras e frases.») até C2 ou **Nativo**. Se estiver a aprender mais do que uma, use **Definir como idioma de aprendizagem** na que quer estudar agora. Escolha um **Idioma da interface** e prima **Continuar**.
+2. Preencha o formulário da conta (nome próprio, apelido, e-mail e uma palavra-passe com pelo menos 6 caracteres) e escolha **Criar conta**.
 3. Abra o e-mail de confirmação e siga a ligação. Não pode iniciar sessão enquanto o endereço não estiver confirmado.
 4. No primeiro início de sessão, o Immersive mostra de novo a grelha de idiomas, já preenchida, para que a possa verificar. Prima **Confirmar** e chega a **Perfil → Progresso**, com primeiros passos para experimentar.
 
-Ou escolha **Continuar com a Apple** ou **Continuar com o Google** na página de registo: o seu Apple ID ou a sua conta Google cria a conta, já confirmada, e passa diretamente para a grelha de idiomas. Ver [A sua conta](docs/account.md#iniciar-sessão).
+Ou escolha **Continuar com a Apple** ou **Continuar com o Google** na página de registo: o seu ID Apple ou a sua Conta Google cria a conta, já confirmada, e passa diretamente para a grelha de idiomas. Ver [A sua conta](docs/account.md#iniciar-sessão).
 
 Um amigo que já usa o Immersive também o pode convidar por e-mail; ver [A sua conta](docs/account.md#convites).
 
@@ -103,7 +103,7 @@ Depois do primeiro início de sessão, iniciar sessão leva-o à biblioteca de v
 
 Uns bons primeiros quinze minutos:
 
-1. **Abra o seu primeiro baralho.** A página Baralhos tem uma **Biblioteca** de baralhos prontos na língua que está a aprender, como as palavras mais comuns. Copie um para Meus Baralhos com **+** e comece uma revisão. Ver [Rever cartões](docs/decks/reviewing-cards.md).
+1. **Abra o seu primeiro baralho.** A página Baralhos tem uma **Biblioteca** de baralhos prontos na língua que está a aprender, como as palavras mais comuns. Copie um para **Os meus baralhos** com **+** e comece uma revisão. Ver [Rever cartões](docs/decks/reviewing-cards.md).
 2. **Leia algo do seu nível.** Abra Documentos e escolha um texto da Biblioteca, ou importe um seu. Toque numa palavra ou frase para ver a tradução; toque de novo para a ouvir. Ver [Ler documentos](docs/documents/reading-documents.md).
 3. **Leia uma nota de gramática.** Abra Gramática: sugere-lhe por onde começar. Ver [Gramática](docs/grammar.md).
 
@@ -113,4 +113,4 @@ A partir daí, o Immersive acompanha o que estuda. Os cartões ficam pendentes s
 
 - Pergunte ao **[Coach](docs/coach.md)** sobre qualquer coisa que esteja a estudar.
 - Encontrou um erro numa nota de gramática, numa comparação ou numa correção? Use **Algo errado aqui?** nessa página; o relatório é enviado com o conteúdo a que se refere.
-- A ligação **Contatar** no rodapé das páginas públicas do Immersive (a página inicial, **Sobre**, **FAQ**) abre um formulário: o seu nome, o seu e-mail e a sua mensagem. A equipa lê tudo.
+- A ligação **Contactar** no rodapé das páginas públicas do Immersive (a página inicial, **Sobre**, **FAQ**) abre um formulário: o seu nome, o seu e-mail e a sua mensagem. A equipa lê tudo.

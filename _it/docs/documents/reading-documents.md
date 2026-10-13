@@ -73,7 +73,7 @@ Due pulsanti rotondi stanno in basso a destra nel lettore (impilati su un telefo
 - **Vista**: **Parole** o **Frasi**.
 - **Dimensione del testo**: la A piccola e la A grande rendono il testo di lettura più piccolo o più grande, in cinque passi. Le impostazioni e le schede delle parole mantengono la loro dimensione.
 - **Interlinea** (1, 1,5 o 2) e **Rientro** (no o sì).
-- **Tema** (**Classico**, **Carta**, **Quieto** o **Solarized**) e **Aspetto** (**Chiaro**, **Scuro** o **Sistema**), la stessa scelta di [Profilo → Account](../profile.md#account).
+- **Tema** (**Classico**, **Carta**, **Tranquillo** o **Solarized**) e **Aspetto** (**Chiaro**, **Scuro** o **Sistema**), la stessa scelta di [Profilo → Account](../profile.md#account).
 - **Voce di lettura**: **Voce automatica** o una voce con un nome, mostrata quando per la lingua sono disponibili delle voci.
 - **Aiuti**: **Completa** o **Leggera**.
 - **Leggi ad alta voce**, e un pulsante per stampare.
