@@ -39,7 +39,7 @@ Si l'importation échoue, la page dit pourquoi. **Réessayer** importe le même 
 
 ## Lire
 
-Sur la page **Documents**, la ligne d'un livre montre où vous en êtes, avec **Commencer** pour un nouveau livre et **Continuer** pour un livre en cours. Touchez la ligne pour la page du livre : la couverture, la table des matières et l'entrée, **Lire le chapitre 1** ou **Continuer la lecture**.
+Sur la page **Documents**, la ligne d'un livre montre où vous en êtes, avec **Commencer** pour un nouveau livre et **Continuer** pour un livre en cours. Touchez la ligne pour la page du livre : la couverture, la table des matières et l'entrée, **Lire le chapitre 1** ou **Continuer la lecture**. **Documents**, au-dessus du titre, ramène à la page Documents avec le livre mis en évidence.
 
 Un chapitre s'ouvre dans le lecteur :
 

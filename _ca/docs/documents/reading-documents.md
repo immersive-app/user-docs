@@ -71,13 +71,15 @@ Quan reveles una paraula deduïble, Immersive crea una targeta de repàs d'aquel
 Dos botons rodons són a baix a la dreta del lector (apilats en un mòbil): el botó de xat obre el [Coach](../coach.md) amb el document a la vista, i el botó dels controls lliscants obre els controls de lectura:
 
 - **Vista**: **Paraules** o **Frases**.
+- **Mida del text**: la A petita i la A gran fan el text de lectura més petit o més gran, en cinc passos. Els controls i les targetes de les paraules mantenen la seva mida.
 - **Interlineat** (1, 1,5 o 2) i **Sagnat** (sí o no).
+- **Tema** (**Clàssic**, **Paper**, **Tranquil** o **Solarized**) i **Aparença** (**Clar**, **Fosc** o **Sistema**), la mateixa opció que a [Perfil → Compte](../profile.md#compte).
 - **Veu de lectura**: **Veu automàtica** o una veu amb nom, que es mostra quan hi ha veus disponibles per a la llengua.
 - **Ajudes**: **Completa** o **Lleugera**.
 - **Llegeix en veu alta**, i un botó per imprimir.
 - El nivell del document, el recompte de paraules i el temps de lectura.
 
-Immersive recorda l'interlineat, el sagnat, la densitat d'ajudes i la veu (la veu per a cada llengua).
+Immersive recorda la mida del text, l'interlineat, el sagnat, la densitat d'ajudes, el tema i la veu (la veu per a cada llengua). Toca fora dels controls, o prem Esc, per tancar-los.
 
 ## Llegeix en veu alta
 

@@ -1,6 +1,6 @@
 ---
 title: Rever cartões
-description: Começar uma revisão, os modos Ler, Escrever, Escutar e Falar, a avaliação, os resultados, os limites diários e o histórico de revisões.
+description: Começar uma revisão, os modos Ler, Escrever, Ouvir e Falar, a avaliação, os resultados, os limites diários e o histórico de revisões.
 parent: Baralhos e Revisões
 nav_order: 2
 lang: pt
@@ -18,15 +18,15 @@ Se nada estiver pendente, o baralho diz-lhe quando chega o próximo cartão. Qua
 
 Um baralho com cartões pendentes também mostra a sua contagem de **Pendentes** como ligação na página Baralhos, que começa a revisão diretamente.
 
-Para rever um baralho da Biblioteca ou público, copie-o primeiro para Meus Baralhos.
+Para rever um baralho da Biblioteca ou público, copie-o primeiro para **Os meus baralhos**.
 
 ## Os quatro modos
 
 Separadores no topo do cartão mudam o modo. O Immersive lembra-se do modo que escolheu, para todos os seus baralhos, e começa aí da próxima vez.
 
 - **Ler**: leia o enunciado e recorde a resposta de cabeça, depois prima **Mostrar resposta** (ou Espaço) e avalie-se. As teclas numéricas de 1 a 4 escolhem uma avaliação. Quando a resposta está no cartão, as suas palavras funcionam como no leitor: toque numa para ver a tradução e ouvir o áudio.
-- **Escrever**: o cartão mostra a tradução; escreva a resposta na língua que está a aprender. **Tocar** dá-lhe peças de palavras baralhadas para pôr por ordem (colocar a última palavra envia a resposta), ou mude para **Digitar** e use o teclado, e depois **Enviar** (ou Cmd+Enter / Ctrl+Enter).
-- **Escutar**: o cartão é lido em voz alta; escreva o que ouve, com a mesma escolha entre **Tocar** e **Digitar**. Se um cartão não tiver áudio, mostra o texto.
+- **Escrever**: o cartão mostra a tradução; escreva a resposta na língua que está a aprender. **Tocar** dá-lhe peças de palavras baralhadas para pôr por ordem (colocar a última palavra envia a resposta), ou mude para **Escrever** e use o teclado, e depois **Enviar** (ou Cmd+Enter / Ctrl+Enter).
+- **Ouvir**: o cartão é lido em voz alta; escreva o que ouve, com a mesma escolha entre **Tocar** e **Escrever**. Se um cartão não tiver áudio, mostra o texto.
 - **Falar**: leia o enunciado em voz alta. **Gravar** capta a sua voz e para sozinho ao fim de dez segundos. Pode escrever o que disse em **Ou escreva o que disse**; o Immersive compara-o então com a resposta. Se o deixar vazio, ouça **A sua** e a **Referência** e avalie-se.
 
 ## Avaliação
@@ -38,7 +38,7 @@ Cada revisão termina numa de quatro avaliações:
 - **Bem**: lembrou-se com algum esforço.
 - **Fácil**: sem esforço; o cartão afasta-se o mais possível.
 
-No modo Ler, é você que escolhe a avaliação. Em Escrever, Escutar e Falar (quando escreveu o que disse), o Immersive compara a sua resposta com a esperada e propõe uma avaliação: o resultado mostra quão perto ficou («92% de correspondência · avaliado Bem»). Escolha outra avaliação para a substituir. A revisão fica guardada quando escolhe uma avaliação.
+No modo Ler, é o próprio que escolhe a avaliação. Em Escrever, Ouvir e Falar (quando escreveu o que disse), o Immersive compara a sua resposta com a esperada e propõe uma avaliação: o resultado mostra quão perto ficou («92% de correspondência · avaliado Bem»). Escolha outra avaliação para a substituir. A revisão fica guardada quando escolhe uma avaliação.
 
 Num computador, **Mostrar intervalos**, por baixo do cartão, acrescenta a cada botão de avaliação o tempo até o cartão voltar; **Ocultar intervalos** retira-os. O Immersive lembra-se da sua escolha. Os intervalos não aparecem nos telemóveis.
 

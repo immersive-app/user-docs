@@ -68,7 +68,7 @@ Una part del material de referència d'Immersive és oberta a tothom:
 
 - Explora les **taules de verbs**, amb frases d'exemple i àudio. Vegeu [Verbs](docs/verbs.md).
 - Obre qualsevol forma per llegir-ne les frases d'exemple i escoltar-la.
-- Descarrega baralles ja fetes de la pàgina d'**Anki**. Vegeu [Baralles i repassos](docs/decks.md#anki).
+- Descobreix a la pàgina d'**Anki** com portar les teves baralles a Anki. Vegeu [Baralles i repassos](docs/decks.md#anki).
 
 ## Amb un compte
 
@@ -87,7 +87,7 @@ Tot és gratuït durant la beta.
 ## Crear un compte
 
 1. Tria **Registrar-se**. La primera pantalla és la teva **graella d'idiomes**: per a cadascuna de les sis llengües, marca **El parlo** o **L'estic aprenent** i tria el teu nivell, des d'A1 («Conec algunes paraules i frases.») fins a C2 o **Natiu**. Si n'aprens més d'una, fes servir **Estableix com a idioma d'aprenentatge** en la que vols estudiar ara. Tria un **Idioma de la interfície** i prem **Continuar**.
-2. Omple el formulari del compte (nom, cognom, gènere, correu electrònic i una contrasenya d'almenys 6 caràcters) i tria **Crea un compte**.
+2. Omple el formulari del compte (nom, cognom, correu electrònic i una contrasenya d'almenys 6 caràcters) i tria **Crea un compte**.
 3. Obre el correu de confirmació i segueix-ne l'enllaç. No pots iniciar sessió fins que l'adreça estigui confirmada.
 4. El primer cop que inicies sessió, Immersive torna a mostrar la graella d'idiomes, ja omplerta, perquè la comprovis. Prem **Confirma** i arribes a **Perfil → Progrés**, amb uns primers passos per provar.
 

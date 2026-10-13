@@ -14,7 +14,7 @@ Se estuda com um professor, pode deixá-lo acompanhar o seu progresso, nos seus 
 1. Abra **Perfil → Professores** e escolha **Criar código de acesso**.
 2. Escolha o que o código desbloqueia: **Progresso** (níveis e resumos por área), **Atividade** (mapa de calor, esforço e registo de estudo) e **Vocabulário** (palavras recolhidas e as suas contagens). Progresso e Atividade vêm marcados à partida.
 3. Escolha quando o acesso **Expira**: **Fim do período** (31 de agosto), **Dentro de um mês**, **Dentro de uma semana** ou **Sem expiração**.
-4. Escolha **Criar código** e entregue o código ao seu professor, ou use **Copiar link** para lhe enviar uma ligação com o código já preenchido.
+4. Escolha **Criar código** e entregue o código ao seu professor, ou use **Copiar ligação** para lhe enviar uma ligação com o código já preenchido.
 
 Um código que ninguém reclama caduca ao fim de sete dias. Enquanto não for reclamado, aparece em **Códigos de acesso** com **Cancelar**.
 

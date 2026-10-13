@@ -35,8 +35,8 @@ Tu estudio, sumado — solo esfuerzo, nunca juicio:
 
 Después de estudiar con un compañero, podéis intercambiar evaluaciones rápidas — una impresión general (Excelente, Bien o En camino) más un comentario opcional. Es una cortesía entre estudiantes, nunca una clasificación.
 
-- **Mostrar mi código** muestra un código corto para que tu compañero lo introduzca. Los códigos duran 10 minutos y sirven una vez.
-- **Introducir un código** de la pantalla de un compañero para evaluarlo: elige una impresión, añade una frase si quieres y envíala.
+- **Mostrar mi código** muestra tu código como un código QR, con el código debajo. Tu compañero escanea el código QR con la cámara de su teléfono, o escribe el código. Los códigos duran 10 minutos y sirven una vez.
+- Para evaluar a un compañero, escanea el código QR de su pantalla con la cámara de tu teléfono, o elige **Introducir un código** y escríbelo. Después elige una impresión, añade una frase si quieres y envíala.
 
 Las evaluaciones que das y recibes se listan en la pestaña, y las evaluaciones de habla cuentan como evidencia en tu pestaña de Progreso.
 
@@ -62,10 +62,12 @@ Si estudias con un profesor, puedes dejar que siga tu progreso — en tus térmi
 
 Todo lo administrativo vive aquí:
 
-- **Cuenta** — nombre, apellido y género. Aquí se muestra tu dirección de correo electrónico.
+- **Cuenta** — nombre, apellido y **Cómo dirigirnos a ti**. Aquí se muestra tu dirección de correo electrónico.
+  Cómo dirigirnos a ti es opcional: **No indicado** (la opción por defecto), **Femenino** o **Masculino**. Algunos idiomas cambian las palabras según la persona de la que hablan, como el francés *prêt* y *prête*; esta opción fija la forma que se usa contigo.
 - **Perfil** — ubicación y foto de perfil.
 - **Idiomas** — una ficha por cada uno de los seis idiomas con tu nivel; toca una para indicar si lo hablas o lo estás aprendiendo, y a qué nivel. Bajo la cuadrícula, **Idioma de aprendizaje** e **Idioma de visualización** son el par que muestra la barra de navegación, y un interruptor oculta ese botón si lo prefieres. **Usar las lenguas que conozco para explicar la que estoy aprendiendo** activa las comparaciones entre lenguas: el cuadro *En tus idiomas* de las notas de gramática y de las formas verbales, los equivalentes en seis idiomas del lector y la [gramática de la lectura](grammar/grammar-of-reading.md) con sus subrayados de puntos. Está desactivado por defecto — la mayoría aprende una lengua a la vez.
 - **Correos** — el correo diario de repaso, activado o desactivado. Ver [Navegación](dashboard.md#el-correo-diario-de-repaso).
+- **Tema** — el estilo de Immersive: **Clásico**, **Papel**, **Tranquilo** o **Solarized**, cada uno con una **Apariencia** **Claro**, **Oscuro** o **Sistema** (la de tu dispositivo). Se guarda al elegir. Los controles de lectura ofrecen la misma opción.
 - **Métodos de acceso** — si tu cuenta está vinculada a Iniciar sesión con Apple o con Google, con **Vincular** y **Desvincular**. Ver [Tu cuenta](account.md#iniciar-sesión).
 - **Contraseña** — cambiarla pide tu contraseña actual. Tu correo electrónico se fija al registrarte y no se puede cambiar en la aplicación; usa el formulario de contacto si necesitas cambiarlo.
 - **Tus datos** — **Descarga tus datos personales** te envía por correo un enlace a todo lo que tenemos sobre

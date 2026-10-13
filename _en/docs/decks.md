@@ -46,7 +46,7 @@ Opening **Decks** shows:
 If you also use Anki:
 
 - **Export to Anki** on a deck, yours or one from the Library, prepares an Anki file (.apkg) and emails it to you. The file holds the deck's verb cards; a deck without any has no export button.
-- The **Anki** page (linked in the footer of Immersive's public pages) offers ready-made Anki decks for download. Signed in, you download directly. Without an account, you enter your email address to download; Immersive then also sends you its free Bridge Method email course, five short lessons, which you can unsubscribe from at any time.
+- The **Anki** page (linked in the footer of Immersive's public pages) explains the export, with **Go to my decks** when you are signed in. When ready-made decks are available, it lists them under **Free decks to download**: signed in, you download directly; without an account, you enter your email address to download, and Immersive also sends you its free Bridge Method email course, five short lessons, which you can unsubscribe from at any time.
 
 ## In this section
 

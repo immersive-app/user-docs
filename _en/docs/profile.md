@@ -6,7 +6,7 @@ nav_order: 9
 
 # Profile & Progress
 
-Your Profile is the command center for everything about you as a learner: where you stand, what you have done, the words you have collected, your chats with the coach, the people you study with, and your account itself. Open **Profile** from the navigation — it remembers which tab you used last. The tabs are **Progress**, **Activity**, **Evaluate**, **Vocabulary**, **Coach**, **Teachers**, and **Account**.
+Your Profile is the command centre for everything about you as a learner: where you stand, what you have done, the words you have collected, your chats with the coach, the people you study with, and your account itself. Open **Profile** from the navigation — it remembers which tab you used last. The tabs are **Progress**, **Activity**, **Evaluate**, **Vocabulary**, **Coach**, **Teachers**, and **Account**.
 
 ---
 
@@ -24,7 +24,7 @@ Until you have cards, documents, or vocabulary, the tab shows **First steps** in
 
 ## Activity
 
-Your study, added up — effort only, never judgment:
+Your study, added up — effort only, never judgement:
 
 - **This week** and **All time**: sessions, time studied, and reviews.
 - A **heatmap** of the last 12 months: one square per day, darker meaning more study, with your total study days, longest run, and current run.
@@ -34,8 +34,8 @@ Your study, added up — effort only, never judgment:
 
 After studying with a classmate, you can trade quick evaluations — one overall impression (Excellent, Good, or Getting there) plus an optional comment. It is a courtesy between learners, never a ranking.
 
-- **Show my code** displays a short code for your classmate to enter. Codes last 10 minutes and work once.
-- **Enter a code** from a classmate's screen to evaluate them: pick an impression, add a sentence if you like, and send.
+- **Show my code** shows your code as a QR code, with the code itself underneath. Your classmate scans the QR code with their phone's camera, or types the code. Codes last 10 minutes and work once.
+- To evaluate a classmate, scan the QR code on their screen with your phone's camera, or choose **Enter a code** and type it. Then pick an impression, add a sentence if you like, and send.
 
 Evaluations you give and receive are listed on the tab, and spoken evaluations count as evidence on your Progress tab.
 
@@ -61,7 +61,8 @@ If you study with a teacher, you can let them follow your progress — on your t
 
 Everything administrative lives here:
 
-- **Account** — first name, last name, and gender. Your email address is shown here.
+- **Account** — first name, last name, and **How we address you**. Your email address is shown here.
+  How we address you is optional: **Not indicated** (the default), **Feminine**, or **Masculine**. Some languages change words for the person they are about, like French *prêt* and *prête*; it sets the form used for you.
 - **Profile** — location and profile picture.
 - **Languages** — a tile for each of the six languages with your level; tap one to say whether you speak it or are learning it, and at what level. Under the grid, **Learning language** and **Display language** are the pair the navigation bar shows, and a switch hides that button if you prefer. **Use the languages I know to explain the one I'm learning** turns on the cross-language comparisons: the *Across your languages* box on grammar notes and verb forms, the six-language equivalents in the reader, and the [grammar of reading](grammar/grammar-of-reading.md) with its dotted underlines. It is off by default — most people learn one language at a time.
 - **Emails** — the daily review email, on or off. See [Navigation](dashboard.md#the-daily-review-email).

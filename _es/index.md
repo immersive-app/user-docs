@@ -68,7 +68,7 @@ Parte del material de referencia de Immersive está abierto a todo el mundo:
 
 - Explora las **tablas de verbos**, con frases de ejemplo y audio. Ver [Verbos](docs/verbs.md).
 - Abre cualquier forma para leer sus frases de ejemplo y oírla pronunciada.
-- Descarga mazos listos para usar desde la página **Anki**. Ver [Mazos y repasos](docs/decks.md#anki).
+- Descubre en la página **Anki** cómo llevar tus mazos a Anki. Ver [Mazos y repasos](docs/decks.md#anki).
 
 ## Con una cuenta
 
@@ -87,7 +87,7 @@ Todo es gratuito durante la beta.
 ## Crear una cuenta
 
 1. Elige **Registrarse**. La primera pantalla es tu **cuadrícula de idiomas**: para cada uno de los seis idiomas, marca **Lo hablo** o **Lo estoy aprendiendo** y elige tu nivel, desde A1 («Conozco algunas palabras y frases.») hasta C2 o **Nativo**. Si aprendes más de uno, usa **Establecer como idioma de aprendizaje** en el que quieras estudiar ahora. Elige un **Idioma de la interfaz** y pulsa **Continuar**.
-2. Rellena el formulario de la cuenta (nombre, apellido, género, correo electrónico y una contraseña de al menos 6 caracteres) y elige **Crear cuenta**.
+2. Rellena el formulario de la cuenta (nombre, apellido, correo electrónico y una contraseña de al menos 6 caracteres) y elige **Crear cuenta**.
 3. Abre el correo de confirmación y sigue su enlace. No puedes iniciar sesión hasta que la dirección esté confirmada.
 4. La primera vez que inicias sesión, Immersive vuelve a mostrar la cuadrícula de idiomas, ya rellenada, para que la compruebes. Pulsa **Confirmar** y llegas a **Perfil → Progreso**, con primeros pasos para probar.
 
