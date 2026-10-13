@@ -71,13 +71,15 @@ Cuando revelas una palabra deducible, Immersive crea una tarjeta de repaso a par
 Dos botones redondos están en la parte inferior derecha del lector (apilados en un teléfono): el botón de chat abre el [Coach](../coach.md) con el documento a la vista, y el botón de los controles deslizantes abre los controles de lectura:
 
 - **Vista**: **Palabras** o **Frases**.
+- **Tamaño del texto**: la A pequeña y la A grande hacen el texto de lectura más pequeño o más grande, en cinco pasos. Los controles y las tarjetas de las palabras mantienen su tamaño.
 - **Interlineado** (1, 1.5 o 2) y **Sangría** (desactivada o activada).
+- **Tema** (**Clásico**, **Papel**, **Tranquilo** o **Solarized**) y **Apariencia** (**Claro**, **Oscuro** o **Sistema**), la misma opción que en [Perfil → Cuenta](../profile.md#cuenta).
 - **Voz de lectura**: **Voz automática** o una voz con nombre, que se muestra cuando hay voces disponibles para el idioma.
 - **Ayudas**: **Completa** o **Ligera**.
 - **Leer en voz alta**, y un botón para imprimir.
 - El nivel del documento, su recuento de palabras y su tiempo de lectura.
 
-Immersive recuerda tu interlineado, tu sangría, la densidad de ayudas y la voz (la voz, por idioma).
+Immersive recuerda tu tamaño de texto, tu interlineado, tu sangría, la densidad de ayudas, tu tema y la voz (la voz, por idioma). Toca fuera de los controles, o pulsa Esc, para cerrarlos.
 
 ## Leer en voz alta
 

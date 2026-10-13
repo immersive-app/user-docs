@@ -38,7 +38,7 @@ If the import fails, the page says why. **Try again** imports the same file from
 
 ## Reading
 
-On the **Documents** page, a book's row shows how far you are, with **Start** for a new book and **Continue** for one you are reading. Tap the row for the book's page: the cover, the contents, and the way in, **Read chapter 1** or **Continue reading**.
+On the **Documents** page, a book's row shows how far you are, with **Start** for a new book and **Continue** for one you are reading. Tap the row for the book's page: the cover, the contents, and the way in, **Read chapter 1** or **Continue reading**. **Documents**, above the title, goes back to the Documents page with the book highlighted.
 
 A chapter opens in the reader:
 

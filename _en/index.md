@@ -67,7 +67,7 @@ Some of Immersive's reference material is open to everyone:
 
 - Browse the **verb tables**, with example sentences and audio. See [Verbs](docs/verbs.md).
 - Open any single form to read its example sentences and hear it spoken.
-- Download ready-made decks from the **Anki** page. See [Decks & Reviews](docs/decks.md#anki).
+- Find out how to take your decks to Anki on the **Anki** page. See [Decks & Reviews](docs/decks.md#anki).
 
 ## With an account
 
@@ -86,7 +86,7 @@ Everything is free during the beta.
 ## Creating an account
 
 1. Choose **Sign up**. The first screen is your **language grid**: for each of the six languages, mark **I speak it** or **I'm learning it** and pick your level, from A1 ("I know a few words and phrases.") up to C2 or **Native**. If you are learning more than one, use **Set as learning language** on the one to study now. Pick a **Display language**, and press **Continue**.
-2. Fill in the account form (first name, last name, gender, email, and a password of at least 6 characters) and choose **Create account**.
+2. Fill in the account form (first name, last name, email, and a password of at least 6 characters) and choose **Create account**.
 3. Open the confirmation email and follow its link. You cannot sign in until the address is confirmed.
 4. On your first sign-in, Immersive shows the language grid again, filled in, so you can check it. Press **Confirm** and you land on **Profile → Progress**, with first steps to try.
 

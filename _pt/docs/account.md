@@ -11,23 +11,23 @@ Criar uma conta está explicado em [Começar](../index.md#criar-uma-conta). Esta
 
 ## Iniciar sessão
 
-**Conectar-se** pede o seu e-mail e a sua senha. **Lembrar-se de mim** mantém a sessão iniciada nesse dispositivo.
+**Iniciar sessão** pede o seu e-mail e a sua palavra-passe. **Lembrar-se de mim** mantém a sessão iniciada nesse dispositivo.
 
-**Continuar com a Apple** e **Continuar com o Google**, nas páginas de início de sessão e de registo e no ecrã de início de sessão da app iOS, iniciam a sessão com o seu Apple ID ou a sua conta Google. Uma conta criada assim não tem senha para escrever, e uma conta existente com o mesmo e-mail (verificado pelo Google, no caso do Google) é vinculada, não duplicada. **Perfil → Conta → Métodos de login** mostra se a sua conta está vinculada à Apple ou ao Google e permite vinculá-la ou desvinculá-la.
+**Continuar com a Apple** e **Continuar com o Google**, nas páginas de início de sessão e de registo e no ecrã de início de sessão da app iOS, iniciam a sessão com o seu ID Apple ou a sua Conta Google. Uma conta criada assim não tem senha para escrever, e uma conta existente com o mesmo e-mail (verificado pelo Google, no caso do Google) é vinculada, não duplicada. **Perfil → Conta → Métodos de login** mostra se a sua conta está vinculada à Apple ou ao Google e permite vinculá-la ou desvinculá-la.
 
-Terminar sessão: abra a sua foto de perfil na barra de navegação e escolha **Desconectar-se**.
+Terminar sessão: abra a sua foto de perfil na barra de navegação e escolha **Terminar sessão**.
 
 ## Não consegue entrar?
 
-**Não consegue fazer login?**, na página de início de sessão, oferece três formas de voltar a entrar:
+**Não consegue iniciar sessão?**, na página de início de sessão, oferece três formas de voltar a entrar:
 
-- **Esqueceu a senha?** envia-lhe por e-mail uma ligação para escolher uma senha nova. A ligação funciona durante seis horas.
-- **Desbloquear minha conta**: depois de três senhas erradas seguidas, a sua conta fica bloqueada, e esta opção envia-lhe por e-mail uma ligação de desbloqueio.
+- **Esqueceu-se da palavra-passe?** envia-lhe por e-mail uma ligação para escolher uma palavra-passe nova. A ligação funciona durante seis horas.
+- **Desbloquear a minha conta**: depois de três palavras-passe erradas seguidas, a sua conta fica bloqueada, e esta opção envia-lhe por e-mail uma ligação de desbloqueio.
 - **Reenviar confirmação de conta**: para quando o e-mail de confirmação do registo se perdeu.
 
-## Mudar a senha
+## Mudar a palavra-passe
 
-Em **Perfil → Conta → Senha**, introduza a senha atual e a nova duas vezes, e depois **Atualizar senha**. O seu endereço de e-mail aparece aí, mas não pode ser alterado na aplicação.
+Em **Perfil → Conta → Palavra-passe**, introduza a palavra-passe atual e a nova duas vezes, e depois **Atualizar palavra-passe**. O seu endereço de e-mail aparece aí, mas não pode ser alterado na aplicação.
 
 ## Convites
 
@@ -35,18 +35,18 @@ Com sessão iniciada, **Convidar um amigo**, no rodapé das páginas públicas d
 
 ## E-mails do Immersive
 
-- **E-mails da conta**: confirmar o seu endereço, redefinir a senha, desbloquear a conta.
+- **E-mails da conta**: confirmar o seu endereço, redefinir a palavra-passe, desbloquear a conta.
 - **O e-mail diário de revisão**, quando os seus baralhos têm cartões à espera; desative-o ou ative-o em **Perfil → Conta → E-mails**. Ver [Navegação](dashboard.md#o-e-mail-diário-de-revisão).
 - **Exportações para o Anki** que pedir, com o ficheiro do baralho em anexo. Ver [Gerir baralhos](decks/managing-decks.md#exportar-para-o-anki).
 - **Os seus dados pessoais**, quando os pedir (abaixo).
 
 ## Os seus dados
 
-**Baixar seus dados pessoais**, em **Perfil → Conta**, pede ao Immersive que prepare uma cópia dos seus dados. O Immersive envia-lhe por e-mail uma ligação para ela no prazo de um dia. Pedir de novo enquanto uma cópia está a caminho só lhe diz que ela vem a caminho.
+**Descarregar os seus dados pessoais**, em **Perfil → Conta**, pede ao Immersive que prepare uma cópia dos seus dados. O Immersive envia-lhe por e-mail uma ligação para ela no prazo de um dia. Pedir de novo enquanto uma cópia está a caminho só lhe diz que ela vem a caminho.
 
 ## Eliminar a conta
 
-**Remover minha conta**, em **Perfil → Conta**, elimina a sua conta e todos os seus dados, depois de uma confirmação. Não é possível desfazer. A sessão termina de imediato.
+**Remover a minha conta**, em **Perfil → Conta**, elimina a sua conta e todos os seus dados, depois de uma confirmação. Não é possível desfazer. A sessão termina de imediato.
 
 ## Para saber mais
 

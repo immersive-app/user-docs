@@ -21,7 +21,7 @@ Cada verbo aparece listado pelo infinitivo, com a sua tradução na sua língua,
 
 ### Um verbo que não está na lista
 
-Se nada corresponder à sua pesquisa, o Immersive oferece **Adicioná-lo se for um verbo de** (língua). Verifica a palavra: um verbo conhecido abre-se, um verbo novo é adicionado e as suas conjugações são geradas (atualize a página dentro de um minuto), e qualquer outra coisa recebe uma explicação curta, como «Digite uma única palavra, apenas letras.»
+Se nada corresponder à sua pesquisa, o Immersive oferece **Adicioná-lo se for um verbo de** (língua). Verifica a palavra: um verbo conhecido abre-se, um verbo novo é adicionado e as suas conjugações são geradas (atualize a página dentro de um minuto), e qualquer outra coisa recebe uma explicação curta, como «Escreva uma única palavra, apenas letras.»
 
 ## Ler uma tabela de conjugação
 

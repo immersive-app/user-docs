@@ -39,7 +39,7 @@ Si la importación falla, la página dice por qué. **Reintentar** importa el mi
 
 ## Leer
 
-En la página de **Documentos**, la fila de un libro muestra por dónde vas, con **Empezar** para un libro nuevo y **Continuar** para uno que estás leyendo. Toca la fila para ver la página del libro: la portada, el índice y la entrada, **Leer el capítulo 1** o **Seguir leyendo**.
+En la página de **Documentos**, la fila de un libro muestra por dónde vas, con **Empezar** para un libro nuevo y **Continuar** para uno que estás leyendo. Toca la fila para ver la página del libro: la portada, el índice y la entrada, **Leer el capítulo 1** o **Seguir leyendo**. **Documentos**, sobre el título, vuelve a la página de Documentos con el libro resaltado.
 
 Un capítulo se abre en el lector:
 

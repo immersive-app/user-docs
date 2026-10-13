@@ -69,7 +69,7 @@ Une partie du matériel de référence d'Immersive est ouverte à tous :
 
 - Parcourir les **tableaux de conjugaison**, avec phrases d'exemple et audio. Voir [Verbes](docs/verbs.md).
 - Ouvrir n'importe quelle forme pour lire ses phrases d'exemple et l'écouter.
-- Télécharger des paquets prêts à l'emploi depuis la page **Anki**. Voir [Paquets et révisions](docs/decks.md#anki).
+- Découvrir sur la page **Anki** comment emporter vos paquets dans Anki. Voir [Paquets et révisions](docs/decks.md#anki).
 
 ## Avec un compte
 
@@ -88,7 +88,7 @@ Tout est gratuit pendant la bêta.
 ## Créer un compte
 
 1. Choisissez **S'inscrire**. Le premier écran est votre **grille de langues** : pour chacune des six langues, cochez **Je le parle** ou **Je l'apprends** et choisissez votre niveau, de A1 (« Je connais quelques mots et expressions. ») jusqu'à C2 ou **Langue maternelle**. Si vous en apprenez plusieurs, utilisez **Définir comme langue d'apprentissage** sur celle à étudier maintenant. Choisissez une **Langue d'affichage**, et appuyez sur **Continuer**.
-2. Remplissez le formulaire du compte (prénom, nom de famille, genre, e-mail et un mot de passe d'au moins 6 caractères) et choisissez **Créer un compte**.
+2. Remplissez le formulaire du compte (prénom, nom de famille, e-mail et un mot de passe d'au moins 6 caractères) et choisissez **Créer un compte**.
 3. Ouvrez l'e-mail de confirmation et suivez son lien. Vous ne pouvez pas vous connecter tant que l'adresse n'est pas confirmée.
 4. À votre première connexion, Immersive affiche de nouveau la grille de langues, remplie, pour que vous la vérifiiez. Appuyez sur **Confirmer** et vous arrivez sur **Profil → Progression**, avec des premiers pas à essayer.
 

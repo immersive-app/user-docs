@@ -35,8 +35,8 @@ Vos études, additionnées — l'effort seulement, jamais le jugement :
 
 Après avoir étudié avec un camarade, vous pouvez échanger des évaluations rapides — une impression globale (Excellent, Bien ou En progrès) plus un commentaire facultatif. C'est une courtoisie entre apprenants, jamais un classement.
 
-- **Montrer mon code** affiche un code court que votre camarade saisit. Les codes durent 10 minutes et servent une fois.
-- **Saisir un code** depuis l'écran d'un camarade pour l'évaluer : choisissez une impression, ajoutez une phrase si vous voulez, et envoyez.
+- **Montrer mon code** affiche votre code sous forme de QR code, avec le code lui-même en dessous. Votre camarade scanne le QR code avec l'appareil photo de son téléphone, ou tape le code. Les codes durent 10 minutes et servent une fois.
+- Pour évaluer un camarade, scannez le QR code sur son écran avec l'appareil photo de votre téléphone, ou choisissez **Saisir un code** et tapez-le. Choisissez ensuite une impression, ajoutez une phrase si vous voulez, et envoyez.
 
 Les évaluations données et reçues sont listées sur l'onglet, et les évaluations orales comptent comme preuves sur votre onglet Progression.
 
@@ -62,11 +62,13 @@ Si vous étudiez avec un professeur, vous pouvez le laisser suivre vos progrès 
 
 Tout l'administratif se trouve ici :
 
-- **Compte** — prénom, nom de famille et genre. Votre adresse e-mail est affichée ici.
+- **Compte** — prénom, nom de famille et **Comment s'adresser à vous**. Votre adresse e-mail est affichée ici.
+  Comment s'adresser à vous est facultatif : **Non indiqué** (par défaut), **Féminin** ou **Masculin**. Certaines langues accordent les mots selon la personne dont ils parlent, comme *prêt* et *prête* ; ce choix fixe la forme employée pour vous.
 - **Profil** — localisation et photo de profil.
 - **Langues** — une tuile pour chacune des six langues avec votre niveau ; touchez-en une pour dire si vous la parlez ou l'apprenez, et à quel niveau. Sous la grille, **Langue d'apprentissage** et **Langue d'affichage** sont la paire que montre la barre de navigation, et un interrupteur masque ce bouton si vous préférez. **Utiliser les langues que je connais pour expliquer celle que j'apprends** active les comparaisons entre langues : l'encadré *Dans vos langues* des notes de grammaire et des formes verbales, les équivalents dans les six langues du lecteur, et la [grammaire de la lecture](grammar/grammar-of-reading.md) avec ses soulignements pointillés. Désactivé par défaut : la plupart apprennent une langue à la fois.
 - **E-mails** — l'e-mail quotidien de révision, activé ou non. Voir [Navigation](dashboard.md#le-mail-quotidien-de-révision).
-- **Méthodes de connexion** — si votre compte est associé à Apple (Se connecter avec Apple) ou à Google, avec **Associer Apple** et **Dissocier Apple**. Voir [Votre compte](account.md#se-connecter).
+- **Thème** — le style d'Immersive : **Classique**, **Papier**, **Calme** ou **Solarized**, chacun avec une **Apparence** **Clair**, **Sombre** ou **Système** (celle de votre appareil). Enregistré dès que vous choisissez. Les réglages de lecture proposent le même choix.
+- **Méthodes de connexion** — si votre compte est associé à Apple (Se connecter avec Apple) ou à Google, avec **Associer Apple** ou **Associer Google**, et **Dissocier** suivi du service associé. Voir [Votre compte](account.md#se-connecter).
 - **Mot de passe** — le modifier demande votre mot de passe actuel. Votre adresse e-mail est fixée à l'inscription et ne peut pas être changée dans l'application ; utilisez le formulaire de contact si vous devez la changer.
 - **Vos données** — **Télécharger vos données personnelles** vous envoie par e-mail un lien vers tout ce que
   nous avons sur vous : vos paquets et vos cartes, vos documents et les fichiers que vous avez importés pour

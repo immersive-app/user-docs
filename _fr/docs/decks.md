@@ -47,7 +47,7 @@ Ouvrir **Paquets** affiche :
 Si vous utilisez aussi Anki :
 
 - **Exporter vers Anki** sur un paquet, le vôtre ou un paquet de la Bibliothèque, prépare un fichier Anki (.apkg) et vous l'envoie par e-mail. Le fichier contient les cartes de verbe du paquet ; un paquet qui n'en a aucune n'a pas de bouton d'export.
-- La page **Anki** (en lien dans le pied de page des pages publiques d'Immersive) propose des paquets Anki prêts à télécharger. Connecté, vous téléchargez directement. Sans compte, vous saisissez votre adresse e-mail pour télécharger ; Immersive vous envoie alors aussi son cours gratuit par e-mail sur la Méthode des Ponts, cinq courtes leçons, dont vous pouvez vous désabonner à tout moment.
+- La page **Anki** (en lien dans le pied de page des pages publiques d'Immersive) explique l'export, avec **Voir mes paquets** quand vous êtes connecté. Quand des paquets prêts à l'emploi sont disponibles, elle les liste sous **Paquets gratuits à télécharger** : connecté, vous téléchargez directement ; sans compte, vous saisissez votre adresse e-mail pour télécharger, et Immersive vous envoie aussi son cours gratuit par e-mail sur la Méthode des Ponts, cinq courtes leçons, dont vous pouvez vous désabonner à tout moment.
 
 ## Dans cette section
 

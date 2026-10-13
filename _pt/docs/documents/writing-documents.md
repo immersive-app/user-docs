@@ -14,7 +14,7 @@ Escrever é onde uma língua se torna sua. O editor dá-lhe uma página limpa na
 
 1. Abra **Documentos** e escolha **+** (**Criar um novo documento**), ou abra um documento e mude para **Escrever** no topo do leitor.
 2. Escreva. A barra de ferramentas oferece negrito, itálico, títulos, listas e citações, além de recuo de parágrafo, entrelinha e impressão, e mostra uma contagem de palavras em curso.
-3. **Salvar** quando quiser. Um documento guardado pode ser lido como qualquer outro, com traduções, áudio e ajudas de leitura.
+3. **Guardar** quando quiser. Um documento guardado pode ser lido como qualquer outro, com traduções, áudio e ajudas de leitura.
 
 **Tema**, **Coach**, **Histórico**, **Corrigir** e o assistente aparecem depois de o documento ter sido guardado pela primeira vez. O menu de ficheiros no topo lista os outros documentos da mesma pasta, para poder passar de um para outro. Dois botões redondos ficam no canto inferior direito, como no leitor: o botão de conversa abre o [Coach](../coach.md) com o documento à vista, e o botão dos controlos deslizantes abre o assistente de escrita.
 
@@ -30,7 +30,7 @@ Sem ideias? A barra **Tema** sugere algo sobre que escrever, no seu nível. **No
 
 ## Correções
 
-Quando o rascunho estiver pronto, guarde-o e escolha **Corrigir**. A correção demora um momento («Corrigindo o seu texto…»); a página **Correção de escrita** terminada mostra:
+Quando o rascunho estiver pronto, guarde-o e escolha **Corrigir**. A correção demora um momento («A corrigir o seu texto…»); a página **Correção de escrita** terminada mostra:
 
 - **Estimativa QECR**: o nível da escrita do seu texto.
 - **Texto corrigido**, com **Aplicar ao documento**.
