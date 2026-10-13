@@ -18,18 +18,18 @@ La page d'un niveau ou d'un domaine propose **Tout pratiquer**, avec le nombre d
 
 ## Réviser la grammaire
 
-Les révisions de grammaire peuvent porter sur une note, un domaine, un niveau ou tout :
+Les révisions de grammaire peuvent porter sur une note, un domaine, un niveau ou tout :
 
-- Sur la page Grammaire : **Réviser 3 cartes**, ou **S'entraîner · 5 nouvelles** quand rien n'est à revoir.
-- Sur la page d'un niveau : **Réviser 3 cartes au niveau B1**.
-- Sur la page d'un domaine : **Réviser ce domaine** ou **S'entraîner sur ce domaine**.
-- Sur une note : **S'entraîner**.
+- Sur la page Grammaire : **Réviser 3 cartes**, ou **S'entraîner · 5 nouvelles** quand rien n'est à revoir.
+- Sur la page d'un niveau : **Réviser 3 cartes au niveau B1**.
+- Sur la page d'un domaine : **Réviser ce domaine** ou **S'entraîner sur ce domaine**.
+- Sur une note : **S'entraîner**.
 
-La révision fonctionne comme celle d'un paquet (voir [Réviser les cartes](../decks/reviewing-cards.md)), avec trois modes :
+La révision fonctionne comme celle d'un paquet (voir [Réviser les cartes](../decks/reviewing-cards.md)), avec trois modes :
 
-- **Lire** : lisez la carte, rappelez-vous la réponse et notez-vous (**Notez pour continuer**).
-- **Écrire** : tapez la réponse ; Immersive la vérifie et propose une note.
-- **Choisir** : choisissez la bonne forme parmi les options (les touches numériques fonctionnent aussi) ; choisir envoie la réponse et note la carte.
+- **Lire** : lisez la carte, rappelez-vous la réponse et notez-vous (**Notez pour continuer**).
+- **Écrire** : tapez la réponse ; Immersive la vérifie et propose une note.
+- **Choisir** : choisissez la bonne forme parmi les options (les touches numériques fonctionnent aussi) ; choisir envoie la réponse et note la carte.
 
 Immersive se souvient du mode utilisé pour la grammaire séparément de vos révisions de paquets. Une carte à laquelle on ne peut pas répondre dans le mode choisi s'affiche dans le mode le plus proche qui convient.
 

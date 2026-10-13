@@ -7,23 +7,23 @@ lang: fr
 
 # Votre compte
 
-La création d'un compte est traitée dans [Bien démarrer](../index.md#créer-un-compte). Cette page couvre tout ce qui vient ensuite. Vos réglages se trouvent dans **Profil → Compte** ; voir [Profil et progression](profile.md#compte).
+La création d'un compte est traitée dans [Bien démarrer](../index.md#créer-un-compte). Cette page couvre tout ce qui vient ensuite. Vos réglages se trouvent dans **Profil → Compte** ; voir [Profil et progression](profile.md#compte).
 
 ## Se connecter
 
-**S'identifier** demande votre e-mail et votre mot de passe. **Se souvenir de moi ?** vous garde connecté sur cet appareil.
+**S'identifier** demande votre e-mail et votre mot de passe. **Se souvenir de moi ?** vous garde connecté sur cet appareil.
 
 **Continuer avec Apple** et **Continuer avec Google**, sur les pages de connexion et d'inscription et sur l'écran de connexion de l'app iOS, vous connectent avec votre identifiant Apple ou votre compte Google à la place. Un compte créé ainsi n'a pas de mot de passe à saisir, et un compte existant avec le même e-mail (vérifié par Google, dans le cas de Google) est associé plutôt que dupliqué. **Profil → Compte → Méthodes de connexion** indique si votre compte est associé à Apple ou à Google, et permet de l'associer ou de le dissocier.
 
-Pour vous déconnecter : ouvrez votre photo de profil dans la barre de navigation et choisissez **Se déconnecter**.
+Pour vous déconnecter : ouvrez votre photo de profil dans la barre de navigation et choisissez **Se déconnecter**.
 
 ## Connexion impossible
 
-**Vous ne pouvez pas vous connecter?**, sur la page de connexion, propose trois façons de revenir :
+**Vous ne pouvez pas vous connecter ?**, sur la page de connexion, propose trois façons de revenir :
 
-- **Mot de passe oublié?** vous envoie par e-mail un lien pour choisir un nouveau mot de passe. Le lien fonctionne pendant six heures.
-- **Débloquer mon compte** : après trois mots de passe erronés d'affilée, votre compte se verrouille, et ceci vous envoie par e-mail un lien de déblocage.
-- **Renvoyer la confirmation du compte** : quand l'e-mail de confirmation de l'inscription s'est perdu.
+- **Mot de passe oublié ?** vous envoie par e-mail un lien pour choisir un nouveau mot de passe. Le lien fonctionne pendant six heures.
+- **Débloquer mon compte** : après trois mots de passe erronés d'affilée, votre compte se verrouille, et ceci vous envoie par e-mail un lien de déblocage.
+- **Renvoyer la confirmation du compte** : quand l'e-mail de confirmation de l'inscription s'est perdu.
 
 ## Changer de mot de passe
 
@@ -31,12 +31,12 @@ Dans **Profil → Compte → Mot de passe**, saisissez votre mot de passe actuel
 
 ## Invitations
 
-Une fois connecté, **Inviter un ami**, dans le pied de page des pages publiques d'Immersive, envoie une invitation par e-mail : saisissez le prénom, le nom et l'e-mail de votre ami, et choisissez **Envoyer**. Votre ami suit le lien de l'e-mail, choisit la langue qu'il parle et celle qu'il veut apprendre, et définit un mot de passe.
+Une fois connecté, **Inviter un ami**, dans le pied de page des pages publiques d'Immersive, envoie une invitation par e-mail : saisissez le prénom, le nom et l'e-mail de votre ami, et choisissez **Envoyer**. Votre ami suit le lien de l'e-mail, choisit la langue qu'il parle et celle qu'il veut apprendre, et définit un mot de passe.
 
 ## E-mails d'Immersive
 
-- **Les e-mails du compte** : confirmer votre adresse, réinitialiser votre mot de passe, débloquer votre compte.
-- **L'e-mail quotidien de révision**, quand vos paquets ont des cartes en attente ; désactivez-le ou réactivez-le dans **Profil → Compte → E-mails**. Voir [Navigation](dashboard.md#le-mail-quotidien-de-révision).
+- **Les e-mails du compte** : confirmer votre adresse, réinitialiser votre mot de passe, débloquer votre compte.
+- **L'e-mail quotidien de révision**, quand vos paquets ont des cartes en attente ; désactivez-le ou réactivez-le dans **Profil → Compte → E-mails**. Voir [Navigation](dashboard.md#le-mail-quotidien-de-révision).
 - **Les exports Anki** que vous demandez, avec le fichier du paquet en pièce jointe. Voir [Gérer les paquets](decks/managing-decks.md#exporter-vers-anki).
 - **Vos données personnelles**, quand vous les demandez (plus bas).
 

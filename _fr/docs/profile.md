@@ -7,7 +7,7 @@ lang: fr
 
 # Profil et progression
 
-Votre Profil est le centre de commande de tout ce qui vous concerne en tant qu'apprenant : où vous en êtes, ce que vous avez fait, les mots que vous avez collectés, vos chats avec le coach, les personnes avec qui vous étudiez et votre compte lui-même. Ouvrez **Profil** depuis la navigation — il se souvient du dernier onglet utilisé. Les onglets sont **Progression**, **Activité**, **Évaluer**, **Vocabulaire**, **Coach**, **Professeurs** et **Compte**.
+Votre Profil est le centre de commande de tout ce qui vous concerne en tant qu'apprenant : où vous en êtes, ce que vous avez fait, les mots que vous avez collectés, vos chats avec le coach, les personnes avec qui vous étudiez et votre compte lui-même. Ouvrez **Profil** depuis la navigation — il se souvient du dernier onglet utilisé. Les onglets sont **Progression**, **Activité**, **Évaluer**, **Vocabulaire**, **Coach**, **Professeurs** et **Compte**.
 
 ---
 
@@ -17,19 +17,19 @@ Votre Profil est le centre de commande de tout ce qui vous concerne en tant qu'a
 
 **Par domaine.** Des bilans pour chaque domaine — vos paquets (cartes maîtrisées, en apprentissage, nouvelles et à revoir maintenant), votre grammaire (niveau de travail, notes commencées, maîtrise et cartes à revoir), vos documents, votre vocabulaire et vos écrits notés. Les lignes des paquets, de la grammaire, des documents et du vocabulaire ouvrent leur section.
 
-**À suivre.** Ce qui attend réellement : les cartes à réviser, les cartes de grammaire à revoir, les mots de la semaine pas encore dans un paquet. Quand rien n'attend, c'est dit clairement.
+**À suivre.** Ce qui attend réellement : les cartes à réviser, les cartes de grammaire à revoir, les mots de la semaine pas encore dans un paquet. Quand rien n'attend, c'est dit clairement.
 
 **Langues.** La langue que vous apprenez d'abord, avec son niveau (**Niveau non défini** tant que vous n'en choisissez pas un), puis les langues que vous parlez, avec **Modifier** pour les changer. Les comparaisons et les indices s'appuient dessus.
 
-Tant que vous n'avez ni cartes, ni documents, ni vocabulaire, l'onglet affiche à la place **Premiers pas** : votre niveau de départ indiqué à l'inscription et jusqu'à trois actions concrètes — ouvrir votre premier paquet, lire quelque chose à votre niveau et lire votre première note de grammaire.
+Tant que vous n'avez ni cartes, ni documents, ni vocabulaire, l'onglet affiche à la place **Premiers pas** : votre niveau de départ indiqué à l'inscription et jusqu'à trois actions concrètes — ouvrir votre premier paquet, lire quelque chose à votre niveau et lire votre première note de grammaire.
 
 ## Activité
 
-Vos études, additionnées — l'effort seulement, jamais le jugement :
+Vos études, additionnées — l'effort seulement, jamais le jugement :
 
-- **Cette semaine** et **Depuis le début** : sessions, temps d'étude et révisions.
-- Une **heatmap** des 12 derniers mois : un carré par jour, plus foncé signifie plus d'étude, avec votre total de jours d'étude, votre plus longue série et votre série en cours.
-- Le **journal d'étude** : vos sessions et vos révisions, jour par jour, filtrable par type d'activité, avec un journal complet disponible.
+- **Cette semaine** et **Depuis le début** : sessions, temps d'étude et révisions.
+- Une **heatmap** des 12 derniers mois : un carré par jour, plus foncé signifie plus d'étude, avec votre total de jours d'étude, votre plus longue série et votre série en cours.
+- Le **journal d'étude** : vos sessions et vos révisions, jour par jour, filtrable par type d'activité, avec un journal complet disponible.
 
 ## Évaluer
 
@@ -50,28 +50,28 @@ Vos chats avec le coach, les plus récents d'abord, chacun marqué de ce sur quo
 
 ## Professeurs
 
-Si vous étudiez avec un professeur, vous pouvez le laisser suivre vos progrès — à vos conditions :
+Si vous étudiez avec un professeur, vous pouvez le laisser suivre vos progrès — à vos conditions :
 
-1. Choisissez **Créer un code d'accès** et sélectionnez exactement ce qu'il déverrouille : Progression, Activité et/ou Vocabulaire.
+1. Choisissez **Créer un code d'accès** et sélectionnez exactement ce qu'il déverrouille : Progression, Activité et/ou Vocabulaire.
 2. Définissez une expiration (une semaine, un mois, la fin du trimestre, ou aucune) et remettez le code à votre professeur.
 3. Il le réclame et voit les parties que vous avez choisies — en lecture seule, jamais les détails de votre compte.
 
-**Révoquez** l'accès de n'importe quel professeur à tout moment ; il prend fin immédiatement. Les codes non réclamés peuvent être annulés, et expirent après sept jours. Voir [Professeurs](teachers.md) pour les détails et ce que voit votre professeur.
+**Révoquez** l'accès de n'importe quel professeur à tout moment ; il prend fin immédiatement. Les codes non réclamés peuvent être annulés, et expirent après sept jours. Voir [Professeurs](teachers.md) pour les détails et ce que voit votre professeur.
 
 ## Compte
 
-Tout l'administratif se trouve ici :
+Tout l'administratif se trouve ici :
 
 - **Compte** — prénom, nom de famille et **Comment s'adresser à vous**. Votre adresse e-mail est affichée ici.
-  Comment s'adresser à vous est facultatif : **Non indiqué** (par défaut), **Féminin** ou **Masculin**. Certaines langues accordent les mots selon la personne dont ils parlent, comme *prêt* et *prête* ; ce choix fixe la forme employée pour vous.
+  Comment s'adresser à vous est facultatif : **Non indiqué** (par défaut), **Féminin** ou **Masculin**. Certaines langues accordent les mots selon la personne dont ils parlent, comme *prêt* et *prête* ; ce choix fixe la forme employée pour vous.
 - **Profil** — localisation et photo de profil.
-- **Langues** — une tuile pour chacune des six langues avec votre niveau ; touchez-en une pour dire si vous la parlez ou l'apprenez, et à quel niveau. Sous la grille, **Langue d'apprentissage** et **Langue d'affichage** sont la paire que montre la barre de navigation, et un interrupteur masque ce bouton si vous préférez. **Utiliser les langues que je connais pour expliquer celle que j'apprends** active les comparaisons entre langues : l'encadré *Dans vos langues* des notes de grammaire et des formes verbales, les équivalents dans les six langues du lecteur, et la [grammaire de la lecture](grammar/grammar-of-reading.md) avec ses soulignements pointillés. Désactivé par défaut : la plupart apprennent une langue à la fois.
+- **Langues** — une tuile pour chacune des six langues avec votre niveau ; touchez-en une pour dire si vous la parlez ou l'apprenez, et à quel niveau. Sous la grille, **Langue d'apprentissage** et **Langue d'affichage** sont la paire que montre la barre de navigation, et un interrupteur masque ce bouton si vous préférez. **Utiliser les langues que je connais pour expliquer celle que j'apprends** active les comparaisons entre langues : l'encadré *Dans vos langues* des notes de grammaire et des formes verbales, les équivalents dans les six langues du lecteur, et la [grammaire de la lecture](grammar/grammar-of-reading.md) avec ses soulignements pointillés. Désactivé par défaut : la plupart apprennent une langue à la fois.
 - **E-mails** — l'e-mail quotidien de révision, activé ou non. Voir [Navigation](dashboard.md#le-mail-quotidien-de-révision).
-- **Thème** — le style d'Immersive : **Classique**, **Papier**, **Calme** ou **Solarized**, chacun avec une **Apparence** **Clair**, **Sombre** ou **Système** (celle de votre appareil). Enregistré dès que vous choisissez. Les réglages de lecture proposent le même choix.
+- **Thème** — le style d'Immersive : **Classique**, **Papier**, **Calme** ou **Solarized**, chacun avec une **Apparence** **Clair**, **Sombre** ou **Système** (celle de votre appareil). Enregistré dès que vous choisissez. Les réglages de lecture proposent le même choix.
 - **Méthodes de connexion** — si votre compte est associé à Apple (Se connecter avec Apple) ou à Google, avec **Associer Apple** ou **Associer Google**, et **Dissocier** suivi du service associé. Voir [Votre compte](account.md#se-connecter).
-- **Mot de passe** — le modifier demande votre mot de passe actuel. Votre adresse e-mail est fixée à l'inscription et ne peut pas être changée dans l'application ; utilisez le formulaire de contact si vous devez la changer.
+- **Mot de passe** — le modifier demande votre mot de passe actuel. Votre adresse e-mail est fixée à l'inscription et ne peut pas être changée dans l'application ; utilisez le formulaire de contact si vous devez la changer.
 - **Vos données** — **Télécharger vos données personnelles** vous envoie par e-mail un lien vers tout ce que
-  nous avons sur vous : vos paquets et vos cartes, vos documents et les fichiers que vous avez importés pour
+  nous avons sur vous : vos paquets et vos cartes, vos documents et les fichiers que vous avez importés pour
   les créer, vos textes, vos échanges avec le tuteur, votre vocabulaire, votre historique de révisions et le
   relevé de ce que vous avez fait dans l'application. Il arrive sous forme de fichier zip. Vous devez être
   connecté pour le télécharger, et le lien fonctionne pendant une semaine.
