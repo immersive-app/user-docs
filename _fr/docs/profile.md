@@ -66,7 +66,7 @@ Tout l'administratif se trouve ici :
 - **Profil** — localisation et photo de profil.
 - **Langues** — une tuile pour chacune des six langues avec votre niveau ; touchez-en une pour dire si vous la parlez ou l'apprenez, et à quel niveau. Sous la grille, **Langue d'apprentissage** et **Langue d'affichage** sont la paire que montre la barre de navigation, et un interrupteur masque ce bouton si vous préférez. **Utiliser les langues que je connais pour expliquer celle que j'apprends** active les comparaisons entre langues : l'encadré *Dans vos langues* des notes de grammaire et des formes verbales, les équivalents dans les six langues du lecteur, et la [grammaire de la lecture](grammar/grammar-of-reading.md) avec ses soulignements pointillés. Désactivé par défaut : la plupart apprennent une langue à la fois.
 - **E-mails** — l'e-mail quotidien de révision, activé ou non. Voir [Navigation](dashboard.md#le-mail-quotidien-de-révision).
-- **Méthodes de connexion** — si votre compte est associé à Apple (Se connecter avec Apple), avec **Associer Apple** et **Dissocier Apple**. Voir [Votre compte](account.md#se-connecter).
+- **Méthodes de connexion** — si votre compte est associé à Apple (Se connecter avec Apple) ou à Google, avec **Associer Apple** et **Dissocier Apple**. Voir [Votre compte](account.md#se-connecter).
 - **Mot de passe** — le modifier demande votre mot de passe actuel. Votre adresse e-mail est fixée à l'inscription et ne peut pas être changée dans l'application ; utilisez le formulaire de contact si vous devez la changer.
 - **Vos données** — **Télécharger vos données personnelles** vous envoie par e-mail un lien vers tout ce que
   nous avons sur vous : vos paquets et vos cartes, vos documents et les fichiers que vous avez importés pour

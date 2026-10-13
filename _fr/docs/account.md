@@ -13,7 +13,7 @@ La création d'un compte est traitée dans [Bien démarrer](../index.md#créer-u
 
 **S'identifier** demande votre e-mail et votre mot de passe. **Se souvenir de moi ?** vous garde connecté sur cet appareil.
 
-**Continuer avec Apple**, sur les pages de connexion et d'inscription, vous connecte avec votre identifiant Apple à la place. Un compte créé ainsi n'a pas de mot de passe à saisir, et un compte existant avec le même e-mail est associé plutôt que dupliqué. **Profil → Compte → Méthodes de connexion** indique si votre compte est associé à Apple, et permet de l'associer ou de le dissocier.
+**Continuer avec Apple** et **Continuer avec Google**, sur les pages de connexion et d'inscription et sur l'écran de connexion de l'app iOS, vous connectent avec votre identifiant Apple ou votre compte Google à la place. Un compte créé ainsi n'a pas de mot de passe à saisir, et un compte existant avec le même e-mail (vérifié par Google, dans le cas de Google) est associé plutôt que dupliqué. **Profil → Compte → Méthodes de connexion** indique si votre compte est associé à Apple ou à Google, et permet de l'associer ou de le dissocier.
 
 Pour vous déconnecter : ouvrez votre photo de profil dans la barre de navigation et choisissez **Se déconnecter**.
 

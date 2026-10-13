@@ -13,7 +13,7 @@ Cómo crear una cuenta se explica en [Primeros pasos](../index.md#crear-una-cuen
 
 **Acceder** te pide tu correo electrónico y tu contraseña. **Recordarme** mantiene la sesión iniciada en ese dispositivo.
 
-**Continuar con Apple**, en las páginas de inicio de sesión y de registro, inicia la sesión con tu Apple ID en su lugar. Una cuenta creada así no tiene contraseña que escribir, y una cuenta existente con el mismo correo se vincula en lugar de duplicarse. **Perfil → Cuenta → Métodos de acceso** muestra si tu cuenta está vinculada a Apple, y te permite vincularla o desvincularla.
+**Continuar con Apple** y **Continuar con Google**, en las páginas de inicio de sesión y de registro y en la pantalla de inicio de sesión de la app de iOS, inician la sesión con tu Apple ID o tu cuenta de Google en su lugar. Una cuenta creada así no tiene contraseña que escribir, y una cuenta existente con el mismo correo (verificado por Google, en el caso de Google) se vincula en lugar de duplicarse. **Perfil → Cuenta → Métodos de acceso** muestra si tu cuenta está vinculada a Apple o a Google, y te permite vincularla o desvincularla.
 
 Para cerrar sesión: abre tu foto de perfil en la barra de navegación y elige **Cerrar sesión**.
 

@@ -13,7 +13,7 @@ Crear un compte s'explica a [Primers passos](../index.md#crear-un-compte). Aques
 
 **Iniciar sessió** et demana el correu electrònic i la contrasenya. **Recordar-me** et manté la sessió iniciada en aquell dispositiu.
 
-**Continuar amb Apple**, a les pàgines d'inici de sessió i de registre, inicia la sessió amb el teu ID d'Apple en lloc del correu i la contrasenya. Un compte creat així no té cap contrasenya per escriure, i un compte existent amb el mateix correu s'hi vincula en lloc de duplicar-se. **Perfil → Compte → Mètodes d'inici de sessió** mostra si el teu compte està vinculat a Apple, i et permet vincular-lo o desvincular-lo.
+**Continuar amb Apple** i **Continuar amb Google**, a les pàgines d'inici de sessió i de registre i a la pantalla d'inici de sessió de l'app d'iOS, inicien la sessió amb el teu ID d'Apple o el teu compte de Google en lloc del correu i la contrasenya. Un compte creat així no té cap contrasenya per escriure, i un compte existent amb el mateix correu (verificat per Google, en el cas de Google) s'hi vincula en lloc de duplicar-se. **Perfil → Compte → Mètodes d'inici de sessió** mostra si el teu compte està vinculat a Apple o a Google, i et permet vincular-lo o desvincular-lo.
 
 Per tancar la sessió: obre la teva foto de perfil a la barra de navegació i tria **Tancar sessió**.
 

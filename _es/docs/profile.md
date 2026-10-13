@@ -66,7 +66,7 @@ Todo lo administrativo vive aquí:
 - **Perfil** — ubicación y foto de perfil.
 - **Idiomas** — una ficha por cada uno de los seis idiomas con tu nivel; toca una para indicar si lo hablas o lo estás aprendiendo, y a qué nivel. Bajo la cuadrícula, **Idioma de aprendizaje** e **Idioma de visualización** son el par que muestra la barra de navegación, y un interruptor oculta ese botón si lo prefieres. **Usar las lenguas que conozco para explicar la que estoy aprendiendo** activa las comparaciones entre lenguas: el cuadro *En tus idiomas* de las notas de gramática y de las formas verbales, los equivalentes en seis idiomas del lector y la [gramática de la lectura](grammar/grammar-of-reading.md) con sus subrayados de puntos. Está desactivado por defecto — la mayoría aprende una lengua a la vez.
 - **Correos** — el correo diario de repaso, activado o desactivado. Ver [Navegación](dashboard.md#el-correo-diario-de-repaso).
-- **Métodos de acceso** — si tu cuenta está vinculada a Iniciar sesión con Apple, con **Vincular** y **Desvincular**. Ver [Tu cuenta](account.md#iniciar-sesión).
+- **Métodos de acceso** — si tu cuenta está vinculada a Iniciar sesión con Apple o con Google, con **Vincular** y **Desvincular**. Ver [Tu cuenta](account.md#iniciar-sesión).
 - **Contraseña** — cambiarla pide tu contraseña actual. Tu correo electrónico se fija al registrarte y no se puede cambiar en la aplicación; usa el formulario de contacto si necesitas cambiarlo.
 - **Tus datos** — **Descarga tus datos personales** te envía por correo un enlace a todo lo que tenemos sobre
   ti: tus mazos y tarjetas, tus documentos y los archivos que subiste para crearlos, tus textos, tus

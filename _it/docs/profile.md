@@ -66,7 +66,7 @@ Qui vive tutto ciò che è amministrativo:
 - **Profilo** — località e immagine del profilo.
 - **Lingue** — un riquadro per ognuna delle sei lingue con il tuo livello; toccane uno per dire se la parli o la stai imparando, e a che livello. Sotto la griglia, **Lingua di apprendimento** e **Lingua di visualizzazione** sono la coppia mostrata dalla barra di navigazione, e un interruttore nasconde quel pulsante se preferisci. **Usa le lingue che conosco per spiegare quella che sto imparando** attiva i confronti tra lingue: il riquadro *Nelle tue lingue* nelle note grammaticali e nelle forme verbali, gli equivalenti nelle sei lingue nel lettore e la [grammatica della lettura](grammar/grammar-of-reading.md) con le sue sottolineature punteggiate. È disattivato per impostazione predefinita — la maggior parte impara una lingua alla volta.
 - **Email** — l'email quotidiana di ripasso, attiva o no. Vedi [Navigazione](dashboard.md#lemail-quotidiana-di-ripasso).
-- **Metodi di accesso** — se il tuo account è collegato ad Accedi con Apple, con **Collega** e **Scollega**. Vedi [Il tuo account](account.md#accedere).
+- **Metodi di accesso** — se il tuo account è collegato ad Accedi con Apple o a Google, con **Collega** e **Scollega**. Vedi [Il tuo account](account.md#accedere).
 - **Password** — per cambiarla viene chiesta la password attuale. L'indirizzo email si imposta alla registrazione e non si può cambiare nell'app; usa il modulo di contatto se devi cambiarlo.
 - **I tuoi dati** — **Scarica i tuoi dati personali** ti invia per email un link a tutto ciò che abbiamo su di
   te: i tuoi mazzi e le tue carte, i tuoi documenti e i file che hai caricato per crearli, i tuoi testi, le tue
