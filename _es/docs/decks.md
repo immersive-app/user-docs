@@ -47,7 +47,7 @@ Al abrir **Mazos** verás:
 Si también usas Anki:
 
 - **Exportar a Anki**, en un mazo, tuyo o de la Biblioteca, prepara un archivo de Anki (.apkg) y te lo envía por correo. El archivo contiene las tarjetas de verbo del mazo; un mazo sin ninguna no tiene botón de exportación.
-- La página **Anki** (enlazada en el pie de las páginas públicas de Immersive) ofrece mazos de Anki listos para descargar. Con la sesión iniciada, descargas directamente. Sin cuenta, introduces tu dirección de correo para descargar; Immersive te envía entonces también su curso gratuito del Método Puente por correo, cinco lecciones breves, del que puedes darte de baja en cualquier momento.
+- La página **Anki** (enlazada en el pie de las páginas públicas de Immersive) explica la exportación, con **Ir a mis mazos** cuando tienes la sesión iniciada. Cuando hay mazos listos para usar, los muestra en **Mazos gratuitos para descargar**: con la sesión iniciada, descargas directamente; sin cuenta, introduces tu dirección de correo para descargar, e Immersive te envía también su curso gratuito del Método Puente por correo, cinco lecciones breves, del que puedes darte de baja en cualquier momento.
 
 ## En esta sección
 
