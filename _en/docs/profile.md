@@ -64,7 +64,7 @@ Everything administrative lives here:
 - **Account** — first name, last name, and **How we address you**. Your email address is shown here.
   How we address you is optional: **Not indicated** (the default), **Feminine**, or **Masculine**. Some languages change words for the person they are about, like French *prêt* and *prête*; it sets the form used for you.
 - **Profile** — location and profile picture.
-- **Languages** — a tile for each of the six languages with your level; tap one to say whether you speak it or are learning it, and at what level. Under the grid, **Learning language** and **Display language** are the pair the navigation bar shows, and a switch hides that button if you prefer. **Use the languages I know to explain the one I'm learning** turns on the cross-language comparisons: the *Across your languages* box on grammar notes and verb forms, the six-language equivalents in the reader, and the [grammar of reading](grammar/grammar-of-reading.md) with its dotted underlines. It is off by default — most people learn one language at a time.
+- **Languages** — a tile for each of the six languages with your level; tap one to say whether you speak it or are learning it, and at what level. Under the grid, **Learning language** and **Display language** are the pair the navigation bar shows, and a switch hides that button if you prefer. **Use the languages I know to explain the one I'm learning** turns on the cross-language comparisons: the *Across your languages* box on grammar notes and verb forms, the six-language equivalents in the reader, and the [grammar of reading](grammar/grammar-of-reading.md) with its dotted underlines. It is off by default — most people learn one language at a time. Which variety of each language the interface uses is on [Language varieties](language-varieties.md).
 - **Emails** — the daily review email, on or off. See [Navigation](dashboard.md#the-daily-review-email).
 - **Theme** — the look of Immersive: **Classic**, **Paper**, **Quiet**, or **Solarized**, each with an **Appearance** of **Light**, **Dark**, or **System** (follows your device). Saved as you pick. The reader's controls offer the same choice.
 - **Sign-in methods** — whether your account is linked to Sign in with Apple or Google, with **Connect** and **Disconnect**. See [Your account](account.md#signing-in).
@@ -85,3 +85,4 @@ Everything administrative lives here:
 - [Teachers](teachers.md)
 - [Your account](account.md)
 - [Getting started](../index.md)
+- [Language varieties](language-varieties.md)

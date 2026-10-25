@@ -65,7 +65,7 @@ Tudo o que é administrativo vive aqui:
 - **Conta** — nome próprio, apelido e **Forma de tratamento**. O seu endereço de e-mail aparece aqui.
   Esta opção é facultativa: **Não indicado** (a predefinida), **Feminino** ou **Masculino**. Algumas línguas mudam as palavras conforme a pessoa de quem falam, como o francês *prêt* e *prête*; esta opção define a forma usada para si.
 - **Perfil** — localização e foto de perfil.
-- **Idiomas** — um bloco para cada uma das seis línguas, com o seu nível; toque num para dizer se a fala ou a está a aprender, e a que nível. Por baixo da grelha, **Idioma de aprendizagem** e **Idioma de exibição** são o par que a barra de navegação mostra, e um interruptor esconde esse botão se preferir. **Usar as línguas que conheço para explicar a que estou a aprender** ativa as comparações entre línguas: a caixa *Nas suas línguas* das notas de gramática e das formas verbais, os equivalentes nas seis línguas do leitor e a [gramática da leitura](grammar/grammar-of-reading.md) com os seus sublinhados tracejados. Está desativado por defeito: a maioria aprende uma língua de cada vez.
+- **Idiomas** — um bloco para cada uma das seis línguas, com o seu nível; toque num para dizer se a fala ou a está a aprender, e a que nível. Por baixo da grelha, **Idioma de aprendizagem** e **Idioma de exibição** são o par que a barra de navegação mostra, e um interruptor esconde esse botão se preferir. **Usar as línguas que conheço para explicar a que estou a aprender** ativa as comparações entre línguas: a caixa *Nas suas línguas* das notas de gramática e das formas verbais, os equivalentes nas seis línguas do leitor e a [gramática da leitura](grammar/grammar-of-reading.md) com os seus sublinhados tracejados. Está desativado por defeito: a maioria aprende uma língua de cada vez. A variedade de cada língua que a interface usa está em [Variedades de língua](language-varieties.md).
 - **E-mails** — o e-mail diário de revisão, ativo ou não. Ver [Navegação](dashboard.md#o-e-mail-diário-de-revisão).
 - **Tema** — o estilo do Immersive: **Clássico**, **Papel**, **Calmo** ou **Solarized**, cada um com uma **Aparência** **Claro**, **Escuro** ou **Sistema** (a do seu dispositivo). Fica guardado assim que escolhe. Os ajustes de leitura oferecem a mesma escolha.
 - **Métodos de início de sessão** — se a sua conta está associada ao Iniciar sessão com a Apple ou com o Google, com **Associar** e **Dissociar**. Ver [A sua conta](account.md#iniciar-sessão).
@@ -87,3 +87,4 @@ Tudo o que é administrativo vive aqui:
 - [Professores](teachers.md)
 - [A sua conta](account.md)
 - [Começar](../index.md)
+- [Variedades de língua](language-varieties.md)

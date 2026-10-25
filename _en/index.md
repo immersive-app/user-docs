@@ -46,7 +46,7 @@ features:
 
 Immersive is a language learning platform built around a simple idea: you learn a new language faster when you study material you actually care about, and when the languages you already know are used to help you rather than ignored.
 
-Immersive works with six languages: Portuguese, Spanish, Catalan, Italian, French, and English. You can learn any of them, and the app itself can be shown in any of them (your display language).
+Immersive works with six languages: Portuguese, Spanish, Catalan, Italian, French, and English. You can learn any of them, and the app itself can be shown in any of them (your display language). The interface uses the European variety of each language; see [Language varieties](docs/language-varieties.md).
 
 ## The Bridge Method
 

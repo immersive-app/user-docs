@@ -47,7 +47,7 @@ features:
 
 Immersive es una plataforma de aprendizaje de idiomas construida sobre una idea sencilla: aprendes un idioma nuevo más rápido cuando estudias material que de verdad te interesa, y cuando los idiomas que ya conoces se usan para ayudarte en lugar de ignorarse.
 
-Immersive funciona con seis idiomas: portugués, español, catalán, italiano, francés e inglés. Puedes aprender cualquiera de ellos, y la aplicación misma puede mostrarse en cualquiera de ellos (tu idioma de la interfaz).
+Immersive funciona con seis idiomas: portugués, español, catalán, italiano, francés e inglés. Puedes aprender cualquiera de ellos, y la aplicación misma puede mostrarse en cualquiera de ellos (tu idioma de la interfaz). La interfaz usa la variedad europea de cada idioma; ver [Variedades de idioma](docs/language-varieties.md).
 
 ## El Método Puente
 
