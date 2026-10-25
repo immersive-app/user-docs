@@ -65,7 +65,7 @@ Todo lo administrativo vive aquí:
 - **Cuenta** — nombre, apellido y **Cómo dirigirnos a ti**. Aquí se muestra tu dirección de correo electrónico.
   Cómo dirigirnos a ti es opcional: **No indicado** (la opción por defecto), **Femenino** o **Masculino**. Algunos idiomas cambian las palabras según la persona de la que hablan, como el francés *prêt* y *prête*; esta opción fija la forma que se usa contigo.
 - **Perfil** — ubicación y foto de perfil.
-- **Idiomas** — una ficha por cada uno de los seis idiomas con tu nivel; toca una para indicar si lo hablas o lo estás aprendiendo, y a qué nivel. Bajo la cuadrícula, **Idioma de aprendizaje** e **Idioma de visualización** son el par que muestra la barra de navegación, y un interruptor oculta ese botón si lo prefieres. **Usar las lenguas que conozco para explicar la que estoy aprendiendo** activa las comparaciones entre lenguas: el cuadro *En tus idiomas* de las notas de gramática y de las formas verbales, los equivalentes en seis idiomas del lector y la [gramática de la lectura](grammar/grammar-of-reading.md) con sus subrayados de puntos. Está desactivado por defecto — la mayoría aprende una lengua a la vez.
+- **Idiomas** — una ficha por cada uno de los seis idiomas con tu nivel; toca una para indicar si lo hablas o lo estás aprendiendo, y a qué nivel. Bajo la cuadrícula, **Idioma de aprendizaje** e **Idioma de visualización** son el par que muestra la barra de navegación, y un interruptor oculta ese botón si lo prefieres. **Usar las lenguas que conozco para explicar la que estoy aprendiendo** activa las comparaciones entre lenguas: el cuadro *En tus idiomas* de las notas de gramática y de las formas verbales, los equivalentes en seis idiomas del lector y la [gramática de la lectura](grammar/grammar-of-reading.md) con sus subrayados de puntos. Está desactivado por defecto — la mayoría aprende una lengua a la vez. Qué variedad de cada idioma usa la interfaz está en [Variedades de idioma](language-varieties.md).
 - **Correos** — el correo diario de repaso, activado o desactivado. Ver [Navegación](dashboard.md#el-correo-diario-de-repaso).
 - **Tema** — el estilo de Immersive: **Clásico**, **Papel**, **Tranquilo** o **Solarized**, cada uno con una **Apariencia** **Claro**, **Oscuro** o **Sistema** (la de tu dispositivo). Se guarda al elegir. Los controles de lectura ofrecen la misma opción.
 - **Métodos de acceso** — si tu cuenta está vinculada a Iniciar sesión con Apple o con Google, con **Vincular** y **Desvincular**. Ver [Tu cuenta](account.md#iniciar-sesión).
@@ -87,3 +87,4 @@ Todo lo administrativo vive aquí:
 - [Profesores](teachers.md)
 - [Tu cuenta](account.md)
 - [Primeros pasos](../index.md)
+- [Variedades de idioma](language-varieties.md)

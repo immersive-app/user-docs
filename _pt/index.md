@@ -47,7 +47,7 @@ features:
 
 O Immersive é uma plataforma de aprendizagem de línguas construída em torno de uma ideia simples: aprende uma língua nova mais depressa quando estuda material que lhe interessa de verdade, e quando as línguas que já conhece são usadas para o ajudar em vez de serem ignoradas.
 
-O Immersive funciona com seis línguas: português, espanhol, catalão, italiano, francês e inglês. Pode aprender qualquer uma delas, e a própria aplicação pode ser mostrada em qualquer uma delas (o seu idioma da interface).
+O Immersive funciona com seis línguas: português, espanhol, catalão, italiano, francês e inglês. Pode aprender qualquer uma delas, e a própria aplicação pode ser mostrada em qualquer uma delas (o seu idioma da interface). A interface usa a variedade europeia de cada língua; ver [Variedades de língua](docs/language-varieties.md).
 
 ## O Método Ponte
 
