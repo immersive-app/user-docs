@@ -6,7 +6,7 @@ nav_order: 12
 
 # Variétés de langue
 
-Plusieurs langues d'Immersive se parlent dans plus d'un pays, avec des mots et des orthographes différents. L'interface d'Immersive est écrite dans une seule variété de chaque langue, celle qu'on utilise en Europe :
+Plusieurs langues d'Immersive se parlent dans plus d'un pays, avec des mots et des orthographes différents. L'interface d'Immersive est écrite dans une seule variété de chaque langue, celle qu'on utilise en Europe :
 
 | Langue | Variété | Par exemple |
 |---|---|---|
@@ -19,7 +19,7 @@ Plusieurs langues d'Immersive se parlent dans plus d'un pays, avec des mots et d
 
 ## Ce qu'elle couvre
 
-- L'interface de l'application : chaque écran, bouton et message.
+- L'interface de l'application : chaque écran, bouton et message.
 - Les e-mails qu'Immersive vous envoie.
 - Ce guide d'utilisation, dans ses six langues.
 
@@ -36,4 +36,4 @@ Ouvrez **Profil → Compte → Langues** et choisissez votre **Langue d'affichag
 
 ## Un mot semble faux
 
-Si un mot de l'interface appartient à une autre variété, c'est une erreur, comme une traduction manquante. Signalez-le-nous avec le lien **Contact**, dans le pied de page des pages publiques d'Immersive. Pour une erreur dans une note de grammaire, utilisez **Quelque chose cloche ?** sur cette note.
+Si un mot de l'interface appartient à une autre variété, c'est une erreur, comme une traduction manquante. Signalez-le-nous avec le lien **Contact**, dans le pied de page des pages publiques d'Immersive. Pour une erreur dans une note de grammaire, utilisez **Quelque chose cloche ?** sur cette note.
