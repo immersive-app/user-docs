@@ -28,6 +28,7 @@ Open a verb to see its page:
 
 - The **nominal forms** (infinitive, participles, gerund) appear at the top.
 - Every tense is on the page, grouped by mood, with every person listed. Under each table, one **example sentence** with its translation.
+- Signed in, **For you** above the tables shows up to three example sentences you need to practise: in a tense or form you have been forgetting in your reviews, or whose card in your decks is due. Each names its tense: choose the name to jump to its table. With nothing to practise, the section is not shown.
 - The **tense menu** at the top of the table lists every mood and tense: choose one to jump to its table. As you scroll, it shows the tense you are looking at.
 - Signed in, **Pronoun** chooses how third-person forms are shown (masculine, feminine, or both). Immersive remembers your choice.
 
