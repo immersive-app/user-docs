@@ -47,7 +47,7 @@ Abrir **Baralhos** mostra:
 Se também usa o Anki:
 
 - **Exportar para Anki**, num baralho, seu ou da Biblioteca, prepara um ficheiro Anki (.apkg) e envia-lho por e-mail. O ficheiro contém os cartões de verbo do baralho; um baralho sem nenhum não tem botão de exportação.
-- A página **Baralhos Anki** (com ligação no rodapé das páginas públicas do Immersive) explica a exportação, com **Ir para os meus baralhos** quando tem sessão iniciada. Quando há baralhos prontos, lista-os em **Baralhos gratuitos para descarregar**: com sessão iniciada, descarrega diretamente; sem conta, introduz o seu endereço de e-mail para descarregar, e o Immersive envia-lhe também o seu curso gratuito do Método Ponte por e-mail, cinco lições curtas, que pode cancelar a qualquer momento.
+- A página **Baralhos Anki** (com ligação no rodapé das páginas públicas do Immersive) explica a exportação, com **Ir para os meus baralhos** quando tem sessão iniciada. Quando há baralhos prontos, lista-os em **Baralhos gratuitos para descarregar**: com sessão iniciada, descarrega diretamente; sem conta, introduz o seu endereço de e-mail para descarregar, e o Immersive envia-lhe também o seu curso gratuito do Método Ponte por e-mail, cinco lições curtas, que pode cancelar a qualquer momento. O curso termina quando cria uma conta com esse endereço.
 
 ## Nesta secção
 
