@@ -8,7 +8,7 @@ lang: ca
 
 # Pronunciació
 
-La baralla **Pronunciació** t'entrena l'oïda en els sons que la teva llengua no distingeix, com ara *ship* i *sheep* en anglès per a qui parla català. Primer aprens a sentir la diferència entre dues paraules; més endavant practiques a dir-les, perquè t'entenguin més fàcilment.
+La baralla **Pronunciació** t'entrena l'oïda en els sons que la teva llengua no distingeix, com ara *ship* i *sheep* en anglès per a qui parla català. Primer aprens a sentir la diferència entre dues paraules; més endavant t'entrenes a dir-les, perquè t'entenguin més fàcilment.
 
 El que ensenya la baralla depèn de dues llengües: la que aprens i la que parles. Qui parla català i qui parla francès no hi troben els mateixos sons quan aprenen anglès.
 

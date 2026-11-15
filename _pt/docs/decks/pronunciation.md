@@ -8,7 +8,7 @@ lang: pt
 
 # Pronúncia
 
-O baralho **Pronúncia** treina o seu ouvido para os sons que a sua língua não distingue, como *ship* e *sheep* em inglês para quem fala português. Primeiro aprende a ouvir a diferença entre duas palavras; mais tarde pratica dizê-las, para ser mais fácil de perceber.
+O baralho **Pronúncia** treina o seu ouvido para os sons que a sua língua não distingue, como *ship* e *sheep* em inglês para quem fala português. Primeiro aprende a ouvir a diferença entre duas palavras; mais tarde pratica dizê-las, para se fazer perceber mais facilmente.
 
 O que o baralho ensina depende de duas línguas: a que está a aprender e a que fala. Quem fala português e quem fala francês não encontram os mesmos sons quando aprendem inglês.
 
@@ -20,7 +20,7 @@ Duas combinações de línguas não têm baralho Pronúncia: quem fala catalão 
 
 ## A sua página
 
-Onde outro baralho lista os cartões, este lista os seus **Sons**: uma secção que se abre e fecha por som, a primeira aberta. Cada secção tem:
+Onde outro baralho lista os cartões, este lista os seus **Sons**: uma secção por som, que abre e fecha, com a primeira aberta. Cada secção tem:
 
 - uma nota curta sobre os sons que separa e como a boca faz cada um;
 - uma tabela das palavras, par a par, com uma coluna para cada voz. Toque num altifalante para ouvir essa palavra nessa voz, ou em **Todas** para a ouvir em todas as vozes, uma a seguir à outra.
