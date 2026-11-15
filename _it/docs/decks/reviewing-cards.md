@@ -29,6 +29,8 @@ Le schede in cima alla carta cambiano la modalità. Immersive ricorda la modalit
 - **Ascolta**: la carta viene letta ad alta voce; scrivi ciò che senti, con la stessa scelta tra **Tocca** e **Digita**. Se una carta non ha audio, mostra invece il testo.
 - **Parla**: leggi la richiesta ad alta voce. **Registra** cattura la tua voce e si ferma da solo dopo dieci secondi. Puoi scrivere ciò che hai detto in **Oppure scrivi ciò che hai detto**; Immersive lo confronta poi con la risposta. Se lo lasci vuoto, riascolta **La tua** registrazione e il **Riferimento** e valutati da solo.
 
+Il mazzo Pronuncia non ha nessuna di queste quattro: si ripassa in **Senti** e **Pronuncia**, e i suoi giri sono valutati con regole proprie. Vedi [Pronuncia](pronunciation.md).
+
 ## La valutazione
 
 Ogni ripasso si conclude con uno di quattro giudizi:
@@ -69,4 +71,5 @@ Quando ci sono carte in attesa, Immersive può inviarti un'email ogni mattina. V
 
 - [Creare mazzi](creating-decks.md)
 - [Gestire i mazzi](managing-decks.md)
+- [Pronuncia](pronunciation.md)
 - [Profilo e progressi](../profile.md): i tuoi ripassi alimentano le schede Attività e Progressi
