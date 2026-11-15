@@ -22,7 +22,7 @@ Aquests números et diuen d'un cop d'ull on cal el teu temps de repàs.
 
 ## La Biblioteca
 
-Per sobre de les teves baralles hi ha la **Biblioteca**: baralles ja fetes d'Immersive en la llengua que aprens, amb un recompte de quantes n'hi ha. Comença plegada; obre-la per veure les baralles. Inclou baralles de les paraules més freqüents dividides per freqüència (les primeres 500 paraules, després de la 501 a la 1.000, després de la 1.001 a la 5.000), perquè no estudiïs mai la mateixa paraula dues vegades, i per a algunes llengües una baralla d'**Essencials** amb els verbs bàsics en present.
+Per sobre de les teves baralles hi ha la **Biblioteca**: baralles ja fetes d'Immersive en la llengua que aprens, amb un recompte de quantes n'hi ha. Comença plegada; obre-la per veure les baralles. Inclou baralles de les paraules més freqüents dividides per freqüència (les primeres 500 paraules, després de la 501 a la 1.000, després de la 1.001 a la 5.000), perquè no estudiïs mai la mateixa paraula dues vegades, i per a algunes llengües una baralla d'**Essencials** amb els verbs bàsics en present. Per a totes les combinacions de llengües menys dues, la primera baralla de la llista és **Pronunciació**, per als sons que la teva llengua no distingeix; vegeu [Pronunciació](pronunciation.md).
 
 Les baralles de la Biblioteca s'estudien des de la teva pròpia còpia: prem el **+** al costat d'una (**Copiar a les meves baralles**) i la còpia apareix a Les meves baralles.
 
@@ -64,3 +64,4 @@ Elimina una baralla amb el botó de la paperera del seu espai de treball. Elimin
 
 - [Crear baralles](creating-decks.md)
 - [Repassar targetes](reviewing-cards.md)
+- [Pronunciació](pronunciation.md)

@@ -32,7 +32,7 @@ Immersive també t'omple tres baralles mentre estudies. Apareixen a Les meves ba
 
 Cada targeta es programa individualment. Quan repasses una targeta, es qualifica amb **Una altra vegada**, **Difícil**, **Bé** o **Fàcil**, i el calendari s'ajusta: les targetes que et resulten fàcils s'allunyen més en el futur, les que falles tornen de seguida. Amb el temps, els teus minuts de repàs van al material que els necessita.
 
-Pots repassar en quatre modes (**Llegir**, **Escriure**, **Escoltar** i **Parlar**), de manera que la mateixa baralla entrena el reconeixement, l'ortografia, la comprensió oral i la parla. Vegeu [Repassar targetes](decks/reviewing-cards.md).
+Pots repassar en quatre modes (**Llegir**, **Escriure**, **Escoltar** i **Parlar**), de manera que la mateixa baralla entrena el reconeixement, l'ortografia, la comprensió oral i la parla. Vegeu [Repassar targetes](decks/reviewing-cards.md). La baralla ja feta **Pronunciació** té dos modes propis, **Sent** i **Pronuncia**. Vegeu [Pronunciació](decks/pronunciation.md).
 
 ## La pàgina de Baralles
 
@@ -54,3 +54,4 @@ Si també fas servir Anki:
 - [Crear baralles](decks/creating-decks.md): construeix una baralla i omple-la de targetes.
 - [Repassar targetes](decks/reviewing-cards.md): la sessió de repàs, els quatre modes, la qualificació i els límits diaris.
 - [Gestionar baralles](decks/managing-decks.md): la Biblioteca, carpetes, etiquetes, marcadors, còpies, exportacions i supressions.
+- [Pronunciació](decks/pronunciation.md): la baralla ja feta per sentir, i després dir, els sons que la teva llengua no distingeix.
