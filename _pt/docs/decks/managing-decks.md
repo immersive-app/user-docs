@@ -22,7 +22,7 @@ Estes números dizem-lhe de relance onde o seu tempo de revisão é preciso.
 
 ## A Biblioteca
 
-Acima dos seus baralhos fica a **Biblioteca**: baralhos prontos do Immersive na língua que está a aprender, com a indicação de quantos são. Começa fechada; abra-a para ver os baralhos. Inclui baralhos das palavras mais comuns divididos por frequência (as primeiras 500 palavras, depois 501 a 1.000, depois 1.001 a 5.000), para que nunca estude a mesma palavra duas vezes, e, para algumas línguas, um baralho de **Essenciais** com os verbos fundamentais no presente.
+Acima dos seus baralhos fica a **Biblioteca**: baralhos prontos do Immersive na língua que está a aprender, com a indicação de quantos são. Começa fechada; abra-a para ver os baralhos. Inclui baralhos das palavras mais comuns divididos por frequência (as primeiras 500 palavras, depois 501 a 1.000, depois 1.001 a 5.000), para que nunca estude a mesma palavra duas vezes, e, para algumas línguas, um baralho de **Essenciais** com os verbos fundamentais no presente. Para todas as combinações de línguas menos duas, o primeiro baralho da lista é **Pronúncia**, para os sons que a sua língua não distingue; ver [Pronúncia](pronunciation.md).
 
 Os baralhos da Biblioteca estudam-se através da sua própria cópia: prima o **+** ao lado de um (**Copiar para os meus baralhos**) e a cópia aparece em **Os meus baralhos**.
 
@@ -64,3 +64,4 @@ Elimine um baralho com o botão do caixote do lixo no seu espaço de trabalho. E
 
 - [Criar baralhos](creating-decks.md)
 - [Rever cartões](reviewing-cards.md)
+- [Pronúncia](pronunciation.md)
