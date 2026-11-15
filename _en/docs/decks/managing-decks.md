@@ -21,7 +21,7 @@ These numbers tell you at a glance where your review time is needed.
 
 ## The Library
 
-Above your decks sits the **Library**: ready-made decks from Immersive in the language you are learning, with a count of how many there are. It starts folded; open it to see the decks. It includes most-common-words decks split by frequency (the first 500 words, then 501 to 1,000, then 1,001 to 5,000), so you never study the same word twice, and for some languages an **Essentials** deck of core verbs in the present tense.
+Above your decks sits the **Library**: ready-made decks from Immersive in the language you are learning, with a count of how many there are. It starts folded; open it to see the decks. It includes most-common-words decks split by frequency (the first 500 words, then 501 to 1,000, then 1,001 to 5,000), so you never study the same word twice, and for some languages an **Essentials** deck of core verbs in the present tense. For all but two pairs of languages, the first deck in the list is **Pronunciation**, for the sounds your own language does not tell apart; see [Pronunciation](pronunciation.md).
 
 Library decks are studied from your own copy: press the **+** next to one (**Copy to My Decks**) and the copy appears in My Decks.
 
@@ -63,3 +63,4 @@ Delete a deck with the trash button in its workspace. Deleting removes the deck,
 
 - [Creating decks](creating-decks.md)
 - [Reviewing cards](reviewing-cards.md)
+- [Pronunciation](pronunciation.md)

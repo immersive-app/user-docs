@@ -28,6 +28,8 @@ Tabs at the top of the card switch the mode. Immersive remembers the mode you ch
 - **Listen**: the card is spoken; write what you hear, with the same **Tap** and **Type** choice. If a card has no audio, it shows the text instead.
 - **Speak**: read the prompt aloud. **Record** captures your voice and stops by itself after ten seconds. A moment after you submit, a transcript of what you said appears under **You said**, with the words that differ from the answer marked, and a suggested grade ("Close: 92%"). Play back **Yours** and the **Reference** to hear the difference. If no transcript appears, grade yourself against the reference.
 
+The Pronunciation deck has none of these four: it is reviewed in **Hear** and **Say**, and its rounds are graded by their own rules. See [Pronunciation](pronunciation.md).
+
 ## Grading
 
 Every review ends in one of four grades:
@@ -68,4 +70,5 @@ When cards are waiting, Immersive can email you each morning. See [Navigation](.
 
 - [Creating decks](creating-decks.md)
 - [Managing decks](managing-decks.md)
+- [Pronunciation](pronunciation.md)
 - [Profile & Progress](../profile.md): your reviews feed the Activity and Progress tabs
