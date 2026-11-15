@@ -29,6 +29,8 @@ Las pestañas en la parte superior de la tarjeta cambian el modo. Immersive recu
 - **Escuchar**: la tarjeta se pronuncia; escribe lo que oyes, con la misma elección entre **Tocar** y **Escribir**. Si una tarjeta no tiene audio, muestra el texto en su lugar.
 - **Hablar**: lee el enunciado en voz alta. **Grabar** captura tu voz y se detiene sola a los diez segundos. Puedes escribir lo que dijiste en **O escribe lo que dijiste**; Immersive lo compara entonces con la respuesta. Si lo dejas vacío, reproduce **La tuya** y la **Referencia** y califícate.
 
+El mazo Pronunciación no tiene ninguno de estos cuatro: se repasa en **Oír** y **Decir**, y sus rondas se califican con reglas propias. Ver [Pronunciación](pronunciation.md).
+
 ## La calificación
 
 Cada repaso termina en una de cuatro calificaciones:
@@ -69,4 +71,5 @@ Cuando hay tarjetas esperando, Immersive puede enviarte un correo cada mañana. 
 
 - [Crear mazos](creating-decks.md)
 - [Gestionar mazos](managing-decks.md)
+- [Pronunciación](pronunciation.md)
 - [Perfil y progreso](../profile.md): tus repasos alimentan las pestañas Actividad y Progreso
