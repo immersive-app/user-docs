@@ -27,6 +27,8 @@ Dove un altro mazzo elenca le sue carte, questo elenca i suoi **Suoni**: una sez
 
 Ascolta qui quanto vuoi: in questa pagina non viene valutato nulla. Su un telefono le voci scorrono di lato. L'elenco delle carte è nello spazio di lavoro del mazzo, dietro la matita.
 
+Nella tua copia, **Studia** accanto a un suono avvia giri sulle coppie di quel suono, che siano da ripassare o no, e **Studia il mazzo** fa lo stesso con tutte le coppie. Questi giri vengono valutati come qualsiasi altro.
+
 ## La modalità Senti
 
 Il mazzo si ripassa in due modalità tutte sue, **Senti** e **Pronuncia**, nelle schede in cima alla carta. Si apre in Senti, qualunque sia la modalità degli altri tuoi mazzi.
@@ -34,18 +36,18 @@ Il mazzo si ripassa in due modalità tutte sue, **Senti** e **Pronuncia**, nelle
 Una carta è una coppia di parole, e ripassarla è un giro di quattro parole:
 
 1. Viene riprodotta una parola. Quando finisce, scegli quale delle due parole hai sentito. L'altoparlante la fa risentire.
-2. La risposta compare subito, e le due parole vengono riprodotte con la stessa voce, una dopo l'altra. **Risenti entrambe** le ripete.
+2. La risposta compare, e non parte nulla da solo. Ogni parola ha il suo altoparlante, e **Risenti entrambe** le riproduce tutte e due, con la stessa voce.
 3. **Successivo** fa partire la parola seguente, con un'altra voce. Dopo la quarta, **Vedi il risultato** mostra il tuo punteggio, ogni parola con ciò che hai scelto e il giudizio del giro.
 
 La prima volta che incontri un suono, la sua nota si apre prima del giro, con un **Audio lento** delle parole di esempio; **Inizia il giro** lo fa partire. In seguito, il pulsante in cima alla carta che nomina i due suoni apre la nota.
 
 ## Le voci
 
-Ogni voce ha un nome proprio, lo stesso nella pagina del mazzo e in un giro. Dopo una risposta, la carta dice di quale voce si tratta (**Voce: Oliver**, per esempio), e **Voce successiva** fa risentire le due parole con la voce seguente. Non cambia né il tuo punteggio né il giudizio.
+Ogni voce ha un nome proprio, lo stesso nella pagina del mazzo e in un giro. Dopo una risposta, la carta dice di quale voce si tratta (**Voce: Oliver**, per esempio), e **Voce successiva** fa sentire le due parole con la voce seguente. Non cambia né il tuo punteggio né il giudizio.
 
 ## Verifiche d'ascolto
 
-Alcuni giri portano l'avviso **Una verifica d'ascolto, con voci e parole su cui non ti sei allenato**. Le loro parole non sono nelle tabelle della pagina del mazzo e le loro voci non sono quelle dell'allenamento, quindi mostrano se ciò che hai imparato ti serve con voci e parole nuove. Vengono valutati e tornano come qualsiasi altro giro, senza **Voce successiva**.
+Alcuni giri portano l'avviso **Una verifica d'ascolto, con voci e parole su cui non ti sei allenato**. Le loro parole non sono nelle tabelle della pagina del mazzo e le loro voci non sono quelle dell'allenamento, quindi mostrano se ciò che hai imparato ti serve con voci e parole nuove. Vengono valutati e tornano come qualsiasi altro giro, senza **Voce successiva**. La nota del suono non è disponibile durante una verifica, solo sul suo risultato.
 
 ## La modalità Pronuncia
 
@@ -54,19 +56,21 @@ Alcuni giri portano l'avviso **Una verifica d'ascolto, con voci e parole su cui 
 Un giro passa per le due parole della coppia, una alla volta:
 
 1. Viene riprodotto il modello. Il pulsante dice **Prima ascolta** per quattro secondi, poi diventa **Registra**.
-2. Di' la parola. La registrazione si ferma da sola dopo cinque secondi, oppure quando premi **Ferma**.
+2. Di' la parola, poi premi di nuovo il pulsante per fermare; mentre registra, diventa rosso e mostra il tempo. Si ferma da solo dopo cinque secondi.
 3. Immersive ti dice quale parola ha capito. Se è l'altra parola della coppia («Abbiamo sentito *sheep*. Prova di nuovo *ship*.»), o nessuna delle due, **Registra di nuovo**: ogni parola ha due nuovi tentativi. Il primo tentativo di una parola che non viene capito come nessuna delle due non conta: la carta dice **Questo tentativo non conta**, e non consuma alcun nuovo tentativo.
-4. Poi vengono riprodotti, uno dopo l'altro, la tua registrazione e il modello. **Risenti entrambe** li ripete.
+4. Poi **La tua registrazione** e **Modello** hanno ciascuno il suo altoparlante, e non parte nulla da solo. **Risenti entrambe** riproduce la tua registrazione, poi il modello. **Parola successiva** passa all'altra parola; dopo la seconda, **Vedi il risultato**.
+
+Se una registrazione non contiene alcun suono, la carta dice **Nessun suono rilevato. Controlla il microfono e riprova.** e il pulsante dice **Registra di nuovo**. Quel tentativo non viene verificato e non consuma alcun nuovo tentativo.
 
 **Voce successiva** cambia la voce del modello, e Immersive ricorda la tua scelta per quella lingua.
 
 La verifica dice se la parola è stata capita come quella giusta della coppia. Non è un voto alla tua pronuncia.
 
-Se il microfono non è consentito, o se una registrazione non può essere verificata, la parola resta segnata **Non verificata** e il giro lo valuti tu.
+Se il microfono non è consentito, o se una registrazione non può essere verificata, la parola resta segnata **Non verificata** e il giro lo valuti tu. **Salta questa parola**, sotto il pulsante, passa subito alla seguente, e anche allora il giro lo valuti tu.
 
 ## La valutazione
 
-Un giro finisce sul suo risultato, con un giudizio già segnato. Sceglilo per salvare il ripasso, oppure scegline un altro per correggerlo.
+Un giro finisce sul suo risultato, che ne indica il giudizio («Valutato automaticamente: 3 su 4 è Difficile», per esempio). **Avanti** salva il ripasso con quel giudizio. Se una parte di un giro di Pronuncia non è stata verificata, compaiono invece i quattro giudizi e ne scegli uno.
 
 | Giro | Giudizio |
 |---|---|
@@ -77,7 +81,7 @@ Un giro finisce sul suo risultato, con un giudizio già segnato. Sceglilo per sa
 | Pronuncia, un nuovo tentativo su una delle due | **Difficile** |
 | Pronuncia, una parola ancora non capita dopo i suoi nuovi tentativi | **Ancora** |
 
-Una parola il cui audio non è partito non conta in un giro di Senti. Pronuncia non propone mai **Facile**. Che cosa fa ogni giudizio alla pianificazione è spiegato in [Ripassare le carte](reviewing-cards.md#la-valutazione).
+Una parola il cui audio non è partito non conta in un giro di Senti. Pronuncia non dà mai **Facile**. Che cosa fa ogni giudizio alla pianificazione è spiegato in [Ripassare le carte](reviewing-cards.md#la-valutazione).
 
 ## Per approfondire
 

@@ -27,6 +27,8 @@ On una altra baralla mostra les targetes, aquesta mostra els seus **Sons**: una 
 
 Escolta-hi tant com vulguis: en aquesta pàgina no es qualifica res. En un mòbil, les veus es desplacen de costat. La llista de targetes és a l'espai de treball de la baralla, darrere del llapis.
 
+A la teva còpia, **Estudia** al costat d'un so comença rondes amb les parelles d'aquell so, tant si toca repassar-les com si no, i **Estudia la baralla** fa el mateix amb totes les parelles. Aquestes rondes es qualifiquen com qualsevol altra.
+
 ## El mode Sent
 
 La baralla es repassa en dos modes propis, **Sent** i **Pronuncia**, a les pestanyes de dalt de la targeta. S'obre a Sent, sigui quin sigui el mode de les teves altres baralles.
@@ -34,18 +36,18 @@ La baralla es repassa en dos modes propis, **Sent** i **Pronuncia**, a les pesta
 Una targeta és una parella de paraules, i repassar-la és una ronda de quatre paraules:
 
 1. Sona una paraula. Quan acaba, tria quina de les dues paraules has sentit. L'altaveu la torna a fer sonar.
-2. La resposta es mostra de seguida, i sonen les dues paraules amb la mateixa veu, l'una darrere l'altra. **Torna a sentir les dues** les repeteix.
+2. La resposta es mostra, i no sona res sol. Cada paraula té el seu altaveu, i **Torna a sentir les dues** les fa sonar totes dues, amb la mateixa veu.
 3. **Següent** fa sonar la paraula següent, amb una altra veu. Després de la quarta, **Mira el resultat** mostra la teva puntuació, cada paraula amb el que has triat i la qualificació de la ronda.
 
 La primera vegada que trobes un so, la seva nota s'obre abans de la ronda, amb un **Àudio lent** de les paraules d'exemple; **Comença la ronda** la posa en marxa. Després, el botó de dalt de la targeta que anomena els dos sons obre la nota.
 
 ## Les veus
 
-Cada veu té un nom de pila, el mateix a la pàgina de la baralla i en una ronda. Després d'una resposta, la targeta diu quina veu és (**Veu: Oliver**, per exemple), i **Veu següent** torna a fer sonar les dues paraules amb la veu següent. No canvia ni la puntuació ni la qualificació.
+Cada veu té un nom de pila, el mateix a la pàgina de la baralla i en una ronda. Després d'una resposta, la targeta diu quina veu és (**Veu: Oliver**, per exemple), i **Veu següent** fa sonar les dues paraules amb la veu següent. No canvia ni la puntuació ni la qualificació.
 
 ## Proves d'oïda
 
-Algunes rondes porten l'avís **Una prova d'oïda, amb veus i paraules que no has practicat**. Les seves paraules no són a les taules de la pàgina de la baralla i les seves veus no són les de la pràctica, de manera que mostren si el que has après et serveix amb veus i paraules noves. Es qualifiquen i tornen com qualsevol altra ronda, sense **Veu següent**.
+Algunes rondes porten l'avís **Una prova d'oïda, amb veus i paraules que no has practicat**. Les seves paraules no són a les taules de la pàgina de la baralla i les seves veus no són les de la pràctica, de manera que mostren si el que has après et serveix amb veus i paraules noves. Es qualifiquen i tornen com qualsevol altra ronda, sense **Veu següent**. La nota del so no s'ofereix durant una prova, només en el seu resultat.
 
 ## El mode Pronuncia
 
@@ -54,19 +56,21 @@ Algunes rondes porten l'avís **Una prova d'oïda, amb veus i paraules que no ha
 Una ronda passa per les dues paraules de la parella, d'una en una:
 
 1. Sona el model. El botó diu **Escolta primer** durant quatre segons, i després passa a ser **Enregistra**.
-2. Digues la paraula. L'enregistrament s'atura sol al cap de cinc segons, o quan prems **Atura**.
+2. Digues la paraula i torna a prémer el botó per aturar; mentre enregistra, es torna vermell i mostra el temps. S'atura sol al cap de cinc segons.
 3. Immersive et diu quina paraula ha entès. Si és l'altra paraula de la parella («Hem sentit *sheep*. Torna a provar *ship*.»), o cap de les dues, **Torna a enregistrar**: cada paraula té dos nous intents. El primer intent d'una paraula que no s'entén com cap de les dues no compta: la targeta diu **Aquest intent no compta**, i no gasta cap nou intent.
-4. Després sonen el teu enregistrament i el model, l'un darrere l'altre. **Torna a sentir les dues** els repeteix.
+4. Després, **El teu enregistrament** i **Model** tenen cadascun el seu altaveu, i no sona res sol. **Torna a sentir les dues** fa sonar el teu enregistrament i després el model. **Paraula següent** passa a l'altra paraula; després de la segona, **Mira el resultat**.
+
+Si un enregistrament no té cap so, la targeta diu **No s'ha detectat cap so. Comprova el micròfon i torna-ho a provar.** i el botó diu **Torna a enregistrar**. Aquest intent no es comprova i no gasta cap nou intent.
 
 **Veu següent** canvia la veu del model, i Immersive recorda la teva tria per a aquella llengua.
 
 La comprovació diu si la paraula s'ha entès com la bona de la parella. No és una nota de la teva pronunciació.
 
-Si el micròfon no està permès, o si un enregistrament no es pot comprovar, la paraula queda marcada **No comprovada** i la ronda la qualifiques tu.
+Si el micròfon no està permès, o si un enregistrament no es pot comprovar, la paraula queda marcada **No comprovada** i la ronda la qualifiques tu. **Salta aquesta paraula**, sota el botó, passa directament a la següent, i llavors també qualifiques tu la ronda.
 
 ## La qualificació
 
-Una ronda acaba en el seu resultat, amb una qualificació ja marcada. Tria-la per desar el repàs, o tria'n una altra per corregir-la.
+Una ronda acaba en el seu resultat, que en diu la qualificació («Qualificat automàticament: 3 de 4 és Difícil», per exemple). **Següent** desa el repàs amb aquesta qualificació. Si una part d'una ronda de Pronuncia no s'ha comprovat, es mostren les quatre qualificacions i en tries una.
 
 | Ronda | Qualificació |
 |---|---|
@@ -77,7 +81,7 @@ Una ronda acaba en el seu resultat, amb una qualificació ja marcada. Tria-la pe
 | Pronuncia, un nou intent en qualsevol de les dues | **Difícil** |
 | Pronuncia, una paraula encara no entesa després dels nous intents | **Una altra vegada** |
 
-Una paraula que no ha pogut sonar no compta en una ronda de Sent. Pronuncia no proposa mai **Fàcil**. El que fa cada qualificació amb el calendari és a [Repassar targetes](reviewing-cards.md#la-qualificació).
+Una paraula que no ha pogut sonar no compta en una ronda de Sent. Pronuncia no dona mai **Fàcil**. El que fa cada qualificació amb el calendari és a [Repassar targetes](reviewing-cards.md#la-qualificació).
 
 ## Per llegir més
 

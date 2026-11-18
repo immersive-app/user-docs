@@ -26,6 +26,8 @@ Where another deck lists its cards, this one lists its **Sounds**: one folding s
 
 Listen here as often as you like: nothing on this page is graded. On a phone the voices scroll sideways. The card list is in the deck's workspace, behind the pencil.
 
+On your copy, **Study** beside a sound starts rounds of that sound's pairs, whether they are due or not, and **Study deck** does the same for every pair. Those rounds are graded like any other.
+
 ## Hearing rounds
 
 The deck is reviewed in two modes of its own, **Hear** and **Say**, on the tabs at the top of the card. It opens in Hear, whatever mode your other decks use.
@@ -33,18 +35,18 @@ The deck is reviewed in two modes of its own, **Hear** and **Say**, on the tabs 
 A card is one pair of words, and reviewing it is a round of four words:
 
 1. A word plays. When it ends, choose which of the two words you heard. The speaker plays it again.
-2. The answer shows at once, and both words play in the same voice, one after the other. **Hear both again** repeats them.
+2. The answer shows, and nothing plays by itself. Each word has its own speaker, and **Hear both again** plays both, in the same voice.
 3. **Next** plays the next word, in another voice. After the fourth, **See your result** shows your score, each word with what you chose, and the round's grade.
 
 The first time you meet a sound, its note opens before the round, with a **Slow clip** of its example words; **Start the round** begins. After that, the button at the top of the card that names the two sounds opens the note.
 
 ## Voices
 
-Each voice has a first name, the same on the deck page and in a round. After an answer the card names the voice (**Voice: Julien**, for example), and **Next voice** plays both words again in the next one. It changes neither your score nor the grade.
+Each voice has a first name, the same on the deck page and in a round. After an answer the card names the voice (**Voice: Julien**, for example), and **Next voice** plays both words in the next one. It changes neither your score nor the grade.
 
 ## Check rounds
 
-Some rounds are marked **A hearing check, in voices and words you have not trained with**. Their words are not in the deck page's tables and their voices are not the ones you train with, so they show whether what you have learned carries over. They are graded and come back like any other round, without **Next voice**.
+Some rounds are marked **A hearing check, in voices and words you have not trained with**. Their words are not in the deck page's tables and their voices are not the ones you train with, so they show whether what you have learned carries over. They are graded and come back like any other round, without **Next voice**. The sound note is not offered during a check, only on its result.
 
 ## Saying
 
@@ -53,19 +55,21 @@ Some rounds are marked **A hearing check, in voices and words you have not train
 A round takes the pair's two words, one at a time:
 
 1. The model plays. The button reads **Listen first** for four seconds, then becomes **Record**.
-2. Say the word. The recording stops by itself after five seconds, or when you press **Stop**.
+2. Say the word, then press the button again to stop; while it records, it turns red and shows the time. It stops by itself after five seconds.
 3. Immersive tells you which word it understood. If that is the pair's other word ("We heard *tout*. Try *tu* again."), or neither, **Record again**: each word has two retries. A word's first try that is understood as neither word is free: the card says **That try does not count**, and no retry is used.
-4. Your recording and the model then play in turn. **Hear both again** repeats them.
+4. Then **Your recording** and **Model** each have a speaker, and nothing plays by itself. **Hear both again** plays your recording, then the model. **Next word** moves on; after the second word, **See your result**.
+
+If a recording has no sound in it, the card says **No sound detected. Check your microphone and try again.** and the button reads **Record again**. That take is not checked and uses no retry.
 
 **Next voice** changes the voice of the model, and Immersive remembers your choice for that language.
 
 The check says whether the word was understood as the right one of the pair. It is not a score of your pronunciation.
 
-If the microphone is not allowed, or a recording cannot be checked, the word is marked **Not checked** and you grade the round yourself.
+If the microphone is not allowed, or a recording cannot be checked, the word is marked **Not checked** and you grade the round yourself. **Skip this word**, under the button, moves straight on, and you then grade the round yourself as well.
 
 ## Grading
 
-A round ends on its result, with a grade already marked. Choose it to save the review, or choose another to override it.
+A round ends on its result, which names its grade ("Auto-graded: 3 of 4 is Hard", for example). **Next** saves the review with that grade. If part of a say round was not checked, the four grades show instead, and you choose one.
 
 | Round | Grade |
 |---|---|
@@ -76,7 +80,7 @@ A round ends on its result, with a grade already marked. Choose it to save the r
 | Say, a retry on either word | **Hard** |
 | Say, a word still not understood after its retries | **Again** |
 
-A word whose audio would not play is left out of a hearing round's count. Say never proposes **Easy**. What each grade does to the schedule is in [Reviewing cards](reviewing-cards.md#grading).
+A word whose audio would not play is left out of a hearing round's count. Say never gives **Easy**. What each grade does to the schedule is in [Reviewing cards](reviewing-cards.md#grading).
 
 ## Further reading
 
