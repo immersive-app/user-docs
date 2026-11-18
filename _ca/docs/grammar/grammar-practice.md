@@ -1,6 +1,6 @@
 ---
 title: Pràctica de gramàtica
-description: Converteix les notes gramaticals en targetes de repàs, i repassa-les per nota, àrea o nivell en els modes Llegir, Escriure i Tria.
+description: Converteix les notes gramaticals en targetes de repàs, i repassa-les per nota, àrea o nivell en els modes Llegeix, Escriu i Tria.
 parent: Gramàtica
 nav_order: 2
 lang: ca
@@ -27,8 +27,8 @@ Els repassos de gramàtica poden cobrir una nota, una àrea, un nivell o tot:
 
 El repàs funciona com el d'una baralla (vegeu [Repassar targetes](../decks/reviewing-cards.md)), amb tres modes:
 
-- **Llegir**: llegeix la targeta, recorda la resposta i qualifica't (**Valora per continuar**).
-- **Escriure**: escriu la resposta; Immersive la comprova i proposa una qualificació.
+- **Llegeix**: llegeix la targeta, recorda la resposta i qualifica't (**Valora per continuar**).
+- **Escriu**: escriu la resposta; Immersive la comprova i proposa una qualificació.
 - **Tria**: tria la forma correcta entre les opcions (les tecles numèriques també funcionen); triar envia i qualifica la targeta.
 
 Immersive recorda el mode que fas servir per a la gramàtica per separat dels repassos de baralles. Una targeta que no es pot respondre en el mode triat es mostra en el mode més proper que hi encaixi.
