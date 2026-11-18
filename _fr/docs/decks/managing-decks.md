@@ -22,7 +22,7 @@ Ces chiffres vous disent d'un coup d'œil où votre temps de révision est atten
 
 ## La Bibliothèque
 
-Au-dessus de vos paquets se trouve la **Bibliothèque** : des paquets prêts à l'emploi proposés par Immersive dans la langue que vous apprenez, avec leur nombre. Elle est d'abord repliée ; ouvrez-la pour voir les paquets. Elle comprend des paquets des mots les plus courants, découpés par fréquence (les 500 premiers mots, puis 501 à 1 000, puis 1 001 à 5 000), pour ne jamais étudier deux fois le même mot, et, pour certaines langues, un paquet **Essentiels** de verbes de base au présent.
+Au-dessus de vos paquets se trouve la **Bibliothèque** : des paquets prêts à l'emploi proposés par Immersive dans la langue que vous apprenez, avec leur nombre. Elle est d'abord repliée ; ouvrez-la pour voir les paquets. Elle comprend des paquets des mots les plus courants, découpés par fréquence (les 500 premiers mots, puis 501 à 1 000, puis 1 001 à 5 000), pour ne jamais étudier deux fois le même mot, et, pour certaines langues, un paquet **Essentiels** de verbes de base au présent. Pour toutes les combinaisons de langues sauf deux, le premier paquet de la liste est **Prononciation**, pour les sons que votre langue ne distingue pas ; voir [Prononciation](pronunciation.md).
 
 Les paquets de la Bibliothèque s'étudient via votre propre copie : appuyez sur le **+** à côté d'un paquet (**Copier dans mes paquets**) et la copie apparaît dans Mes paquets.
 
@@ -64,3 +64,4 @@ Supprimez un paquet avec le bouton corbeille de son espace de travail. La suppre
 
 - [Créer des paquets](creating-decks.md)
 - [Réviser les cartes](reviewing-cards.md)
+- [Prononciation](pronunciation.md)

@@ -29,6 +29,8 @@ Separadores no topo do cartão mudam o modo. O Immersive lembra-se do modo que e
 - **Ouvir**: o cartão é lido em voz alta; escreva o que ouve, com a mesma escolha entre **Tocar** e **Escrever**. Se um cartão não tiver áudio, mostra o texto.
 - **Falar**: leia o enunciado em voz alta. **Gravar** capta a sua voz e para sozinho ao fim de dez segundos. Um momento depois de a enviar, aparece em **Disse** uma transcrição do que disse, com as palavras que diferem da resposta assinaladas, e uma avaliação sugerida («Perto: 92%»). Ouça **A sua** e a **Referência** para notar a diferença. Se não aparecer nenhuma transcrição, avalie-se comparando com a referência.
 
+O baralho Pronúncia não tem nenhum destes quatro: revê-se em **Distinguir** e **Dizer**, e as suas rondas são avaliadas por regras próprias. Ver [Pronúncia](pronunciation.md).
+
 ## Avaliação
 
 Cada revisão termina numa de quatro avaliações:
@@ -69,4 +71,5 @@ Quando há cartões à espera, o Immersive pode enviar-lhe um e-mail todas as ma
 
 - [Criar baralhos](creating-decks.md)
 - [Gerir baralhos](managing-decks.md)
+- [Pronúncia](pronunciation.md)
 - [Perfil e Progresso](../profile.md): as suas revisões alimentam os separadores Atividade e Progresso

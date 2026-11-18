@@ -22,7 +22,7 @@ Questi numeri ti dicono a colpo d'occhio dove serve il tuo tempo di ripasso.
 
 ## La Biblioteca
 
-Sopra i tuoi mazzi sta la **Biblioteca**: mazzi pronti di Immersive nella lingua che stai imparando, con il conteggio di quanti sono. All'inizio è chiusa; aprila per vedere i mazzi. Include mazzi delle parole più comuni suddivisi per frequenza (le prime 500 parole, poi da 501 a 1.000, poi da 1.001 a 5.000), così non studi mai due volte la stessa parola, e per alcune lingue un mazzo di **Essenziali** con i verbi di base al presente.
+Sopra i tuoi mazzi sta la **Biblioteca**: mazzi pronti di Immersive nella lingua che stai imparando, con il conteggio di quanti sono. All'inizio è chiusa; aprila per vedere i mazzi. Include mazzi delle parole più comuni suddivisi per frequenza (le prime 500 parole, poi da 501 a 1.000, poi da 1.001 a 5.000), così non studi mai due volte la stessa parola, e per alcune lingue un mazzo di **Essenziali** con i verbi di base al presente. Per tutte le combinazioni di lingue tranne due, il primo mazzo dell'elenco è **Pronuncia**, per i suoni che la tua lingua non distingue; vedi [Pronuncia](pronunciation.md).
 
 I mazzi della Biblioteca si studiano dalla tua copia: premi il **+** accanto a uno (**Copia nei miei mazzi**) e la copia compare in I miei mazzi.
 
@@ -64,3 +64,4 @@ Elimina un mazzo con il pulsante del cestino nel suo spazio di lavoro. L'elimina
 
 - [Creare mazzi](creating-decks.md)
 - [Ripassare le carte](reviewing-cards.md)
+- [Pronuncia](pronunciation.md)

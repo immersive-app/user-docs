@@ -32,7 +32,7 @@ Immersive remplit aussi trois paquets pour vous au fil de vos études. Ils appar
 
 Chaque carte est programmée individuellement. Quand vous révisez une carte, elle reçoit une note, **Encore**, **Difficile**, **Bien** ou **Facile**, et le calendrier s'ajuste : les cartes que vous trouvez faciles s'éloignent dans le futur, celles que vous manquez reviennent vite. Avec le temps, vos minutes de révision vont au matériel qui en a besoin.
 
-Vous pouvez réviser dans quatre modes (**Lire**, **Écrire**, **Écouter** et **Parler**), pour que le même paquet entraîne la reconnaissance, l'orthographe, la compréhension orale et l'expression orale. Voir [Réviser les cartes](decks/reviewing-cards.md).
+Vous pouvez réviser dans quatre modes (**Lire**, **Écrire**, **Écouter** et **Parler**), pour que le même paquet entraîne la reconnaissance, l'orthographe, la compréhension orale et l'expression orale. Voir [Réviser les cartes](decks/reviewing-cards.md). Le paquet prêt à l'emploi **Prononciation** a deux modes qui lui sont propres, **Entendre** et **Dire**. Voir [Prononciation](decks/pronunciation.md).
 
 ## La page Paquets
 
@@ -54,3 +54,4 @@ Si vous utilisez aussi Anki :
 - [Créer des paquets](decks/creating-decks.md) : créez un paquet et remplissez-le de cartes.
 - [Réviser les cartes](decks/reviewing-cards.md) : la session de révision, les quatre modes, la notation et les limites quotidiennes.
 - [Gérer les paquets](decks/managing-decks.md) : la Bibliothèque, les dossiers, les étiquettes, les favoris, la copie, l'export et la suppression.
+- [Prononciation](decks/pronunciation.md) : le paquet prêt à l'emploi pour entendre, puis dire, les sons que votre langue ne distingue pas.

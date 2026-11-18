@@ -29,6 +29,8 @@ Les pestanyes a la part superior de la targeta canvien el mode. Immersive record
 - **Escolta**: la targeta es reprodueix en veu alta; escriu el que sents, amb la mateixa opció **Tocar** i **Escriure**. Si una targeta no té àudio, mostra el text.
 - **Parla**: llegeix l'enunciat en veu alta. **Grava** captura la teva veu i s'atura sola als deu segons. Un moment després d'enviar-la, a **Has dit** apareix una transcripció del que has dit, amb les paraules que difereixen de la resposta marcades, i una qualificació suggerida («Prop: 92%»). Reprodueix **La teva** i la **Referència** per sentir-ne la diferència. Si no apareix cap transcripció, qualifica't tu mateix comparant-te amb la referència.
 
+La baralla Pronunciació no té cap d'aquests quatre: es repassa en **Sent** i **Pronuncia**, i les seves rondes es qualifiquen amb regles pròpies. Vegeu [Pronunciació](pronunciation.md).
+
 ## La qualificació
 
 Cada repàs acaba en una de quatre qualificacions:
@@ -69,4 +71,5 @@ Quan hi ha targetes esperant, Immersive et pot enviar un correu cada matí. Vege
 
 - [Crear baralles](creating-decks.md)
 - [Gestionar baralles](managing-decks.md)
+- [Pronunciació](pronunciation.md)
 - [Perfil i progrés](../profile.md): els teus repassos alimenten les pestanyes d'Activitat i Progrés

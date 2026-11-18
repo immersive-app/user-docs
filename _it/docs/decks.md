@@ -32,7 +32,7 @@ Immersive riempie anche tre mazzi per te mentre studi. Compaiono in I miei mazzi
 
 Ogni carta è pianificata individualmente. Quando ripassi una carta, riceve un giudizio (**Ancora**, **Difficile**, **Bene** o **Facile**) e la pianificazione si aggiusta: le carte che trovi facili si allontanano nel futuro, quelle che sbagli tornano presto. Col tempo, i tuoi minuti di ripasso vanno al materiale che ne ha bisogno.
 
-Puoi ripassare in quattro modalità (**Leggi**, **Scrivi**, **Ascolta** e **Parla**), così lo stesso mazzo allena riconoscimento, ortografia, ascolto e pronuncia. Vedi [Ripassare le carte](decks/reviewing-cards.md).
+Puoi ripassare in quattro modalità (**Leggi**, **Scrivi**, **Ascolta** e **Parla**), così lo stesso mazzo allena riconoscimento, ortografia, ascolto e pronuncia. Vedi [Ripassare le carte](decks/reviewing-cards.md). Il mazzo pronto **Pronuncia** ha due modalità tutte sue, **Senti** e **Pronuncia**. Vedi [Pronuncia](decks/pronunciation.md).
 
 ## La pagina Mazzi
 
@@ -54,3 +54,4 @@ Se usi anche Anki:
 - [Creare mazzi](decks/creating-decks.md): costruisci un mazzo e riempilo di carte.
 - [Ripassare le carte](decks/reviewing-cards.md): la sessione di ripasso, le quattro modalità, la valutazione e i limiti giornalieri.
 - [Gestire i mazzi](decks/managing-decks.md): la Biblioteca, cartelle, etichette, segnalibri, copia, esportazione ed eliminazione.
+- [Pronuncia](decks/pronunciation.md): il mazzo pronto per sentire, e poi dire, i suoni che la tua lingua non distingue.

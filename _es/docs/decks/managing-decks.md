@@ -22,7 +22,7 @@ Estos números te dicen de un vistazo dónde hace falta tu tiempo de repaso.
 
 ## La Biblioteca
 
-Encima de tus mazos está la **Biblioteca**: mazos listos para usar de Immersive en el idioma que aprendes, con un recuento de cuántos hay. Empieza plegada; ábrela para ver los mazos. Incluye mazos de las palabras más frecuentes divididos por frecuencia (las primeras 500 palabras, luego de la 501 a la 1.000, luego de la 1.001 a la 5.000), para que nunca estudies la misma palabra dos veces, y para algunos idiomas un mazo **Esenciales** de verbos básicos en presente.
+Encima de tus mazos está la **Biblioteca**: mazos listos para usar de Immersive en el idioma que aprendes, con un recuento de cuántos hay. Empieza plegada; ábrela para ver los mazos. Incluye mazos de las palabras más frecuentes divididos por frecuencia (las primeras 500 palabras, luego de la 501 a la 1.000, luego de la 1.001 a la 5.000), para que nunca estudies la misma palabra dos veces, y para algunos idiomas un mazo **Esenciales** de verbos básicos en presente. Para todas las combinaciones de idiomas menos dos, el primer mazo de la lista es **Pronunciación**, para los sonidos que tu idioma no distingue; ver [Pronunciación](pronunciation.md).
 
 Los mazos de la Biblioteca se estudian desde tu propia copia: pulsa el **+** junto a uno (**Copiar a mis mazos**) y la copia aparece en Mis mazos.
 
@@ -64,3 +64,4 @@ Elimina un mazo con el botón de la papelera en su espacio de trabajo. Eliminarl
 
 - [Crear mazos](creating-decks.md)
 - [Repasar tarjetas](reviewing-cards.md)
+- [Pronunciación](pronunciation.md)

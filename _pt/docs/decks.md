@@ -32,7 +32,7 @@ O Immersive também enche três baralhos por si à medida que estuda. Aparecem e
 
 Cada cartão é agendado individualmente. Quando revê um cartão, ele é avaliado com **De novo**, **Difícil**, **Bem** ou **Fácil**, e o calendário ajusta-se: os cartões que acha fáceis afastam-se mais no futuro, os que falha voltam depressa. Com o tempo, os seus minutos de revisão vão para o material que precisa deles.
 
-Pode rever em quatro modos (**Ler**, **Escrever**, **Ouvir** e **Falar**), para que o mesmo baralho treine reconhecimento, ortografia, compreensão oral e fala. Ver [Rever cartões](decks/reviewing-cards.md).
+Pode rever em quatro modos (**Ler**, **Escrever**, **Ouvir** e **Falar**), para que o mesmo baralho treine reconhecimento, ortografia, compreensão oral e fala. Ver [Rever cartões](decks/reviewing-cards.md). O baralho pronto **Pronúncia** tem dois modos próprios, **Distinguir** e **Dizer**. Ver [Pronúncia](decks/pronunciation.md).
 
 ## A página Baralhos
 
@@ -54,3 +54,4 @@ Se também usa o Anki:
 - [Criar baralhos](decks/creating-decks.md): criar um baralho e enchê-lo de cartões.
 - [Rever cartões](decks/reviewing-cards.md): a sessão de revisão, os quatro modos, a avaliação e os limites diários.
 - [Gerir baralhos](decks/managing-decks.md): a Biblioteca, pastas, etiquetas, marcadores, cópias, exportação e eliminação.
+- [Pronúncia](decks/pronunciation.md): o baralho pronto para ouvir, e depois dizer, os sons que a sua língua não distingue.

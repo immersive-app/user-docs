@@ -29,6 +29,8 @@ Des onglets en haut de la carte changent le mode. Immersive se souvient du mode 
 - **Écouter** : la carte est lue à voix haute ; écrivez ce que vous entendez, avec le même choix entre **Toucher** et **Taper**. Si une carte n'a pas d'audio, elle affiche le texte à la place.
 - **Parler** : lisez la question à voix haute. **Enregistrer** capte votre voix et s'arrête tout seul après dix secondes. Un instant après l'envoi, une transcription de ce que vous avez dit apparaît sous **Vous avez dit**, avec les mots qui diffèrent de la réponse signalés, et une note suggérée (« Proche : 92 % »). Réécoutez **Le vôtre** et la **Référence** pour entendre la différence. Si aucune transcription n'apparaît, notez-vous par rapport à la référence.
 
+Le paquet Prononciation n'a aucun de ces quatre modes : il se révise en **Entendre** et **Dire**, et ses tours sont notés selon leurs propres règles. Voir [Prononciation](pronunciation.md).
+
 ## La notation
 
 Chaque révision se termine par l'une de quatre notes :
@@ -69,4 +71,5 @@ Quand des cartes attendent, Immersive peut vous envoyer un e-mail chaque matin. 
 
 - [Créer des paquets](creating-decks.md)
 - [Gérer les paquets](managing-decks.md)
+- [Prononciation](pronunciation.md)
 - [Profil et progression](../profile.md) : vos révisions alimentent les onglets Activité et Progression

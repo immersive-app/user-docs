@@ -32,7 +32,7 @@ Immersive también llena tres mazos por ti mientras estudias. Aparecen en Mis ma
 
 Cada tarjeta se programa por separado. Cuando repasas una tarjeta, se califica con **Otra vez**, **Difícil**, **Bien** o **Fácil**, y el calendario se ajusta: las tarjetas que te resultan fáciles se alejan más en el futuro, las que fallas vuelven pronto. Con el tiempo, tus minutos de repaso van al material que los necesita.
 
-Puedes repasar en cuatro modos (**Leer**, **Escribir**, **Escuchar** y **Hablar**), de modo que el mismo mazo entrena el reconocimiento, la ortografía, la comprensión auditiva y la expresión oral. Ver [Repasar tarjetas](decks/reviewing-cards.md).
+Puedes repasar en cuatro modos (**Leer**, **Escribir**, **Escuchar** y **Hablar**), de modo que el mismo mazo entrena el reconocimiento, la ortografía, la comprensión auditiva y la expresión oral. Ver [Repasar tarjetas](decks/reviewing-cards.md). El mazo listo para usar **Pronunciación** tiene dos modos propios, **Oír** y **Decir**. Ver [Pronunciación](decks/pronunciation.md).
 
 ## La página de Mazos
 
@@ -54,3 +54,4 @@ Si también usas Anki:
 - [Crear mazos](decks/creating-decks.md): construye un mazo y llénalo de tarjetas.
 - [Repasar tarjetas](decks/reviewing-cards.md): la sesión de repaso, los cuatro modos, la calificación y los límites diarios.
 - [Gestionar mazos](decks/managing-decks.md): la Biblioteca, carpetas, etiquetas, marcadores, copias, exportación y borrado.
+- [Pronunciación](decks/pronunciation.md): el mazo listo para usar para oír, y después decir, los sonidos que tu idioma no distingue.

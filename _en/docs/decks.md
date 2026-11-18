@@ -31,7 +31,7 @@ Immersive also fills three decks for you as you study. They appear in My Decks l
 
 Each card is scheduled on its own. When you review a card, it is graded **Again**, **Hard**, **Good**, or **Easy**, and the schedule adjusts: cards you find easy move further into the future, cards you miss come back quickly. Over time your review minutes go to the material that needs them.
 
-You can review in four modes (**Read**, **Write**, **Listen**, and **Speak**), so the same deck trains recognition, spelling, listening, and speaking. See [Reviewing cards](decks/reviewing-cards.md).
+You can review in four modes (**Read**, **Write**, **Listen**, and **Speak**), so the same deck trains recognition, spelling, listening, and speaking. See [Reviewing cards](decks/reviewing-cards.md). The ready-made **Pronunciation** deck has two modes of its own, **Hear** and **Say**. See [Pronunciation](decks/pronunciation.md).
 
 ## The Decks page
 
@@ -53,3 +53,4 @@ If you also use Anki:
 - [Creating decks](decks/creating-decks.md): build a deck and fill it with cards.
 - [Reviewing cards](decks/reviewing-cards.md): the review session, the four modes, grading, and daily limits.
 - [Managing decks](decks/managing-decks.md): the Library, folders, tags, bookmarks, copying, exporting, and deleting.
+- [Pronunciation](decks/pronunciation.md): the ready-made deck for hearing, then saying, the sounds your own language does not tell apart.
