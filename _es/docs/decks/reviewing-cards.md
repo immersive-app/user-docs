@@ -27,7 +27,7 @@ Las pestañas en la parte superior de la tarjeta cambian el modo. Immersive recu
 - **Leer**: lee el enunciado y recuerda la respuesta mentalmente, luego pulsa **Mostrar respuesta** (o Espacio) y califícate. Las teclas numéricas del 1 al 4 eligen una calificación. Una vez que la respuesta está en la tarjeta, sus palabras funcionan como en el lector: toca una para ver su traducción y oír su audio.
 - **Escribir**: la tarjeta muestra la traducción; escribe la respuesta en el idioma que aprendes. **Tocar** te da fichas de palabras desordenadas para ponerlas en orden (colocar la última palabra envía la respuesta), o cambia a **Escribir** y usa el teclado, y luego **Enviar** (o Cmd+Intro / Ctrl+Intro).
 - **Escuchar**: la tarjeta se pronuncia; escribe lo que oyes, con la misma elección entre **Tocar** y **Escribir**. Si una tarjeta no tiene audio, muestra el texto en su lugar.
-- **Hablar**: lee el enunciado en voz alta. **Grabar** captura tu voz y se detiene sola a los diez segundos. Puedes escribir lo que dijiste en **O escribe lo que dijiste**; Immersive lo compara entonces con la respuesta. Si lo dejas vacío, reproduce **La tuya** y la **Referencia** y califícate.
+- **Hablar**: lee el enunciado en voz alta. **Grabar** captura tu voz y se detiene sola a los diez segundos. Un momento después de enviarla, aparece en **Dijiste** una transcripción de lo que dijiste, con las palabras que difieren de la respuesta marcadas, y una calificación sugerida («Cerca: 92 %»). Reproduce **La tuya** y la **Referencia** para oír la diferencia. Si no aparece ninguna transcripción, califícate comparando con la referencia.
 
 ## La calificación
 
@@ -38,7 +38,7 @@ Cada repaso termina en una de cuatro calificaciones:
 - **Bien**: recordada con algo de esfuerzo.
 - **Fácil**: sin esfuerzo; la tarjeta se aleja al máximo.
 
-En el modo Leer eliges tú la calificación. En Escribir, Escuchar y Hablar (cuando escribiste lo que dijiste), Immersive compara tu respuesta con la esperada y propone una calificación: el resultado muestra cuánto te acercaste («92 % de coincidencia · calificado Bien»). Elige otra calificación para cambiarla. El repaso se guarda cuando eliges una calificación.
+En el modo Leer eliges tú la calificación. En Escribir y Escuchar, Immersive compara tu respuesta con la esperada y propone una calificación: el resultado muestra cuánto te acercaste («92 % de coincidencia · calificado Bien»). En Hablar compara una transcripción de lo que dijiste y sugiere la calificación de la misma manera. Elige otra calificación para cambiarla. El repaso se guarda cuando eliges una calificación.
 
 En un ordenador, **Mostrar intervalos**, debajo de la tarjeta, añade a cada botón de calificación cuánto falta para que vuelva la tarjeta; **Ocultar intervalos** los quita. Immersive recuerda tu elección. Los intervalos no se muestran en los teléfonos.
 

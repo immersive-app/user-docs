@@ -74,7 +74,7 @@ Una part del material de referència d'Immersive és oberta a tothom:
 
 Registrar-te desbloqueja les eines d'aprenentatge:
 
-- **[Baralles i repassos](docs/decks.md)**: crea baralles de paraules, frases, formes verbals i nombres, i repassa-les en els modes Llegir, Escriure, Escoltar i Parlar amb un calendari que s'adapta a la teva memòria.
+- **[Baralles i repassos](docs/decks.md)**: crea baralles de paraules, frases, formes verbals i nombres, i repassa-les en els modes Llegeix, Escriu, Escolta i Parla amb un calendari que s'adapta a la teva memòria.
 - **[Documents](docs/documents.md)**: porta-hi un text (enganxa'l, puja un fitxer o fotografia una pàgina) i llegeix-lo amb traducció a un toc, àudio i ajudes de lectura. O escriu els teus textos i obtén correccions i reescriptures.
 - **[Gramàtica](docs/grammar.md)**: notes per nivell MECR (A1 a C1) amb exercicis, i targetes de pràctica que tornen per repassar-les.
 - **[Verbs](docs/verbs.md)**: les teves baralles i les teves frases a cada pàgina de verb, i comparacions entre les llengües que coneixes.

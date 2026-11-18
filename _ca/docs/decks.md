@@ -32,7 +32,7 @@ Immersive també t'omple tres baralles mentre estudies. Apareixen a Les meves ba
 
 Cada targeta es programa individualment. Quan repasses una targeta, es qualifica amb **Una altra vegada**, **Difícil**, **Bé** o **Fàcil**, i el calendari s'ajusta: les targetes que et resulten fàcils s'allunyen més en el futur, les que falles tornen de seguida. Amb el temps, els teus minuts de repàs van al material que els necessita.
 
-Pots repassar en quatre modes (**Llegir**, **Escriure**, **Escoltar** i **Parlar**), de manera que la mateixa baralla entrena el reconeixement, l'ortografia, la comprensió oral i la parla. Vegeu [Repassar targetes](decks/reviewing-cards.md).
+Pots repassar en quatre modes (**Llegeix**, **Escriu**, **Escolta** i **Parla**), de manera que la mateixa baralla entrena el reconeixement, l'ortografia, la comprensió oral i la parla. Vegeu [Repassar targetes](decks/reviewing-cards.md).
 
 ## La pàgina de Baralles
 
