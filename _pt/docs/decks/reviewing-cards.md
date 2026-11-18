@@ -27,7 +27,7 @@ Separadores no topo do cartão mudam o modo. O Immersive lembra-se do modo que e
 - **Ler**: leia o enunciado e recorde a resposta de cabeça, depois prima **Mostrar resposta** (ou Espaço) e avalie-se. As teclas numéricas de 1 a 4 escolhem uma avaliação. Quando a resposta está no cartão, as suas palavras funcionam como no leitor: toque numa para ver a tradução e ouvir o áudio.
 - **Escrever**: o cartão mostra a tradução; escreva a resposta na língua que está a aprender. **Tocar** dá-lhe peças de palavras baralhadas para pôr por ordem (colocar a última palavra envia a resposta), ou mude para **Escrever** e use o teclado, e depois **Enviar** (ou Cmd+Enter / Ctrl+Enter).
 - **Ouvir**: o cartão é lido em voz alta; escreva o que ouve, com a mesma escolha entre **Tocar** e **Escrever**. Se um cartão não tiver áudio, mostra o texto.
-- **Falar**: leia o enunciado em voz alta. **Gravar** capta a sua voz e para sozinho ao fim de dez segundos. Pode escrever o que disse em **Ou escreva o que disse**; o Immersive compara-o então com a resposta. Se o deixar vazio, ouça **A sua** e a **Referência** e avalie-se.
+- **Falar**: leia o enunciado em voz alta. **Gravar** capta a sua voz e para sozinho ao fim de dez segundos. Um momento depois de a enviar, aparece em **Disse** uma transcrição do que disse, com as palavras que diferem da resposta assinaladas, e uma avaliação sugerida («Perto: 92%»). Ouça **A sua** e a **Referência** para notar a diferença. Se não aparecer nenhuma transcrição, avalie-se comparando com a referência.
 
 O baralho Pronúncia não tem nenhum destes quatro: revê-se em **Distinguir** e **Dizer**, e as suas rondas são avaliadas por regras próprias. Ver [Pronúncia](pronunciation.md).
 
@@ -40,7 +40,7 @@ Cada revisão termina numa de quatro avaliações:
 - **Bem**: lembrou-se com algum esforço.
 - **Fácil**: sem esforço; o cartão afasta-se o mais possível.
 
-No modo Ler, é o próprio que escolhe a avaliação. Em Escrever, Ouvir e Falar (quando escreveu o que disse), o Immersive compara a sua resposta com a esperada e propõe uma avaliação: o resultado mostra quão perto ficou («92% de correspondência · avaliado Bem»). Escolha outra avaliação para a substituir. A revisão fica guardada quando escolhe uma avaliação.
+No modo Ler, é o próprio que escolhe a avaliação. Em Escrever e Ouvir, o Immersive compara a sua resposta com a esperada e propõe uma avaliação: o resultado mostra quão perto ficou («92% de correspondência · avaliado Bem»). Em Falar compara uma transcrição do que disse e sugere a avaliação da mesma forma. Escolha outra avaliação para a substituir. A revisão fica guardada quando escolhe uma avaliação.
 
 Num computador, **Mostrar intervalos**, por baixo do cartão, acrescenta a cada botão de avaliação o tempo até o cartão voltar; **Ocultar intervalos** retira-os. O Immersive lembra-se da sua escolha. Os intervalos não aparecem nos telemóveis.
 

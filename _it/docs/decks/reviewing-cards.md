@@ -27,7 +27,7 @@ Le schede in cima alla carta cambiano la modalità. Immersive ricorda la modalit
 - **Leggi**: leggi la richiesta e richiama la risposta a mente, poi premi **Mostra risposta** (o Spazio) e valutati. I tasti numerici da 1 a 4 scelgono un giudizio. Una volta che la risposta è sulla carta, le sue parole funzionano come nel lettore: toccane una per la traduzione e l'audio.
 - **Scrivi**: la carta mostra la traduzione; scrivi la risposta nella lingua che stai imparando. **Tocca** ti dà tessere di parole mescolate da mettere in ordine (posizionare l'ultima parola invia la risposta), oppure passa a **Digita** e usa la tastiera, poi **Invia** (o Cmd+Invio / Ctrl+Invio).
 - **Ascolta**: la carta viene letta ad alta voce; scrivi ciò che senti, con la stessa scelta tra **Tocca** e **Digita**. Se una carta non ha audio, mostra invece il testo.
-- **Parla**: leggi la richiesta ad alta voce. **Registra** cattura la tua voce e si ferma da solo dopo dieci secondi. Puoi scrivere ciò che hai detto in **Oppure scrivi ciò che hai detto**; Immersive lo confronta poi con la risposta. Se lo lasci vuoto, riascolta **La tua** registrazione e il **Riferimento** e valutati da solo.
+- **Parla**: leggi la richiesta ad alta voce. **Registra** cattura la tua voce e si ferma da solo dopo dieci secondi. Un momento dopo l'invio, sotto **Hai detto** compare una trascrizione di ciò che hai detto, con le parole diverse dalla risposta segnate, e un giudizio suggerito («Vicino: 92%»). Riascolta **La tua** registrazione e il **Riferimento** per sentire la differenza. Se non compare nessuna trascrizione, valutati confrontandoti con il riferimento.
 
 Il mazzo Pronuncia non ha nessuna di queste quattro: si ripassa in **Senti** e **Pronuncia**, e i suoi giri sono valutati con regole proprie. Vedi [Pronuncia](pronunciation.md).
 
@@ -40,7 +40,7 @@ Ogni ripasso si conclude con uno di quattro giudizi:
 - **Bene**: richiamata con un certo sforzo.
 - **Facile**: senza sforzo; la carta si allontana il più possibile.
 
-In modalità Leggi scegli tu il giudizio. In Scrivi, Ascolta e Parla (quando hai scritto ciò che hai detto), Immersive confronta la tua risposta con quella attesa e propone un giudizio: il risultato mostra quanto ti sei avvicinato («92% di corrispondenza · valutato Bene»). Scegli un giudizio diverso per correggerlo. Il ripasso viene salvato quando scegli un giudizio.
+In modalità Leggi scegli tu il giudizio. In Scrivi e Ascolta, Immersive confronta la tua risposta con quella attesa e propone un giudizio: il risultato mostra quanto ti sei avvicinato («92% di corrispondenza · valutato Bene»). In Parla confronta una trascrizione di ciò che hai detto e suggerisce il giudizio allo stesso modo. Scegli un giudizio diverso per correggerlo. Il ripasso viene salvato quando scegli un giudizio.
 
 Su un computer, **Mostra gli intervalli** sotto la carta aggiunge a ogni pulsante di giudizio fra quanto tempo la carta tornerà; **Nascondi gli intervalli** li toglie. Immersive ricorda la tua scelta. Sui telefoni gli intervalli non vengono mostrati.
 

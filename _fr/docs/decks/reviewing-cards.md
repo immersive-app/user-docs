@@ -27,7 +27,7 @@ Des onglets en haut de la carte changent le mode. Immersive se souvient du mode 
 - **Lire** : lisez la question et rappelez-vous la réponse mentalement, puis appuyez sur **Afficher la réponse** (ou Espace) et notez-vous. Les touches 1 à 4 choisissent une note. Une fois la réponse sur la carte, ses mots fonctionnent comme dans le lecteur : touchez-en un pour sa traduction et son audio.
 - **Écrire** : la carte montre la traduction ; écrivez la réponse dans la langue que vous apprenez. **Toucher** vous donne des tuiles de mots mélangées à remettre dans l'ordre (placer le dernier mot envoie la réponse), ou passez en mode **Taper** et utilisez le clavier, puis **Envoyer** (ou Cmd+Entrée / Ctrl+Entrée).
 - **Écouter** : la carte est lue à voix haute ; écrivez ce que vous entendez, avec le même choix entre **Toucher** et **Taper**. Si une carte n'a pas d'audio, elle affiche le texte à la place.
-- **Parler** : lisez la question à voix haute. **Enregistrer** capte votre voix et s'arrête tout seul après dix secondes. Vous pouvez taper ce que vous avez dit dans **Ou tapez ce que vous avez dit** ; Immersive le compare alors à la réponse. Si vous le laissez vide, réécoutez **Le vôtre** et la **Référence** et notez-vous.
+- **Parler** : lisez la question à voix haute. **Enregistrer** capte votre voix et s'arrête tout seul après dix secondes. Un instant après l'envoi, une transcription de ce que vous avez dit apparaît sous **Vous avez dit**, avec les mots qui diffèrent de la réponse signalés, et une note suggérée (« Proche : 92 % »). Réécoutez **Le vôtre** et la **Référence** pour entendre la différence. Si aucune transcription n'apparaît, notez-vous par rapport à la référence.
 
 Le paquet Prononciation n'a aucun de ces quatre modes : il se révise en **Entendre** et **Dire**, et ses tours sont notés selon leurs propres règles. Voir [Prononciation](pronunciation.md).
 
@@ -40,7 +40,7 @@ Chaque révision se termine par l'une de quatre notes :
 - **Bien** : retrouvé avec un certain effort.
 - **Facile** : sans effort ; la carte s'éloigne le plus.
 
-En mode Lire, vous choisissez la note. En modes Écrire, Écouter et Parler (quand vous avez tapé ce que vous avez dit), Immersive compare votre réponse à la réponse attendue et propose une note : le résultat montre à quel point vous étiez proche (« 92 % de correspondance · noté Bien »). Choisissez une autre note pour la remplacer. La révision est enregistrée quand vous choisissez une note.
+En mode Lire, vous choisissez la note. En modes Écrire et Écouter, Immersive compare votre réponse à la réponse attendue et propose une note : le résultat montre à quel point vous étiez proche (« 92 % de correspondance · noté Bien »). En mode Parler, il compare une transcription de ce que vous avez dit et suggère la note de la même façon. Choisissez une autre note pour la remplacer. La révision est enregistrée quand vous choisissez une note.
 
 Sur un ordinateur, **Afficher les intervalles** sous la carte ajoute à chaque bouton de note le délai avant le retour de la carte ; **Masquer les intervalles** les retire. Immersive se souvient de votre choix. Les intervalles ne s'affichent pas sur téléphone.
 

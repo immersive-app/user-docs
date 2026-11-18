@@ -1,6 +1,6 @@
 ---
 title: Repassar targetes
-description: Començar un repàs, els modes Llegir, Escriure, Escoltar i Parlar, la qualificació, els resultats, els límits diaris i l'historial de repassos.
+description: Començar un repàs, els modes Llegeix, Escriu, Escolta i Parla, la qualificació, els resultats, els límits diaris i l'historial de repassos.
 parent: Baralles i repassos
 nav_order: 2
 lang: ca
@@ -24,10 +24,10 @@ Per repassar una baralla de la Biblioteca o pública, copia-la primer a Les meve
 
 Les pestanyes a la part superior de la targeta canvien el mode. Immersive recorda el mode que has triat, per a totes les teves baralles, i hi comença la propera vegada.
 
-- **Llegir**: llegeix l'enunciat i recorda la resposta mentalment, després prem **Mostra la resposta** (o la barra espaiadora) i qualifica't. Les tecles numèriques de l'1 al 4 trien una qualificació. Un cop la resposta és a la targeta, les seves paraules funcionen com al lector: toca'n una per a la traducció i l'àudio.
-- **Escriure**: la targeta mostra la traducció; escriu la resposta en la llengua que aprens. **Tocar** et dona fitxes de paraules barrejades per posar en ordre (col·locar l'última paraula envia la resposta), o canvia a **Escriure** i fes servir el teclat, i després **Envia** (o Cmd+Retorn / Ctrl+Retorn).
-- **Escoltar**: la targeta es reprodueix en veu alta; escriu el que sents, amb la mateixa opció **Tocar** i **Escriure**. Si una targeta no té àudio, mostra el text.
-- **Parlar**: llegeix l'enunciat en veu alta. **Grava** captura la teva veu i s'atura sola als deu segons. Pots escriure el que has dit a **O escriu el que has dit**; llavors Immersive ho compara amb la resposta. Si ho deixes buit, reprodueix **La teva** i la **Referència** i qualifica't tu mateix.
+- **Llegeix**: llegeix l'enunciat i recorda la resposta mentalment, després prem **Mostra la resposta** (o la barra espaiadora) i qualifica't. Les tecles numèriques de l'1 al 4 trien una qualificació. Un cop la resposta és a la targeta, les seves paraules funcionen com al lector: toca'n una per a la traducció i l'àudio.
+- **Escriu**: la targeta mostra la traducció; escriu la resposta en la llengua que aprens. **Tocar** et dona fitxes de paraules barrejades per posar en ordre (col·locar l'última paraula envia la resposta), o canvia a **Escriure** i fes servir el teclat, i després **Envia** (o Cmd+Retorn / Ctrl+Retorn).
+- **Escolta**: la targeta es reprodueix en veu alta; escriu el que sents, amb la mateixa opció **Tocar** i **Escriure**. Si una targeta no té àudio, mostra el text.
+- **Parla**: llegeix l'enunciat en veu alta. **Grava** captura la teva veu i s'atura sola als deu segons. Un moment després d'enviar-la, a **Has dit** apareix una transcripció del que has dit, amb les paraules que difereixen de la resposta marcades, i una qualificació suggerida («Prop: 92%»). Reprodueix **La teva** i la **Referència** per sentir-ne la diferència. Si no apareix cap transcripció, qualifica't tu mateix comparant-te amb la referència.
 
 La baralla Pronunciació no té cap d'aquests quatre: es repassa en **Sent** i **Pronuncia**, i les seves rondes es qualifiquen amb regles pròpies. Vegeu [Pronunciació](pronunciation.md).
 
@@ -40,7 +40,7 @@ Cada repàs acaba en una de quatre qualificacions:
 - **Bé**: recordat amb una mica d'esforç.
 - **Fàcil**: sense esforç; la targeta és la que s'allunya més.
 
-En mode Llegir tries tu la qualificació. En Escriure, Escoltar i Parlar (quan has escrit el que has dit), Immersive compara la teva resposta amb l'esperada i proposa una qualificació: el resultat mostra com t'hi has acostat («92% de coincidència · qualificat Bé»). Tria una altra qualificació per corregir-la. El repàs es desa quan tries una qualificació.
+En mode Llegeix tries tu la qualificació. En Escriu i Escolta, Immersive compara la teva resposta amb l'esperada i proposa una qualificació: el resultat mostra com t'hi has acostat («92% de coincidència · qualificat Bé»). En Parla compara una transcripció del que has dit i suggereix la qualificació de la mateixa manera. Tria una altra qualificació per corregir-la. El repàs es desa quan tries una qualificació.
 
 En un ordinador, **Mostra els intervals** sota la targeta afegeix a cada botó de qualificació quant de temps falta perquè la targeta torni; **Amaga els intervals** els treu. Immersive recorda la teva tria. Els intervals no es mostren als mòbils.
 
