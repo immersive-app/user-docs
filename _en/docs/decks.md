@@ -22,7 +22,6 @@ Immersive also fills some decks for you as you study. They appear in My Decks li
 
 - **My vocabulary**: a card for each word you tap while reading, and each word or sentence you save. See [Vocabulary](vocabulary.md).
 - **From reading (language)**: a card each time you reveal a guessable word in the reader. See [Reading documents](documents/reading-documents.md).
-- **Bridge comparisons (language)**: cards you add with **Add a comparison card** on a verb form page. See [Working with verbs](verbs/working-with-verbs.md).
 - **Grammar practice (language)**: cards from the grammar notes you practise. See [Grammar practice](grammar/grammar-practice.md).
 
 The Library holds ready-made decks of both kinds, and the **Pronunciation** deck. See [Managing decks](decks/managing-decks.md#the-library).
