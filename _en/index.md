@@ -18,8 +18,8 @@ hero:
     link: https://immersive-app.com
 features:
 - title: Decks & Reviews
-  details: Build decks of words, sentences, verbs, and numbers, and review them on
-    a schedule that adapts to your memory.
+  details: Build verb decks and decks of your own words and sentences, and review
+    them on a schedule that adapts to your memory.
   link: "/docs/decks/"
 - title: Documents
   details: Read texts you care about with tap-to-translate and audio, or write your
@@ -73,12 +73,12 @@ Some of Immersive's reference material is open to everyone:
 
 Signing up unlocks the learning tools:
 
-- **[Decks & Reviews](docs/decks.md)**: build decks of words, sentences, verb forms, and numbers, then review them in Read, Write, Listen, and Speak modes on a schedule that adapts to your memory.
+- **[Decks & Reviews](docs/decks.md)**: build verb decks from the verbs and tenses you choose, and vocabulary decks from your own words and sentences, then review them in Read, Write, Listen, and Speak modes on a schedule that adapts to your memory.
 - **[Documents](docs/documents.md)**: bring in a text (paste it, upload a file, or photograph a page) and read it with tap-to-translate, audio, and reading aids. Or write your own and get corrections and rewrites.
 - **[Grammar](docs/grammar.md)**: notes by CEFR level (A1 to C1) with exercises, and practice cards that come back for review.
 - **[Verbs](docs/verbs.md)**: your decks and your own sentences on every verb page, and comparisons across the languages you know.
 - **[Coach](docs/coach.md)**: ask questions about whatever you are looking at.
-- **[Vocabulary](docs/vocabulary.md)**: the words and sentences you look up, collected for you and ready to become a deck.
+- **[Vocabulary](docs/vocabulary.md)**: the words and sentences you look up, collected for you; the words you tap are already cards in a deck.
 - **[Profile & Progress](docs/profile.md)**: where you stand, your study activity, evaluations with classmates, [teacher access](docs/teachers.md), and your account.
 
 Everything is free during the beta.

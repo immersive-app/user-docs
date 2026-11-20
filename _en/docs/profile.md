@@ -41,7 +41,7 @@ Evaluations you give and receive are listed on the tab, and spoken evaluations c
 
 ## Vocabulary
 
-The words and sentences you have collected while studying — searchable, filterable, and one action away from becoming a deck. See [Vocabulary](vocabulary.md).
+The words and sentences you have collected while studying, searchable and filterable. The words you tap and the entries you save are cards in your **My vocabulary** deck, with **Study** at the top of the tab. See [Vocabulary](vocabulary.md).
 
 ## Coach
 

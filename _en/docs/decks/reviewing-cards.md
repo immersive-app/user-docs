@@ -1,6 +1,6 @@
 ---
 title: Reviewing cards
-description: Start a review, the Read, Write, Listen, and Speak modes, grading, results, daily limits, and review history.
+description: Start a review, the Read, Write, Listen, and Speak modes, the verb card, Skip, the card menu, grading, results, daily limits, and review history.
 parent: Decks & Reviews
 nav_order: 2
 ---
@@ -26,9 +26,21 @@ Tabs at the top of the card switch the mode. Immersive remembers the mode you ch
 - **Read**: read the prompt and recall the answer in your head, then press **Show answer** (or Space) and grade yourself. The number keys 1 to 4 choose a grade. Once the answer is on the card, its words work as in the reader: tap one for its translation and audio.
 - **Write**: the card shows the translation; write the answer in the language you are learning. **Tap** gives you shuffled word tiles to put in order (placing the last word submits), or switch to **Type** and use the keyboard, then **Submit** (or Cmd+Enter / Ctrl+Enter).
 - **Listen**: the card is spoken; write what you hear, with the same **Tap** and **Type** choice. If a card has no audio, it shows the text instead.
-- **Speak**: read the prompt aloud. **Record** captures your voice and stops by itself after ten seconds. A moment after you submit, a transcript of what you said appears under **You said**, with the words that differ from the answer marked, and a suggested grade ("Close: 92%"). Play back **Yours** and the **Reference** to hear the difference. If no transcript appears, grade yourself against the reference.
+- **Speak**: read the prompt aloud. **Record** captures your voice and stops by itself after ten seconds. A moment after you submit, a transcript of what you said appears under **You said**, with the words that differ from the answer marked, and the grade it earned ("Close: 92%"). Play back **Yours** and the **Reference** to hear the difference. If your recording cannot be checked, **Try again** records it again.
 
 The Pronunciation deck has none of these four: it is reviewed in **Hear** and **Say**, and its rounds are graded by their own rules. See [Pronunciation](pronunciation.md).
+
+## The verb card
+
+A card in a verb deck is one verb in one tense.
+
+- **Read**: the card shows the verb, its tense, and its meaning. Recall the six forms, then press **Show answer**: the six forms appear, each with its audio, and an example sentence under them. Tap a form, or play it, to see that person's sentence; tap the sentence to see its translation.
+- **Write**, **Listen**, and **Speak** ask for one person at a time, in that person's example sentence. In Write and Listen the form is left blank, and Listen plays the sentence and hides its translation. In Speak you read the whole sentence aloud. The line under the sentence names the verb, the person, and the tense ("avoir · je · Indicatif · Futur simple"); in Listen it leaves out the person. Tap the line, or press P, to move to the next person without answering.
+- In **Write** and **Listen**, **Tap** offers whole forms to choose from; one tap answers. **Type** takes the form with or without its pronoun ("j'aurai" or "aurai"); Enter sends it.
+
+A written form is right or wrong. The result shows the whole sentence with the form marked, your answer, and **Correct**, **Incorrect**, or **Missing accent**. A missing or wrong accent counts as wrong. Capitals, spaces, and the kind of apostrophe make no difference.
+
+Immersive picks the person each time: one you have not yet answered right comes first. One schedule covers the whole card, whichever person you were asked.
 
 ## Grading
 
@@ -39,9 +51,30 @@ Every review ends in one of four grades:
 - **Good**: recalled with some effort.
 - **Easy**: effortless; the card moves furthest out.
 
-In Read mode you choose the grade. In Write and Listen, Immersive compares your answer with the expected one and proposes a grade: the result shows how close you were ("92% match · graded Good"). In Speak it compares a transcript of what you said, and suggests the grade the same way. Pick a different grade to override it. The review is saved when you choose a grade.
+In Read mode you choose the grade. In Write and Listen, Immersive compares your answer with the expected one and grades it: the result shows how close you were ("92% match · graded Good"). A verb form is graded right or wrong instead: right is **Easy**, wrong is **Again**. In Speak, Immersive grades a transcript of what you said the same way. **Next** saves the review and moves on.
 
 On a computer, **Show intervals** under the card adds to each grade button how long until the card returns; **Hide intervals** removes them. Immersive remembers your choice. Intervals are not shown on phones.
+
+## Skip
+
+**Skip** sits beside the answer in Write, Listen, and Speak, and under the card in a Pronunciation round. A skipped card is not graded and its schedule does not change: it leaves this session and comes back in the next. Read has no Skip. On a computer, the S key skips.
+
+## The card menu
+
+The button at the top left of every card (**Card actions**) opens its menu:
+
+- **Suspend card** takes the card out of your reviews until you bring it back. The next card shows **Card suspended · Undo**, so you can change your mind; later, bring it back from the foot of the deck's page. See [Managing decks](managing-decks.md#suspended-cards).
+- **Edit card**, on a word or sentence card in your own deck, opens the card to change its text, translation, or example, then returns you to the review.
+- **Report this sentence**, on a verb card in Read once the answer is shown, sends the sentence to be looked at, with an optional note. Choose **Send report**.
+
+## Keyboard
+
+On a computer:
+
+- **Space** shows the answer in Read; **1** to **4** choose a grade.
+- **S** skips the card.
+- **P** moves a verb card to the next person.
+- **Cmd+Enter** (Ctrl+Enter) submits a typed answer; a typed verb form is sent with Enter.
 
 ## During the session
 

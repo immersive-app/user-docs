@@ -27,7 +27,7 @@ As you practise, each note, area, and level gets a mastery rating: **Not started
 - An explanation of the point, written for learners, with example words and sentences you can tap for translation and audio.
 - The note is written in the language you are learning. When a translation exists, **Read in** (your language) at the end switches to it.
 - Exercises of several kinds, checked on the spot.
-- Your standing on the note, and **Practice** to turn it into review cards, or to add them to one of your own decks.
+- Your standing on the note, and **Practice** to turn it into review cards.
 
 See [Reading grammar notes](grammar/review-grammar.md).
 
