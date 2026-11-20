@@ -26,7 +26,7 @@ Open a document to read it. Under the title you see its translation in your lang
 - **Tap** a word or sentence: a small card shows its translation, with a **speaker** button and **More**.
 - **Tap again** to hear it read aloud. Tapping elsewhere closes the card.
 - The bar at the bottom keeps the **last word** you looked up, with its meaning and, when there is one, a look-alike from a language you know.
-- Every word and sentence you look up is recorded in your [Vocabulary](../vocabulary.md).
+- Every word and sentence you look up is recorded in your [Vocabulary](../vocabulary.md), and a word you tap becomes a card in your **My vocabulary** deck, with its sentence.
 
 The **View** control (in the reading controls, below) sets what a tap selects: **Sentences** (the default) or **Words**.
 
@@ -38,8 +38,8 @@ The **View** control (in the reading controls, below) sets what a tap selects: *
 - **Reading aid**, when the word or sentence has one.
 - **Grammar of reading**, when the sentence contains a construction it covers, with a link to the comparison.
 - **Across the six**: the word's equivalents in all six languages, your languages in full ink.
-- **Save to vocabulary** marks it as saved in your Vocabulary.
-- **Add to a deck** lists your decks in this language; pick one to open its workspace with the word filled in, or start a **New deck**.
+- **Save to vocabulary** marks it as saved in your Vocabulary and makes it a card in **My vocabulary**. For a word your tap has just made a card, it reads **Added**, with **Undo** to take the card back out.
+- **Add to a deck** lists your decks in this language; pick a vocabulary deck to open its workspace with the word or sentence in the box, or start a **New deck**.
 - **Ask about this** opens the [Coach](../coach.md) with the word or sentence in view.
 
 ## Reading aids
@@ -96,4 +96,4 @@ Switch to **Write** at the top of the reader to edit the text; delete a document
 
 - [Writing documents](writing-documents.md)
 - [Vocabulary](../vocabulary.md)
-- [Creating decks](../decks/creating-decks.md): add the words you saved to a deck
+- [Creating decks](../decks/creating-decks.md): make cards from a document or a photo
