@@ -64,11 +64,11 @@ Each section keeps its heading when there is nothing yet, so you know where thin
 
 ## Adding a verb to a deck
 
-Choose **Add to a deck** at the top of a verb page and pick one of your decks in that language. The deck's workspace opens on its verb form with the verb already selected (and the tense too, from a form page): choose the tenses you want and create the cards. Nothing is added until you do. With no deck in that language yet, the menu offers **Create a new deck**.
+Choose **Add to a deck** at the top of a verb page and pick one of your verb decks in that language. The deck's table opens with the verb as a new row, ticked in the deck's tenses: change the ticks if you like and choose **Save**. Nothing is added until you do. With no verb deck in that language yet, the menu offers **Create a new deck**, which opens **New verb deck** with the verb ticked (and the tense too, from a form page).
 
 ## Practising verbs in decks
 
-The Verbs section is a reference; practice happens in your decks. When you add cards to a deck you can pick verbs and tenses and choose between one card per person or the whole tense table on a single card. See [Creating decks](../decks/creating-decks.md).
+The Verbs section is a reference; practice happens in your verb decks. You pick verbs and tenses, and each verb in each tense becomes one card with its six forms and their example sentences. See [Creating decks](../decks/creating-decks.md#a-verb-deck) and [Reviewing cards](../decks/reviewing-cards.md#the-verb-card).
 
 ## Further reading
 
