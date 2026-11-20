@@ -7,13 +7,18 @@ nav_order: 2
 
 # Grammar practice
 
-Reading a note once is not enough to make a grammar point stick. **Practice** turns a note's exercises into review cards that come back on the same memory-based schedule as your decks.
+Reading a note once is not enough to make a grammar point stick. Practising turns notes' exercises into review cards that come back on the same memory-based schedule as your decks.
 
-## Practising a note
+## Practising
 
-On a grammar note, **Practice** (with how many cards are due, new, or waiting) creates the note's cards, if you have none yet, and starts a review of that note. The cards go into a deck called **Grammar practice** for the language, which you also see in My Decks. A note with no exercises is practised from its own example sentences, so every note can be practised.
+You practise a level or an area at a time:
 
-A level or area page offers **Practise all**, with the number of cards, for every note in it.
+- On a level page, **Practise all · 12 cards** at the head of the list of areas covers every note in the level, and **Practise** on an area's row covers that area.
+- On an area page, **Practise all · 5 cards** at the head of the list of notes covers every note in the area.
+
+Each button makes the cards you do not have yet and starts the review straight away. The cards go into a deck called **Grammar practice** for the language, which you also see in My Decks. A note with no exercises is practised from its own example sentences. A level or area with nothing to practise has no button.
+
+On a note itself, each exercise you check becomes a card in Grammar practice too. Your answer counts as a review when the card is due, so another try right after a wrong answer is only practice. See [Reading grammar notes](review-grammar.md#exercises).
 
 ## Reviewing grammar
 
@@ -22,7 +27,7 @@ Grammar reviews can cover one note, one area, one level, or everything:
 - On the Grammar page: **Review 3 due**, or **Practice · 5 new** when nothing is due.
 - On a level page: **Review 3 due at B1**.
 - On an area page: **Review this area** or **Practise this area**.
-- On a note: **Practice**.
+- Under **Recommended**, on a note marked **Due**: **Review**.
 
 The review works like a deck review (see [Reviewing cards](../decks/reviewing-cards.md)), with three modes:
 
