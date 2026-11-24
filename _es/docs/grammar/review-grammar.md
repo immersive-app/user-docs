@@ -26,7 +26,7 @@ Las palabras y frases de ejemplo se pueden tocar como el texto del lector, para 
 
 ### Cambiar de idioma
 
-Una nota se abre en el idioma que aprendes. Cuando tiene traducción, **Leer en** (seguido de tu idioma), al final de la nota, cambia a ella; vuelve de la misma manera. Leer la explicación en el idioma que aprendes es un buen reto una vez que el punto en sí ya no es nuevo.
+Una nota de A1 o A2 se abre en tu idioma, y una de B1 en adelante, en el idioma que aprendes. El selector junto al nivel y el área muestra los dos idiomas: toca uno para leer la nota en él. Tu elección se guarda: desde entonces todas las notas se abren en ese idioma, en todos los niveles, hasta que vuelvas a cambiar. Una nota sin traducción a tu idioma se abre en el idioma que aprendes. Leer la explicación en el idioma que aprendes es un buen reto una vez que el punto en sí ya no es nuevo.
 
 ### En tus idiomas
 

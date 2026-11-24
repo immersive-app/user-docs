@@ -26,7 +26,7 @@ Man mano che ti eserciti, ogni nota, area e livello riceve un grado di padronanz
 ## Cosa contiene una nota
 
 - Una spiegazione del punto, scritta per chi impara, con parole e frasi di esempio che puoi toccare per la traduzione e l'audio.
-- La nota è scritta nella lingua che stai imparando. Quando esiste una traduzione, **Leggi in** (la tua lingua) alla fine passa a quella.
+- La nota è scritta nella lingua che stai imparando. Quando ha una traduzione nella tua, una nota di livello A1 o A2 si apre nella tua lingua, e una da B1 in su nella lingua che stai imparando; il selettore accanto ai badge la cambia, e la tua scelta vale poi per ogni nota.
 - Esercizi di vari tipi, verificati sul momento.
 - A che punto sei sulla nota, ed **Esercitati** per trasformarla in carte di ripasso, o per aggiungerle a uno dei tuoi mazzi.
 

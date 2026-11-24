@@ -26,7 +26,7 @@ Com sessão iniciada, abra **Gramática** a partir da barra de navegação.
 ## O que uma nota contém
 
 - Uma explicação do ponto, escrita para estudantes, com palavras e frases de exemplo em que pode tocar para ver a tradução e ouvir o áudio.
-- A nota está escrita na língua que está a aprender. Quando existe uma tradução, **Ler em** (a sua língua), no fim, muda para ela.
+- A nota está escrita na língua que está a aprender. Quando tem tradução na sua, uma nota de A1 ou A2 abre na sua língua, e uma de B1 para cima na língua que está a aprender; o seletor ao lado das etiquetas muda-a, e a sua escolha vale depois para todas as notas.
 - Exercícios de vários tipos, verificados na hora.
 - A sua situação na nota, e **Praticar** para a transformar em cartões de revisão, ou para os adicionar a um dos seus baralhos.
 

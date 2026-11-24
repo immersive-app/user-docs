@@ -26,7 +26,7 @@ A medida que practicas, cada nota, área y nivel recibe una valoración de domin
 ## Qué contiene una nota
 
 - Una explicación del punto, escrita para estudiantes, con palabras y frases de ejemplo que puedes tocar para ver su traducción y oír su audio.
-- La nota está escrita en el idioma que aprendes. Cuando existe una traducción, **Leer en** (tu idioma), al final, cambia a ella.
+- La nota está escrita en el idioma que aprendes. Cuando tiene traducción al tuyo, una nota de A1 o A2 se abre en tu idioma, y una de B1 en adelante en el idioma que aprendes; el selector junto a las etiquetas lo cambia, y tu elección vale después para todas las notas.
 - Ejercicios de varios tipos, que se comprueban en el acto.
 - Tu situación en la nota, y **Practicar** para convertirla en tarjetas de repaso, o para añadirlas a uno de tus propios mazos.
 

@@ -26,7 +26,7 @@ As palavras e frases de exemplo podem ser tocadas como o texto no leitor, para v
 
 ### Mudar de língua
 
-Uma nota abre na língua que está a aprender. Quando tem tradução, **Ler em** (seguido da sua língua), no fim da nota, muda para ela; volte da mesma forma. Ler a explicação na língua que está a aprender é um bom desafio quando o ponto em si já não é novo.
+Uma nota de A1 ou A2 abre na sua língua, e uma de B1 para cima, na língua que está a aprender. O seletor ao lado do nível e da área mostra as duas línguas: toque numa para ler a nota nela. A sua escolha fica guardada: a partir daí todas as notas abrem nessa língua, em todos os níveis, até mudar de novo. Uma nota sem tradução na sua língua abre na língua que está a aprender. Ler a explicação na língua que está a aprender é um bom desafio quando o ponto em si já não é novo.
 
 ### Nas suas línguas
 

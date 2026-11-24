@@ -26,7 +26,7 @@ Le parole e le frasi di esempio si possono toccare come il testo nel lettore, pe
 
 ### Cambiare lingua
 
-Una nota si apre nella lingua che stai imparando. Quando ha una traduzione, **Leggi in** (seguito dalla tua lingua) alla fine della nota passa a quella; torna indietro allo stesso modo. Leggere la spiegazione nella lingua che stai imparando è una buona sfida, una volta che il punto in sé non è più nuovo.
+Una nota di livello A1 o A2 si apre nella tua lingua, e una da B1 in su nella lingua che stai imparando. Il selettore accanto al livello e all'area mostra le due lingue: toccane una per leggere la nota in quella lingua. La tua scelta viene ricordata: da quel momento ogni nota si apre in quella lingua, a ogni livello, finché non cambi di nuovo. Una nota senza traduzione nella tua lingua si apre nella lingua che stai imparando. Leggere la spiegazione nella lingua che stai imparando è una buona sfida, una volta che il punto in sé non è più nuovo.
 
 ### Nelle tue lingue
 
