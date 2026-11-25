@@ -40,11 +40,11 @@ Cada revisão termina numa de quatro avaliações:
 - **Bem**: lembrou-se com algum esforço.
 - **Fácil**: sem esforço; o cartão afasta-se o mais possível.
 
-No modo Ler, é o próprio que escolhe a avaliação, e cada botão de avaliação indica quando o cartão volta («1 minuto», «1 dia», «7 dias»). Em Escrever e Ouvir, o Immersive avalia a sua resposta. O resultado mostra **Correto** ou **Incorreto**; depois de uma resposta errada, a certa («Resposta · j'ai»); o motivo quando existe, como **Falta um acento** ou a explicação de uma pergunta; e quando o cartão volta («Volta daqui a 1 minuto», «Volta amanhã»). Uma forma verbal está certa ou errada: certa é **Fácil**, errada é **De novo**. As outras respostas são avaliadas pela proximidade, por isso um pequeno deslize pode contar como certo, com a resposta mostrada por baixo. Em Falar, o Immersive avalia uma transcrição do que disse. **Seguinte** guarda a revisão e avança.
+No modo Ler, é o próprio que escolhe a avaliação: **De novo**, **Difícil**, **Bem** ou **Fácil**. Em Escrever e Ouvir, o Immersive avalia a sua resposta. O resultado mostra **Correto** ou **Incorreto**; depois de uma resposta errada, a certa («Resposta · j'ai»); o motivo quando existe, como **Falta um acento** ou a explicação de uma pergunta; e quando o cartão volta («Volta daqui a 1 minuto», «Volta amanhã»). Uma forma verbal está certa ou errada: certa é **Fácil**, errada é **De novo**. As outras respostas são avaliadas pela proximidade, por isso um pequeno deslize pode contar como certo, com a resposta mostrada por baixo. Em Falar, o Immersive avalia uma transcrição do que disse. **Seguinte** guarda a revisão e avança.
 
 ## Durante a sessão
 
-- Uma barra fina de progresso acompanha a sessão.
+- Uma barra fina de progresso acompanha a sessão, com a sua posição ao lado, por exemplo «3 de 12». Um cartão a que responde mal volta mais tarde na sessão, por isso não faz avançar a sua posição.
 - Uma linha por baixo do cartão conta o que falta: para hoje, novos e em aprendizagem.
 - Depois de a resposta aparecer, **Perguntar sobre este cartão** abre o [Coach](../coach.md) com o cartão à vista.
 - O X no topo do cartão volta ao baralho.
