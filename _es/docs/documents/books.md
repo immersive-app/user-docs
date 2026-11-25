@@ -15,7 +15,7 @@ Los libros aparecen primero en la página de **Documentos**, encima de tus docum
 ## Añadir un libro
 
 1. En **Documentos**, elige **Añadir un libro** en la sección **Libros**. En la web, el botón **+** también lo ofrece.
-2. **Subir un archivo** (**Elige un archivo**, o suelta uno en el recuadro: EPUB, texto, Markdown o PDF, de hasta 25 MB), o **Pegar un enlace de Project Gutenberg**. Usa una cosa o la otra, no las dos.
+2. **Subir un archivo** (**Elige un archivo**, o en un ordenador suelta uno en el recuadro: EPUB, texto, Markdown o PDF, de hasta 25 MB), o **Pegar un enlace de Project Gutenberg**. Usa una cosa o la otra, no las dos.
 3. **Título** y **Autor** son opcionales. Si los dejas en blanco, se toman del archivo.
 4. **Añadir libro**. Se abre la página del libro.
 
@@ -67,10 +67,10 @@ Si un libro se cortó por donde no debía, elige **Editar** junto a **Índice** 
 
 - **Cambiar el nombre**: escribe un título nuevo en su sitio. Intro, o salir del campo, lo guarda; Escape devuelve el anterior.
 - **Subir** y **Bajar** cambian el orden.
-- **Unir a «…»** une un capítulo al anterior. Se conserva cada palabra, y el título del capítulo unido se queda en el texto donde empezaba.
+- **Unir a «…»** une un capítulo al anterior, cuando lo confirmas. Se conserva cada palabra, y el título del capítulo unido pasa a ser un encabezado en el texto donde empezaba. El historial, las ayudas de lectura y el marcador del capítulo unido desaparecen; las tarjetas, palabras guardadas y repasos que hiciste a partir de él se conservan.
 - **Dividir…** corta un capítulo en dos. Elige dónde empieza el nuevo capítulo, en un encabezado o en un párrafo, y luego **Dividir aquí**. Se conserva cada palabra: en un encabezado, el encabezado da nombre al nuevo capítulo, y las palabras de los dos capítulos suman las del que dividiste.
-- **Quitar — borra el texto** elimina el capítulo y su texto: úsalo para las páginas preliminares y finales que no vas a leer. Un libro conserva al menos un capítulo.
-- **Los capítulos empiezan en** muestra por dónde está cortado el libro ahora, cuando se podría cortar de otra manera. Elige otro lugar (de **Encabezado 1** a **Encabezado 3**, o para un archivo de texto **Líneas de capítulo**, **Números** o **Mayúsculas**), y luego **Dividir de nuevo**: todo el libro se corta otra vez a partir del texto tal como se importó. Los capítulos renombrados y tu posición de lectura se conservan donde el texto aún coincide.
+- **Quitar — borra el texto** elimina el capítulo y su texto, con su historial, sus ayudas de lectura y su marcador, cuando lo confirmas: úsalo para las páginas preliminares y finales que no vas a leer. Las tarjetas, palabras guardadas y repasos que hiciste a partir de él se conservan. Un libro conserva al menos un capítulo.
+- **Los capítulos empiezan en** muestra por dónde está cortado el libro ahora, cuando se podría cortar de otra manera. Elige otro lugar (de **Encabezado 1** a **Encabezado 3**, o para un archivo de texto **Líneas de capítulo**, **Números** o **Mayúsculas**), y luego **Dividir de nuevo**: todo el libro se corta otra vez a partir del texto tal como se importó. Los capítulos renombrados y tu posición de lectura se conservan donde el texto aún coincide. El nombre que diste a un capítulo se conserva aunque el nuevo corte no tenga un capítulo propio para él: la línea de arriba lo dice, y el nombre vuelve cuando cortas el libro donde estaba.
 
 Tu posición sigue a su frase cuando se unen o se dividen capítulos. Si quitas el capítulo en el que estás, tu posición pasa al siguiente.
 

@@ -15,7 +15,7 @@ I libri compaiono per primi nella pagina **Documenti**, sopra i tuoi documenti e
 ## Aggiungere un libro
 
 1. In **Documenti**, scegli **Aggiungi un libro** nella sezione **Libri**. Sul web lo offre anche il pulsante **+**.
-2. **Carica un file** (**Scegli un file**, oppure trascinane uno nel riquadro: EPUB, testo, Markdown o PDF, fino a 25 MB), oppure **Incolla un link di Project Gutenberg**. Usa l'uno o l'altro, non entrambi.
+2. **Carica un file** (**Scegli un file**, oppure su un computer trascinane uno nel riquadro: EPUB, testo, Markdown o PDF, fino a 25 MB), oppure **Incolla un link di Project Gutenberg**. Usa l'uno o l'altro, non entrambi.
 3. **Titolo** e **Autore** sono facoltativi. Se li lasci vuoti, vengono presi dal file.
 4. **Aggiungi il libro**. Si apre la pagina del libro.
 
@@ -67,10 +67,10 @@ Se un libro è stato tagliato nei punti sbagliati, scegli **Modifica** accanto a
 
 - **Rinomina**: scrivi un nuovo titolo sul posto. Invio, o uscire dal campo, lo salva; Esc rimette quello vecchio.
 - **Sposta su** e **Sposta giù** cambiano l'ordine.
-- **Unisci a «…»** unisce un capitolo a quello precedente. Ogni parola viene conservata, e il titolo del capitolo unito resta nel testo dove iniziava.
+- **Unisci a «…»** unisce un capitolo a quello precedente, dopo la tua conferma. Ogni parola viene conservata, e il titolo del capitolo unito diventa un'intestazione nel testo dove iniziava. La cronologia, gli aiuti alla lettura e il segnalibro del capitolo unito spariscono; le carte, le parole salvate e i ripassi che ne hai ricavato restano.
 - **Dividi…** taglia un capitolo in due. Scegli dove inizia il nuovo capitolo, a un titolo o a un paragrafo, poi **Dividi qui**. Ogni parola viene conservata: a un titolo, il titolo dà il nome al nuovo capitolo, e le parole dei due capitoli fanno la somma di quello che hai diviso.
-- **Togli — elimina il testo** elimina il capitolo e il suo testo: usalo per le pagine iniziali e finali che non leggerai. Un libro conserva almeno un capitolo.
-- **I capitoli iniziano a** mostra dove il libro è tagliato adesso, quando potrebbe essere tagliato in un altro modo. Scegli un altro punto (da **Titolo 1** a **Titolo 3**, o per un file di testo **Righe di capitolo**, **Numeri** o **Maiuscole**), poi **Dividi di nuovo**: tutto il libro viene tagliato di nuovo dal testo com'era stato importato. I capitoli rinominati e la tua posizione di lettura restano dove il testo corrisponde ancora.
+- **Togli — elimina il testo** elimina il capitolo e il suo testo, con la sua cronologia, i suoi aiuti alla lettura e il suo segnalibro, dopo la tua conferma: usalo per le pagine iniziali e finali che non leggerai. Le carte, le parole salvate e i ripassi che ne hai ricavato restano. Un libro conserva almeno un capitolo.
+- **I capitoli iniziano a** mostra dove il libro è tagliato adesso, quando potrebbe essere tagliato in un altro modo. Scegli un altro punto (da **Titolo 1** a **Titolo 3**, o per un file di testo **Righe di capitolo**, **Numeri** o **Maiuscole**), poi **Dividi di nuovo**: tutto il libro viene tagliato di nuovo dal testo com'era stato importato. I capitoli rinominati e la tua posizione di lettura restano dove il testo corrisponde ancora. Il nome che hai dato a un capitolo resta anche quando il nuovo taglio non ha un capitolo suo: la riga in alto lo dice, e il nome torna quando tagli il libro dov'era.
 
 La tua posizione segue la sua frase quando i capitoli vengono uniti o divisi. Se togli il capitolo in cui sei, la tua posizione passa a quello successivo.
 

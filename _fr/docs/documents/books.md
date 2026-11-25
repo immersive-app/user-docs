@@ -15,7 +15,7 @@ Les livres sont listés en premier sur la page **Documents**, au-dessus de vos d
 ## Ajouter un livre
 
 1. Sur **Documents**, choisissez **Ajouter un livre** dans la section **Livres**. Sur le web, le bouton **+** le propose aussi.
-2. **Importer un fichier** (**Choisissez un fichier**, ou déposez-en un sur la zone : EPUB, texte, Markdown ou PDF, jusqu'à 25 Mo), ou **Coller un lien Project Gutenberg**. L'un ou l'autre, pas les deux.
+2. **Importer un fichier** (**Choisissez un fichier**, ou sur un ordinateur déposez-en un sur la zone : EPUB, texte, Markdown ou PDF, jusqu'à 25 Mo), ou **Coller un lien Project Gutenberg**. L'un ou l'autre, pas les deux.
 3. **Titre** et **Auteur** sont facultatifs. Laissés vides, ils viennent du fichier.
 4. **Ajouter le livre**. La page du livre s'ouvre.
 
@@ -67,10 +67,10 @@ Si un livre a été découpé aux mauvais endroits, choisissez **Modifier** à c
 
 - **Renommer** : tapez un nouveau titre sur place. Entrée, ou quitter le champ, l'enregistre ; Échap remet l'ancien.
 - **Monter** et **Descendre** changent l'ordre.
-- **Fusionner avec « … »** joint un chapitre à celui qui le précède. Chaque mot est gardé, et le titre du chapitre fusionné reste dans le texte là où il commençait.
+- **Fusionner avec « … »** joint un chapitre à celui qui le précède, une fois que vous confirmez. Chaque mot est gardé, et le titre du chapitre fusionné devient un intertitre dans le texte, là où il commençait. L'historique, les aides de lecture et le signet du chapitre fusionné disparaissent. Les cartes, les mots enregistrés et les révisions qui en viennent sont gardés.
 - **Diviser…** coupe un chapitre en deux. Choisissez où commence le nouveau chapitre, à un titre ou à un paragraphe, puis **Diviser ici**. Chaque mot est gardé. À un titre, le titre nomme le nouveau chapitre, et les mots des deux chapitres font le compte de celui que vous avez divisé.
-- **Retirer — supprime le texte** supprime le chapitre et son texte : à utiliser pour les pages liminaires et finales que vous ne lirez pas. Un livre garde au moins un chapitre.
-- **Chapitres découpés selon** montre où le livre est coupé en ce moment, quand il pourrait l'être autrement. Choisissez un autre endroit (**Titre 1** à **Titre 3**, ou pour un fichier texte **Lignes de chapitre**, **Numéros** ou **Capitales**), puis **Redécouper** : tout le livre est redécoupé à partir du texte tel qu'il a été importé. Les chapitres renommés et votre position de lecture sont conservés là où le texte correspond encore.
+- **Retirer — supprime le texte** supprime le chapitre et son texte, avec son historique, ses aides de lecture et son signet, une fois que vous confirmez : à utiliser pour les pages liminaires et finales que vous ne lirez pas. Les cartes, les mots enregistrés et les révisions qui en viennent sont gardés. Un livre garde au moins un chapitre.
+- **Chapitres découpés selon** montre où le livre est coupé en ce moment, quand il pourrait l'être autrement. Choisissez un autre endroit (**Titre 1** à **Titre 3**, ou pour un fichier texte **Lignes de chapitre**, **Numéros** ou **Capitales**), puis **Redécouper** : tout le livre est redécoupé à partir du texte tel qu'il a été importé. Les chapitres renommés et votre position de lecture sont conservés là où le texte correspond encore. Le nom que vous avez donné à un chapitre est gardé même quand le nouveau découpage n'a pas de chapitre à lui. La ligne en haut le dit, et le nom revient quand vous redécoupez le livre comme avant.
 
 Votre place suit sa phrase quand des chapitres sont fusionnés ou divisés. Si vous retirez le chapitre où vous êtes, votre place passe au suivant.
 
