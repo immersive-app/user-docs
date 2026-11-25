@@ -13,18 +13,20 @@ Escriure és on una llengua es fa teva. L'editor et dona una pàgina neta en la 
 ## L'editor
 
 1. Obre **Documents** i tria **+** (**Crea un document nou**), o obre un document i canvia a **Escriu** a dalt del lector.
-2. Escriu. La barra d'eines ofereix negreta, cursiva, encapçalaments, llistes i citacions, a més de sagnat de paràgraf, interlineat i impressió, i mostra un recompte de paraules en directe.
+2. Escriu. El text va just sota el títol. En un document nou, la barra d'eines de sobre ofereix negreta, cursiva, encapçalaments, llistes i citacions, a més de sagnat de paràgraf, interlineat i impressió, i mostra un recompte de paraules en directe; un cop desat el document, aquestes eines són a dalt de l'assistent d'escriptura.
 3. Tria **Desar** quan vulguis. Un document desat es pot llegir com qualsevol altre, amb traduccions, àudio i ajudes de lectura.
 
-**Tema**, **Coach**, **Historial**, **Corregeix** i l'assistent apareixen un cop el document s'ha desat per primera vegada. El menú de fitxers de dalt llista els altres documents de la mateixa carpeta, perquè puguis canviar d'un a l'altre. Dos botons rodons són a baix a la dreta, com al lector: el botó de xat obre el [Coach](../coach.md) amb el document a la vista, i el botó dels controls lliscants obre l'assistent d'escriptura.
+Un cop desat el document, la seva ajuda és en un sol lloc, l'assistent d'escriptura: **Tema**, **Coach**, **Corregeix**, Puja de nivell, To i **Historial**. El menú de fitxers de dalt llista els altres documents de la mateixa carpeta, perquè puguis canviar d'un a l'altre. Dos botons rodons són a baix a la dreta, com al lector: el botó de xat obre el [Coach](../coach.md) amb el document a la vista, i el botó dels controls lliscants obre l'assistent d'escriptura. En un mòbil s'aparten mentre escrius. **Importa des d'un fitxer** és sota el text.
+
+El mòbil no subratlla ni substitueix les teves paraules: el títol i el text estan marcats en la llengua que aprens, amb la correcció automàtica i l'ortografia del mòbil desactivades. **Corregeix** és l'ajuda.
 
 ## Temes
 
-Encallat sense idees? La barra **Tema** et suggereix alguna cosa sobre què escriure al teu nivell. **Nou tema** te'n dona un altre; la ✕ el descarta. Immersive evita repetir els teus temes recents.
+Encallat sense idees? La targeta **Tema**, a dalt de l'assistent d'escriptura, et suggereix alguna cosa sobre què escriure al teu nivell. **Nou tema** te'n dona un altre; la ✕ el descarta. Immersive evita repetir els teus temes recents.
 
 ## La revisió del Coach
 
-**Coach** a la barra d'eines llegeix el teu document desat i en fa una breu revisió en la teva llengua: una cosa que el text fa bé, fins a tres millores amb una explicació cadascuna, i una idea per continuar. Revisa l'última versió desada, així que desa primer.
+**Coach** a l'assistent d'escriptura llegeix el teu document desat i en fa una breu revisió en la teva llengua: una cosa que el text fa bé, fins a tres millores amb una explicació cadascuna, i una idea per continuar. Revisa l'última versió desada, així que desa primer.
 
 És una revisió puntual, no una conversa. Per fer preguntes, fes servir el [Coach](../coach.md) des del lector o des de la pàgina de correcció.
 
@@ -40,14 +42,14 @@ Quan el teu esborrany és a punt, desa'l i tria **Corregeix**. La correcció tri
 
 **Aplica al document** substitueix el text del document pel text corregit. La versió anterior es conserva a l'Historial, així que no es perd res. El text corregit és pla: els encapçalaments, la negreta i altres formats no es conserven.
 
-Les correccions anteriors continuen disponibles: el botó de tancar d'una pàgina de correcció porta a la llista dels teus enviaments per al document.
+Les correccions anteriors continuen disponibles: **Correccions anteriors**, a la pestanya Esmenes de l'assistent, i el botó de tancar d'una pàgina de correcció porten a la llista dels teus enviaments per al document.
 
 ## L'assistent d'escriptura
 
-El botó dels controls lliscants obre l'**Assistent**: un plafó al costat de l'editor en un ordinador, un full en un mòbil. No fa nosa fins que l'obres, i Immersive recorda si el deixes obert. Té tres pestanyes:
+El botó dels controls lliscants obre l'**Assistent**: un plafó al costat de l'editor en un ordinador, un full en un mòbil. No fa nosa fins que l'obres, i en un ordinador Immersive recorda si el deixes obert. Comença amb les eines de format i el tema, després té tres pestanyes, i acaba amb **Coach** i **Historial**:
 
-- **Esmenes** mostra el teu nivell d'escriptura («Nivell d'escriptura ≈ B1»), fins a tres de les teves últimes correccions, **Obre l'informe complet** i el botó **Corregeix**. També conté **Puja de nivell** (a sota).
-- **Reescriu** treballa sobre una selecció: selecciona un fragment (fins a 4.000 caràcters) i tria **Suggereix una reescriptura**. Immersive el reescriu un nivell per sobre del teu nivell d'escriptura, amb el mateix significat. El suggeriment apareix sota el paràgraf; **Substitueix** l'adopta, **Descarta** deixa el teu text intacte.
+- **Esmenes** mostra el teu nivell d'escriptura («Nivell d'escriptura ≈ B1»), fins a tres de les teves últimes correccions, **Obre l'informe complet** i el botó **Corregeix**. Mentre una correcció és en camí ho diu, i les correccions apareixen soles. També conté **Puja de nivell** (a sota) i **Correccions anteriors**.
+- **Reescriu** pren la frase on és el cursor, o un fragment que seleccionis (fins a 4.000 caràcters): tria **Suggereix una reescriptura**. Immersive el reescriu un nivell per sobre del teu nivell d'escriptura, amb el mateix significat. El suggeriment apareix sota el paràgraf; **Substitueix** l'adopta, **Descarta** deixa el teu text intacte. En un mòbil, mentre l'assistent és obert, tocar el text hi posa el cursor sense fer pujar el teclat, i l'assistent s'aparta per mostrar el suggeriment.
 - **To** reescriu tot el teu esborrany per a una situació que descrius amb les teves paraules a **Reescriu-ho com a…** («un correu formal al meu propietari sobre la calefacció espatllada»), i després **Reescriu**. La reescriptura es manté a prop del teu nivell: la teva veu, ajustada. **Aplica al document** la posa a l'editor, i **Exporta .docx** la descarrega com a fitxer de Word.
 
 El teu nivell d'escriptura surt de l'estimació MECR de la teva última correcció; abans de la primera correcció, és el nivell que has establert per a la llengua al teu perfil.
@@ -58,7 +60,7 @@ Tens curiositat per saber com quedaria la teva escriptura un pas més enllà? A 
 
 ## Historial
 
-**Historial** a l'editor obre l'**Historial de canvis** del document. La versió anterior es desa abans de cada edició, importació, correcció aplicada o restauració; compara qualsevol versió amb el text actual i recupera-la amb **Restaura**. Experimenta amb llibertat: sempre pots tornar enrere.
+**Historial** a l'assistent d'escriptura obre l'**Historial de canvis** del document. La versió anterior es desa abans de cada edició, importació, correcció aplicada o restauració; compara qualsevol versió amb el text actual i recupera-la amb **Restaura**. Restaura pregunta abans, anomenant la versió, i el text que substitueix també es desa a l'Historial. Experimenta amb llibertat: sempre pots tornar enrere.
 
 ## Per llegir més
 

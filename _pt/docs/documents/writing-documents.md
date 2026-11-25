@@ -13,18 +13,20 @@ Escrever é onde uma língua se torna sua. O editor dá-lhe uma página limpa na
 ## O editor
 
 1. Abra **Documentos** e escolha **+** (**Criar um novo documento**), ou abra um documento e mude para **Escrever** no topo do leitor.
-2. Escreva. A barra de ferramentas oferece negrito, itálico, títulos, listas e citações, além de recuo de parágrafo, entrelinha e impressão, e mostra uma contagem de palavras em curso.
+2. Escreva. O texto vem logo por baixo do título. Num documento novo, a barra de ferramentas por cima oferece negrito, itálico, títulos, listas e citações, além de recuo de parágrafo, entrelinha e impressão, e mostra uma contagem de palavras em curso; depois de guardar o documento, estas ferramentas estão no topo do assistente de escrita.
 3. **Guardar** quando quiser. Um documento guardado pode ser lido como qualquer outro, com traduções, áudio e ajudas de leitura.
 
-**Tema**, **Coach**, **Histórico**, **Corrigir** e o assistente aparecem depois de o documento ter sido guardado pela primeira vez. O menu de ficheiros no topo lista os outros documentos da mesma pasta, para poder passar de um para outro. Dois botões redondos ficam no canto inferior direito, como no leitor: o botão de conversa abre o [Coach](../coach.md) com o documento à vista, e o botão dos controlos deslizantes abre o assistente de escrita.
+Depois de o documento ter sido guardado, a sua ajuda fica num só lugar, o assistente de escrita: **Tema**, **Coach**, **Corrigir**, Suba de nível, Tom e **Histórico**. O menu de ficheiros no topo lista os outros documentos da mesma pasta, para poder passar de um para outro. Dois botões redondos ficam no canto inferior direito, como no leitor: o botão de conversa abre o [Coach](../coach.md) com o documento à vista, e o botão dos controlos deslizantes abre o assistente de escrita. Num telemóvel afastam-se enquanto escreve. **Importar de um ficheiro** fica por baixo do texto.
+
+O telemóvel não sublinha nem substitui as suas palavras: o título e o texto estão marcados na língua que está a aprender, com a correção automática e a ortografia do telemóvel desligadas. **Corrigir** é a ajuda.
 
 ## Temas
 
-Sem ideias? A barra **Tema** sugere algo sobre que escrever, no seu nível. **Novo tema** dá-lhe outro; o ✕ dispensa-o. O Immersive evita repetir os seus temas recentes.
+Sem ideias? O cartão **Tema**, no topo do assistente de escrita, sugere algo sobre que escrever, no seu nível. **Novo tema** dá-lhe outro; o ✕ dispensa-o. O Immersive evita repetir os seus temas recentes.
 
 ## A revisão do Coach
 
-**Coach**, na barra de ferramentas, lê o seu documento guardado e dá uma revisão curta na sua língua: uma coisa que o texto faz bem, até três melhorias com uma explicação cada, e uma ideia para continuar. Revê a última versão guardada, por isso guarde primeiro.
+**Coach**, no assistente de escrita, lê o seu documento guardado e dá uma revisão curta na sua língua: uma coisa que o texto faz bem, até três melhorias com uma explicação cada, e uma ideia para continuar. Revê a última versão guardada, por isso guarde primeiro.
 
 É uma revisão única, não uma conversa. Para fazer perguntas, use o [Coach](../coach.md) a partir do leitor ou da página de correção.
 
@@ -40,14 +42,14 @@ Quando o rascunho estiver pronto, guarde-o e escolha **Corrigir**. A correção 
 
 **Aplicar ao documento** substitui o texto do documento pelo texto corrigido. A versão anterior fica no Histórico, por isso nada se perde. O texto corrigido é simples: títulos, negrito e outra formatação não são mantidos.
 
-As correções anteriores continuam disponíveis: o botão de fechar de uma página de correção leva à lista dos seus envios para o documento.
+As correções anteriores continuam disponíveis: **Correções anteriores**, no separador Edições do assistente, e o botão de fechar de uma página de correção levam à lista dos seus envios para o documento.
 
 ## O assistente de escrita
 
-O botão dos controlos deslizantes abre o **Assistente**: um painel ao lado do editor num computador, uma folha num telemóvel. Fica fora do caminho até o abrir, e o Immersive lembra-se se o mantém aberto. Tem três separadores:
+O botão dos controlos deslizantes abre o **Assistente**: um painel ao lado do editor num computador, uma folha num telemóvel. Fica fora do caminho até o abrir, e num computador o Immersive lembra-se se o mantém aberto. Começa com as ferramentas de formatação e o tema, depois tem três separadores, e termina com **Coach** e **Histórico**:
 
-- **Edições** mostra o seu nível de escrita («Nível de escrita ≈ B1»), até três das suas correções mais recentes, **Abrir o relatório completo** e o botão **Corrigir**. Também contém **Suba de nível** (abaixo).
-- **Reescrever** trabalha sobre uma seleção: selecione uma passagem (até 4.000 caracteres) e escolha **Sugerir reescrita**. O Immersive reescreve-a um nível acima do seu nível de escrita, com o mesmo significado. A sugestão aparece por baixo do parágrafo; **Substituir** aceita-a, **Dispensar** deixa o seu texto em paz.
+- **Edições** mostra o seu nível de escrita («Nível de escrita ≈ B1»), até três das suas correções mais recentes, **Abrir o relatório completo** e o botão **Corrigir**. Enquanto uma correção está a caminho, di-lo, e as correções aparecem sozinhas. Também contém **Suba de nível** (abaixo) e **Correções anteriores**.
+- **Reescrever** pega na frase onde está o cursor, ou numa passagem que selecionar (até 4.000 caracteres): escolha **Sugerir reescrita**. O Immersive reescreve-a um nível acima do seu nível de escrita, com o mesmo significado. A sugestão aparece por baixo do parágrafo; **Substituir** aceita-a, **Dispensar** deixa o seu texto em paz. Num telemóvel, enquanto o assistente está aberto, tocar no texto coloca o cursor sem fazer subir o teclado, e o assistente afasta-se para mostrar a sugestão.
 - **Tom** reescreve o rascunho inteiro para uma situação que descreve com as suas próprias palavras em **Reescrever isto como…** («um e-mail formal ao meu senhorio sobre o aquecimento avariado»), e depois **Reescrever**. A reescrita mantém-se perto do seu nível: é a sua voz, ajustada. **Aplicar ao documento** põe-na no editor, e **Exportar .docx** descarrega-a como ficheiro Word.
 
 O seu nível de escrita vem da estimativa QECR da sua correção mais recente; antes da primeira correção, é o nível que definiu para a língua no seu perfil.
@@ -58,7 +60,7 @@ Curioso sobre como ficaria a sua escrita um passo à frente? No separador Ediç�
 
 ## Histórico
 
-**Histórico**, no editor, abre o **Histórico de alterações** do documento. A versão anterior é guardada antes de cada edição, importação, correção aplicada ou restauro; compare qualquer versão com o texto atual e escolha **Restaurar**. Experimente à vontade: pode sempre voltar atrás.
+**Histórico**, no assistente de escrita, abre o **Histórico de alterações** do documento. A versão anterior é guardada antes de cada edição, importação, correção aplicada ou restauro; compare qualquer versão com o texto atual e escolha **Restaurar**. Restaurar pergunta primeiro, nomeando a versão, e o texto que substitui também fica guardado no Histórico. Experimente à vontade: pode sempre voltar atrás.
 
 ## Para saber mais
 
