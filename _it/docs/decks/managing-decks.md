@@ -26,6 +26,8 @@ Sopra i tuoi mazzi sta la **Biblioteca**: mazzi pronti di Immersive nella lingua
 
 I mazzi della Biblioteca si studiano dalla tua copia: premi il **+** accanto a uno (**Copia nei miei mazzi**) e la copia compare in I miei mazzi.
 
+Puoi anche aprire prima un mazzo della Biblioteca: la sua pagina mostra le carte e **Inizia · 12 nuove**. Non si copia nulla finché non premi Inizia; allora la copia viene creata in I miei mazzi e si apre il suo primo ripasso, e chiudendo il ripasso arrivi alla tua copia. Quando hai già una copia, la pagina del mazzo della Biblioteca indica **Nei miei mazzi** e porta alla copia.
+
 ## Mazzi pubblici
 
 Le pagine dei verbi e delle forme verbali elencano i **Mazzi pubblici** che esercitano quel verbo. Aprine uno per vederne le carte, e scegli **Copia nei miei mazzi** per studiarlo. La tua copia indica da quale mazzo è stata copiata.

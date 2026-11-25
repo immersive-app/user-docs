@@ -26,6 +26,8 @@ Au-dessus de vos paquets se trouve la **Bibliothèque** : des paquets prêts à
 
 Les paquets de la Bibliothèque s'étudient via votre propre copie : appuyez sur le **+** à côté d'un paquet (**Copier dans mes paquets**) et la copie apparaît dans Mes paquets.
 
+Vous pouvez aussi ouvrir d'abord un paquet de la Bibliothèque : sa page montre ses cartes et **Commencer · 12 nouvelles**. Rien n'est copié tant que vous n'appuyez pas sur Commencer ; la copie se fait alors dans Mes paquets et sa première révision s'ouvre, et fermer la révision vous mène à votre copie. Une fois la copie faite, la page du paquet de la Bibliothèque indique **Dans mes paquets** et y mène.
+
 ## Paquets publics
 
 Les pages de verbe et les pages de forme verbale listent des **Paquets publics** qui travaillent ce verbe. Ouvrez-en un pour voir ses cartes, et choisissez **Copier dans mes paquets** pour l'étudier. Votre copie indique de quel paquet elle vient.

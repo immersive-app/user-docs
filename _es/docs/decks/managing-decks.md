@@ -26,6 +26,8 @@ Encima de tus mazos está la **Biblioteca**: mazos listos para usar de Immersive
 
 Los mazos de la Biblioteca se estudian desde tu propia copia: pulsa el **+** junto a uno (**Copiar a mis mazos**) y la copia aparece en Mis mazos.
 
+También puedes abrir primero un mazo de la Biblioteca: su página muestra sus tarjetas y **Empezar · 12 nuevas**. No se copia nada hasta que pulsas Empezar; entonces la copia se crea en Mis mazos y se abre su primer repaso, y al cerrar el repaso llegas a tu copia. Cuando ya tienes una copia, la página del mazo de la Biblioteca indica **En mis mazos** y enlaza con ella.
+
 ## Mazos públicos
 
 Las páginas de verbos y de formas verbales listan **Mazos públicos** que practican ese verbo. Abre uno para ver sus tarjetas y elige **Copiar a mis mazos** para estudiarlo. Tu copia indica de qué mazo procede.

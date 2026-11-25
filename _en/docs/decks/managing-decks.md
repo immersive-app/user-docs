@@ -25,13 +25,15 @@ Above your decks sits the **Library**: ready-made decks from Immersive in the la
 
 Library decks are studied from your own copy: press the **+** next to one (**Copy to My Decks**) and the copy appears in My Decks.
 
+You can also open a Library deck first: its page shows its cards and **Start · 12 new**. Nothing is copied until you press Start; then the copy is made in My Decks and its first review opens, and closing the review takes you to your copy. Once you have a copy, the Library deck's page says **In My Decks** and links to it.
+
 ## Public decks
 
 Verb pages and verb form pages list **Public decks** that practise that verb. Open one to see its cards, and choose **Copy to My Decks** to study it. Your copy shows which deck it was copied from.
 
 ## A deck's page
 
-Open a deck to see its page: **Start review** (see [Reviewing cards](reviewing-cards.md)), the deck's actions (**Study deck**, **Export to Anki**, and **Copy to My Decks** on a Library or public deck), and its cards.
+Open a deck to see its page: **Start review** (see [Reviewing cards](reviewing-cards.md)), the deck's actions (**Study deck**, **Export to Anki**, and **Copy to My Decks** on a Library or public deck you have not copied), and its cards.
 
 - **A verb deck** lists a section for each tense, with a row for each verb: its meaning, and **Study** to study that card alone. Open a verb to see its card: the six forms with their audio, then **Sentences**, each person's example sentence with its translation and audio.
 - **A vocabulary deck** lists its cards, 25 at a time. Cards you picked from a text are grouped under the text's title.
