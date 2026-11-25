@@ -15,7 +15,7 @@ Construir um baralho tem dois passos: criar o baralho e depois adicionar-lhe car
 1. Abra **Baralhos** e escolha o botão **+** (**Criar um novo baralho**).
 2. Dê ao baralho um título na língua que está a aprender e outro na sua língua. Os dois são obrigatórios: as revisões podem mostrar qualquer um dos lados.
 3. Opcionalmente, escolha uma **Pasta** (ou escreva o nome de uma pasta nova) e adicione **Etiquetas**. Deixar a pasta em branco mantém o baralho no nível de topo de **Os meus baralhos**; as etiquetas agrupam baralhos entre pastas.
-4. Escolha **Guardar e adicionar cartões**.
+4. Escolha **Criar**.
 
 ## Adicionar cartões
 

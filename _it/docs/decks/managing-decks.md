@@ -50,7 +50,7 @@ L'icona del segnalibro su un mazzo (nell'elenco, o nella pagina del mazzo) lo co
 
 ## Modificare un mazzo
 
-Apri un mazzo e scegli la matita per aprire il suo spazio di lavoro. **Modifica mazzo** apre le impostazioni: rinominalo in una delle due lingue, cambiane la cartella o sistemane le etichette, poi scegli **Aggiorna mazzo**. L'elenco delle carte sotto ti permette di modificare o eliminare singole carte e di aggiungere esempi; mostra 25 carte alla volta, e **Mostra altre** elenca le restanti.
+Apri un mazzo e scegli la matita per aprire il suo spazio di lavoro. **Modifica mazzo** apre le impostazioni: rinominalo in una delle due lingue, cambiane la cartella o sistemane le etichette. Lo spazio di lavoro ha un solo **Salva** (nell'app, in alto sullo schermo), che salva le impostazioni insieme al riquadro di un mazzo di vocabolario o alla tabella di un mazzo di verbi. L'elenco delle carte sotto ti permette di modificare o eliminare singole carte e di aggiungere esempi; mostra 25 carte alla volta, e **Mostra altre** elenca le restanti.
 
 ## Esportare in Anki
 
@@ -58,7 +58,7 @@ Apri un mazzo e scegli la matita per aprire il suo spazio di lavoro. **Modifica 
 
 ## Eliminare un mazzo
 
-Elimina un mazzo con il pulsante del cestino nel suo spazio di lavoro. L'eliminazione rimuove il mazzo, le sue carte e i loro progressi di ripasso; prima ti viene chiesta una conferma.
+Elimina un mazzo con **Elimina mazzo**, in fondo al suo spazio di lavoro. L'eliminazione rimuove il mazzo, le sue carte e i loro progressi di ripasso; prima ti viene chiesta una conferma.
 
 ## Per approfondire
 

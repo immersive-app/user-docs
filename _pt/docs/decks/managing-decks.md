@@ -50,7 +50,7 @@ O ícone do marcador num baralho (na lista ou na página do baralho) marca-o. O 
 
 ## Editar um baralho
 
-Abra um baralho e escolha o lápis para abrir o seu espaço de trabalho. **Editar baralho** abre as definições: mude o nome em qualquer das línguas, mude a pasta ou ajuste as etiquetas, e depois escolha **Atualizar baralho**. A lista de cartões por baixo permite editar ou eliminar cartões individuais e adicionar exemplos; mostra 25 cartões de cada vez, e **Mostrar mais** lista os restantes.
+Abra um baralho e escolha o lápis para abrir o seu espaço de trabalho. **Editar baralho** abre as definições: mude o nome em qualquer das línguas, mude a pasta ou ajuste as etiquetas. O espaço de trabalho tem um só **Guardar** (na aplicação, no topo do ecrã), que guarda as definições juntamente com a caixa de um baralho de vocabulário ou a tabela de um baralho de verbos. A lista de cartões por baixo permite editar ou eliminar cartões individuais e adicionar exemplos; mostra 25 cartões de cada vez, e **Mostrar mais** lista os restantes.
 
 ## Exportar para o Anki
 
@@ -58,7 +58,7 @@ Abra um baralho e escolha o lápis para abrir o seu espaço de trabalho. **Edita
 
 ## Eliminar um baralho
 
-Elimine um baralho com o botão do caixote do lixo no seu espaço de trabalho. Eliminar remove o baralho, os seus cartões e o progresso de revisão; é-lhe pedida confirmação primeiro.
+Elimine um baralho com **Eliminar baralho**, no fundo do seu espaço de trabalho. Eliminar remove o baralho, os seus cartões e o progresso de revisão; é-lhe pedida confirmação primeiro.
 
 ## Para saber mais
 
