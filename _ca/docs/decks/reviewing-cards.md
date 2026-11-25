@@ -44,7 +44,7 @@ En mode Llegeix tries tu la qualificació, i cada botó de qualificació indica 
 
 ## Durant la sessió
 
-- Una barra de progrés fina segueix la sessió.
+- Una barra de progrés fina segueix la sessió, amb el teu lloc al costat, per exemple «3 de 12». Una targeta que respons malament torna més tard a la sessió, així que no fa avançar el teu lloc.
 - Una línia sota la targeta compta el que queda: pendents avui, noves i en aprenentatge.
 - Un cop es mostra la resposta, **Pregunta sobre aquesta targeta** obre el [Coach](../coach.md) amb la targeta a la vista.
 - La X a la part superior de la targeta torna a la baralla.

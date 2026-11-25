@@ -55,7 +55,7 @@ In Read mode you choose the grade, and each grade button shows when it brings th
 
 ## Skip
 
-**Skip** sits beside the answer in Write, Listen, and Speak, and under the card in a Pronunciation round. A skipped card is not graded and its schedule does not change: it leaves this session and comes back when you next press **Start review**. Read has no Skip. On a computer, the S key skips.
+**Skip** sits at the foot of the answer in Write, Listen, and Speak, beside **Submit** or **Record**, and under the card in a Pronunciation round. A skipped card is not graded and its schedule does not change: it leaves this session and comes back when you next press **Start review**. Read has no Skip. On a computer, the S key skips.
 
 ## The card menu
 
@@ -76,7 +76,7 @@ On a computer:
 
 ## During the session
 
-- A thin progress bar tracks the session.
+- A thin progress bar tracks the session, with your place beside it, such as "3 of 12". A card you answer wrong comes back later in the session, so it does not move your place on.
 - A line under the card counts what is left: due today, new, and learning.
 - Once the answer is shown, **Ask about this card** opens the [Coach](../coach.md) with the card in view.
 - The X at the top of the card returns to the deck.

@@ -44,7 +44,7 @@ No modo Ler, é o próprio que escolhe a avaliação, e cada botão de avaliaç�
 
 ## Durante a sessão
 
-- Uma barra fina de progresso acompanha a sessão.
+- Uma barra fina de progresso acompanha a sessão, com a sua posição ao lado, por exemplo «3 de 12». Um cartão a que responde mal volta mais tarde na sessão, por isso não faz avançar a sua posição.
 - Uma linha por baixo do cartão conta o que falta: para hoje, novos e em aprendizagem.
 - Depois de a resposta aparecer, **Perguntar sobre este cartão** abre o [Coach](../coach.md) com o cartão à vista.
 - O X no topo do cartão volta ao baralho.

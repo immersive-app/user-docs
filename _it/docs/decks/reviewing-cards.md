@@ -44,7 +44,7 @@ In modalità Leggi scegli tu il giudizio, e ogni pulsante di giudizio indica qua
 
 ## Durante la sessione
 
-- Una sottile barra di avanzamento segue la sessione.
+- Una sottile barra di avanzamento segue la sessione, con la tua posizione accanto, per esempio «3 di 12». Una carta a cui rispondi in modo sbagliato torna più avanti nella sessione, quindi non fa avanzare la tua posizione.
 - Una riga sotto la carta conta ciò che resta: da ripassare oggi, nuove e in apprendimento.
 - Una volta mostrata la risposta, **Chiedi di questa carta** apre il [Coach](../coach.md) con la carta sotto gli occhi.
 - La X in cima alla carta ti riporta al mazzo.

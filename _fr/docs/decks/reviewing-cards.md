@@ -44,7 +44,7 @@ En mode Lire, vous choisissez la note, et chaque bouton de note indique quand il
 
 ## Pendant la session
 
-- Une fine barre de progression suit la session.
+- Une fine barre de progression suit la session, avec votre place à côté, par exemple « 3 sur 12 ». Une carte à laquelle vous répondez mal revient plus tard dans la session : elle ne fait pas avancer votre place.
 - Une ligne sous la carte compte ce qui reste : à revoir aujourd'hui, nouvelles et en cours.
 - Une fois la réponse affichée, **Demander à propos de cette carte** ouvre le [Coach](../coach.md) avec la carte sous les yeux.
 - Le X en haut de la carte ramène au paquet.

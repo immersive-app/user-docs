@@ -44,7 +44,7 @@ En el modo Leer eliges tú la calificación, y cada botón de calificación indi
 
 ## Durante la sesión
 
-- Una fina barra de progreso sigue la sesión.
+- Una fina barra de progreso sigue la sesión, con tu lugar al lado, por ejemplo «3 de 12». Una tarjeta que respondes mal vuelve más tarde en la sesión, así que no hace avanzar tu lugar.
 - Una línea bajo la tarjeta cuenta lo que queda: para hoy, nuevas y en aprendizaje.
 - Una vez mostrada la respuesta, **Preguntar sobre esta tarjeta** abre el [Coach](../coach.md) con la tarjeta a la vista.
 - La X en la parte superior de la tarjeta vuelve al mazo.
