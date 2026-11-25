@@ -13,18 +13,20 @@ lang: fr
 ## L'éditeur
 
 1. Ouvrez **Documents** et choisissez **+** (**Créer un nouveau document**), ou ouvrez un document et passez à **Écrire** en haut du lecteur.
-2. Écrivez. La barre d'outils propose le gras, l'italique, les titres, les listes et les citations, plus l'alinéa, l'interligne et l'impression, et affiche un compteur de mots en continu.
+2. Écrivez. Le texte vient juste sous le titre. Sur un nouveau document, la barre d'outils au-dessus propose le gras, l'italique, les titres, les listes et les citations, plus l'alinéa, l'interligne et l'impression, et affiche un compteur de mots en continu ; une fois le document enregistré, ces outils sont en haut de l'assistant d'écriture.
 3. **Enregistrer** quand vous voulez. Un document enregistré se lit comme n'importe quel autre, avec traductions, audio et aides à la lecture.
 
-**Sujet**, **Coach**, **Historique**, **Corriger** et l'assistant apparaissent une fois le document enregistré pour la première fois. Le menu des fichiers en haut liste les autres documents du même dossier, pour passer de l'un à l'autre. Deux boutons ronds se trouvent en bas à droite, comme dans le lecteur : le bouton de chat ouvre le [Coach](../coach.md) avec le document sous les yeux, et le bouton à curseurs ouvre l'assistant d'écriture.
+Une fois le document enregistré, son aide est réunie dans l'assistant d'écriture : **Sujet**, **Coach**, **Corriger**, Niveau supérieur, Ton et **Historique**. Le menu des fichiers en haut liste les autres documents du même dossier, pour passer de l'un à l'autre. Deux boutons ronds se trouvent en bas à droite, comme dans le lecteur : le bouton de chat ouvre le [Coach](../coach.md) avec le document sous les yeux, et le bouton à curseurs ouvre l'assistant d'écriture. Sur un téléphone, ils s'effacent pendant que vous tapez. **Importer depuis un fichier** se trouve sous le texte.
+
+Le téléphone ne souligne ni ne remplace vos mots : le titre et le texte sont marqués dans la langue que vous apprenez, avec la correction automatique et l'orthographe du téléphone désactivées. **Corriger** est l'aide.
 
 ## Sujets
 
-En panne d'idée ? La barre **Sujet** propose quelque chose à écrire à votre niveau. **Nouveau sujet** en donne un autre ; le ✕ l'écarte. Immersive évite de répéter vos sujets récents.
+En panne d'idée ? La carte **Sujet**, en haut de l'assistant d'écriture, propose quelque chose à écrire à votre niveau. **Nouveau sujet** en donne un autre ; le ✕ l'écarte. Immersive évite de répéter vos sujets récents.
 
 ## La relecture du Coach
 
-**Coach**, dans la barre d'outils, lit votre document enregistré et vous donne une courte relecture dans votre propre langue : une chose que le texte fait bien, jusqu'à trois améliorations avec une explication chacune, et une idée pour continuer. Il relit la dernière version enregistrée, alors enregistrez d'abord.
+**Coach**, dans l'assistant d'écriture, lit votre document enregistré et vous donne une courte relecture dans votre propre langue : une chose que le texte fait bien, jusqu'à trois améliorations avec une explication chacune, et une idée pour continuer. Il relit la dernière version enregistrée, alors enregistrez d'abord.
 
 C'est une relecture ponctuelle, pas une conversation. Pour poser des questions, utilisez le [Coach](../coach.md) depuis le lecteur ou la page de correction.
 
@@ -40,14 +42,14 @@ Quand votre brouillon est prêt, enregistrez-le et choisissez **Corriger**. La c
 
 **Appliquer au document** remplace le texte du document par le texte corrigé. La version précédente est conservée dans l'Historique, donc rien n'est perdu. Le texte corrigé est du texte brut : les titres, le gras et les autres mises en forme ne sont pas conservés.
 
-Les corrections passées restent disponibles : le bouton de fermeture d'une page de correction mène à la liste de vos soumissions pour le document.
+Les corrections passées restent disponibles : **Corrections précédentes**, dans l'onglet Corrections de l'assistant, et le bouton de fermeture d'une page de correction mènent à la liste de vos soumissions pour le document.
 
 ## L'assistant d'écriture
 
-Le bouton à curseurs ouvre l'**Assistant** : un panneau à côté de l'éditeur sur ordinateur, un volet sur téléphone. Il reste à l'écart tant que vous ne l'ouvrez pas, et Immersive se souvient si vous le gardez ouvert. Il a trois onglets :
+Le bouton à curseurs ouvre l'**Assistant** : un panneau à côté de l'éditeur sur ordinateur, un volet sur téléphone. Il reste à l'écart tant que vous ne l'ouvrez pas, et sur ordinateur Immersive se souvient si vous le gardez ouvert. Il commence par les outils de mise en forme et le sujet, puis a trois onglets, et finit par **Coach** et **Historique** :
 
-- **Corrections** montre votre niveau d'écriture (« Niveau d'écriture ≈ B1 »), jusqu'à trois de vos dernières corrections, **Ouvrir le rapport complet** et le bouton **Corriger**. Il contient aussi **Niveau supérieur** (plus bas).
-- **Réécrire** travaille sur une sélection : sélectionnez un passage (jusqu'à 4 000 caractères) et choisissez **Proposer une réécriture**. Immersive le réécrit un niveau au-dessus de votre niveau d'écriture, avec le même sens. La proposition apparaît sous le paragraphe ; **Remplacer** l'adopte, **Ignorer** laisse votre texte tel quel.
+- **Corrections** montre votre niveau d'écriture (« Niveau d'écriture ≈ B1 »), jusqu'à trois de vos dernières corrections, **Ouvrir le rapport complet** et le bouton **Corriger**. Pendant qu'une correction est en route, il l'indique, et les corrections s'affichent d'elles-mêmes. Il contient aussi **Niveau supérieur** (plus bas) et **Corrections précédentes**.
+- **Réécrire** prend la phrase où se trouve votre curseur, ou un passage que vous sélectionnez (jusqu'à 4 000 caractères) : choisissez **Proposer une réécriture**. Immersive le réécrit un niveau au-dessus de votre niveau d'écriture, avec le même sens. La proposition apparaît sous le paragraphe ; **Remplacer** l'adopte, **Ignorer** laisse votre texte tel quel. Sur un téléphone, tant que l'assistant est ouvert, toucher votre texte place le curseur sans faire monter le clavier, et l'assistant s'efface pour montrer la proposition.
 - **Ton** réécrit tout votre brouillon pour une situation que vous décrivez avec vos mots dans **Réécrire ceci comme…** (« un e-mail formel à mon propriétaire au sujet du chauffage en panne »), puis **Réécrire**. La réécriture reste proche de votre niveau : c'est votre voix, ajustée. **Appliquer au document** la place dans l'éditeur, et **Exporter en .docx** la télécharge comme fichier Word.
 
 Votre niveau d'écriture vient de l'estimation CECR de votre dernière correction ; avant votre première correction, c'est le niveau indiqué pour la langue dans votre profil.
@@ -58,7 +60,7 @@ Curieux de voir votre écriture un cran plus haut ? Dans l'onglet Corrections,
 
 ## Historique
 
-**Historique**, dans l'éditeur, ouvre l'**Historique des modifications** du document. La version précédente est enregistrée avant chaque modification, importation, correction appliquée ou restauration ; comparez n'importe quelle version avec le texte actuel puis choisissez **Restaurer**. Expérimentez librement : vous pouvez toujours revenir en arrière.
+**Historique**, dans l'assistant d'écriture, ouvre l'**Historique des modifications** du document. La version précédente est enregistrée avant chaque modification, importation, correction appliquée ou restauration ; comparez n'importe quelle version avec le texte actuel puis choisissez **Restaurer**. Restaurer demande d'abord, en nommant la version, et le texte remplacé est lui aussi conservé dans l'Historique. Expérimentez librement : vous pouvez toujours revenir en arrière.
 
 ## Pour aller plus loin
 
