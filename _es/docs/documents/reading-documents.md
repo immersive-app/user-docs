@@ -24,10 +24,10 @@ Para un libro entero, leído por capítulos, usa **Añadir un libro**: ver [Libr
 
 Abre un documento para leerlo. Bajo el título ves su traducción en tu idioma.
 
-- **Toca** una palabra: una pequeña tarjeta muestra su traducción, con un botón de **altavoz** y **Más**.
+- **Toca** una palabra: se abre una tarjeta al pie de la pantalla con su traducción, un botón de **altavoz** y **Más**. Si hace falta, el texto sube para que la palabra siga a la vista encima de la tarjeta.
 - **La frase**, al pie de la tarjeta, muestra la traducción de la frase en la que está la palabra, con su propio altavoz y **Más**.
 - **Toca de nuevo** para oír la palabra en voz alta. Tocar en otro sitio cierra la tarjeta.
-- La barra de la parte inferior conserva la **última palabra** que consultaste, con su significado y, cuando lo hay, un parecido en un idioma que conoces.
+- Cuando tu toque convierte la palabra en una tarjeta, la tarjeta dice **Añadido**, con **Deshacer** para quitarla. Cuando la palabra tiene un parecido en un idioma que conoces, la tarjeta también lo muestra.
 - Cada palabra y frase que consultas se registra en tu [Vocabulario](../vocabulary.md).
 
 ## El panel Más
@@ -67,7 +67,7 @@ Cuando revelas una palabra deducible, Immersive crea una tarjeta de repaso a par
 
 ## Controles de lectura
 
-Dos botones redondos están en la parte inferior derecha del lector (apilados en un teléfono): el botón de chat abre el [Coach](../coach.md) con el documento a la vista, y el botón de los controles deslizantes abre los controles de lectura:
+Dos botones redondos están en la parte inferior derecha del lector (apilados en un teléfono, y apartados mientras la tarjeta de una palabra está abierta): el botón de chat abre el [Coach](../coach.md) con el documento a la vista, y el botón de los controles deslizantes abre los controles de lectura:
 
 - **Tamaño del texto**: la A pequeña y la A grande hacen el texto de lectura más pequeño o más grande, en cinco pasos. Los controles y las tarjetas de las palabras mantienen su tamaño.
 - **Interlineado** (1, 1.5 o 2) y **Sangría** (desactivada o activada).
