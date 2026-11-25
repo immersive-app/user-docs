@@ -38,7 +38,7 @@ The Documents page also shows the **Library**: authentic texts provided by Immer
 
 ## The document list
 
-The Documents page lists documents in the language you are learning, with a search box for titles. Each row shows the title's translation, the level, and the word count. The bookmark icon on a document marks it, and the bookmark button at the top of the page shows only your bookmarked documents. **Filters** narrows the list by level: **A1–A2**, **B1–B2**, or **C1–C2**.
+The Documents page lists documents in the language you are learning, with a search box. A search looks through the titles, and their translations, of your documents, your books and their chapters, and the Library, whatever the accents, and shows what it finds under Books, Documents and Library. Each row shows the title's translation, the level, and the word count. The bookmark icon on a document marks it, and the bookmark button at the top of the page shows only your bookmarked documents. **Filters** narrows the list by level: **A1–A2**, **B1–B2**, or **C1–C2**.
 
 To create a document, choose **+** (**Create a new document**). The document is in the language you are learning at the time.
 
