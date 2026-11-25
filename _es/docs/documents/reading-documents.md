@@ -72,12 +72,15 @@ Dos botones redondos están en la parte inferior derecha del lector (apilados en
 - **Tamaño del texto**: la A pequeña y la A grande hacen el texto de lectura más pequeño o más grande, en cinco pasos. Los controles y las tarjetas de las palabras mantienen su tamaño.
 - **Interlineado** (1, 1.5 o 2) y **Sangría** (desactivada o activada).
 - **Tema** (**Clásico**, **Papel**, **Tranquilo** o **Solarized**) y **Apariencia** (**Claro**, **Oscuro** o **Sistema**), la misma opción que en [Perfil → Cuenta](../profile.md#cuenta).
+- **Pantalla completa** (**Sí** o **No**): activada, la barra y los botones redondos se apartan mientras sigues leyendo, y vuelven en cuanto te desplazas un poco hacia arriba o tocas la línea al pie de la pantalla. Esa línea muestra el tiempo que queda del texto, al menos 1 min, con la pantalla completa activada o no.
 - **Voz de lectura**: **Voz automática** o una voz con nombre, que se muestra cuando hay voces disponibles para el idioma.
 - **Ayudas**: **Completa** o **Ligera**.
 - **Leer en voz alta**, y un botón para imprimir.
 - El nivel del documento, su recuento de palabras y su tiempo de lectura.
 
-Immersive recuerda tu tamaño de texto, tu interlineado, tu sangría, la densidad de ayudas, tu tema y la voz (la voz, por idioma). Toca fuera de los controles, o pulsa Esc, para cerrarlos.
+En un teléfono, los controles se abren al pie de la pantalla, con el texto encima, así que un tamaño, un interlineado o un tema se ve en el texto mientras lo eliges.
+
+Immersive recuerda tu tamaño de texto, tu interlineado, tu sangría, la densidad de ayudas, tu tema, la pantalla completa y la voz (la voz, por idioma). Toca **×** arriba de los controles, toca fuera de ellos, o pulsa Esc, para cerrarlos.
 
 ## Leer en voz alta
 
@@ -85,11 +88,11 @@ Immersive recuerda tu tamaño de texto, tu interlineado, tu sangría, la densida
 
 ## Marcadores
 
-El icono del marcador en la parte superior del lector marca el documento; el botón del marcador en la página de Documentos lista entonces solo tus documentos marcados.
+El icono del marcador en la parte superior del lector (en la app, en la barra de arriba de la pantalla) marca el documento; el botón del marcador en la página de Documentos lista entonces solo tus documentos marcados.
 
 ## Edición e historial
 
-Cambia a **Escribir** en la parte superior del lector para editar el texto; desde ahí también puedes eliminar un documento. El **Historial** del documento guarda la versión anterior antes de cada edición, importación, corrección aplicada o restauración. Ver [Escribir documentos](writing-documents.md#historial).
+Cambia a **Escribir** en la parte superior del lector (en la app, el lápiz de la barra de arriba de la pantalla) para editar el texto; desde ahí también puedes eliminar un documento. El **Historial** del documento guarda la versión anterior antes de cada edición, importación, corrección aplicada o restauración. Ver [Escribir documentos](writing-documents.md#historial).
 
 ## Más lectura
 

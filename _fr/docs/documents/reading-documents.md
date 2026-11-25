@@ -72,12 +72,15 @@ Deux boutons ronds se trouvent en bas à droite du lecteur (empilés sur un tél
 - **Taille du texte** : le petit A et le grand A rendent le texte de lecture plus petit ou plus grand, en cinq paliers. Les réglages et les cartes des mots gardent leur taille.
 - **Interligne** (1, 1,5 ou 2) et **Alinéa** (non ou oui).
 - **Thème** (**Classique**, **Papier**, **Calme** ou **Solarized**) et **Apparence** (**Clair**, **Sombre** ou **Système**), le même choix que dans [Profil → Compte](../profile.md#compte).
+- **Plein écran** (**Oui** ou **Non**) : activé, la barre et les boutons ronds s'écartent quand vous avancez dans la lecture, et reviennent dès que vous faites défiler un peu vers le haut ou touchez la ligne au pied de l'écran. Cette ligne indique le temps restant dans le texte, au moins 1 min, plein écran activé ou non.
 - **Voix de lecture** : **Voix automatique** ou une voix nommée, affichée quand des voix sont disponibles pour la langue.
 - **Aides** : **Complète** ou **Légère**.
 - **Lecture à voix haute**, et un bouton d'impression.
 - Le niveau du document, son nombre de mots et son temps de lecture.
 
-Immersive se souvient de votre taille de texte, de votre interligne, de votre alinéa, de la densité des aides, de votre thème et de votre voix (la voix par langue). Touchez en dehors des réglages, ou appuyez sur Échap, pour les fermer.
+Sur un téléphone, les réglages s'ouvrent au pied de l'écran, le texte au-dessus : une taille, un interligne ou un thème se voit sur le texte au moment où vous le choisissez.
+
+Immersive se souvient de votre taille de texte, de votre interligne, de votre alinéa, de la densité des aides, de votre thème, du plein écran et de votre voix (la voix par langue). Touchez **×** en haut des réglages, touchez en dehors, ou appuyez sur Échap, pour les fermer.
 
 ## Lecture à voix haute
 
@@ -85,11 +88,11 @@ Immersive se souvient de votre taille de texte, de votre interligne, de votre al
 
 ## Favoris
 
-L'icône de signet en haut du lecteur met le document en favori ; le bouton signet de la page Documents ne liste alors que vos documents favoris.
+L'icône de signet en haut du lecteur (dans l'app, dans la barre en haut de l'écran) met le document en favori ; le bouton signet de la page Documents ne liste alors que vos documents favoris.
 
 ## Modification et historique
 
-Passez à **Écrire** en haut du lecteur pour modifier le texte ; c'est aussi là que vous supprimez un document. L'**Historique** du document garde la version précédente avant chaque modification, importation, correction appliquée ou restauration. Voir [Écrire des documents](writing-documents.md#historique).
+Passez à **Écrire** en haut du lecteur (dans l'app, le crayon de la barre en haut de l'écran) pour modifier le texte ; c'est aussi là que vous supprimez un document. L'**Historique** du document garde la version précédente avant chaque modification, importation, correction appliquée ou restauration. Voir [Écrire des documents](writing-documents.md#historique).
 
 ## Pour aller plus loin
 

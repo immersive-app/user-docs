@@ -71,12 +71,15 @@ Two round buttons sit at the bottom right of the reader (stacked on a phone, and
 - **Text size**: the small A and the large A make the reading text smaller or larger, in five steps. The controls and the word cards keep their size.
 - **Line spacing** (1, 1.5, or 2) and **Paragraph indent** (off or on).
 - **Theme** (**Classic**, **Paper**, **Quiet**, or **Solarized**) and **Appearance** (**Light**, **Dark**, or **System**), the same choice as in [Profile → Account](../profile.md#account).
+- **Full screen** (**On** or **Off**): on, the bar and the round buttons go as you read on, and come back when you scroll up a little or tap the line at the foot of the screen. That line shows the time left in the text, at least 1 min, with full screen on or off.
 - **Reading voice**: **Automatic voice** or a named voice, shown when voices are available for the language.
 - **Aids**: **Full** or **Light**.
 - **Read to me**, and a print button.
 - The document's level, word count, and reading time.
 
-Immersive remembers your text size, spacing, indent, aid density, theme, and voice (the voice per language). Tap outside the controls, or press Escape, to close them.
+On a phone the reading controls open at the foot of the screen, with the text above them, so a text size, a spacing or a theme shows on the text as you choose it.
+
+Immersive remembers your text size, spacing, indent, aid density, theme, full screen, and voice (the voice per language). Tap **×** at the top of the controls, tap outside them, or press Escape, to close them.
 
 ## Read to me
 
@@ -84,11 +87,11 @@ Immersive remembers your text size, spacing, indent, aid density, theme, and voi
 
 ## Bookmarks
 
-The bookmark icon at the top of the reader marks the document; the bookmark button on the Documents page then lists only your bookmarked documents.
+The bookmark icon at the top of the reader (in the app, in the bar at the top of the screen) marks the document; the bookmark button on the Documents page then lists only your bookmarked documents.
 
 ## Editing and history
 
-Switch to **Write** at the top of the reader to edit the text; delete a document from there too. The document's **History** keeps the previous version before each edit, import, applied correction, or restore. See [Writing documents](writing-documents.md#history).
+Switch to **Write** at the top of the reader (in the app, the pencil in the bar at the top of the screen) to edit the text; delete a document from there too. The document's **History** keeps the previous version before each edit, import, applied correction, or restore. See [Writing documents](writing-documents.md#history).
 
 ## Further reading
 

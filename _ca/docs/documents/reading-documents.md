@@ -72,12 +72,15 @@ Dos botons rodons són a baix a la dreta del lector (apilats en un mòbil, i apa
 - **Mida del text**: la A petita i la A gran fan el text de lectura més petit o més gran, en cinc passos. Els controls i les targetes de les paraules mantenen la seva mida.
 - **Interlineat** (1, 1,5 o 2) i **Sagnat** (sí o no).
 - **Tema** (**Clàssic**, **Paper**, **Tranquil** o **Solarized**) i **Aparença** (**Clar**, **Fosc** o **Sistema**), la mateixa opció que a [Perfil → Compte](../profile.md#compte).
+- **Pantalla completa** (**Sí** o **No**): activada, la barra i els botons rodons s'aparten mentre continues llegint, i tornen tan bon punt et desplaces una mica cap amunt o toques la línia al peu de la pantalla. Aquesta línia mostra el temps que queda del text, com a mínim 1 min, amb la pantalla completa activada o no.
 - **Veu de lectura**: **Veu automàtica** o una veu amb nom, que es mostra quan hi ha veus disponibles per a la llengua.
 - **Ajudes**: **Completa** o **Lleugera**.
 - **Llegeix en veu alta**, i un botó per imprimir.
 - El nivell del document, el recompte de paraules i el temps de lectura.
 
-Immersive recorda la mida del text, l'interlineat, el sagnat, la densitat d'ajudes, el tema i la veu (la veu per a cada llengua). Toca fora dels controls, o prem Esc, per tancar-los.
+En un mòbil, els controls s'obren al peu de la pantalla, amb el text a sobre, de manera que una mida, un interlineat o un tema es veu al text mentre el tries.
+
+Immersive recorda la mida del text, l'interlineat, el sagnat, la densitat d'ajudes, el tema, la pantalla completa i la veu (la veu per a cada llengua). Toca **×** a dalt dels controls, toca'n fora, o prem Esc, per tancar-los.
 
 ## Llegeix en veu alta
 
@@ -85,11 +88,11 @@ Immersive recorda la mida del text, l'interlineat, el sagnat, la densitat d'ajud
 
 ## Marcadors
 
-La icona del marcador a dalt del lector marca el document; llavors, el botó del marcador de la pàgina de Documents llista només els documents marcats.
+La icona del marcador a dalt del lector (a l'app, a la barra de dalt de la pantalla) marca el document; llavors, el botó del marcador de la pàgina de Documents llista només els documents marcats.
 
 ## Edició i historial
 
-Canvia a **Escriu** a dalt del lector per editar el text; també hi pots eliminar un document. L'**Historial** del document conserva la versió anterior abans de cada edició, importació, correcció aplicada o restauració. Vegeu [Escriure documents](writing-documents.md#historial).
+Canvia a **Escriu** a dalt del lector (a l'app, el llapis de la barra de dalt de la pantalla) per editar el text; també hi pots eliminar un document. L'**Historial** del document conserva la versió anterior abans de cada edició, importació, correcció aplicada o restauració. Vegeu [Escriure documents](writing-documents.md#historial).
 
 ## Per llegir més
 
