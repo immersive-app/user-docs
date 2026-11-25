@@ -35,7 +35,7 @@ Vegeu [Escriure documents](documents/writing-documents.md).
 
 ## La Biblioteca
 
-La pàgina de Documents també mostra la **Biblioteca**: textos autèntics proporcionats per Immersive en la llengua que aprens, cadascun amb un nivell (d'A1 a C2) i un recompte de paraules, perquè sempre hi hagi alguna cosa per llegir. La pàgina mostra uns quants títols; **Mostra-ho tot** obre la Biblioteca sencera per a aquella llengua. Els textos de la Biblioteca arriben amb les ajudes de lectura a punt. Llegir un document de la Biblioteca funciona igual que llegir-ne un de teu; si hi comences a escriure, n'obtens la teva pròpia còpia i l'original queda com estava.
+La pàgina de Documents també mostra la **Biblioteca**: textos triats o escrits per Immersive en la llengua que aprens, cadascun amb un nivell (d'A1 a C2) i un recompte de paraules, perquè sempre hi hagi alguna cosa per llegir. La pàgina mostra uns quants títols; **Mostra-ho tot** obre la Biblioteca sencera per a aquella llengua. Els textos de la Biblioteca arriben amb les ajudes de lectura a punt. Llegir un document de la Biblioteca funciona igual que llegir-ne un de teu; si hi comences a escriure, n'obtens la teva pròpia còpia i l'original queda com estava.
 
 ## La llista de documents
 

@@ -34,7 +34,7 @@ See [Writing documents](documents/writing-documents.md).
 
 ## The Library
 
-The Documents page also shows the **Library**: authentic texts provided by Immersive in the language you are learning, each with a level (A1 to C2) and word count, so there is always something to read. The page shows a few titles; **Browse all** opens the whole Library for that language. Library texts come with their reading aids ready. Reading a Library document works like reading your own; if you start writing in one, you get your own copy and the original stays as it is.
+The Documents page also shows the **Library**: texts chosen or written by Immersive in the language you are learning, each with a level (A1 to C2) and word count, so there is always something to read. The page shows a few titles; **Browse all** opens the whole Library for that language. Library texts come with their reading aids ready. Reading a Library document works like reading your own; if you start writing in one, you get your own copy and the original stays as it is.
 
 ## The document list
 

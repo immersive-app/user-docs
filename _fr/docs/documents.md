@@ -35,7 +35,7 @@ Voir [Écrire des documents](documents/writing-documents.md).
 
 ## La Bibliothèque
 
-La page Documents montre aussi la **Bibliothèque** : des textes authentiques proposés par Immersive dans la langue que vous apprenez, chacun avec son niveau (de A1 à C2) et son nombre de mots, pour qu'il y ait toujours quelque chose à lire. La page montre quelques titres ; **Tout parcourir** ouvre toute la Bibliothèque pour cette langue. Les textes de la Bibliothèque arrivent avec leurs aides à la lecture prêtes. Lire un document de la Bibliothèque fonctionne comme lire le vôtre ; si vous commencez à écrire dans l'un d'eux, vous obtenez votre propre copie et l'original reste tel quel.
+La page Documents montre aussi la **Bibliothèque** : des textes choisis ou écrits par Immersive dans la langue que vous apprenez, chacun avec son niveau (de A1 à C2) et son nombre de mots, pour qu'il y ait toujours quelque chose à lire. La page montre quelques titres ; **Tout parcourir** ouvre toute la Bibliothèque pour cette langue. Les textes de la Bibliothèque arrivent avec leurs aides à la lecture prêtes. Lire un document de la Bibliothèque fonctionne comme lire le vôtre ; si vous commencez à écrire dans l'un d'eux, vous obtenez votre propre copie et l'original reste tel quel.
 
 ## La liste des documents
 
