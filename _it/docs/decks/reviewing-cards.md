@@ -40,9 +40,7 @@ Ogni ripasso si conclude con uno di quattro giudizi:
 - **Bene**: richiamata con un certo sforzo.
 - **Facile**: senza sforzo; la carta si allontana il più possibile.
 
-In modalità Leggi scegli tu il giudizio. In Scrivi e Ascolta, Immersive confronta la tua risposta con quella attesa e propone un giudizio: il risultato mostra quanto ti sei avvicinato («92% di corrispondenza · valutato Bene»). In Parla confronta una trascrizione di ciò che hai detto e suggerisce il giudizio allo stesso modo. Scegli un giudizio diverso per correggerlo. Il ripasso viene salvato quando scegli un giudizio.
-
-Su un computer, **Mostra gli intervalli** sotto la carta aggiunge a ogni pulsante di giudizio fra quanto tempo la carta tornerà; **Nascondi gli intervalli** li toglie. Immersive ricorda la tua scelta. Sui telefoni gli intervalli non vengono mostrati.
+In modalità Leggi scegli tu il giudizio, e ogni pulsante di giudizio indica quando la carta torna («1 minuto», «1 giorno», «7 giorni»). In Scrivi e Ascolta, Immersive valuta da sé la tua risposta. Il risultato mostra **Corretto** o **Non corretto**; dopo una risposta sbagliata, quella giusta («Risposta · j'ai»); il motivo quando c'è, come **Accento mancante** o la spiegazione di una domanda; e quando torna la carta («Torna tra 1 minuto», «Torna domani»). Una forma verbale è giusta o sbagliata: giusta vale **Facile**, sbagliata vale **Ancora**. Le altre risposte sono valutate in base a quanto si avvicinano, quindi una piccola svista può contare come giusta, con la risposta mostrata sotto. In Parla, Immersive valuta una trascrizione di ciò che hai detto. **Avanti** salva il ripasso e passa oltre.
 
 ## Durante la sessione
 

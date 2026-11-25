@@ -40,9 +40,7 @@ Chaque révision se termine par l'une de quatre notes :
 - **Bien** : retrouvé avec un certain effort.
 - **Facile** : sans effort ; la carte s'éloigne le plus.
 
-En mode Lire, vous choisissez la note. En modes Écrire et Écouter, Immersive compare votre réponse à la réponse attendue et propose une note : le résultat montre à quel point vous étiez proche (« 92 % de correspondance · noté Bien »). En mode Parler, il compare une transcription de ce que vous avez dit et suggère la note de la même façon. Choisissez une autre note pour la remplacer. La révision est enregistrée quand vous choisissez une note.
-
-Sur un ordinateur, **Afficher les intervalles** sous la carte ajoute à chaque bouton de note le délai avant le retour de la carte ; **Masquer les intervalles** les retire. Immersive se souvient de votre choix. Les intervalles ne s'affichent pas sur téléphone.
+En mode Lire, vous choisissez la note, et chaque bouton de note indique quand il ramène la carte (« 1 minute », « 1 jour », « 7 jours »). En modes Écrire et Écouter, Immersive note votre réponse lui-même. Le résultat affiche **Correct** ou **Incorrect** ; après une réponse fausse, la bonne (« Réponse · j'ai ») ; la raison quand il y en a une, comme **Accent manquant** ou l'explication d'une question ; et quand la carte revient (« Revient dans 1 minute », « Revient demain »). Une forme verbale est juste ou fausse : juste vaut **Facile**, fausse vaut **Encore**. Les autres réponses sont notées selon leur proximité : une petite faute peut compter comme juste, et la réponse s'affiche alors en dessous. En mode Parler, Immersive note une transcription de ce que vous avez dit. **Suivant** enregistre la révision et passe à la suite.
 
 ## Pendant la session
 
