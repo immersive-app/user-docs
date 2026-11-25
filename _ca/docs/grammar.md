@@ -26,7 +26,7 @@ A mesura que practiques, cada nota, àrea i nivell rep una valoració de domini:
 ## Què conté una nota
 
 - Una explicació del punt, escrita per a estudiants, amb paraules i frases d'exemple que pots tocar per a la traducció i l'àudio.
-- La nota està escrita en la llengua que aprens. Quan existeix una traducció, **Llegir en** (la teva llengua) al final hi canvia.
+- La nota està escrita en la llengua que aprens. Quan té traducció a la teva, una nota d'A1 o A2 s'obre en la teva llengua, i una de B1 amunt en la llengua que aprens; el selector al costat de les etiquetes ho canvia, i la teva tria val després per a totes les notes.
 - Exercicis de diversos tipus, comprovats al moment.
 - On ets en la nota, i **Practica** per convertir-la en targetes de repàs, o per afegir-les a una de les teves baralles.
 
