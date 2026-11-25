@@ -58,7 +58,7 @@ The bookmark icon on a deck (in the list, or on the deck page) marks it. The boo
 
 ## Editing a deck
 
-Open a deck and choose the pencil to open its workspace. **Edit deck** opens the settings: rename it in either language, change its folder, or adjust its tags, then choose **Update Deck**.
+Open a deck and choose the pencil to open its workspace. **Edit deck** opens the settings: rename it in either language, change its folder, or adjust its tags. The workspace has one **Save** (in the app, at the top of the screen), which saves the settings together with the box on a vocabulary deck or the table on a verb deck. If either cannot be saved (a title left empty, for example), nothing is saved and your changes stay on the page.
 
 ### Vocabulary decks
 
@@ -90,7 +90,7 @@ Suspended cards are left out, and so are cards of other kinds, such as grammar c
 
 ## Deleting a deck
 
-Delete a deck with the trash button in its workspace. Deleting removes the deck, its cards, and their review progress; you are asked to confirm first.
+Delete a deck with **Delete deck**, at the foot of its workspace. Deleting removes the deck, its cards, and their review progress; you are asked to confirm first.
 
 ## Further reading
 

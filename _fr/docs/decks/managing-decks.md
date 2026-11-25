@@ -52,7 +52,7 @@ L'icône de signet sur un paquet (dans la liste ou sur la page du paquet) le met
 
 ## Modifier un paquet
 
-Ouvrez un paquet et choisissez le crayon pour ouvrir son espace de travail. **Modifier le paquet** ouvre les réglages : renommez-le dans l'une ou l'autre langue, changez son dossier ou ajustez ses étiquettes, puis choisissez **Mettre à jour le paquet**. La liste des cartes en dessous permet de modifier ou supprimer des cartes individuelles et d'ajouter des exemples ; elle affiche 25 cartes à la fois, et **Afficher plus** liste le reste.
+Ouvrez un paquet et choisissez le crayon pour ouvrir son espace de travail. **Modifier le paquet** ouvre les réglages : renommez-le dans l'une ou l'autre langue, changez son dossier ou ajustez ses étiquettes. L'espace de travail a un seul bouton **Sauvegarder** (dans l'application, en haut de l'écran), qui enregistre les réglages avec la zone de saisie d'un paquet de vocabulaire ou le tableau d'un paquet de verbes. La liste des cartes en dessous permet de modifier ou supprimer des cartes individuelles et d'ajouter des exemples ; elle affiche 25 cartes à la fois, et **Afficher plus** liste le reste.
 
 ## Exporter vers Anki
 
@@ -60,7 +60,7 @@ Ouvrez un paquet et choisissez le crayon pour ouvrir son espace de travail. **Mo
 
 ## Supprimer un paquet
 
-Supprimez un paquet avec le bouton corbeille de son espace de travail. La suppression retire le paquet, ses cartes et leur progression de révision ; une confirmation vous est demandée d'abord.
+Supprimez un paquet avec **Supprimer le paquet**, au bas de son espace de travail. La suppression retire le paquet, ses cartes et leur progression de révision ; une confirmation vous est demandée d'abord.
 
 ## Pour aller plus loin
 

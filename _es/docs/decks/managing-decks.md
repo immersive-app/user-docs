@@ -52,7 +52,7 @@ El icono del marcador en un mazo (en la lista o en la página del mazo) lo marca
 
 ## Editar un mazo
 
-Abre un mazo y elige el lápiz para abrir su espacio de trabajo. **Editar mazo** abre los ajustes: renómbralo en cualquiera de los dos idiomas, cambia su carpeta o ajusta sus etiquetas, y luego elige **Actualizar mazo**. La lista de tarjetas de debajo te permite editar o eliminar tarjetas individuales y añadir ejemplos; muestra 25 tarjetas cada vez, y **Mostrar más** lista el resto.
+Abre un mazo y elige el lápiz para abrir su espacio de trabajo. **Editar mazo** abre los ajustes: renómbralo en cualquiera de los dos idiomas, cambia su carpeta o ajusta sus etiquetas. El espacio de trabajo tiene un solo **Guardar** (en la app, arriba de la pantalla), que guarda los ajustes junto con el cuadro de un mazo de vocabulario o la tabla de un mazo de verbos. La lista de tarjetas de debajo te permite editar o eliminar tarjetas individuales y añadir ejemplos; muestra 25 tarjetas cada vez, y **Mostrar más** lista el resto.
 
 ## Exportar a Anki
 
@@ -60,7 +60,7 @@ Abre un mazo y elige el lápiz para abrir su espacio de trabajo. **Editar mazo**
 
 ## Eliminar un mazo
 
-Elimina un mazo con el botón de la papelera en su espacio de trabajo. Eliminarlo borra el mazo, sus tarjetas y su progreso de repaso; se te pide confirmación primero.
+Elimina un mazo con **Eliminar mazo**, al pie de su espacio de trabajo. Eliminarlo borra el mazo, sus tarjetas y su progreso de repaso; se te pide confirmación primero.
 
 ## Más lectura
 

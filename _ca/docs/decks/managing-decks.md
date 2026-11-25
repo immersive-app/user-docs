@@ -52,7 +52,7 @@ La icona del marcador d'una baralla (a la llista o a la pàgina de la baralla) l
 
 ## Editar una baralla
 
-Obre una baralla i tria el llapis per obrir-ne l'espai de treball. **Edita la baralla** obre la configuració: canvia-li el nom en qualsevol dels dos idiomes, canvia-la de carpeta o ajusta'n les etiquetes, i després tria **Actualitza la baralla**. La llista de targetes de sota et permet editar o eliminar targetes individuals i afegir-hi exemples; mostra 25 targetes a la vegada, i **Mostra'n més** llista la resta.
+Obre una baralla i tria el llapis per obrir-ne l'espai de treball. **Edita la baralla** obre la configuració: canvia-li el nom en qualsevol dels dos idiomes, canvia-la de carpeta o ajusta'n les etiquetes. L'espai de treball té un sol **Desar** (a l'app, a dalt de la pantalla), que desa la configuració juntament amb el quadre d'una baralla de vocabulari o la taula d'una baralla de verbs. La llista de targetes de sota et permet editar o eliminar targetes individuals i afegir-hi exemples; mostra 25 targetes a la vegada, i **Mostra'n més** llista la resta.
 
 ## Exportar a Anki
 
@@ -60,7 +60,7 @@ Obre una baralla i tria el llapis per obrir-ne l'espai de treball. **Edita la ba
 
 ## Eliminar una baralla
 
-Elimina una baralla amb el botó de la paperera del seu espai de treball. Eliminar-la esborra la baralla, les seves targetes i el seu progrés de repàs; primer se't demana confirmació.
+Elimina una baralla amb **Elimina la baralla**, al peu del seu espai de treball. Eliminar-la esborra la baralla, les seves targetes i el seu progrés de repàs; primer se't demana confirmació.
 
 ## Per llegir més
 
