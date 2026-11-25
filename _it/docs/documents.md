@@ -35,7 +35,7 @@ Vedi [Scrivere documenti](documents/writing-documents.md).
 
 ## La Biblioteca
 
-La pagina Documenti mostra anche la **Biblioteca**: testi scelti o scritti da Immersive nella lingua che stai imparando, ciascuno con un livello (da A1 a C2) e un conteggio di parole, così c'è sempre qualcosa da leggere. La pagina mostra alcuni titoli; **Sfoglia tutto** apre l'intera Biblioteca per quella lingua. I testi della Biblioteca arrivano con gli aiuti alla lettura già pronti. Leggere un documento della Biblioteca funziona come leggerne uno tuo; se inizi a scrivere in uno, ottieni la tua copia e l'originale resta com'è.
+La pagina Documenti mostra anche la **Biblioteca**: testi scelti o scritti da Immersive nella lingua che stai imparando, ciascuno con un livello (da A1 a C2) e un conteggio di parole, così c'è sempre qualcosa da leggere. La Biblioteca comincia dai testi del tuo livello, poi quelli più facili e quelli più difficili, i più brevi per primi a ogni livello; se non ne ha nessuno al tuo livello, comincia dai più facili che ha. La pagina mostra alcuni titoli; **Sfoglia tutto** apre l'intera Biblioteca per quella lingua, al livello scelto con **Filtri**. Lì, **Filtri** la restringe per livello, e la ricerca trova un testo dal suo titolo o dal suo titolo nella tua lingua. Il livello scelto resta, nella pagina Documenti e nella Biblioteca, finché non scegli **Tutti**. I testi della Biblioteca arrivano con gli aiuti alla lettura già pronti. Leggere un documento della Biblioteca funziona come leggerne uno tuo; se inizi a scrivere in uno, ottieni la tua copia e l'originale resta com'è.
 
 ## L'elenco dei documenti
 
