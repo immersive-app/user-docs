@@ -24,12 +24,11 @@ Pour un livre entier, lu par chapitres, utilisez plutôt **Ajouter un livre** :
 
 Ouvrez un document pour le lire. Sous le titre, vous voyez sa traduction dans votre langue.
 
-- **Toucher** un mot ou une phrase : une petite carte montre sa traduction, avec un bouton **haut-parleur** et **Plus**.
-- **Toucher à nouveau** pour l'écouter. Toucher ailleurs ferme la carte.
+- **Toucher** un mot : une petite carte montre sa traduction, avec un bouton **haut-parleur** et **Plus**.
+- **La phrase**, au pied de la carte, montre la traduction de la phrase où se trouve le mot, avec son propre haut-parleur et **Plus**.
+- **Toucher à nouveau** pour écouter le mot. Toucher ailleurs ferme la carte.
 - La barre en bas garde le **Dernier mot** que vous avez consulté, avec son sens et, s'il y en a un, un sosie dans une langue que vous connaissez.
 - Chaque mot et chaque phrase que vous consultez sont enregistrés dans votre [Vocabulaire](../vocabulary.md).
-
-Le réglage **Affichage** (dans les réglages de lecture, plus bas) détermine ce qu'un toucher sélectionne : **Phrases** (par défaut) ou **Mots**.
 
 ## Le panneau Plus
 
@@ -47,7 +46,7 @@ Le réglage **Affichage** (dans les réglages de lecture, plus bas) détermine c
 
 Certains mots et certaines phrases portent un discret soulignement : la couche d'aides, adaptée aux langues que vous connaissez et à votre niveau.
 
-Dans l'affichage **Mots** :
+Sur un mot :
 
 - **Devinable par le contexte** : essayez le mot avant de le révéler. Le premier toucher vous encourage ; le second, ou **Révéler**, montre le sosie dans une langue que vous connaissez ou le sens en contexte.
 - **Écoutez d'abord** : le son est plus clair que l'orthographe.
@@ -55,10 +54,10 @@ Dans l'affichage **Mots** :
 - **Déjà vu** : relie un mot à sa première apparition dans le texte.
 - **Peut être sauté** : le sens global n'en dépend pas.
 
-Dans l'affichage **Phrases** :
+Sur une phrase, dont les aides s'affichent sous **La phrase** dans la carte de chacun de ses mots :
 
 - **Peut être sauté** sur une phrase entière.
-- Un **soulignement pointillé** marque une phrase contenant une construction traitée par la [grammaire de la lecture](../grammar/grammar-of-reading.md). Touchez-la pour la comparaison : si la langue que vous apprenez diffère ici des vôtres ou fonctionne de la même façon, avec un lien vers la comparaison complète. Cette page vous ramène à la même phrase.
+- Un **soulignement pointillé** marque une phrase contenant une construction traitée par la [grammaire de la lecture](../grammar/grammar-of-reading.md). Touchez un de ses mots, puis **La phrase**, pour la comparaison : si la langue que vous apprenez diffère ici des vôtres ou fonctionne de la même façon, avec un lien vers la comparaison complète. Cette page vous ramène à la même phrase.
 
 **Aides**, dans les réglages de lecture, bascule entre **Complète** et **Légère** ; Légère ne garde que les aides les plus utiles. Les aides s'estompent à mesure que votre niveau monte (les débutants en voient beaucoup, les lecteurs avancés peu), et une langue que vous avez marquée comme maternelle n'en a aucune. Les aides sont préparées en arrière-plan, alors un document que vous venez d'ajouter peut les afficher un peu plus tard.
 
@@ -70,7 +69,6 @@ Quand vous révélez un mot devinable, Immersive crée une carte de révision à
 
 Deux boutons ronds se trouvent en bas à droite du lecteur (empilés sur un téléphone) : le bouton de chat ouvre le [Coach](../coach.md) avec le document sous les yeux, et le bouton à curseurs ouvre les réglages de lecture :
 
-- **Affichage** : **Mots** ou **Phrases**.
 - **Taille du texte** : le petit A et le grand A rendent le texte de lecture plus petit ou plus grand, en cinq paliers. Les réglages et les cartes des mots gardent leur taille.
 - **Interligne** (1, 1,5 ou 2) et **Alinéa** (non ou oui).
 - **Thème** (**Classique**, **Papier**, **Calme** ou **Solarized**) et **Apparence** (**Clair**, **Sombre** ou **Système**), le même choix que dans [Profil → Compte](../profile.md#compte).

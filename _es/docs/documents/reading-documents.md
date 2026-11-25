@@ -24,12 +24,11 @@ Para un libro entero, leído por capítulos, usa **Añadir un libro**: ver [Libr
 
 Abre un documento para leerlo. Bajo el título ves su traducción en tu idioma.
 
-- **Toca** una palabra o frase: una pequeña tarjeta muestra su traducción, con un botón de **altavoz** y **Más**.
-- **Toca de nuevo** para oírla en voz alta. Tocar en otro sitio cierra la tarjeta.
+- **Toca** una palabra: una pequeña tarjeta muestra su traducción, con un botón de **altavoz** y **Más**.
+- **La frase**, al pie de la tarjeta, muestra la traducción de la frase en la que está la palabra, con su propio altavoz y **Más**.
+- **Toca de nuevo** para oír la palabra en voz alta. Tocar en otro sitio cierra la tarjeta.
 - La barra de la parte inferior conserva la **última palabra** que consultaste, con su significado y, cuando lo hay, un parecido en un idioma que conoces.
 - Cada palabra y frase que consultas se registra en tu [Vocabulario](../vocabulary.md).
-
-El control **Vista** (en los controles de lectura, más abajo) decide qué selecciona un toque: **Frases** (la opción por defecto) o **Palabras**.
 
 ## El panel Más
 
@@ -47,7 +46,7 @@ El control **Vista** (en los controles de lectura, más abajo) decide qué selec
 
 Algunas palabras y frases llevan un sutil subrayado: la capa de ayudas, adaptada a los idiomas que conoces y a tu nivel.
 
-En la vista **Palabras**:
+En una palabra:
 
 - **Se puede deducir del contexto**: intenta la palabra antes de revelarla. El primer toque te da un empujón; el segundo, o **Revelar**, muestra el parecido en un idioma que conoces o el significado en contexto.
 - **Escucha primero**: el sonido es más claro que la ortografía.
@@ -55,10 +54,10 @@ En la vista **Palabras**:
 - **Visto antes**: enlaza una palabra con el lugar donde apareció por primera vez en el texto.
 - **Se puede saltar**: el sentido general se mantiene sin ella.
 
-En la vista **Frases**:
+En una frase, cuyas ayudas se muestran bajo **La frase** en la tarjeta de cualquiera de sus palabras:
 
 - **Se puede saltar** en una frase entera.
-- Un **subrayado de puntos** marca una frase con una construcción que recoge la [gramática de la lectura](../grammar/grammar-of-reading.md). Tócala para ver la comparación: si el idioma que aprendes difiere aquí de los tuyos o funciona igual, con un enlace a la comparación completa. Esa página te devuelve a la misma frase.
+- Un **subrayado de puntos** marca una frase con una construcción que recoge la [gramática de la lectura](../grammar/grammar-of-reading.md). Toca una de sus palabras y luego **La frase** para ver la comparación: si el idioma que aprendes difiere aquí de los tuyos o funciona igual, con un enlace a la comparación completa. Esa página te devuelve a la misma frase.
 
 **Ayudas**, en los controles de lectura, alterna entre **Completa** y **Ligera**; Ligera conserva solo las ayudas más importantes. Las ayudas se reducen a medida que sube tu nivel (los principiantes ven muchas, los lectores avanzados pocas), y un idioma que marcaste como nativo no tiene ninguna. Las ayudas se preparan en segundo plano, así que un documento que acabas de añadir puede mostrarlas un poco más tarde.
 
@@ -70,7 +69,6 @@ Cuando revelas una palabra deducible, Immersive crea una tarjeta de repaso a par
 
 Dos botones redondos están en la parte inferior derecha del lector (apilados en un teléfono): el botón de chat abre el [Coach](../coach.md) con el documento a la vista, y el botón de los controles deslizantes abre los controles de lectura:
 
-- **Vista**: **Palabras** o **Frases**.
 - **Tamaño del texto**: la A pequeña y la A grande hacen el texto de lectura más pequeño o más grande, en cinco pasos. Los controles y las tarjetas de las palabras mantienen su tamaño.
 - **Interlineado** (1, 1.5 o 2) y **Sangría** (desactivada o activada).
 - **Tema** (**Clásico**, **Papel**, **Tranquilo** o **Solarized**) y **Apariencia** (**Claro**, **Oscuro** o **Sistema**), la misma opción que en [Perfil → Cuenta](../profile.md#cuenta).
