@@ -96,7 +96,7 @@ Al final de un texto, **Comprueba tu comprensión** hace unas preguntas sobre é
 
 ## Edición e historial
 
-Cambia a **Escribir** en la parte superior del lector (en la app, el lápiz de la barra de arriba de la pantalla) para editar el texto; desde ahí también puedes eliminar un documento. El **Historial** del documento guarda la versión anterior antes de cada edición, importación, corrección aplicada o restauración. Ver [Escribir documentos](writing-documents.md#historial).
+Cambia a **Escribir** en la parte superior del lector (en la app, el lápiz de la barra de arriba de la pantalla) para editar el texto; desde ahí también puedes eliminar un documento. Primero se te pregunta, con el nombre del documento: su texto desaparece, con su historial, sus correcciones, sus ayudas de lectura y su marcador, y las tarjetas, palabras guardadas y repasos que hiciste a partir de él se conservan. El **Historial** del documento guarda la versión anterior antes de cada edición, importación, corrección aplicada o restauración. Ver [Escribir documentos](writing-documents.md#historial).
 
 ## Más lectura
 

@@ -96,7 +96,7 @@ Al final d'un text, **Comprova la teva comprensió** fa unes quantes preguntes s
 
 ## Edició i historial
 
-Canvia a **Escriu** a dalt del lector (a l'app, el llapis de la barra de dalt de la pantalla) per editar el text; també hi pots eliminar un document. L'**Historial** del document conserva la versió anterior abans de cada edició, importació, correcció aplicada o restauració. Vegeu [Escriure documents](writing-documents.md#historial).
+Canvia a **Escriu** a dalt del lector (a l'app, el llapis de la barra de dalt de la pantalla) per editar el text; també hi pots eliminar un document. Primer se't pregunta, amb el nom del document: el text desapareix, amb el seu historial, les correccions, les ajudes de lectura i el marcador, i les targetes, paraules desades i repassos que n'has fet es conserven. L'**Historial** del document conserva la versió anterior abans de cada edició, importació, correcció aplicada o restauració. Vegeu [Escriure documents](writing-documents.md#historial).
 
 ## Per llegir més
 

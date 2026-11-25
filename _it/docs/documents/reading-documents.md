@@ -96,7 +96,7 @@ Alla fine di un testo, **Verifica la tua comprensione** fa alcune domande sul te
 
 ## Modifica e cronologia
 
-Passa a **Scrivi** in cima al lettore (nell'app, la matita nella barra in cima allo schermo) per modificare il testo; da lì puoi anche eliminare un documento. La **Cronologia** del documento conserva la versione precedente prima di ogni modifica, importazione, correzione applicata o ripristino. Vedi [Scrivere documenti](writing-documents.md#cronologia).
+Passa a **Scrivi** in cima al lettore (nell'app, la matita nella barra in cima allo schermo) per modificare il testo; da lì puoi anche eliminare un documento. Prima ti viene chiesto, con il nome del documento: il testo sparisce, con la cronologia, le correzioni, gli aiuti alla lettura e il segnalibro, mentre le carte, le parole salvate e i ripassi che ne hai ricavato restano. La **Cronologia** del documento conserva la versione precedente prima di ogni modifica, importazione, correzione applicata o ripristino. Vedi [Scrivere documenti](writing-documents.md#cronologia).
 
 ## Per approfondire
 

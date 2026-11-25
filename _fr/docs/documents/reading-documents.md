@@ -96,7 +96,7 @@ L'icône de signet en haut du lecteur (dans l'app, dans la barre en haut de l'é
 
 ## Modification et historique
 
-Passez à **Écrire** en haut du lecteur (dans l'app, le crayon de la barre en haut de l'écran) pour modifier le texte ; c'est aussi là que vous supprimez un document. L'**Historique** du document garde la version précédente avant chaque modification, importation, correction appliquée ou restauration. Voir [Écrire des documents](writing-documents.md#historique).
+Passez à **Écrire** en haut du lecteur (dans l'app, le crayon de la barre en haut de l'écran) pour modifier le texte ; c'est aussi là que vous supprimez un document. La question vient d'abord, avec le nom du document : son texte disparaît, avec son historique, ses corrections, ses aides de lecture et son signet, et les cartes, les mots enregistrés et les révisions qui en viennent sont gardés. L'**Historique** du document garde la version précédente avant chaque modification, importation, correction appliquée ou restauration. Voir [Écrire des documents](writing-documents.md#historique).
 
 ## Pour aller plus loin
 

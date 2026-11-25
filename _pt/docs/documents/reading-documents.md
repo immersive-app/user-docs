@@ -96,7 +96,7 @@ No fim de um texto, **Verifique a sua compreensão** faz algumas perguntas sobre
 
 ## Edição e histórico
 
-Mude para **Escrever** no topo do leitor (na app, o lápis na barra no topo do ecrã) para editar o texto; também pode eliminar um documento a partir daí. O **Histórico** do documento guarda a versão anterior antes de cada edição, importação, correção aplicada ou restauro. Ver [Escrever documentos](writing-documents.md#histórico).
+Mude para **Escrever** no topo do leitor (na app, o lápis na barra no topo do ecrã) para editar o texto; também pode eliminar um documento a partir daí. Primeiro é-lhe perguntado, com o nome do documento: o texto desaparece, com o histórico, as correções, as ajudas de leitura e o marcador, e os cartões, palavras guardadas e revisões que fez a partir dele ficam. O **Histórico** do documento guarda a versão anterior antes de cada edição, importação, correção aplicada ou restauro. Ver [Escrever documentos](writing-documents.md#histórico).
 
 ## Para saber mais
 
