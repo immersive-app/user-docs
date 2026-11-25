@@ -15,7 +15,7 @@ Os livros aparecem primeiro na página **Documentos**, acima dos seus documentos
 ## Adicionar um livro
 
 1. Em **Documentos**, escolha **Adicionar um livro** na secção **Livros**. Na web, o botão **+** também o oferece.
-2. **Carregar um ficheiro** (**Escolha um ficheiro**, ou largue um na caixa: EPUB, texto, Markdown ou PDF, até 25 MB), ou **Colar uma ligação do Project Gutenberg**. Use um ou outro, não os dois.
+2. **Carregar um ficheiro** (**Escolha um ficheiro**, ou num computador largue um na caixa: EPUB, texto, Markdown ou PDF, até 25 MB), ou **Colar uma ligação do Project Gutenberg**. Use um ou outro, não os dois.
 3. **Título** e **Autor** são opcionais. Em branco, vêm do ficheiro.
 4. **Adicionar livro**. A página do livro abre-se.
 
@@ -67,10 +67,10 @@ Se um livro foi cortado nos sítios errados, escolha **Editar** ao lado de **Ín
 
 - **Mudar o nome**: escreva um novo título no próprio lugar. Enter, ou sair do campo, guarda-o; Escape repõe o antigo.
 - **Mover para cima** e **Mover para baixo** mudam a ordem.
-- **Juntar a «…»** junta um capítulo ao anterior. Todas as palavras ficam, e o título do capítulo juntado fica no texto onde começava.
+- **Juntar a «…»** junta um capítulo ao anterior, depois de confirmar. Todas as palavras ficam, e o título do capítulo juntado passa a ser um cabeçalho no texto onde começava. O histórico, as ajudas de leitura e o marcador do capítulo juntado desaparecem; os cartões, palavras guardadas e revisões que fez a partir dele ficam.
 - **Dividir…** corta um capítulo em dois. Escolha onde começa o novo capítulo, num título ou num parágrafo, depois **Dividir aqui**. Todas as palavras ficam: num título, o título dá nome ao novo capítulo, e as palavras dos dois capítulos somam as do que dividiu.
-- **Retirar — apaga o texto** apaga o capítulo e o seu texto: use-o para as páginas iniciais e finais que não vai ler. Um livro mantém pelo menos um capítulo.
-- **Os capítulos começam em** mostra onde o livro está cortado agora, quando podia ser cortado de outra forma. Escolha outro sítio (**Título 1** a **Título 3**, ou para um ficheiro de texto **Linhas de capítulo**, **Números** ou **Maiúsculas**), depois **Dividir de novo**: todo o livro é cortado outra vez a partir do texto tal como foi importado. Os capítulos com nome alterado e a sua posição de leitura mantêm-se onde o texto ainda corresponde.
+- **Retirar — apaga o texto** apaga o capítulo e o seu texto, com o histórico, as ajudas de leitura e o marcador, depois de confirmar: use-o para as páginas iniciais e finais que não vai ler. Os cartões, palavras guardadas e revisões que fez a partir dele ficam. Um livro mantém pelo menos um capítulo.
+- **Os capítulos começam em** mostra onde o livro está cortado agora, quando podia ser cortado de outra forma. Escolha outro sítio (**Título 1** a **Título 3**, ou para um ficheiro de texto **Linhas de capítulo**, **Números** ou **Maiúsculas**), depois **Dividir de novo**: todo o livro é cortado outra vez a partir do texto tal como foi importado. Os capítulos com nome alterado e a sua posição de leitura mantêm-se onde o texto ainda corresponde. O nome que deu a um capítulo fica mesmo quando o novo corte não tem um capítulo próprio para ele: a linha no topo di-lo, e o nome volta quando cortar o livro onde estava.
 
 O seu lugar acompanha a sua frase quando os capítulos são juntados ou divididos. Se retirar o capítulo em que está, o seu lugar passa para o seguinte.
 

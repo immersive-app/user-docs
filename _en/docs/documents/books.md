@@ -14,7 +14,7 @@ Books are listed first on the **Documents** page, above your documents and the *
 ## Adding a book
 
 1. On **Documents**, choose **Add a book** in the **Books** section. On the web, the **+** button offers it too.
-2. **Upload a file** (**Choose a file**, or drop one on the box: EPUB, text, Markdown, or PDF, up to 25 MB), or **Paste a Project Gutenberg link**. Use one or the other, not both.
+2. **Upload a file** (**Choose a file**, or on a computer drop one on the box: EPUB, text, Markdown, or PDF, up to 25 MB), or **Paste a Project Gutenberg link**. Use one or the other, not both.
 3. **Title** and **Author** are optional. Left blank, they come from the file.
 4. **Add book**. The book's page opens.
 
@@ -66,10 +66,10 @@ If a book was cut in the wrong places, choose **Edit** beside **Contents** on th
 
 - **Rename**: type a new title in place. Enter, or leaving the field, saves it; Escape puts the old one back.
 - **Move up** and **Move down** change the order.
-- **Merge into “…”** joins a chapter to the one before it. Every word is kept, and the merged chapter's title stays in the text where it started.
+- **Merge into “…”** joins a chapter to the one before it, once you confirm. Every word is kept, and the merged chapter's title becomes a heading in the text where it started. The merged chapter's history, reading aids and bookmark go; the cards, saved words and reviews you made from it are kept.
 - **Split…** cuts a chapter in two. Choose where the new chapter starts, at a heading or a paragraph, then **Split here**. Every word is kept: at a heading, the heading names the new chapter, and the words of the two chapters add up to the one you split.
-- **Remove — deletes the text** deletes the chapter and its text: use it for front and back matter you will not read. A book keeps at least one chapter.
-- **Chapters are split at** shows where the book is cut now, when it could be cut another way. Pick another place (**Heading 1** to **Heading 3**, or for a text file **Chapter lines**, **Numerals**, or **Capitals**), then **Split again**: the whole book is cut again from the text as it was imported. Renamed chapters and your reading position are kept where the text still matches.
+- **Remove — deletes the text** deletes the chapter and its text, with its history, reading aids and bookmark, once you confirm: use it for front and back matter you will not read. The cards, saved words and reviews you made from it are kept. A book keeps at least one chapter.
+- **Chapters are split at** shows where the book is cut now, when it could be cut another way. Pick another place (**Heading 1** to **Heading 3**, or for a text file **Chapter lines**, **Numerals**, or **Capitals**), then **Split again**: the whole book is cut again from the text as it was imported. Renamed chapters and your reading position are kept where the text still matches. A name you gave a chapter is kept even when the new cut has no chapter of its own for it: the line at the top says so, and the name comes back when you cut the book where it was.
 
 Your place follows its sentence when chapters are merged or split. If you remove the chapter you are in, your place moves to the next one.
 
