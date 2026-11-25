@@ -76,7 +76,7 @@ Dois botões redondos ficam no canto inferior direito do leitor (empilhados num 
 - **Tema** (**Clássico**, **Papel**, **Calmo** ou **Solarized**) e **Aparência** (**Claro**, **Escuro** ou **Sistema**), a mesma escolha que em [Perfil → Conta](../profile.md#conta).
 - **Voz de leitura**: **Voz automática** ou uma voz com nome, mostrada quando há vozes disponíveis para a língua.
 - **Ajudas**: **Completa** ou **Leve**.
-- **Ler em voz alta**, e um botão para imprimir.
+- **Ler em voz alta**, e um botão para imprimir (na aplicação abre as opções de impressão do telemóvel).
 - O nível do documento, a contagem de palavras e o tempo de leitura.
 
 O Immersive lembra-se do tamanho do texto, da entrelinha, do recuo, da densidade das ajudas, do tema e da voz (a voz por língua). Toque fora das definições, ou prima Esc, para os fechar.

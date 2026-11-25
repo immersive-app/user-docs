@@ -76,7 +76,7 @@ Dos botons rodons són a baix a la dreta del lector (apilats en un mòbil): el b
 - **Tema** (**Clàssic**, **Paper**, **Tranquil** o **Solarized**) i **Aparença** (**Clar**, **Fosc** o **Sistema**), la mateixa opció que a [Perfil → Compte](../profile.md#compte).
 - **Veu de lectura**: **Veu automàtica** o una veu amb nom, que es mostra quan hi ha veus disponibles per a la llengua.
 - **Ajudes**: **Completa** o **Lleugera**.
-- **Llegeix en veu alta**, i un botó per imprimir.
+- **Llegeix en veu alta**, i un botó per imprimir (a l'aplicació obre les opcions d'impressió del mòbil).
 - El nivell del document, el recompte de paraules i el temps de lectura.
 
 Immersive recorda la mida del text, l'interlineat, el sagnat, la densitat d'ajudes, el tema i la veu (la veu per a cada llengua). Toca fora dels controls, o prem Esc, per tancar-los.

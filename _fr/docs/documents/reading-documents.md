@@ -76,7 +76,7 @@ Deux boutons ronds se trouvent en bas à droite du lecteur (empilés sur un tél
 - **Thème** (**Classique**, **Papier**, **Calme** ou **Solarized**) et **Apparence** (**Clair**, **Sombre** ou **Système**), le même choix que dans [Profil → Compte](../profile.md#compte).
 - **Voix de lecture** : **Voix automatique** ou une voix nommée, affichée quand des voix sont disponibles pour la langue.
 - **Aides** : **Complète** ou **Légère**.
-- **Lecture à voix haute**, et un bouton d'impression.
+- **Lecture à voix haute**, et un bouton d'impression (dans l'application, il ouvre les options d'impression du téléphone).
 - Le niveau du document, son nombre de mots et son temps de lecture.
 
 Immersive se souvient de votre taille de texte, de votre interligne, de votre alinéa, de la densité des aides, de votre thème et de votre voix (la voix par langue). Touchez en dehors des réglages, ou appuyez sur Échap, pour les fermer.

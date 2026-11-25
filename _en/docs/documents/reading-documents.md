@@ -75,7 +75,7 @@ Two round buttons sit at the bottom right of the reader (stacked on a phone): th
 - **Theme** (**Classic**, **Paper**, **Quiet**, or **Solarized**) and **Appearance** (**Light**, **Dark**, or **System**), the same choice as in [Profile → Account](../profile.md#account).
 - **Reading voice**: **Automatic voice** or a named voice, shown when voices are available for the language.
 - **Aids**: **Full** or **Light**.
-- **Read to me**, and a print button.
+- **Read to me**, and a print button (in the app it opens your phone's print options).
 - The document's level, word count, and reading time.
 
 Immersive remembers your text size, spacing, indent, aid density, theme, and voice (the voice per language). Tap outside the controls, or press Escape, to close them.

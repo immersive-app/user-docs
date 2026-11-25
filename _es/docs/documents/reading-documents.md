@@ -76,7 +76,7 @@ Dos botones redondos están en la parte inferior derecha del lector (apilados en
 - **Tema** (**Clásico**, **Papel**, **Tranquilo** o **Solarized**) y **Apariencia** (**Claro**, **Oscuro** o **Sistema**), la misma opción que en [Perfil → Cuenta](../profile.md#cuenta).
 - **Voz de lectura**: **Voz automática** o una voz con nombre, que se muestra cuando hay voces disponibles para el idioma.
 - **Ayudas**: **Completa** o **Ligera**.
-- **Leer en voz alta**, y un botón para imprimir.
+- **Leer en voz alta**, y un botón para imprimir (en la aplicación abre las opciones de impresión del teléfono).
 - El nivel del documento, su recuento de palabras y su tiempo de lectura.
 
 Immersive recuerda tu tamaño de texto, tu interlineado, tu sangría, la densidad de ayudas, tu tema y la voz (la voz, por idioma). Toca fuera de los controles, o pulsa Esc, para cerrarlos.

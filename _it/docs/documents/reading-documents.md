@@ -76,7 +76,7 @@ Due pulsanti rotondi stanno in basso a destra nel lettore (impilati su un telefo
 - **Tema** (**Classico**, **Carta**, **Tranquillo** o **Solarized**) e **Aspetto** (**Chiaro**, **Scuro** o **Sistema**), la stessa scelta di [Profilo → Account](../profile.md#account).
 - **Voce di lettura**: **Voce automatica** o una voce con un nome, mostrata quando per la lingua sono disponibili delle voci.
 - **Aiuti**: **Completa** o **Leggera**.
-- **Leggi ad alta voce**, e un pulsante per stampare.
+- **Leggi ad alta voce**, e un pulsante per stampare (nell'app apre le opzioni di stampa del telefono).
 - Il livello del documento, il conteggio di parole e il tempo di lettura.
 
 Immersive ricorda dimensione del testo, interlinea, rientro, densità degli aiuti, tema e voce (la voce per ogni lingua). Tocca fuori dalle impostazioni, o premi Esc, per chiuderle.
