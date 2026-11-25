@@ -38,7 +38,7 @@ A card in a verb deck is one verb in one tense.
 - **Write**, **Listen**, and **Speak** ask for one person at a time, in that person's example sentence. In Write and Listen the form is left blank, and Listen plays the sentence and hides its translation. In Speak you read the whole sentence aloud. The line under the sentence names the verb, the person, and the tense ("avoir · je · Indicatif · Futur simple"); in Listen it leaves out the person. Tap the line, or press P, to move to the next person without answering.
 - In **Write** and **Listen**, **Tap** offers whole forms to choose from; one tap answers. **Type** takes the form with or without its pronoun ("j'aurai" or "aurai"); Enter sends it.
 
-A written form is right or wrong. The result shows the whole sentence with the form marked, your answer, and **Correct**, **Incorrect**, or **Missing accent**. A missing or wrong accent counts as wrong. Capitals, spaces, and the kind of apostrophe make no difference.
+A written form is right or wrong. The result shows the whole sentence with the form marked, your answer, **Correct** or **Incorrect**, the right form after a wrong one, and when the card comes back. A missing or wrong accent counts as wrong, and the result says **Missing accent**. Capitals, spaces, and the kind of apostrophe make no difference.
 
 Immersive picks the person each time: one you have not yet answered right comes first. One schedule covers the whole card, whichever person you were asked.
 
@@ -51,9 +51,7 @@ Every review ends in one of four grades:
 - **Good**: recalled with some effort.
 - **Easy**: effortless; the card moves furthest out.
 
-In Read mode you choose the grade. In Write and Listen, Immersive compares your answer with the expected one and grades it: the result shows how close you were ("92% match · graded Good"). A verb form is graded right or wrong instead: right is **Easy**, wrong is **Again**. In Speak, Immersive grades a transcript of what you said the same way. **Next** saves the review and moves on.
-
-On a computer, **Show intervals** under the card adds to each grade button how long until the card returns; **Hide intervals** removes them. Immersive remembers your choice. Intervals are not shown on phones.
+In Read mode you choose the grade, and each grade button shows when it brings the card back ("1 minute", "1 day", "7 days"). In Write and Listen, Immersive grades your answer itself. The result shows **Correct** or **Incorrect**; after a wrong answer, the right one ("Answer · j'ai"); the reason where there is one, such as **Missing accent** or a question's explanation; and when the card comes back ("Back in 1 minute", "Back tomorrow"). A verb form is right or wrong: right is **Easy**, wrong is **Again**. Other answers are graded by how close they are, so a small slip can still be right, with the answer shown under it. In Speak, Immersive grades a transcript of what you said. **Next** saves the review and moves on.
 
 ## Skip
 
