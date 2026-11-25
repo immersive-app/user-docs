@@ -14,7 +14,7 @@ Uma sessão de revisão mostra-lhe os cartões pendentes, um de cada vez, em ecr
 
 Abra um dos seus baralhos. Se houver cartões à espera, a página do baralho mostra um grande botão, **Começar a revisão** com o número de cartões, e uma legenda que divide esse número entre cartões pendentes e novos. Prima-o, ou prima Espaço.
 
-Se nada estiver pendente, o baralho diz-lhe quando chega o próximo cartão. Quando restam cartões novos, **Estudar antecipadamente** introdu-los mais cedo.
+Se nada estiver pendente, o baralho diz-lhe quando chega o próximo cartão. Quando os cartões novos do dia estão feitos, diz-lhe quantos faltam, e **Estudar o baralho** percorre todo o baralho sem limite diário.
 
 Um baralho com cartões pendentes também mostra a sua contagem de **Pendentes** como ligação na página Baralhos, que começa a revisão diretamente.
 
@@ -57,7 +57,7 @@ Quando a fila termina, vê **Sessão concluída**: os cartões revistos, quantos
 
 ## Limites diários
 
-Cada baralho introduz no máximo 20 cartões novos por dia. Não há limite para as revisões de cartões que já começou. Quando o baralho atinge o limite de cartões novos do dia, a sessão di-lo e continua com os cartões pendentes; os restantes cartões novos esperam por amanhã. O limite não pode ser alterado.
+Cada baralho introduz 20 cartões novos por dia. **Definições**, sob **Começar a revisão** no baralho, muda o número para 5, 10, 20, 40 ou 80. Não há limite para as revisões de cartões que já começou, e vêm antes dos cartões novos. Um cartão que errar volta no mesmo dia. Quando os cartões novos do dia estão feitos, a sessão continua com os cartões pendentes e termina a dizer quantos cartões novos faltam, com **Estudar o baralho** e **Definições**.
 
 ## Histórico de revisões
 

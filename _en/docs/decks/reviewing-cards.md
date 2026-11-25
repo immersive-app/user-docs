@@ -13,7 +13,7 @@ A review session shows you the cards that are due, one at a time, full screen. E
 
 Open one of your decks. If cards are waiting, the deck page shows one big button, **Start review** with the number of cards, and a caption splitting that number into due and new cards. Press it, or press Space.
 
-If nothing is due, the deck tells you when the next card comes due. When new cards remain, **Study ahead** introduces them early.
+If nothing is due, the deck tells you when the next card comes due. Once the day's new cards are done, it says how many are left, and **Study deck** goes through the whole deck with no daily limit.
 
 A deck with due cards also shows its **Due** count as a link on the Decks page, which starts the review directly.
 
@@ -57,7 +57,7 @@ On a computer, **Show intervals** under the card adds to each grade button how l
 
 ## Skip
 
-**Skip** sits beside the answer in Write, Listen, and Speak, and under the card in a Pronunciation round. A skipped card is not graded and its schedule does not change: it leaves this session and comes back in the next. Read has no Skip. On a computer, the S key skips.
+**Skip** sits beside the answer in Write, Listen, and Speak, and under the card in a Pronunciation round. A skipped card is not graded and its schedule does not change: it leaves this session and comes back when you next press **Start review**. Read has no Skip. On a computer, the S key skips.
 
 ## The card menu
 
@@ -89,7 +89,7 @@ When the queue is finished you see **Session complete**: the cards reviewed, how
 
 ## Daily limits
 
-Each deck introduces at most 20 new cards a day. There is no limit on reviews of cards you have already started. When the deck reaches its new-card limit for the day, the session says so and goes on with the cards that are due; the remaining new cards wait for tomorrow. The limit cannot be changed.
+Each deck introduces 20 new cards a day. **Settings**, under the deck's **Start review**, changes the number to 5, 10, 20, 40 or 80. There is no limit on reviews of cards you have already started, and they come before new cards. A card you answer wrong comes back the same day. When the day's new cards are done, the session goes on with the cards that are due, then ends by saying how many new cards are left, with **Study deck** and **Settings**.
 
 ## Review history
 

@@ -14,7 +14,7 @@ Una sessione di ripasso ti mostra le carte da ripassare, una alla volta, a scher
 
 Apri uno dei tuoi mazzi. Se ci sono carte in attesa, la pagina del mazzo mostra un unico grande pulsante, **Inizia il ripasso** con il numero di carte, e una didascalia che scompone quel numero in carte da ripassare e nuove. Premilo, oppure premi Spazio.
 
-Se non c'è nulla da ripassare, il mazzo ti dice quando arriva la prossima carta. Quando restano carte nuove, **Studia in anticipo** le introduce prima del tempo.
+Se non c'è nulla da ripassare, il mazzo ti dice quando arriva la prossima carta. Quando le carte nuove del giorno sono fatte, ti dice quante ne restano, e **Studia il mazzo** percorre tutto il mazzo senza limite giornaliero.
 
 Un mazzo con carte da ripassare mostra anche il suo conteggio **Da rivedere** come link nella pagina Mazzi, che avvia direttamente il ripasso.
 
@@ -57,7 +57,7 @@ Quando la coda è finita vedi **Sessione completata**: le carte ripassate, quant
 
 ## Limiti giornalieri
 
-Ogni mazzo introduce al massimo 20 carte nuove al giorno. Non c'è limite ai ripassi delle carte che hai già iniziato. Quando il mazzo raggiunge il limite di carte nuove per la giornata, la sessione lo dice e prosegue con le carte da ripassare; le carte nuove rimanenti aspettano domani. Il limite non si può cambiare.
+Ogni mazzo introduce 20 carte nuove al giorno. **Impostazioni**, sotto **Inizia il ripasso** nel mazzo, cambia il numero in 5, 10, 20, 40 o 80. Non c'è limite ai ripassi delle carte che hai già iniziato, e vengono prima delle carte nuove. Una carta sbagliata torna lo stesso giorno. Quando le carte nuove del giorno sono fatte, la sessione prosegue con le carte da ripassare e finisce dicendo quante carte nuove restano, con **Studia il mazzo** e **Impostazioni**.
 
 ## Cronologia dei ripassi
 
