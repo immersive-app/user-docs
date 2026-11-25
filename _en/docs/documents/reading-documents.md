@@ -90,7 +90,7 @@ The bookmark icon at the top of the reader marks the document; the bookmark butt
 
 ## Editing and history
 
-Switch to **Write** at the top of the reader to edit the text; delete a document from there too. The document's **History** keeps the previous version before each edit, import, applied correction, or restore. See [Writing documents](writing-documents.md#history).
+Switch to **Write** at the top of the reader to edit the text; delete a document from there too. You are asked first, by the document's name: its text goes with its history, corrections, reading aids and bookmark, and the cards, saved words and reviews you made from it are kept. The document's **History** keeps the previous version before each edit, import, applied correction, or restore. See [Writing documents](writing-documents.md#history).
 
 ## Further reading
 
