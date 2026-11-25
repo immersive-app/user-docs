@@ -14,7 +14,7 @@ Une session de révision vous montre les cartes à réviser, une à la fois, en 
 
 Ouvrez l'un de vos paquets. Si des cartes attendent, la page du paquet affiche un grand bouton, **Commencer la révision** avec le nombre de cartes, et une légende qui détaille ce nombre en cartes à revoir et nouvelles cartes. Appuyez dessus, ou sur Espace.
 
-Si rien n'est à revoir, le paquet vous dit quand la prochaine carte arrive. S'il reste des cartes nouvelles, **Étudier en avance** les introduit plus tôt.
+Si rien n'est à revoir, le paquet vous dit quand la prochaine carte arrive. Une fois les nouvelles cartes du jour faites, il dit combien il en reste, et **Étudier le paquet** parcourt tout le paquet sans limite quotidienne.
 
 Un paquet avec des cartes à revoir affiche aussi son nombre **À revoir** comme un lien sur la page Paquets, qui lance directement la révision.
 
@@ -57,7 +57,7 @@ Quand la file est terminée, vous voyez **Session terminée** : les cartes rév
 
 ## Limites quotidiennes
 
-Chaque paquet introduit au maximum 20 nouvelles cartes par jour. Les révisions des cartes déjà commencées ne sont pas limitées. Quand le paquet atteint sa limite de nouvelles cartes pour la journée, la session le signale et continue avec les cartes à revoir ; les nouvelles cartes restantes attendent demain. La limite ne peut pas être modifiée.
+Chaque paquet introduit 20 nouvelles cartes par jour. **Réglages**, sous **Commencer la révision** dans le paquet, change ce nombre en 5, 10, 20, 40 ou 80. Les révisions des cartes déjà commencées ne sont pas limitées et passent avant les nouvelles cartes. Une carte ratée revient le jour même. Une fois les nouvelles cartes du jour faites, la session continue avec les cartes à revoir, puis se termine en disant combien de nouvelles cartes il reste, avec **Étudier le paquet** et **Réglages**.
 
 ## Historique des révisions
 

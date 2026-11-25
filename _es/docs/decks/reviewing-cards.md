@@ -14,7 +14,7 @@ Una sesión de repaso te muestra las tarjetas pendientes, de una en una, a panta
 
 Abre uno de tus mazos. Si hay tarjetas esperando, la página del mazo muestra un gran botón, **Empezar repaso** con el número de tarjetas, y una leyenda que desglosa ese número en tarjetas pendientes y nuevas. Púlsalo, o pulsa Espacio.
 
-Si no hay nada pendiente, el mazo te dice cuándo llega la próxima tarjeta. Cuando quedan tarjetas nuevas, **Estudiar por adelantado** las introduce antes de tiempo.
+Si no hay nada pendiente, el mazo te dice cuándo llega la próxima tarjeta. Cuando las tarjetas nuevas del día están hechas, te dice cuántas quedan, y **Estudiar el mazo** recorre todo el mazo sin límite diario.
 
 Un mazo con tarjetas pendientes también muestra su recuento de **Pendientes** como enlace en la página de Mazos, que empieza el repaso directamente.
 
@@ -57,7 +57,7 @@ Cuando la cola termina ves **Sesión completada**: las tarjetas repasadas, cuán
 
 ## Límites diarios
 
-Cada mazo introduce como máximo 20 tarjetas nuevas al día. No hay límite para los repasos de las tarjetas que ya has empezado. Cuando el mazo alcanza su límite de tarjetas nuevas del día, la sesión lo indica y continúa con las tarjetas pendientes; las tarjetas nuevas restantes esperan a mañana. El límite no se puede cambiar.
+Cada mazo introduce 20 tarjetas nuevas al día. **Ajustes**, bajo **Empezar repaso** en el mazo, cambia el número a 5, 10, 20, 40 u 80. No hay límite para los repasos de las tarjetas que ya has empezado, y van antes que las nuevas. Una tarjeta que fallas vuelve el mismo día. Cuando las tarjetas nuevas del día están hechas, la sesión continúa con las pendientes y termina diciendo cuántas tarjetas nuevas quedan, con **Estudiar el mazo** y **Ajustes**.
 
 ## Historial de repasos
 

@@ -14,7 +14,7 @@ Una sessió de repàs et mostra les targetes pendents, una per una, a pantalla c
 
 Obre una de les teves baralles. Si hi ha targetes esperant, la pàgina de la baralla mostra un gran botó, **Comença el repàs** amb el nombre de targetes, i una llegenda que desglossa aquest nombre en targetes pendents i noves. Prem-lo, o prem la barra espaiadora.
 
-Si no hi ha res pendent, la baralla et diu quan arriba la propera targeta. Quan queden targetes noves, **Estudia per avançat** les introdueix abans d'hora.
+Si no hi ha res pendent, la baralla et diu quan arriba la propera targeta. Quan les targetes noves del dia estan fetes, et diu quantes en queden, i **Estudia la baralla** recorre tota la baralla sense límit diari.
 
 Una baralla amb targetes pendents també mostra el seu recompte de **Pendents** com a enllaç a la pàgina de Baralles, que comença el repàs directament.
 
@@ -57,7 +57,7 @@ Quan s'acaba la cua veus **Sessió completada**: les targetes repassades, quante
 
 ## Límits diaris
 
-Cada baralla introdueix com a màxim 20 targetes noves al dia. No hi ha límit per als repassos de targetes que ja has començat. Quan la baralla arriba al límit de targetes noves del dia, la sessió t'ho diu i continua amb les targetes pendents; les targetes noves restants esperen fins demà. El límit no es pot canviar.
+Cada baralla introdueix 20 targetes noves al dia. **Configuració**, sota **Comença el repàs** a la baralla, canvia el nombre a 5, 10, 20, 40 o 80. No hi ha límit per als repassos de targetes que ja has començat, i van abans de les targetes noves. Una targeta que falles torna el mateix dia. Quan les targetes noves del dia estan fetes, la sessió continua amb les targetes pendents i acaba dient quantes targetes noves en queden, amb **Estudia la baralla** i **Configuració**.
 
 ## Historial de repassos
 
