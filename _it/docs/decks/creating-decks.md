@@ -48,7 +48,7 @@ Scegli un livello (il tuo viene per primo), poi spunta **Tutto l'A2**, intere ar
 
 Scegli **Carica foglio di calcolo** per importare molte carte in una volta:
 
-1. Scegli un file **CSV o XLSX** con due colonne: il testo nella lingua che stai imparando e la sua traduzione. La traduzione è facoltativa. **Scarica template.csv** ti dà un file da cui partire. Vengono lette fino a 500 righe.
+1. Scegli un file **CSV o XLSX** con due colonne: il testo nella lingua che stai imparando e la sua traduzione. La traduzione è facoltativa. **Scarica template.csv** ti dà un file da cui partire; nell'app si apre nel foglio di condivisione del telefono, da cui puoi salvarlo in File o inviarlo. Vengono lette fino a 500 righe.
 2. Scegli **Anteprima**. Ogni riga diventa una carta parola o una carta frase, a seconda del suo testo. Le righe già presenti nel mazzo sono contrassegnate **Nel mazzo** e arrivano deselezionate, così non crei duplicati; le traduzioni completate da Immersive sono contrassegnate **Auto** così puoi dar loro un'occhiata.
 3. Seleziona le righe che vuoi e scegli **Importa carte**.
 

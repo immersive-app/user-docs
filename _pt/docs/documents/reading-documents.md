@@ -75,7 +75,7 @@ Dois botões redondos ficam no canto inferior direito do leitor (empilhados num 
 - **Ecrã inteiro** (**Sim** ou **Não**): ativo, a barra e os botões redondos afastam-se enquanto continua a ler, e voltam assim que desliza um pouco para cima ou toca na linha ao fundo do ecrã. Essa linha mostra o tempo que falta para o fim do texto, pelo menos 1 min, com o ecrã inteiro ativo ou não.
 - **Voz de leitura**: **Voz automática** ou uma voz com nome, mostrada quando há vozes disponíveis para a língua.
 - **Ajudas**: **Completa** ou **Leve**.
-- **Ler em voz alta**, e um botão para imprimir.
+- **Ler em voz alta**, e um botão para imprimir (na aplicação abre as opções de impressão do telemóvel).
 - O nível do documento, a contagem de palavras e o tempo de leitura.
 
 Num telemóvel, as definições abrem-se ao fundo do ecrã, com o texto por cima, por isso um tamanho, uma entrelinha ou um tema vê-se no texto à medida que o escolhe.

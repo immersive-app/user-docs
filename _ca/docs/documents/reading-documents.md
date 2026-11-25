@@ -75,7 +75,7 @@ Dos botons rodons són a baix a la dreta del lector (apilats en un mòbil, i apa
 - **Pantalla completa** (**Sí** o **No**): activada, la barra i els botons rodons s'aparten mentre continues llegint, i tornen tan bon punt et desplaces una mica cap amunt o toques la línia al peu de la pantalla. Aquesta línia mostra el temps que queda del text, com a mínim 1 min, amb la pantalla completa activada o no.
 - **Veu de lectura**: **Veu automàtica** o una veu amb nom, que es mostra quan hi ha veus disponibles per a la llengua.
 - **Ajudes**: **Completa** o **Lleugera**.
-- **Llegeix en veu alta**, i un botó per imprimir.
+- **Llegeix en veu alta**, i un botó per imprimir (a l'aplicació obre les opcions d'impressió del mòbil).
 - El nivell del document, el recompte de paraules i el temps de lectura.
 
 En un mòbil, els controls s'obren al peu de la pantalla, amb el text a sobre, de manera que una mida, un interlineat o un tema es veu al text mentre el tries.

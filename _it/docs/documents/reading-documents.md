@@ -75,7 +75,7 @@ Due pulsanti rotondi stanno in basso a destra nel lettore (impilati su un telefo
 - **Schermo intero** (**Sì** o **No**): attivo, la barra e i pulsanti rotondi si fanno da parte mentre vai avanti a leggere, e tornano appena scorri un po' verso l'alto o tocchi la riga in fondo allo schermo. Quella riga mostra il tempo che manca alla fine del testo, almeno 1 min, con lo schermo intero attivo o no.
 - **Voce di lettura**: **Voce automatica** o una voce con un nome, mostrata quando per la lingua sono disponibili delle voci.
 - **Aiuti**: **Completa** o **Leggera**.
-- **Leggi ad alta voce**, e un pulsante per stampare.
+- **Leggi ad alta voce**, e un pulsante per stampare (nell'app apre le opzioni di stampa del telefono).
 - Il livello del documento, il conteggio di parole e il tempo di lettura.
 
 Su un telefono le impostazioni si aprono in fondo allo schermo, con il testo sopra, così una dimensione, un'interlinea o un tema si vede sul testo mentre lo scegli.

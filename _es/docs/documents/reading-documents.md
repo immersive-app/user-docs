@@ -75,7 +75,7 @@ Dos botones redondos están en la parte inferior derecha del lector (apilados en
 - **Pantalla completa** (**Sí** o **No**): activada, la barra y los botones redondos se apartan mientras sigues leyendo, y vuelven en cuanto te desplazas un poco hacia arriba o tocas la línea al pie de la pantalla. Esa línea muestra el tiempo que queda del texto, al menos 1 min, con la pantalla completa activada o no.
 - **Voz de lectura**: **Voz automática** o una voz con nombre, que se muestra cuando hay voces disponibles para el idioma.
 - **Ayudas**: **Completa** o **Ligera**.
-- **Leer en voz alta**, y un botón para imprimir.
+- **Leer en voz alta**, y un botón para imprimir (en la aplicación abre las opciones de impresión del teléfono).
 - El nivel del documento, su recuento de palabras y su tiempo de lectura.
 
 En un teléfono, los controles se abren al pie de la pantalla, con el texto encima, así que un tamaño, un interlineado o un tema se ve en el texto mientras lo eliges.

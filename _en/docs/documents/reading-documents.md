@@ -74,7 +74,7 @@ Two round buttons sit at the bottom right of the reader (stacked on a phone, and
 - **Full screen** (**On** or **Off**): on, the bar and the round buttons go as you read on, and come back when you scroll up a little or tap the line at the foot of the screen. That line shows the time left in the text, at least 1 min, with full screen on or off.
 - **Reading voice**: **Automatic voice** or a named voice, shown when voices are available for the language.
 - **Aids**: **Full** or **Light**.
-- **Read to me**, and a print button.
+- **Read to me**, and a print button (in the app it opens your phone's print options).
 - The document's level, word count, and reading time.
 
 On a phone the reading controls open at the foot of the screen, with the text above them, so a text size, a spacing or a theme shows on the text as you choose it.

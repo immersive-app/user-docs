@@ -75,7 +75,7 @@ Deux boutons ronds se trouvent en bas à droite du lecteur (empilés sur un tél
 - **Plein écran** (**Oui** ou **Non**) : activé, la barre et les boutons ronds s'écartent quand vous avancez dans la lecture, et reviennent dès que vous faites défiler un peu vers le haut ou touchez la ligne au pied de l'écran. Cette ligne indique le temps restant dans le texte, au moins 1 min, plein écran activé ou non.
 - **Voix de lecture** : **Voix automatique** ou une voix nommée, affichée quand des voix sont disponibles pour la langue.
 - **Aides** : **Complète** ou **Légère**.
-- **Lecture à voix haute**, et un bouton d'impression.
+- **Lecture à voix haute**, et un bouton d'impression (dans l'application, il ouvre les options d'impression du téléphone).
 - Le niveau du document, son nombre de mots et son temps de lecture.
 
 Sur un téléphone, les réglages s'ouvrent au pied de l'écran, le texte au-dessus : une taille, un interligne ou un thème se voit sur le texte au moment où vous le choisissez.
