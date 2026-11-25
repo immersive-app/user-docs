@@ -40,7 +40,7 @@ Cada revisão termina numa de quatro avaliações:
 - **Bem**: lembrou-se com algum esforço.
 - **Fácil**: sem esforço; o cartão afasta-se o mais possível.
 
-No modo Ler, é o próprio que escolhe a avaliação, e cada botão de avaliação indica quando o cartão volta («1 minuto», «1 dia», «7 dias»). Em Escrever e Ouvir, o Immersive avalia a sua resposta. O resultado mostra **Correto** ou **Incorreto**; depois de uma resposta errada, a certa («Resposta · j'ai»); o motivo quando existe, como **Falta um acento** ou a explicação de uma pergunta; e quando o cartão volta («Volta daqui a 1 minuto», «Volta amanhã»). Uma forma verbal está certa ou errada: certa é **Fácil**, errada é **De novo**. As outras respostas são avaliadas pela proximidade, por isso um pequeno deslize pode contar como certo, com a resposta mostrada por baixo. Em Falar, o Immersive avalia uma transcrição do que disse. **Seguinte** guarda a revisão e avança.
+No modo Ler, é o próprio que escolhe a avaliação: **De novo**, **Difícil**, **Bem** ou **Fácil**. Em Escrever e Ouvir, o Immersive avalia a sua resposta. O resultado mostra **Correto** ou **Incorreto**; depois de uma resposta errada, a certa («Resposta · j'ai»); o motivo quando existe, como **Falta um acento** ou a explicação de uma pergunta; e quando o cartão volta («Volta daqui a 1 minuto», «Volta amanhã»). Uma forma verbal está certa ou errada: certa é **Fácil**, errada é **De novo**. As outras respostas são avaliadas pela proximidade, por isso um pequeno deslize pode contar como certo, com a resposta mostrada por baixo. Em Falar, o Immersive avalia uma transcrição do que disse. **Seguinte** guarda a revisão e avança.
 
 ## Durante a sessão
 

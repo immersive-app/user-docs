@@ -40,7 +40,7 @@ Cada repaso termina en una de cuatro calificaciones:
 - **Bien**: recordada con algo de esfuerzo.
 - **Fácil**: sin esfuerzo; la tarjeta se aleja al máximo.
 
-En el modo Leer eliges tú la calificación, y cada botón de calificación indica cuándo vuelve la tarjeta («1 minuto», «1 día», «7 días»). En Escribir y Escuchar, Immersive califica tu respuesta. El resultado muestra **Correcto** o **Incorrecto**; tras una respuesta equivocada, la correcta («Respuesta · j'ai»); el motivo cuando lo hay, como **Falta un acento** o la explicación de una pregunta; y cuándo vuelve la tarjeta («Vuelve en 1 minuto», «Vuelve mañana»). Una forma verbal está bien o mal: bien es **Fácil**, mal es **Otra vez**. Las demás respuestas se califican según lo cerca que estén, así que un pequeño despiste puede contar como correcto, con la respuesta debajo. En Hablar, Immersive califica una transcripción de lo que dijiste. **Siguiente** guarda el repaso y pasa a la siguiente.
+En el modo Leer eliges tú la calificación: **Otra vez**, **Difícil**, **Bien** o **Fácil**. En Escribir y Escuchar, Immersive califica tu respuesta. El resultado muestra **Correcto** o **Incorrecto**; tras una respuesta equivocada, la correcta («Respuesta · j'ai»); el motivo cuando lo hay, como **Falta un acento** o la explicación de una pregunta; y cuándo vuelve la tarjeta («Vuelve en 1 minuto», «Vuelve mañana»). Una forma verbal está bien o mal: bien es **Fácil**, mal es **Otra vez**. Las demás respuestas se califican según lo cerca que estén, así que un pequeño despiste puede contar como correcto, con la respuesta debajo. En Hablar, Immersive califica una transcripción de lo que dijiste. **Siguiente** guarda el repaso y pasa a la siguiente.
 
 ## Durante la sesión
 
