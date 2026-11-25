@@ -13,18 +13,20 @@ Scrivere è il momento in cui una lingua diventa tua. L'editor ti dà una pagina
 ## L'editor
 
 1. Apri **Documenti** e scegli **+** (**Crea un nuovo documento**), oppure apri un documento e passa a **Scrivi** in cima al lettore.
-2. Scrivi. La barra degli strumenti offre grassetto, corsivo, titoli, elenchi e citazioni, più rientro dei paragrafi, interlinea e stampa, e mostra un conteggio delle parole in tempo reale.
+2. Scrivi. Il testo viene subito sotto il titolo. In un documento nuovo, la barra degli strumenti sopra offre grassetto, corsivo, titoli, elenchi e citazioni, più rientro dei paragrafi, interlinea e stampa, e mostra un conteggio delle parole in tempo reale; dopo il salvataggio questi strumenti sono in cima all'assistente di scrittura.
 3. **Salva** quando vuoi. Un documento salvato può essere letto come qualsiasi altro, con traduzioni, audio e aiuti alla lettura.
 
-**Tema**, **Coach**, **Cronologia**, **Correggi** e l'assistente compaiono dopo il primo salvataggio del documento. Il menu dei file in alto elenca gli altri documenti della stessa cartella, così puoi passare dall'uno all'altro. Due pulsanti rotondi stanno in basso a destra, come nel lettore: il pulsante della chat apre il [Coach](../coach.md) con il documento sotto gli occhi, e il pulsante dei cursori apre l'assistente di scrittura.
+Dopo il primo salvataggio del documento, il suo aiuto è in un solo posto, l'assistente di scrittura: **Tema**, **Coach**, **Correggi**, Sali di livello, Tono e **Cronologia**. Il menu dei file in alto elenca gli altri documenti della stessa cartella, così puoi passare dall'uno all'altro. Due pulsanti rotondi stanno in basso a destra, come nel lettore: il pulsante della chat apre il [Coach](../coach.md) con il documento sotto gli occhi, e il pulsante dei cursori apre l'assistente di scrittura. Su un telefono si spostano mentre scrivi. **Importa da un file** è sotto il testo.
+
+Il telefono non sottolinea né sostituisce le tue parole: il titolo e il testo sono segnati nella lingua che stai imparando, con la correzione automatica e il controllo ortografico del telefono disattivati. **Correggi** è l'aiuto.
 
 ## Temi
 
-Ti manca un'idea? La barra **Tema** suggerisce qualcosa su cui scrivere al tuo livello. **Nuovo tema** te ne dà un altro; la ✕ lo chiude. Immersive evita di ripetere i tuoi temi recenti.
+Ti manca un'idea? La scheda **Tema**, in cima all'assistente di scrittura, suggerisce qualcosa su cui scrivere al tuo livello. **Nuovo tema** te ne dà un altro; la ✕ lo chiude. Immersive evita di ripetere i tuoi temi recenti.
 
 ## La revisione del Coach
 
-**Coach** nella barra degli strumenti legge il documento salvato e dà una breve revisione nella tua lingua: una cosa che il testo fa bene, fino a tre miglioramenti con una spiegazione ciascuno, e un'idea per continuare. Rivede l'ultima versione salvata, quindi salva prima.
+**Coach** nell'assistente di scrittura legge il documento salvato e dà una breve revisione nella tua lingua: una cosa che il testo fa bene, fino a tre miglioramenti con una spiegazione ciascuno, e un'idea per continuare. Rivede l'ultima versione salvata, quindi salva prima.
 
 È una revisione una tantum, non una conversazione. Per fare domande, usa il [Coach](../coach.md) dal lettore o dalla pagina della correzione.
 
@@ -40,14 +42,14 @@ Quando la tua bozza è pronta, salvala e scegli **Correggi**. La correzione rich
 
 **Applica al documento** sostituisce il testo del documento con il testo corretto. La versione precedente resta nella Cronologia, così non si perde nulla. Il testo corretto è semplice: titoli, grassetto e altra formattazione non vengono mantenuti.
 
-Le correzioni passate restano disponibili: il pulsante di chiusura nella pagina di una correzione porta all'elenco dei tuoi invii per il documento.
+Le correzioni passate restano disponibili: **Correzioni precedenti**, nella scheda Modifiche dell'assistente, e il pulsante di chiusura nella pagina di una correzione portano all'elenco dei tuoi invii per il documento.
 
 ## L'assistente di scrittura
 
-Il pulsante dei cursori apre l'**Assistente**: un pannello accanto all'editor su un computer, un foglio su un telefono. Resta in disparte finché non lo apri, e Immersive ricorda se lo tieni aperto. Ha tre schede:
+Il pulsante dei cursori apre l'**Assistente**: un pannello accanto all'editor su un computer, un foglio su un telefono. Resta in disparte finché non lo apri, e su un computer Immersive ricorda se lo tieni aperto. Comincia con gli strumenti di formattazione e il tema, poi ha tre schede, e finisce con **Coach** e **Cronologia**:
 
-- **Modifiche** mostra il tuo livello di scrittura («Livello di scrittura ≈ B1»), fino a tre delle tue ultime correzioni, **Apri il rapporto completo** e il pulsante **Correggi**. Contiene anche **Sali di livello** (vedi sotto).
-- **Riscrivi** lavora su una selezione: seleziona un passaggio (fino a 4.000 caratteri) e scegli **Suggerisci riscrittura**. Immersive lo riscrive un livello sopra il tuo livello di scrittura, con lo stesso significato. Il suggerimento appare sotto il paragrafo; **Sostituisci** lo adotta, **Ignora** lascia il tuo testo com'è.
+- **Modifiche** mostra il tuo livello di scrittura («Livello di scrittura ≈ B1»), fino a tre delle tue ultime correzioni, **Apri il rapporto completo** e il pulsante **Correggi**. Mentre una correzione è in arrivo lo dice, e le correzioni compaiono da sole. Contiene anche **Sali di livello** (vedi sotto) e **Correzioni precedenti**.
+- **Riscrivi** prende la frase in cui si trova il cursore, o un passaggio che selezioni (fino a 4.000 caratteri): scegli **Suggerisci riscrittura**. Immersive lo riscrive un livello sopra il tuo livello di scrittura, con lo stesso significato. Il suggerimento appare sotto il paragrafo; **Sostituisci** lo adotta, **Ignora** lascia il tuo testo com'è. Su un telefono, mentre l'assistente è aperto, toccare il testo mette il cursore senza far salire la tastiera, e l'assistente si sposta per mostrare il suggerimento.
 - **Tono** riscrive l'intera bozza per una situazione che descrivi con parole tue in **Riscrivi questo come…** («un'email formale al mio padrone di casa sul riscaldamento guasto»), poi **Riscrivi**. La riscrittura resta vicina al tuo livello: la tua voce, aggiustata. **Applica al documento** la mette nell'editor, ed **Esporta .docx** la scarica come file Word.
 
 Il tuo livello di scrittura viene dalla stima QCER della tua ultima correzione; prima della prima correzione, è il livello che hai indicato per la lingua nel tuo profilo.
@@ -58,7 +60,7 @@ Curioso di sapere come sarebbe la tua scrittura un passo più avanti? Nella sche
 
 ## Cronologia
 
-**Cronologia** nell'editor apre la **Cronologia delle modifiche** del documento. La versione precedente viene salvata prima di ogni modifica, importazione, correzione applicata o ripristino; confronta qualsiasi versione con il testo attuale e scegli **Ripristina**. Sperimenta liberamente: puoi sempre tornare indietro.
+**Cronologia** nell'assistente di scrittura apre la **Cronologia delle modifiche** del documento. La versione precedente viene salvata prima di ogni modifica, importazione, correzione applicata o ripristino; confronta qualsiasi versione con il testo attuale e scegli **Ripristina**. Ripristina chiede prima, nominando la versione, e il testo che sostituisce resta anch'esso nella Cronologia. Sperimenta liberamente: puoi sempre tornare indietro.
 
 ## Per approfondire
 

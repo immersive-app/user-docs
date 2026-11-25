@@ -35,11 +35,11 @@ Vegeu [Escriure documents](documents/writing-documents.md).
 
 ## La Biblioteca
 
-La pàgina de Documents també mostra la **Biblioteca**: textos autèntics proporcionats per Immersive en la llengua que aprens, cadascun amb un nivell (d'A1 a C2) i un recompte de paraules, perquè sempre hi hagi alguna cosa per llegir. La pàgina mostra uns quants títols; **Mostra-ho tot** obre la Biblioteca sencera per a aquella llengua. Els textos de la Biblioteca arriben amb les ajudes de lectura a punt. Llegir un document de la Biblioteca funciona igual que llegir-ne un de teu; si hi comences a escriure, n'obtens la teva pròpia còpia i l'original queda com estava.
+La pàgina de Documents també mostra la **Biblioteca**: textos triats o escrits per Immersive en la llengua que aprens, cadascun amb un nivell (d'A1 a C2) i un recompte de paraules, perquè sempre hi hagi alguna cosa per llegir. La pàgina mostra uns quants títols; **Mostra-ho tot** obre la Biblioteca sencera per a aquella llengua. Els textos de la Biblioteca arriben amb les ajudes de lectura a punt. Llegir un document de la Biblioteca funciona igual que llegir-ne un de teu; si hi comences a escriure, n'obtens la teva pròpia còpia i l'original queda com estava.
 
 ## La llista de documents
 
-La pàgina de Documents llista els documents en la llengua que aprens, amb un quadre de cerca per títols. Cada fila mostra la traducció del títol, el nivell i el recompte de paraules. La icona del marcador d'un document el marca, i el botó del marcador a dalt de la pàgina mostra només els documents marcats. **Filtres** redueix la llista per nivell: **A1–A2**, **B1–B2** o **C1–C2**.
+La pàgina de Documents llista els documents en la llengua que aprens, amb un quadre de cerca. Una cerca recorre els títols, i les seves traduccions, dels teus documents, dels teus llibres i els seus capítols, i de la Biblioteca, sense tenir en compte els accents, i mostra el que troba sota Llibres, Documents i Biblioteca. Cada fila mostra la traducció del títol, el nivell i el recompte de paraules. La icona del marcador d'un document el marca, i el botó del marcador a dalt de la pàgina mostra només els documents marcats. **Filtres** redueix la llista per nivell: **A1–A2**, **B1–B2** o **C1–C2**.
 
 Per crear un document, tria **+** (**Crea un document nou**). El document és en la llengua que aprens en aquell moment.
 

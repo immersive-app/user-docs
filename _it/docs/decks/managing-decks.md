@@ -26,6 +26,8 @@ Sopra i tuoi mazzi sta la **Biblioteca**: mazzi pronti di Immersive nella lingua
 
 I mazzi della Biblioteca si studiano dalla tua copia: premi il **+** accanto a uno (**Copia nei miei mazzi**) e la copia compare in I miei mazzi.
 
+Puoi anche aprire prima un mazzo della Biblioteca: la sua pagina mostra le carte e **Inizia · 12 nuove**. Non si copia nulla finché non premi Inizia; allora la copia viene creata in I miei mazzi e si apre il suo primo ripasso, e chiudendo il ripasso arrivi alla tua copia. Quando hai già una copia, la pagina del mazzo della Biblioteca indica **Nei miei mazzi** e porta alla copia.
+
 ## Mazzi pubblici
 
 Le pagine dei verbi e delle forme verbali elencano i **Mazzi pubblici** che esercitano quel verbo. Aprine uno per vederne le carte, e scegli **Copia nei miei mazzi** per studiarlo. La tua copia indica da quale mazzo è stata copiata.
@@ -50,7 +52,7 @@ L'icona del segnalibro su un mazzo (nell'elenco, o nella pagina del mazzo) lo co
 
 ## Modificare un mazzo
 
-Apri un mazzo e scegli la matita per aprire il suo spazio di lavoro. **Modifica mazzo** apre le impostazioni: rinominalo in una delle due lingue, cambiane la cartella o sistemane le etichette, poi scegli **Aggiorna mazzo**. L'elenco delle carte sotto ti permette di modificare o eliminare singole carte e di aggiungere esempi; mostra 25 carte alla volta, e **Mostra altre** elenca le restanti.
+Apri un mazzo e scegli la matita per aprire il suo spazio di lavoro. **Modifica mazzo** apre le impostazioni: rinominalo in una delle due lingue, cambiane la cartella o sistemane le etichette. Lo spazio di lavoro ha un solo **Salva** (nell'app, in alto sullo schermo), che salva le impostazioni insieme al riquadro di un mazzo di vocabolario o alla tabella di un mazzo di verbi. L'elenco delle carte sotto ti permette di modificare o eliminare singole carte e di aggiungere esempi; mostra 25 carte alla volta, e **Mostra altre** elenca le restanti.
 
 ## Esportare in Anki
 
@@ -58,7 +60,7 @@ Apri un mazzo e scegli la matita per aprire il suo spazio di lavoro. **Modifica 
 
 ## Eliminare un mazzo
 
-Elimina un mazzo con il pulsante del cestino nel suo spazio di lavoro. L'eliminazione rimuove il mazzo, le sue carte e i loro progressi di ripasso; prima ti viene chiesta una conferma.
+Elimina un mazzo con **Elimina mazzo**, in fondo al suo spazio di lavoro. L'eliminazione rimuove il mazzo, le sue carte e i loro progressi di ripasso; prima ti viene chiesta una conferma.
 
 ## Per approfondire
 
