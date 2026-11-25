@@ -14,7 +14,7 @@ Le lecteur repose sur un principe : vous réussissez en comprenant le texte, pa
 
 1. Ouvrez **Documents** et choisissez **+** (**Créer un nouveau document**). Tant que vous n'avez aucun document, la page propose **Importer un document** et **Ou partez d'une page vierge** ; les deux ouvrent le même éditeur.
 2. Donnez un titre au document et ajoutez le texte : tapez-le ou collez-le, ou utilisez **Importer depuis un fichier**. Le texte, le Markdown, le PDF et les photos d'une page (JPEG, PNG, WebP) sont acceptés, jusqu'à 10 Mo. Un fichier importé remplace le texte collé.
-3. **Enregistrer**. Immersive transforme le texte en mots et en phrases à toucher. Un fichier importé est converti après l'enregistrement : le lecteur indique que le texte est en cours d'extraction, et il apparaît un instant plus tard. Les PDF numérisés et les photos sont lus par IA, alors vérifiez le résultat.
+3. **Enregistrer**. Immersive transforme le texte en mots et en phrases à toucher, ce qui prend quelques secondes : le lecteur indique « Préparation de ton texte » et affiche le texte tout seul dès qu'il est prêt, sans recharger. Un fichier importé est d'abord lu. Les PDF numérisés et les photos sont lus par IA, et le lecteur l'indique au-dessus du texte : vérifiez-le en le comparant à la page.
 
 Pas de texte sous la main ? Ouvrez la **Bibliothèque** pour des textes au niveau et au nombre de mots connus.
 
