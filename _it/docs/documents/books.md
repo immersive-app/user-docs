@@ -39,7 +39,7 @@ Se l'importazione non riesce, la pagina dice perché. **Riprova** importa lo ste
 
 ## Leggere
 
-Nella pagina **Documenti**, la riga di un libro mostra a che punto sei, con **Inizia** per un libro nuovo e **Continua** per uno che stai leggendo. Tocca la riga per la pagina del libro: la copertina, l'indice e la via d'ingresso, **Leggi il capitolo 1** o **Continua a leggere**. **Documenti**, sopra il titolo, riporta alla pagina Documenti con il libro evidenziato.
+Nella pagina **Documenti**, la riga di un libro mostra a che punto sei, con **Inizia** per un libro nuovo e **Continua** per uno che stai leggendo. Tocca la riga per la pagina del libro: la copertina, l'indice e la via d'ingresso, **Leggi il capitolo 1** o **Continua**. Un libro mostra **Continua** dal primo capitolo che apri. **Documenti**, sopra il titolo, riporta alla pagina Documenti con il libro evidenziato.
 
 Un capitolo si apre nel lettore:
 
@@ -51,15 +51,15 @@ Un capitolo si apre nel lettore:
 
 ## Fine del capitolo
 
-Dopo l'ultimo paragrafo viene la fine del capitolo, con il titolo, la lunghezza e il tempo di lettura del capitolo successivo. **Capitolo successivo** lo apre, e **Torna al libro** riporta alla pagina del libro. Arrivare alla fine segna il capitolo come letto. **Leggi ad alta voce** si ferma alla fine di un capitolo.
+Dopo l'ultimo paragrafo viene la fine del capitolo, con il titolo, la lunghezza e il tempo di lettura del capitolo successivo. **Capitolo successivo** lo apre, e **Torna al libro** riporta alla pagina del libro. Sotto, **Verifica la tua comprensione** apre le domande sul capitolo, e chiuderle ti riporta alla fine del capitolo. Arrivare alla fine segna il capitolo come letto. **Leggi ad alta voce** si ferma alla fine di un capitolo.
 
 Dopo l'ultimo capitolo, il libro è finito.
 
 ## La tua posizione
 
-Immersive conserva la tua posizione mentre leggi, fino alla frase, e su ogni dispositivo che usi. **Continua** nella riga del libro, o **Continua a leggere** nella sua pagina, apre il capitolo in cui eri alla frase in cui l'avevi lasciato.
+Immersive conserva la tua posizione mentre leggi, fino alla frase, e su ogni dispositivo che usi. **Continua**, nella riga del libro o nella sua pagina, apre il capitolo in cui eri alla frase in cui l'avevi lasciato.
 
-La pagina del libro mostra quanto del libro hai letto e circa quanto manca. Un libro finito mostra **Finito**, e **Rileggi** riparte dal capitolo 1 e mantiene le tue spunte.
+La pagina del libro mostra quanto del libro hai letto e circa quanto manca. Un libro finito mostra **Finito**, e **Rileggi** riparte dal capitolo 1 e mantiene le tue spunte. Finché non vai avanti a leggere, il libro resta finito.
 
 ## Modificare l'indice
 
@@ -68,7 +68,7 @@ Se un libro è stato tagliato nei punti sbagliati, scegli **Modifica** accanto a
 - **Rinomina**: scrivi un nuovo titolo sul posto. Invio, o uscire dal campo, lo salva; Esc rimette quello vecchio.
 - **Sposta su** e **Sposta giù** cambiano l'ordine.
 - **Unisci a «…»** unisce un capitolo a quello precedente. Ogni parola viene conservata, e il titolo del capitolo unito resta nel testo dove iniziava.
-- **Dividi…** taglia un capitolo in due. Scegli dove inizia il nuovo capitolo, a un titolo o a un paragrafo, poi **Dividi qui**. Ogni parola viene conservata.
+- **Dividi…** taglia un capitolo in due. Scegli dove inizia il nuovo capitolo, a un titolo o a un paragrafo, poi **Dividi qui**. Ogni parola viene conservata: a un titolo, il titolo dà il nome al nuovo capitolo, e le parole dei due capitoli fanno la somma di quello che hai diviso.
 - **Togli — elimina il testo** elimina il capitolo e il suo testo: usalo per le pagine iniziali e finali che non leggerai. Un libro conserva almeno un capitolo.
 - **I capitoli iniziano a** mostra dove il libro è tagliato adesso, quando potrebbe essere tagliato in un altro modo. Scegli un altro punto (da **Titolo 1** a **Titolo 3**, o per un file di testo **Righe di capitolo**, **Numeri** o **Maiuscole**), poi **Dividi di nuovo**: tutto il libro viene tagliato di nuovo dal testo com'era stato importato. I capitoli rinominati e la tua posizione di lettura restano dove il testo corrisponde ancora.
 

@@ -38,7 +38,7 @@ If the import fails, the page says why. **Try again** imports the same file from
 
 ## Reading
 
-On the **Documents** page, a book's row shows how far you are, with **Start** for a new book and **Continue** for one you are reading. Tap the row for the book's page: the cover, the contents, and the way in, **Read chapter 1** or **Continue reading**. **Documents**, above the title, goes back to the Documents page with the book highlighted.
+On the **Documents** page, a book's row shows how far you are, with **Start** for a new book and **Continue** for one you are reading. Tap the row for the book's page: the cover, the contents, and the way in, **Read chapter 1** or **Continue**. A book reads **Continue** from the first chapter you open. **Documents**, above the title, goes back to the Documents page with the book highlighted.
 
 A chapter opens in the reader:
 
@@ -50,15 +50,15 @@ A chapter opens in the reader:
 
 ## End of chapter
 
-After the last paragraph comes the end of the chapter, with the next chapter's title, length, and reading time. **Next chapter** opens it, and **Back to the book** returns to the book's page. Reaching the end marks the chapter as read. **Read to me** stops at the end of a chapter.
+After the last paragraph comes the end of the chapter, with the next chapter's title, length, and reading time. **Next chapter** opens it, and **Back to the book** returns to the book's page. Under it, **Check your understanding** opens the questions about the chapter; closing them brings you back to the end of the chapter. Reaching the end marks the chapter as read. **Read to me** stops at the end of a chapter.
 
 After the last chapter, the book is finished.
 
 ## Your place
 
-Immersive keeps your place as you read, down to the sentence, and on every device you use. **Continue** on the book's row, or **Continue reading** on its page, opens the chapter you were in at the sentence you left.
+Immersive keeps your place as you read, down to the sentence, and on every device you use. **Continue**, on the book's row or on its page, opens the chapter you were in at the sentence you left.
 
-The book's page shows how much of the book you have read and about how long is left. A finished book shows **Finished**, and **Read again** starts at chapter 1 and keeps your ticks.
+The book's page shows how much of the book you have read and about how long is left. A finished book shows **Finished**, and **Read again** starts at chapter 1 and keeps your ticks. Until you read on, the book stays finished.
 
 ## Editing the contents
 
@@ -67,7 +67,7 @@ If a book was cut in the wrong places, choose **Edit** beside **Contents** on th
 - **Rename**: type a new title in place. Enter, or leaving the field, saves it; Escape puts the old one back.
 - **Move up** and **Move down** change the order.
 - **Merge into “…”** joins a chapter to the one before it. Every word is kept, and the merged chapter's title stays in the text where it started.
-- **Split…** cuts a chapter in two. Choose where the new chapter starts, at a heading or a paragraph, then **Split here**. Every word is kept.
+- **Split…** cuts a chapter in two. Choose where the new chapter starts, at a heading or a paragraph, then **Split here**. Every word is kept: at a heading, the heading names the new chapter, and the words of the two chapters add up to the one you split.
 - **Remove — deletes the text** deletes the chapter and its text: use it for front and back matter you will not read. A book keeps at least one chapter.
 - **Chapters are split at** shows where the book is cut now, when it could be cut another way. Pick another place (**Heading 1** to **Heading 3**, or for a text file **Chapter lines**, **Numerals**, or **Capitals**), then **Split again**: the whole book is cut again from the text as it was imported. Renamed chapters and your reading position are kept where the text still matches.
 

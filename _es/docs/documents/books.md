@@ -39,7 +39,7 @@ Si la importación falla, la página dice por qué. **Reintentar** importa el mi
 
 ## Leer
 
-En la página de **Documentos**, la fila de un libro muestra por dónde vas, con **Empezar** para un libro nuevo y **Continuar** para uno que estás leyendo. Toca la fila para ver la página del libro: la portada, el índice y la entrada, **Leer el capítulo 1** o **Seguir leyendo**. **Documentos**, sobre el título, vuelve a la página de Documentos con el libro resaltado.
+En la página de **Documentos**, la fila de un libro muestra por dónde vas, con **Empezar** para un libro nuevo y **Continuar** para uno que estás leyendo. Toca la fila para ver la página del libro: la portada, el índice y la entrada, **Leer el capítulo 1** o **Continuar**. Un libro muestra **Continuar** desde el primer capítulo que abres. **Documentos**, sobre el título, vuelve a la página de Documentos con el libro resaltado.
 
 Un capítulo se abre en el lector:
 
@@ -51,15 +51,15 @@ Un capítulo se abre en el lector:
 
 ## Fin del capítulo
 
-Tras el último párrafo llega el fin del capítulo, con el título, la longitud y el tiempo de lectura del capítulo siguiente. **Capítulo siguiente** lo abre, y **Volver al libro** vuelve a la página del libro. Llegar al final marca el capítulo como leído. **Leer en voz alta** se detiene al final de un capítulo.
+Tras el último párrafo llega el fin del capítulo, con el título, la longitud y el tiempo de lectura del capítulo siguiente. **Capítulo siguiente** lo abre, y **Volver al libro** vuelve a la página del libro. Debajo, **Comprueba tu comprensión** abre las preguntas sobre el capítulo, y al cerrarlas vuelves al final del capítulo. Llegar al final marca el capítulo como leído. **Leer en voz alta** se detiene al final de un capítulo.
 
 Tras el último capítulo, el libro está terminado.
 
 ## Tu posición
 
-Immersive guarda tu posición mientras lees, hasta la frase, y en todos los dispositivos que uses. **Continuar** en la fila del libro, o **Seguir leyendo** en su página, abre el capítulo en el que estabas, en la frase donde lo dejaste.
+Immersive guarda tu posición mientras lees, hasta la frase, y en todos los dispositivos que uses. **Continuar**, en la fila del libro o en su página, abre el capítulo en el que estabas, en la frase donde lo dejaste.
 
-La página del libro muestra cuánto has leído del libro y cuánto queda, más o menos. Un libro terminado muestra **Terminado**, y **Volver a leer** empieza en el capítulo 1 y conserva tus marcas.
+La página del libro muestra cuánto has leído del libro y cuánto queda, más o menos. Un libro terminado muestra **Terminado**, y **Volver a leer** empieza en el capítulo 1 y conserva tus marcas. Hasta que sigues leyendo, el libro sigue terminado.
 
 ## Editar el índice
 
@@ -68,7 +68,7 @@ Si un libro se cortó por donde no debía, elige **Editar** junto a **Índice** 
 - **Cambiar el nombre**: escribe un título nuevo en su sitio. Intro, o salir del campo, lo guarda; Escape devuelve el anterior.
 - **Subir** y **Bajar** cambian el orden.
 - **Unir a «…»** une un capítulo al anterior. Se conserva cada palabra, y el título del capítulo unido se queda en el texto donde empezaba.
-- **Dividir…** corta un capítulo en dos. Elige dónde empieza el nuevo capítulo, en un encabezado o en un párrafo, y luego **Dividir aquí**. Se conserva cada palabra.
+- **Dividir…** corta un capítulo en dos. Elige dónde empieza el nuevo capítulo, en un encabezado o en un párrafo, y luego **Dividir aquí**. Se conserva cada palabra: en un encabezado, el encabezado da nombre al nuevo capítulo, y las palabras de los dos capítulos suman las del que dividiste.
 - **Quitar — borra el texto** elimina el capítulo y su texto: úsalo para las páginas preliminares y finales que no vas a leer. Un libro conserva al menos un capítulo.
 - **Los capítulos empiezan en** muestra por dónde está cortado el libro ahora, cuando se podría cortar de otra manera. Elige otro lugar (de **Encabezado 1** a **Encabezado 3**, o para un archivo de texto **Líneas de capítulo**, **Números** o **Mayúsculas**), y luego **Dividir de nuevo**: todo el libro se corta otra vez a partir del texto tal como se importó. Los capítulos renombrados y tu posición de lectura se conservan donde el texto aún coincide.
 

@@ -39,7 +39,7 @@ Se a importação falhar, a página diz porquê. **Tentar outra vez** importa o 
 
 ## Ler
 
-Na página **Documentos**, a linha de um livro mostra onde vai, com **Começar** para um livro novo e **Continuar** para um que está a ler. Toque na linha para a página do livro: a capa, o índice e a entrada, **Ler o capítulo 1** ou **Continuar a ler**. **Documentos**, por cima do título, volta à página Documentos com o livro destacado.
+Na página **Documentos**, a linha de um livro mostra onde vai, com **Começar** para um livro novo e **Continuar** para um que está a ler. Toque na linha para a página do livro: a capa, o índice e a entrada, **Ler o capítulo 1** ou **Continuar**. Um livro mostra **Continuar** a partir do primeiro capítulo que abre. **Documentos**, por cima do título, volta à página Documentos com o livro destacado.
 
 Um capítulo abre-se no leitor:
 
@@ -51,15 +51,15 @@ Um capítulo abre-se no leitor:
 
 ## Fim do capítulo
 
-Depois do último parágrafo vem o fim do capítulo, com o título, a extensão e o tempo de leitura do capítulo seguinte. **Capítulo seguinte** abre-o, e **Voltar ao livro** regressa à página do livro. Chegar ao fim marca o capítulo como lido. **Ler em voz alta** para no fim de um capítulo.
+Depois do último parágrafo vem o fim do capítulo, com o título, a extensão e o tempo de leitura do capítulo seguinte. **Capítulo seguinte** abre-o, e **Voltar ao livro** regressa à página do livro. Por baixo, **Verifique a sua compreensão** abre as perguntas sobre o capítulo, e fechá-las leva-o de volta ao fim do capítulo. Chegar ao fim marca o capítulo como lido. **Ler em voz alta** para no fim de um capítulo.
 
 Depois do último capítulo, o livro está terminado.
 
 ## O seu lugar
 
-O Immersive guarda o seu lugar enquanto lê, até à frase, e em todos os dispositivos que usa. **Continuar** na linha do livro, ou **Continuar a ler** na sua página, abre o capítulo em que estava, na frase onde ficou.
+O Immersive guarda o seu lugar enquanto lê, até à frase, e em todos os dispositivos que usa. **Continuar**, na linha do livro ou na sua página, abre o capítulo em que estava, na frase onde ficou.
 
-A página do livro mostra quanto do livro já leu e mais ou menos quanto falta. Um livro terminado mostra **Terminado**, e **Ler de novo** começa no capítulo 1 e mantém as suas marcas.
+A página do livro mostra quanto do livro já leu e mais ou menos quanto falta. Um livro terminado mostra **Terminado**, e **Ler de novo** começa no capítulo 1 e mantém as suas marcas. Enquanto não continuar a ler, o livro fica terminado.
 
 ## Editar o índice
 
@@ -68,7 +68,7 @@ Se um livro foi cortado nos sítios errados, escolha **Editar** ao lado de **Ín
 - **Mudar o nome**: escreva um novo título no próprio lugar. Enter, ou sair do campo, guarda-o; Escape repõe o antigo.
 - **Mover para cima** e **Mover para baixo** mudam a ordem.
 - **Juntar a «…»** junta um capítulo ao anterior. Todas as palavras ficam, e o título do capítulo juntado fica no texto onde começava.
-- **Dividir…** corta um capítulo em dois. Escolha onde começa o novo capítulo, num título ou num parágrafo, depois **Dividir aqui**. Todas as palavras ficam.
+- **Dividir…** corta um capítulo em dois. Escolha onde começa o novo capítulo, num título ou num parágrafo, depois **Dividir aqui**. Todas as palavras ficam: num título, o título dá nome ao novo capítulo, e as palavras dos dois capítulos somam as do que dividiu.
 - **Retirar — apaga o texto** apaga o capítulo e o seu texto: use-o para as páginas iniciais e finais que não vai ler. Um livro mantém pelo menos um capítulo.
 - **Os capítulos começam em** mostra onde o livro está cortado agora, quando podia ser cortado de outra forma. Escolha outro sítio (**Título 1** a **Título 3**, ou para um ficheiro de texto **Linhas de capítulo**, **Números** ou **Maiúsculas**), depois **Dividir de novo**: todo o livro é cortado outra vez a partir do texto tal como foi importado. Os capítulos com nome alterado e a sua posição de leitura mantêm-se onde o texto ainda corresponde.
 
