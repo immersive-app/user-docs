@@ -26,6 +26,8 @@ Acima dos seus baralhos fica a **Biblioteca**: baralhos prontos do Immersive na 
 
 Os baralhos da Biblioteca estudam-se através da sua própria cópia: prima o **+** ao lado de um (**Copiar para os meus baralhos**) e a cópia aparece em **Os meus baralhos**.
 
+Também pode abrir primeiro um baralho da Biblioteca: a sua página mostra os cartões e **Começar · 12 novos**. Nada é copiado até premir Começar; então a cópia é criada em **Os meus baralhos** e abre-se a primeira revisão, e fechar a revisão leva-o à sua cópia. Quando já tem uma cópia, a página do baralho da Biblioteca indica **Nos meus baralhos** e leva até ela.
+
 ## Baralhos públicos
 
 As páginas de verbos e de formas verbais listam **Baralhos públicos** que praticam esse verbo. Abra um para ver os seus cartões e escolha **Copiar para os meus baralhos** para o estudar. A sua cópia mostra de que baralho foi copiada.

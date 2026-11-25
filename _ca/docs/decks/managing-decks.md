@@ -26,6 +26,8 @@ Per sobre de les teves baralles hi ha la **Biblioteca**: baralles ja fetes d'Imm
 
 Les baralles de la Biblioteca s'estudien des de la teva pròpia còpia: prem el **+** al costat d'una (**Copiar a les meves baralles**) i la còpia apareix a Les meves baralles.
 
+També pots obrir primer una baralla de la Biblioteca: la seva pàgina mostra les targetes i **Comença · 12 noves**. No es copia res fins que prems Comença; llavors la còpia es crea a Les meves baralles i s'obre el seu primer repàs, i en tancar el repàs arribes a la teva còpia. Quan ja en tens una còpia, la pàgina de la baralla de la Biblioteca indica **A les meves baralles** i hi porta.
+
 ## Baralles públiques
 
 Les pàgines de verbs i de formes verbals llisten **Baralles públiques** que practiquen aquell verb. Obre'n una per veure'n les targetes, i tria **Copiar a les meves baralles** per estudiar-la. La teva còpia indica de quina baralla prové.
