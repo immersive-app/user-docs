@@ -39,7 +39,7 @@ La page Documents montre aussi la **Bibliothèque** : des textes authentiques p
 
 ## La liste des documents
 
-La page Documents liste les documents dans la langue que vous apprenez, avec un champ de recherche sur les titres. Chaque ligne montre la traduction du titre, le niveau et le nombre de mots. L'icône de signet sur un document le met en favori, et le bouton signet en haut de la page n'affiche que vos documents favoris. **Filtres** restreint la liste par niveau : **A1–A2**, **B1–B2** ou **C1–C2**.
+La page Documents liste les documents dans la langue que vous apprenez, avec un champ de recherche. Une recherche parcourt les titres, et leurs traductions, de vos documents, de vos livres et de leurs chapitres, et de la Bibliothèque, sans tenir compte des accents, et montre ce qu'elle trouve sous Livres, Documents et Bibliothèque. Chaque ligne montre la traduction du titre, le niveau et le nombre de mots. L'icône de signet sur un document le met en favori, et le bouton signet en haut de la page n'affiche que vos documents favoris. **Filtres** restreint la liste par niveau : **A1–A2**, **B1–B2** ou **C1–C2**.
 
 Pour créer un document, choisissez **+** (**Créer un nouveau document**). Le document est dans la langue que vous apprenez à ce moment-là.
 

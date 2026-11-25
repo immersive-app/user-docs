@@ -39,7 +39,7 @@ La página de Documentos también muestra la **Biblioteca**: textos auténticos 
 
 ## La lista de documentos
 
-La página de Documentos lista los documentos en el idioma que aprendes, con un cuadro de búsqueda por título. Cada fila muestra la traducción del título, el nivel y el recuento de palabras. El icono del marcador en un documento lo marca, y el botón del marcador en la parte superior de la página muestra solo tus documentos marcados. **Filtros** acota la lista por nivel: **A1–A2**, **B1–B2** o **C1–C2**.
+La página de Documentos lista los documentos en el idioma que aprendes, con un cuadro de búsqueda. Una búsqueda recorre los títulos, y sus traducciones, de tus documentos, tus libros y sus capítulos, y la Biblioteca, sin tener en cuenta los acentos, y muestra lo que encuentra bajo Libros, Documentos y Biblioteca. Cada fila muestra la traducción del título, el nivel y el recuento de palabras. El icono del marcador en un documento lo marca, y el botón del marcador en la parte superior de la página muestra solo tus documentos marcados. **Filtros** acota la lista por nivel: **A1–A2**, **B1–B2** o **C1–C2**.
 
 Para crear un documento, elige **+** (**Crear un nuevo documento**). El documento queda en el idioma que estés aprendiendo en ese momento.
 
