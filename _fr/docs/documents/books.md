@@ -39,7 +39,7 @@ Si l'importation échoue, la page dit pourquoi. **Réessayer** importe le même 
 
 ## Lire
 
-Sur la page **Documents**, la ligne d'un livre montre où vous en êtes, avec **Commencer** pour un nouveau livre et **Continuer** pour un livre en cours. Touchez la ligne pour la page du livre : la couverture, la table des matières et l'entrée, **Lire le chapitre 1** ou **Continuer la lecture**. **Documents**, au-dessus du titre, ramène à la page Documents avec le livre mis en évidence.
+Sur la page **Documents**, la ligne d'un livre montre où vous en êtes, avec **Commencer** pour un nouveau livre et **Continuer** pour un livre en cours. Touchez la ligne pour la page du livre : la couverture, la table des matières et l'entrée, **Lire le chapitre 1** ou **Continuer**. Un livre affiche **Continuer** dès le premier chapitre ouvert. **Documents**, au-dessus du titre, ramène à la page Documents avec le livre mis en évidence.
 
 Un chapitre s'ouvre dans le lecteur :
 
@@ -51,15 +51,15 @@ Un chapitre s'ouvre dans le lecteur :
 
 ## Fin de chapitre
 
-Après le dernier paragraphe vient la fin du chapitre, avec le titre, la longueur et le temps de lecture du chapitre suivant. **Chapitre suivant** l'ouvre, et **Retour au livre** ramène à la page du livre. Atteindre la fin marque le chapitre comme lu. La **Lecture à voix haute** s'arrête à la fin d'un chapitre.
+Après le dernier paragraphe vient la fin du chapitre, avec le titre, la longueur et le temps de lecture du chapitre suivant. **Chapitre suivant** l'ouvre, et **Retour au livre** ramène à la page du livre. En dessous, **Vérifiez votre compréhension** ouvre les questions sur le chapitre, et les fermer vous ramène à la fin du chapitre. Atteindre la fin marque le chapitre comme lu. La **Lecture à voix haute** s'arrête à la fin d'un chapitre.
 
 Après le dernier chapitre, le livre est terminé.
 
 ## Votre place
 
-Immersive garde votre place pendant que vous lisez, à la phrase près, et sur chaque appareil que vous utilisez. **Continuer** sur la ligne du livre, ou **Continuer la lecture** sur sa page, ouvre le chapitre où vous étiez, à la phrase où vous vous êtes arrêté.
+Immersive garde votre place pendant que vous lisez, à la phrase près, et sur chaque appareil que vous utilisez. **Continuer**, sur la ligne du livre ou sur sa page, ouvre le chapitre où vous étiez, à la phrase où vous vous êtes arrêté.
 
-La page du livre montre quelle part du livre vous avez lue et à peu près combien il en reste. Un livre terminé affiche **Terminé**, et **Relire** repart au chapitre 1 en gardant vos coches.
+La page du livre montre quelle part du livre vous avez lue et à peu près combien il en reste. Un livre terminé affiche **Terminé**, et **Relire** repart au chapitre 1 en gardant vos coches. Tant que vous ne lisez pas plus loin, le livre reste terminé.
 
 ## Modifier la table des matières
 
@@ -68,7 +68,7 @@ Si un livre a été découpé aux mauvais endroits, choisissez **Modifier** à c
 - **Renommer** : tapez un nouveau titre sur place. Entrée, ou quitter le champ, l'enregistre ; Échap remet l'ancien.
 - **Monter** et **Descendre** changent l'ordre.
 - **Fusionner avec « … »** joint un chapitre à celui qui le précède. Chaque mot est gardé, et le titre du chapitre fusionné reste dans le texte là où il commençait.
-- **Diviser…** coupe un chapitre en deux. Choisissez où commence le nouveau chapitre, à un titre ou à un paragraphe, puis **Diviser ici**. Chaque mot est gardé.
+- **Diviser…** coupe un chapitre en deux. Choisissez où commence le nouveau chapitre, à un titre ou à un paragraphe, puis **Diviser ici**. Chaque mot est gardé. À un titre, le titre nomme le nouveau chapitre, et les mots des deux chapitres font le compte de celui que vous avez divisé.
 - **Retirer — supprime le texte** supprime le chapitre et son texte : à utiliser pour les pages liminaires et finales que vous ne lirez pas. Un livre garde au moins un chapitre.
 - **Chapitres découpés selon** montre où le livre est coupé en ce moment, quand il pourrait l'être autrement. Choisissez un autre endroit (**Titre 1** à **Titre 3**, ou pour un fichier texte **Lignes de chapitre**, **Numéros** ou **Capitales**), puis **Redécouper** : tout le livre est redécoupé à partir du texte tel qu'il a été importé. Les chapitres renommés et votre position de lecture sont conservés là où le texte correspond encore.
 
