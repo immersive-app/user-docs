@@ -90,6 +90,10 @@ O Immersive lembra-se do tamanho do texto, da entrelinha, do recuo, da densidade
 
 O ícone do marcador no topo do leitor (na app, na barra no topo do ecrã) marca o documento; o botão do marcador na página Documentos passa então a listar apenas os documentos que marcou.
 
+## Perguntas
+
+No fim de um texto, **Verifique a sua compreensão** faz algumas perguntas sobre ele, na sua língua, ou na do texto com **Perguntas em** e a língua. Cada resposta é uma revisão, e as perguntas voltam como qualquer cartão, num só baralho por texto em **Baralhos**, seja qual for a língua das perguntas. A secção diz o que falta: «1 de 3 respondida» com **Continuar** e, quando todas estão respondidas, «3 de 3 · 2 certas à primeira», que conta a sua primeira resposta a cada pergunta.
+
 ## Edição e histórico
 
 Mude para **Escrever** no topo do leitor (na app, o lápis na barra no topo do ecrã) para editar o texto; também pode eliminar um documento a partir daí. O **Histórico** do documento guarda a versão anterior antes de cada edição, importação, correção aplicada ou restauro. Ver [Escrever documentos](writing-documents.md#histórico).

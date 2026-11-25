@@ -90,6 +90,10 @@ Immersive ricorda dimensione del testo, interlinea, rientro, densità degli aiut
 
 L'icona del segnalibro in cima al lettore (nell'app, nella barra in cima allo schermo) contrassegna il documento; il pulsante del segnalibro nella pagina Documenti elenca poi solo i documenti che hai salvato tra i segnalibri.
 
+## Domande
+
+Alla fine di un testo, **Verifica la tua comprensione** fa alcune domande sul testo, nella tua lingua, oppure in quella del testo con **Domande in** e la lingua. Ogni risposta è un ripasso, e le domande tornano come ogni carta, in un solo mazzo per testo in **Mazzi**, in qualunque lingua siano state fatte. La sezione dice cosa resta: «1 su 3 completata» con **Continua**, poi, quando tutte hanno una risposta, «3 su 3 · 2 giuste al primo colpo», che conta la tua prima risposta a ogni domanda.
+
 ## Modifica e cronologia
 
 Passa a **Scrivi** in cima al lettore (nell'app, la matita nella barra in cima allo schermo) per modificare il testo; da lì puoi anche eliminare un documento. La **Cronologia** del documento conserva la versione precedente prima di ogni modifica, importazione, correzione applicata o ripristino. Vedi [Scrivere documenti](writing-documents.md#cronologia).

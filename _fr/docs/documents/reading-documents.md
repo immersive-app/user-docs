@@ -90,6 +90,10 @@ Immersive se souvient de votre taille de texte, de votre interligne, de votre al
 
 L'icône de signet en haut du lecteur (dans l'app, dans la barre en haut de l'écran) met le document en favori ; le bouton signet de la page Documents ne liste alors que vos documents favoris.
 
+## Questions
+
+À la fin d'un texte, **Vérifiez votre compréhension** pose quelques questions sur le texte, dans votre langue, ou dans celle du texte avec **Questions en** et la langue. Chaque réponse est une révision, et les questions reviennent comme toute carte, dans un seul paquet par texte dans **Paquets**, quelle que soit la langue des questions. La section dit ce qui reste : « 1 sur 3 traitée » avec **Continuer**, puis, une fois toutes les questions traitées, « 3 sur 3 · 2 justes du premier coup », qui compte votre première réponse à chaque question.
+
 ## Modification et historique
 
 Passez à **Écrire** en haut du lecteur (dans l'app, le crayon de la barre en haut de l'écran) pour modifier le texte ; c'est aussi là que vous supprimez un document. L'**Historique** du document garde la version précédente avant chaque modification, importation, correction appliquée ou restauration. Voir [Écrire des documents](writing-documents.md#historique).
