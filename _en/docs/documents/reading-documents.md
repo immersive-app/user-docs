@@ -89,6 +89,10 @@ Immersive remembers your text size, spacing, indent, aid density, theme, full sc
 
 The bookmark icon at the top of the reader (in the app, in the bar at the top of the screen) marks the document; the bookmark button on the Documents page then lists only your bookmarked documents.
 
+## Questions
+
+At the end of a text, **Check your understanding** asks a few questions about it, in your language, or in the text's own with **Ask in** and the language. Each answer is a review, and the questions come back like any card, in one deck per text in **Decks**, whichever language they were asked in. The section says what is left: "1 of 3 answered" with **Continue**, then, once every question is answered, "3 of 3 · 2 right first time", which counts your first answer to each question.
+
 ## Editing and history
 
 Switch to **Write** at the top of the reader (in the app, the pencil in the bar at the top of the screen) to edit the text; delete a document from there too. The document's **History** keeps the previous version before each edit, import, applied correction, or restore. See [Writing documents](writing-documents.md#history).

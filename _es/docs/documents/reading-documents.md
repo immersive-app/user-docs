@@ -90,6 +90,10 @@ Immersive recuerda tu tamaño de texto, tu interlineado, tu sangría, la densida
 
 El icono del marcador en la parte superior del lector (en la app, en la barra de arriba de la pantalla) marca el documento; el botón del marcador en la página de Documentos lista entonces solo tus documentos marcados.
 
+## Preguntas
+
+Al final de un texto, **Comprueba tu comprensión** hace unas preguntas sobre él, en tu idioma, o en el del texto con **Preguntas en** y el idioma. Cada respuesta es un repaso, y las preguntas vuelven como cualquier tarjeta, en un solo mazo por texto en **Mazos**, sea cual sea el idioma de las preguntas. La sección dice lo que queda: «1 de 3 respondida» con **Continuar** y, cuando todas están respondidas, «3 de 3 · 2 acertadas a la primera», que cuenta tu primera respuesta a cada pregunta.
+
 ## Edición e historial
 
 Cambia a **Escribir** en la parte superior del lector (en la app, el lápiz de la barra de arriba de la pantalla) para editar el texto; desde ahí también puedes eliminar un documento. El **Historial** del documento guarda la versión anterior antes de cada edición, importación, corrección aplicada o restauración. Ver [Escribir documentos](writing-documents.md#historial).

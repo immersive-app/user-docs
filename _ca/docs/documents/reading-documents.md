@@ -90,6 +90,10 @@ Immersive recorda la mida del text, l'interlineat, el sagnat, la densitat d'ajud
 
 La icona del marcador a dalt del lector (a l'app, a la barra de dalt de la pantalla) marca el document; llavors, el botó del marcador de la pàgina de Documents llista només els documents marcats.
 
+## Preguntes
+
+Al final d'un text, **Comprova la teva comprensió** fa unes quantes preguntes sobre el text, en la teva llengua, o en la del text amb **Preguntes en** i la llengua. Cada resposta és un repàs, i les preguntes tornen com qualsevol targeta, en un sol mall per text a **Malls**, sigui quina sigui la llengua de les preguntes. La secció diu què queda: «1 de 3 contestada» amb **Continua** i, quan totes estan contestades, «3 de 3 · 2 encertades a la primera», que compta la teva primera resposta a cada pregunta.
+
 ## Edició i historial
 
 Canvia a **Escriu** a dalt del lector (a l'app, el llapis de la barra de dalt de la pantalla) per editar el text; també hi pots eliminar un document. L'**Historial** del document conserva la versió anterior abans de cada edició, importació, correcció aplicada o restauració. Vegeu [Escriure documents](writing-documents.md#historial).
