@@ -72,12 +72,15 @@ Dois botões redondos ficam no canto inferior direito do leitor (empilhados num 
 - **Tamanho do texto**: o A pequeno e o A grande tornam o texto de leitura mais pequeno ou maior, em cinco passos. As definições e os cartões das palavras mantêm o tamanho.
 - **Entrelinha** (1, 1.5 ou 2) e **Recuo** (**Não** ou **Sim**).
 - **Tema** (**Clássico**, **Papel**, **Calmo** ou **Solarized**) e **Aparência** (**Claro**, **Escuro** ou **Sistema**), a mesma escolha que em [Perfil → Conta](../profile.md#conta).
+- **Ecrã inteiro** (**Sim** ou **Não**): ativo, a barra e os botões redondos afastam-se enquanto continua a ler, e voltam assim que desliza um pouco para cima ou toca na linha ao fundo do ecrã. Essa linha mostra o tempo que falta para o fim do texto, pelo menos 1 min, com o ecrã inteiro ativo ou não.
 - **Voz de leitura**: **Voz automática** ou uma voz com nome, mostrada quando há vozes disponíveis para a língua.
 - **Ajudas**: **Completa** ou **Leve**.
 - **Ler em voz alta**, e um botão para imprimir.
 - O nível do documento, a contagem de palavras e o tempo de leitura.
 
-O Immersive lembra-se do tamanho do texto, da entrelinha, do recuo, da densidade das ajudas, do tema e da voz (a voz por língua). Toque fora das definições, ou prima Esc, para os fechar.
+Num telemóvel, as definições abrem-se ao fundo do ecrã, com o texto por cima, por isso um tamanho, uma entrelinha ou um tema vê-se no texto à medida que o escolhe.
+
+O Immersive lembra-se do tamanho do texto, da entrelinha, do recuo, da densidade das ajudas, do tema, do ecrã inteiro e da voz (a voz por língua). Toque em **×** no topo das definições, toque fora delas, ou prima Esc, para as fechar.
 
 ## Ler em voz alta
 
@@ -85,11 +88,11 @@ O Immersive lembra-se do tamanho do texto, da entrelinha, do recuo, da densidade
 
 ## Marcadores
 
-O ícone do marcador no topo do leitor marca o documento; o botão do marcador na página Documentos passa então a listar apenas os documentos que marcou.
+O ícone do marcador no topo do leitor (na app, na barra no topo do ecrã) marca o documento; o botão do marcador na página Documentos passa então a listar apenas os documentos que marcou.
 
 ## Edição e histórico
 
-Mude para **Escrever** no topo do leitor para editar o texto; também pode eliminar um documento a partir daí. O **Histórico** do documento guarda a versão anterior antes de cada edição, importação, correção aplicada ou restauro. Ver [Escrever documentos](writing-documents.md#histórico).
+Mude para **Escrever** no topo do leitor (na app, o lápis na barra no topo do ecrã) para editar o texto; também pode eliminar um documento a partir daí. O **Histórico** do documento guarda a versão anterior antes de cada edição, importação, correção aplicada ou restauro. Ver [Escrever documentos](writing-documents.md#histórico).
 
 ## Para saber mais
 
