@@ -24,12 +24,11 @@ Para um livro inteiro, lido por capítulos, use antes **Adicionar um livro**: ve
 
 Abra um documento para o ler. Por baixo do título vê a tradução na sua língua.
 
-- **Toque** numa palavra ou frase: um pequeno cartão mostra a tradução, com um botão de **altifalante** e **Mais**.
-- **Toque de novo** para a ouvir em voz alta. Tocar noutro sítio fecha o cartão.
+- **Toque** numa palavra: um pequeno cartão mostra a tradução, com um botão de **altifalante** e **Mais**.
+- **A frase**, no fundo do cartão, mostra a tradução da frase onde está a palavra, com o seu próprio altifalante e **Mais**.
+- **Toque de novo** para ouvir a palavra em voz alta. Tocar noutro sítio fecha o cartão.
 - A barra na parte de baixo guarda a **última palavra** que consultou, com o seu significado e, quando existe, uma palavra parecida numa língua que conhece.
 - Todas as palavras e frases que consulta ficam registadas no seu [Vocabulário](../vocabulary.md).
-
-O controlo **Visualização** (nas definições de leitura, abaixo) define o que um toque seleciona: **Frases** (por defeito) ou **Palavras**.
 
 ## O painel Mais
 
@@ -47,7 +46,7 @@ O controlo **Visualização** (nas definições de leitura, abaixo) define o que
 
 Algumas palavras e frases trazem um sublinhado subtil: a camada de ajudas, adaptada às línguas que conhece e ao seu nível.
 
-Na visualização **Palavras**:
+Numa palavra:
 
 - **Dedutível pelo contexto**: tente a palavra antes de a revelar. O primeiro toque dá-lhe um empurrão; o segundo, ou **Revelar**, mostra a palavra parecida numa língua que conhece ou o sentido no contexto.
 - **Ouça primeiro**: o som é mais claro do que a grafia.
@@ -55,10 +54,10 @@ Na visualização **Palavras**:
 - **Visto antes**: liga uma palavra ao sítio onde apareceu pela primeira vez no texto.
 - **Pode saltar**: o sentido geral mantém-se sem ela.
 
-Na visualização **Frases**:
+Numa frase, cujas ajudas aparecem em **A frase** no cartão de qualquer uma das suas palavras:
 
 - **Pode saltar** numa frase inteira.
-- Um **sublinhado tracejado** marca uma frase com uma construção que a [gramática da leitura](../grammar/grammar-of-reading.md) abrange. Toque-lhe para ver a comparação: se a língua que está a aprender difere aqui das suas ou funciona da mesma forma, com uma ligação à comparação completa. Essa página devolve-o à mesma frase.
+- Um **sublinhado tracejado** marca uma frase com uma construção que a [gramática da leitura](../grammar/grammar-of-reading.md) abrange. Toque numa das suas palavras e depois em **A frase** para ver a comparação: se a língua que está a aprender difere aqui das suas ou funciona da mesma forma, com uma ligação à comparação completa. Essa página devolve-o à mesma frase.
 
 **Ajudas**, nas definições de leitura, alterna entre **Completa** e **Leve**; Leve mantém apenas as ajudas mais importantes. As ajudas rareiam à medida que o seu nível sobe (os iniciantes veem muitas, os leitores avançados poucas), e uma língua que marcou como nativa não tem nenhuma. As ajudas são preparadas em segundo plano, por isso um documento que acabou de adicionar pode mostrá-las um pouco mais tarde.
 
@@ -70,7 +69,6 @@ Quando revela uma palavra dedutível, o Immersive cria um cartão de revisão a 
 
 Dois botões redondos ficam no canto inferior direito do leitor (empilhados num telemóvel): o botão de conversa abre o [Coach](../coach.md) com o documento à vista, e o botão dos controlos deslizantes abre os ajustes de leitura:
 
-- **Visualização**: **Palavras** ou **Frases**.
 - **Tamanho do texto**: o A pequeno e o A grande tornam o texto de leitura mais pequeno ou maior, em cinco passos. As definições e os cartões das palavras mantêm o tamanho.
 - **Entrelinha** (1, 1.5 ou 2) e **Recuo** (**Não** ou **Sim**).
 - **Tema** (**Clássico**, **Papel**, **Calmo** ou **Solarized**) e **Aparência** (**Claro**, **Escuro** ou **Sistema**), a mesma escolha que em [Perfil → Conta](../profile.md#conta).

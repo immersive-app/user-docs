@@ -24,12 +24,11 @@ Per a un llibre sencer, llegit per capítols, fes servir **Afegeix un llibre**: 
 
 Obre un document per llegir-lo. Sota el títol en veus la traducció en la teva llengua.
 
-- **Toca** una paraula o frase: una petita targeta en mostra la traducció, amb un botó d'**altaveu** i **Més**.
-- **Toca de nou** per escoltar-la en veu alta. Tocar en un altre lloc tanca la targeta.
+- **Toca** una paraula: una petita targeta en mostra la traducció, amb un botó d'**altaveu** i **Més**.
+- **La frase**, al peu de la targeta, mostra la traducció de la frase on és la paraula, amb el seu propi altaveu i **Més**.
+- **Toca de nou** per escoltar la paraula en veu alta. Tocar en un altre lloc tanca la targeta.
 - La barra de la part inferior conserva l'**última paraula** que has consultat, amb el seu significat i, quan n'hi ha, una paraula semblant d'una llengua que coneixes.
 - Cada paraula i frase que consultes queda registrada al teu [Vocabulari](../vocabulary.md).
-
-El control **Vista** (als controls de lectura, més avall) estableix què selecciona un toc: **Frases** (per defecte) o **Paraules**.
 
 ## El plafó Més
 
@@ -47,7 +46,7 @@ El control **Vista** (als controls de lectura, més avall) estableix què selecc
 
 Algunes paraules i frases porten un subratllat subtil: la capa d'ajudes, adaptada a les llengües que coneixes i al teu nivell.
 
-A la vista **Paraules**:
+En una paraula:
 
 - **Es pot deduir del context**: prova la paraula abans de revelar-la. El primer toc t'hi empeny; el segon, o **Revela**, mostra la paraula semblant d'una llengua que coneixes o el significat en context.
 - **Escolta primer**: el so és més clar que l'ortografia.
@@ -55,10 +54,10 @@ A la vista **Paraules**:
 - **Vist abans**: enllaça una paraula amb el lloc on va aparèixer per primer cop al text.
 - **Es pot saltar**: el sentit general es manté sense ella.
 
-A la vista **Frases**:
+En una frase, les ajudes de la qual es mostren sota **La frase** a la targeta de qualsevol de les seves paraules:
 
 - **Es pot saltar** en una frase sencera.
-- Un **subratllat de punts** marca una frase amb una construcció que la [gramàtica de la lectura](../grammar/grammar-of-reading.md) tracta. Toca-la per veure la comparació: si la llengua que aprens difereix aquí de les teves o funciona igual, amb un enllaç a la comparació completa. Aquella pàgina et torna a la mateixa frase.
+- Un **subratllat de punts** marca una frase amb una construcció que la [gramàtica de la lectura](../grammar/grammar-of-reading.md) tracta. Toca una de les seves paraules i després **La frase** per veure la comparació: si la llengua que aprens difereix aquí de les teves o funciona igual, amb un enllaç a la comparació completa. Aquella pàgina et torna a la mateixa frase.
 
 **Ajudes**, als controls de lectura, canvia entre **Completa** i **Lleugera**; Lleugera només conserva les ajudes més importants. Les ajudes s'esvaeixen a mesura que el teu nivell puja (els principiants en veuen moltes, els lectors avançats poques), i una llengua que has marcat com a nativa no en té cap. Les ajudes es preparen en segon pla, així que un document que acabes d'afegir pot mostrar-les una mica més tard.
 
@@ -70,7 +69,6 @@ Quan reveles una paraula deduïble, Immersive crea una targeta de repàs d'aquel
 
 Dos botons rodons són a baix a la dreta del lector (apilats en un mòbil): el botó de xat obre el [Coach](../coach.md) amb el document a la vista, i el botó dels controls lliscants obre els controls de lectura:
 
-- **Vista**: **Paraules** o **Frases**.
 - **Mida del text**: la A petita i la A gran fan el text de lectura més petit o més gran, en cinc passos. Els controls i les targetes de les paraules mantenen la seva mida.
 - **Interlineat** (1, 1,5 o 2) i **Sagnat** (sí o no).
 - **Tema** (**Clàssic**, **Paper**, **Tranquil** o **Solarized**) i **Aparença** (**Clar**, **Fosc** o **Sistema**), la mateixa opció que a [Perfil → Compte](../profile.md#compte).
