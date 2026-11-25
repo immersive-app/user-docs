@@ -13,7 +13,7 @@ El lector es basa en un principi: reeixir vol dir entendre el text, no traduir c
 ## Portar-hi un text
 
 1. Obre **Documents** i tria **+** (**Crea un document nou**). Si encara no tens cap document, la pàgina ofereix **Puja un document** i **O comença des d'una pàgina en blanc**; tots dos obren el mateix editor.
-2. Posa un títol al document i afegeix-hi el text: escriu-lo o enganxa'l, o fes servir **Importa des d'un fitxer**. S'accepten text, Markdown, PDF i fotos d'una pàgina (JPEG, PNG, WebP), fins a 10 MB. Un fitxer pujat substitueix el text enganxat.
+2. Afegeix el text: escriu-lo o enganxa'l, o fes servir **Importa des d'un fitxer**. S'accepten text, Markdown, PDF i fotos d'una pàgina (JPEG, PNG, WebP), fins a 10 MB. Si tries un fitxer quan ja hi ha text, Immersive et pregunta quin vols conservar. El títol és opcional: si el deixes en blanc, surt del nom del fitxer o de la primera línia del text.
 3. Tria **Desar**. Immersive converteix el text en paraules i frases que es poden tocar, cosa que triga uns segons: el lector diu «S'està preparant el teu text» i mostra el text tot sol quan està a punt, sense recarregar. Un fitxer importat es llegeix primer. Els PDF escanejats i les fotos els llegeix la IA, i el lector ho indica a sobre del text: revisa'l comparant-lo amb la pàgina.
 
 No tens cap text a mà? Obre la **Biblioteca** per trobar textos amb un nivell i un recompte de paraules coneguts.

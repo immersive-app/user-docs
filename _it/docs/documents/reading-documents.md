@@ -13,7 +13,7 @@ Il lettore è costruito su un principio: riesci quando capisci il testo, non qua
 ## Portare dentro un testo
 
 1. Apri **Documenti** e scegli **+** (**Crea un nuovo documento**). Se non hai ancora documenti, la pagina offre **Carica un documento** e **Oppure parti da una pagina bianca**; entrambi aprono lo stesso editor.
-2. Dai un titolo al documento e aggiungi il testo: scrivilo o incollalo, oppure usa **Importa da un file**. Sono accettati testo, Markdown, PDF e foto di una pagina (JPEG, PNG, WebP), fino a 10 MB. Un file caricato sostituisce il testo incollato.
+2. Aggiungi il testo: scrivilo o incollalo, oppure usa **Importa da un file**. Sono accettati testo, Markdown, PDF e foto di una pagina (JPEG, PNG, WebP), fino a 10 MB. Se scegli un file quando c'è già del testo, Immersive ti chiede quale tenere. Il titolo è facoltativo: se lo lasci vuoto, viene dal nome del file o dalla prima riga del testo.
 3. **Salva**. Immersive trasforma il testo in parole e frasi da toccare, e ci vogliono pochi secondi: il lettore dice «Preparazione del tuo testo» e mostra il testo da solo quando è pronto, senza ricaricare. Un file importato viene prima letto. I PDF scansionati e le foto vengono letti dall'IA, e il lettore lo dice sopra il testo: confrontalo con la pagina.
 
 Non hai un testo tuo sottomano? Apri la **Biblioteca** per testi con livello e conteggio di parole noti.

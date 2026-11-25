@@ -13,7 +13,7 @@ El lector se basa en un principio: triunfas entendiendo el texto, no traduciendo
 ## Traer un texto
 
 1. Abre **Documentos** y elige **+** (**Crear un nuevo documento**). Si aún no tienes documentos, la página ofrece **Subir un documento** y **O empieza desde una página en blanco**; los dos abren el mismo editor.
-2. Ponle un título al documento y añade el texto: escríbelo o pégalo, o usa **Importar desde un archivo**. Se aceptan texto, Markdown, PDF y fotos de una página (JPEG, PNG, WebP), de hasta 10 MB. Un archivo subido sustituye al texto pegado.
+2. Añade el texto: escríbelo o pégalo, o usa **Importar desde un archivo**. Se aceptan texto, Markdown, PDF y fotos de una página (JPEG, PNG, WebP), de hasta 10 MB. Si eliges un archivo cuando ya hay texto, Immersive te pregunta cuál conservar. El título es opcional: si lo dejas vacío, se toma del nombre del archivo o de la primera línea del texto.
 3. **Guardar**. Immersive convierte el texto en palabras y frases que puedes tocar, lo que tarda unos segundos: el lector indica «Preparando tu texto» y muestra el texto solo cuando está listo, sin recargar. Un archivo importado se lee primero. Los PDF escaneados y las fotos los lee una IA, y el lector lo indica encima del texto: compáralo con la página.
 
 ¿No tienes ningún texto a mano? Abre la **Biblioteca** para encontrar textos con nivel y recuento de palabras conocidos.
