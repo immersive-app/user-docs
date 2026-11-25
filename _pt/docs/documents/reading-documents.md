@@ -24,10 +24,10 @@ Para um livro inteiro, lido por capítulos, use antes **Adicionar um livro**: ve
 
 Abra um documento para o ler. Por baixo do título vê a tradução na sua língua.
 
-- **Toque** numa palavra: um pequeno cartão mostra a tradução, com um botão de **altifalante** e **Mais**.
+- **Toque** numa palavra: abre-se um cartão no fundo do ecrã com a tradução, um botão de **altifalante** e **Mais**. Se for preciso, o texto sobe para que a palavra continue à vista por cima do cartão.
 - **A frase**, no fundo do cartão, mostra a tradução da frase onde está a palavra, com o seu próprio altifalante e **Mais**.
 - **Toque de novo** para ouvir a palavra em voz alta. Tocar noutro sítio fecha o cartão.
-- A barra na parte de baixo guarda a **última palavra** que consultou, com o seu significado e, quando existe, uma palavra parecida numa língua que conhece.
+- Quando o seu toque faz da palavra um cartão, o cartão diz **Adicionado**, com **Anular** para o retirar. Quando a palavra tem uma palavra parecida numa língua que conhece, o cartão também a mostra.
 - Todas as palavras e frases que consulta ficam registadas no seu [Vocabulário](../vocabulary.md).
 
 ## O painel Mais
@@ -67,7 +67,7 @@ Quando revela uma palavra dedutível, o Immersive cria um cartão de revisão a 
 
 ## Definições de leitura
 
-Dois botões redondos ficam no canto inferior direito do leitor (empilhados num telemóvel): o botão de conversa abre o [Coach](../coach.md) com o documento à vista, e o botão dos controlos deslizantes abre os ajustes de leitura:
+Dois botões redondos ficam no canto inferior direito do leitor (empilhados num telemóvel, e afastados enquanto o cartão de uma palavra está aberto): o botão de conversa abre o [Coach](../coach.md) com o documento à vista, e o botão dos controlos deslizantes abre os ajustes de leitura:
 
 - **Tamanho do texto**: o A pequeno e o A grande tornam o texto de leitura mais pequeno ou maior, em cinco passos. As definições e os cartões das palavras mantêm o tamanho.
 - **Entrelinha** (1, 1.5 ou 2) e **Recuo** (**Não** ou **Sim**).

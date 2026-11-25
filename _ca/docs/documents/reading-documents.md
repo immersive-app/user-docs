@@ -24,10 +24,10 @@ Per a un llibre sencer, llegit per capítols, fes servir **Afegeix un llibre**: 
 
 Obre un document per llegir-lo. Sota el títol en veus la traducció en la teva llengua.
 
-- **Toca** una paraula: una petita targeta en mostra la traducció, amb un botó d'**altaveu** i **Més**.
+- **Toca** una paraula: s'obre una targeta al peu de la pantalla amb la traducció, un botó d'**altaveu** i **Més**. Si cal, el text puja perquè la paraula continuï a la vista damunt la targeta.
 - **La frase**, al peu de la targeta, mostra la traducció de la frase on és la paraula, amb el seu propi altaveu i **Més**.
 - **Toca de nou** per escoltar la paraula en veu alta. Tocar en un altre lloc tanca la targeta.
-- La barra de la part inferior conserva l'**última paraula** que has consultat, amb el seu significat i, quan n'hi ha, una paraula semblant d'una llengua que coneixes.
+- Quan el teu toc fa de la paraula una targeta, la targeta diu **Afegit**, amb **Desfés** per treure-la. Quan la paraula té una paraula semblant d'una llengua que coneixes, la targeta també la mostra.
 - Cada paraula i frase que consultes queda registrada al teu [Vocabulari](../vocabulary.md).
 
 ## El plafó Més
@@ -67,7 +67,7 @@ Quan reveles una paraula deduïble, Immersive crea una targeta de repàs d'aquel
 
 ## Controls de lectura
 
-Dos botons rodons són a baix a la dreta del lector (apilats en un mòbil): el botó de xat obre el [Coach](../coach.md) amb el document a la vista, i el botó dels controls lliscants obre els controls de lectura:
+Dos botons rodons són a baix a la dreta del lector (apilats en un mòbil, i apartats mentre la targeta d'una paraula és oberta): el botó de xat obre el [Coach](../coach.md) amb el document a la vista, i el botó dels controls lliscants obre els controls de lectura:
 
 - **Mida del text**: la A petita i la A gran fan el text de lectura més petit o més gran, en cinc passos. Els controls i les targetes de les paraules mantenen la seva mida.
 - **Interlineat** (1, 1,5 o 2) i **Sagnat** (sí o no).

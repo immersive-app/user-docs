@@ -24,10 +24,10 @@ Pour un livre entier, lu par chapitres, utilisez plutôt **Ajouter un livre** :
 
 Ouvrez un document pour le lire. Sous le titre, vous voyez sa traduction dans votre langue.
 
-- **Toucher** un mot : une petite carte montre sa traduction, avec un bouton **haut-parleur** et **Plus**.
+- **Toucher** un mot : une carte s'ouvre au pied de l'écran avec sa traduction, un bouton **haut-parleur** et **Plus**. Si besoin, le texte remonte pour que le mot reste visible au-dessus de la carte.
 - **La phrase**, au pied de la carte, montre la traduction de la phrase où se trouve le mot, avec son propre haut-parleur et **Plus**.
 - **Toucher à nouveau** pour écouter le mot. Toucher ailleurs ferme la carte.
-- La barre en bas garde le **Dernier mot** que vous avez consulté, avec son sens et, s'il y en a un, un sosie dans une langue que vous connaissez.
+- Quand votre toucher fait du mot une carte, la carte affiche **Ajouté**, avec **Annuler** pour la retirer. Quand le mot a un sosie dans une langue que vous connaissez, la carte le montre aussi.
 - Chaque mot et chaque phrase que vous consultez sont enregistrés dans votre [Vocabulaire](../vocabulary.md).
 
 ## Le panneau Plus
@@ -67,7 +67,7 @@ Quand vous révélez un mot devinable, Immersive crée une carte de révision à
 
 ## Réglages de lecture
 
-Deux boutons ronds se trouvent en bas à droite du lecteur (empilés sur un téléphone) : le bouton de chat ouvre le [Coach](../coach.md) avec le document sous les yeux, et le bouton à curseurs ouvre les réglages de lecture :
+Deux boutons ronds se trouvent en bas à droite du lecteur (empilés sur un téléphone, et écartés tant que la carte d'un mot est ouverte) : le bouton de chat ouvre le [Coach](../coach.md) avec le document sous les yeux, et le bouton à curseurs ouvre les réglages de lecture :
 
 - **Taille du texte** : le petit A et le grand A rendent le texte de lecture plus petit ou plus grand, en cinq paliers. Les réglages et les cartes des mots gardent leur taille.
 - **Interligne** (1, 1,5 ou 2) et **Alinéa** (non ou oui).

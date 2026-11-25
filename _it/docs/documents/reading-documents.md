@@ -24,10 +24,10 @@ Per un libro intero, letto a capitoli, usa invece **Aggiungi un libro**: vedi [L
 
 Apri un documento per leggerlo. Sotto il titolo vedi la sua traduzione nella tua lingua.
 
-- **Tocca** una parola: una piccola scheda mostra la traduzione, con un pulsante **altoparlante** e **Altro**.
+- **Tocca** una parola: in fondo allo schermo si apre una scheda con la traduzione, un pulsante **altoparlante** e **Altro**. Se serve, il testo sale perché la parola resti in vista sopra la scheda.
 - **La frase**, in fondo alla scheda, mostra la traduzione della frase in cui si trova la parola, con il suo altoparlante e **Altro**.
 - **Tocca di nuovo** per sentire la parola letta ad alta voce. Toccando altrove la scheda si chiude.
-- La barra in fondo conserva l'**ultima parola** che hai consultato, con il suo significato e, quando c'è, un sosia in una lingua che conosci.
+- Quando il tuo tocco fa della parola una scheda, la scheda dice **Aggiunto**, con **Annulla** per toglierla. Quando la parola ha un sosia in una lingua che conosci, la scheda lo mostra anche.
 - Ogni parola e frase che consulti viene registrata nel tuo [Vocabolario](../vocabulary.md).
 
 ## Il pannello Altro
@@ -67,7 +67,7 @@ Quando riveli una parola intuibile, Immersive crea una carta di ripasso da quel 
 
 ## Impostazioni di lettura
 
-Due pulsanti rotondi stanno in basso a destra nel lettore (impilati su un telefono): il pulsante della chat apre il [Coach](../coach.md) con il documento sotto gli occhi, e il pulsante dei cursori apre le impostazioni di lettura:
+Due pulsanti rotondi stanno in basso a destra nel lettore (impilati su un telefono, e messi da parte mentre la scheda di una parola è aperta): il pulsante della chat apre il [Coach](../coach.md) con il documento sotto gli occhi, e il pulsante dei cursori apre le impostazioni di lettura:
 
 - **Dimensione del testo**: la A piccola e la A grande rendono il testo di lettura più piccolo o più grande, in cinque passi. Le impostazioni e le schede delle parole mantengono la loro dimensione.
 - **Interlinea** (1, 1,5 o 2) e **Rientro** (no o sì).

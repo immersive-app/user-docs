@@ -23,10 +23,10 @@ For a whole book, read in chapters, use **Add a book** instead: see [Books](book
 
 Open a document to read it. Under the title you see its translation in your language.
 
-- **Tap** a word: a small card shows its translation, with a **speaker** button and **More**.
+- **Tap** a word: a card opens at the foot of the screen with its translation, a **speaker** button and **More**. The text moves up, when it needs to, so the word stays in view above the card.
 - **The sentence**, at the foot of the card, shows the translation of the sentence the word is in, with its own speaker and **More**.
 - **Tap again** to hear the word read aloud. Tapping elsewhere closes the card.
-- The bar at the bottom keeps the **last word** you looked up, with its meaning and, when there is one, a look-alike from a language you know.
+- When your tap makes the word a card, the card says **Added**, with **Undo** to take it back out. When the word has a look-alike from a language you know, the card shows it too.
 - Every word and sentence you look up is recorded in your [Vocabulary](../vocabulary.md), and a word you tap becomes a card in your **My vocabulary** deck, with its sentence.
 
 ## The More panel
@@ -66,7 +66,7 @@ When you reveal a guessable word, Immersive creates a review card from that mome
 
 ## Reading controls
 
-Two round buttons sit at the bottom right of the reader (stacked on a phone): the chat button opens the [Coach](../coach.md) with the document in view, and the sliders button opens the reading controls:
+Two round buttons sit at the bottom right of the reader (stacked on a phone, and out of the way while a word's card is open): the chat button opens the [Coach](../coach.md) with the document in view, and the sliders button opens the reading controls:
 
 - **Text size**: the small A and the large A make the reading text smaller or larger, in five steps. The controls and the word cards keep their size.
 - **Line spacing** (1, 1.5, or 2) and **Paragraph indent** (off or on).
