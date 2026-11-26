@@ -48,7 +48,7 @@ Tria un nivell (el teu surt primer), i després marca **Tot l'A2**, àrees sence
 
 Tria **Puja un full de càlcul** per importar moltes targetes alhora:
 
-1. Tria un fitxer **CSV o XLSX** amb dues columnes: el text en la llengua que aprens i la seva traducció. La traducció és opcional. **Baixa template.csv** et dona un fitxer per començar. Es llegeixen fins a 500 files.
+1. Tria un fitxer **CSV o XLSX** amb dues columnes: el text en la llengua que aprens i la seva traducció. La traducció és opcional. **Baixa template.csv** et dona un fitxer per començar; a l'aplicació s'obre al full de compartir del mòbil, des d'on el pots desar a Fitxers o enviar-lo. Es llegeixen fins a 500 files.
 2. Tria **Previsualitza**. Cada fila es converteix en una targeta de paraula o de frase, segons el text. Les files que ja són a la baralla es marquen **A la baralla** i arriben desmarcades, perquè no creïs duplicats; les traduccions que ha emplenat Immersive es marquen **Auto** perquè els puguis fer un cop d'ull.
 3. Marca les files que vulguis i tria **Importa targetes**.
 

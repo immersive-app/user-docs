@@ -60,7 +60,7 @@ Apri un mazzo e scegli la matita per aprire il suo spazio di lavoro. **Modifica 
 
 ## Eliminare un mazzo
 
-Elimina un mazzo con **Elimina mazzo**, in fondo al suo spazio di lavoro. L'eliminazione rimuove il mazzo, le sue carte e i loro progressi di ripasso; prima ti viene chiesta una conferma.
+Elimina un mazzo con **Elimina mazzo**, in fondo al suo spazio di lavoro. Prima ti viene chiesto, con il nome del mazzo e il numero delle sue carte: *Eliminare il mazzo «Verbes du premier groupe»? Le sue 15 carte e la loro cronologia dei ripassi spariscono con esso.* Una volta eliminato, una riga lo conferma.
 
 ## Per approfondire
 
