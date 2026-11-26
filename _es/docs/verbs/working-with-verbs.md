@@ -29,8 +29,10 @@ Abre un verbo para ver su página:
 
 - Las **formas nominales** (infinitivo, participios, gerundio) aparecen arriba.
 - Todos los tiempos están en la página, agrupados por modo, con todas las personas. Debajo de cada tabla, una **frase de ejemplo** con su traducción.
+- Con la sesión iniciada, **Para ti**, encima de las tablas, muestra hasta tres frases de ejemplo que necesitas practicar: en un tiempo o una forma que se te ha ido olvidando en tus repasos, o cuya tarjeta en tus mazos está pendiente. Cada una nombra su tiempo: elige el nombre para saltar a su tabla. Si no hay nada que practicar, la sección no aparece.
 - El **menú de tiempos** de la parte superior de la tabla lista todos los modos y tiempos: elige uno para saltar a su tabla. Al desplazarte, muestra el tiempo que estás mirando.
 - Con la sesión iniciada, **Pronombre** elige cómo se muestran las formas de tercera persona (masculino, femenino o los dos). Immersive recuerda tu elección.
+- Con la sesión iniciada, **Gramática** junto al nombre de un tiempo abre la nota de gramática que enseña ese tiempo, cuando la hay.
 
 El **altavoz** junto a una forma la reproduce cuando ya existe una grabación; la página propia de cada forma siempre puede reproducirla.
 
@@ -49,8 +51,6 @@ Cada forma de la tabla es un enlace. Abre una para ver su propia página:
 
 Con las comparaciones activadas (**Perfil → Cuenta → Idiomas**), la página de una forma muestra **A través de tus idiomas**: el mismo tiempo y la misma persona alineados en el idioma que aprendes y en los demás idiomas que conoces, ordenados de forma que las columnas vecinas sean las más parecidas. Ver *falo – hablo – parlo – parle* en una misma fila es a menudo todo lo que hace falta para que una forma se quede grabada. Aparece cuando al menos uno de tus idiomas registrados (tu idioma de la interfaz cuenta) tiene la forma correspondiente.
 
-**Añadir una tarjeta de comparación** la convierte en una tarjeta de repaso en un mazo llamado **Comparaciones puente** para el idioma, programada como cualquier otra tarjeta.
-
 Las frases de ejemplo funcionan como en el lector: toca una palabra para ver su traducción y oír su audio.
 
 ## En tus mazos y frases
@@ -58,17 +58,17 @@ Las frases de ejemplo funcionan como en el lector: toca una palabra para ver su 
 Con la sesión iniciada, la página de un verbo (y la de una forma) muestra también dos secciones sobre tu propio material:
 
 - **En tus mazos**: los mazos que tienen una tarjeta del verbo (o de esa forma exacta), con cuántas tarjetas de él tiene cada mazo y cuántas están pendientes. Abre un mazo desde su fila.
-- **En tus frases**: frases de tus documentos y de tu vocabulario que usan una forma del verbo, con la forma en negrita; **Mostrar más** lista el resto. La línea de origen abre el documento en esa frase.
+- **En tus frases**: frases de tus documentos y de tu vocabulario que usan una forma del verbo, con la forma en negrita; **Mostrar 3 más** lista el resto. La línea de origen abre el documento en esa frase.
 
 Cada sección conserva su título cuando aún no hay nada, para que sepas dónde se irán reuniendo las cosas. Sin sesión iniciada, la página muestra en su lugar una sola invitación a iniciar sesión.
 
 ## Añadir un verbo a un mazo
 
-Elige **Añadir a un mazo** en la parte superior de la página de un verbo y escoge uno de tus mazos en ese idioma. El espacio de trabajo del mazo se abre en su formulario de verbos con el verbo ya seleccionado (y también el tiempo, desde la página de una forma): elige los tiempos que quieras y crea las tarjetas. No se añade nada hasta que lo hagas. Si aún no tienes ningún mazo en ese idioma, el menú ofrece **Crear un nuevo mazo**.
+Elige **Añadir a un mazo**, junto al menú de tiempos en la página de un verbo, o junto a la forma en la parte superior de la página de una forma, y escoge uno de tus mazos de verbos en ese idioma. La tabla del mazo se abre con el verbo como fila nueva, marcado en los tiempos del mazo: cambia las marcas si quieres y elige **Guardar**. No se añade nada hasta que lo haces. Un mazo que ya tiene el verbo aparece como **En** y su nombre, y abre el mazo. Si aún no tienes ningún mazo de verbos en el idioma que aprendes, el menú ofrece **Crear un nuevo mazo**, que abre **Nuevo mazo de verbos** con el verbo marcado (y también el tiempo, desde la página de una forma).
 
 ## Practicar verbos en mazos
 
-La sección de Verbos es una referencia; la práctica ocurre en tus mazos. Cuando añades tarjetas a un mazo puedes elegir verbos y tiempos, y decidir entre una tarjeta por persona o la tabla completa del tiempo en una sola tarjeta. Ver [Crear mazos](../decks/creating-decks.md).
+La sección Verbos es una referencia; la práctica ocurre en tus mazos de verbos. Eliges verbos y tiempos, y cada verbo en cada tiempo se convierte en una tarjeta con sus seis formas y sus frases de ejemplo. Ver [Crear mazos](../decks/creating-decks.md#un-mazo-de-verbos) y [Repasar tarjetas](../decks/reviewing-cards.md#la-tarjeta-de-verbo).
 
 ## Más lectura
 

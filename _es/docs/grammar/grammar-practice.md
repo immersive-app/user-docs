@@ -8,22 +8,27 @@ lang: es
 
 # Práctica de gramática
 
-Leer una nota una vez no basta para que un punto gramatical se quede. **Practicar** convierte los ejercicios de una nota en tarjetas de repaso que vuelven con el mismo calendario basado en la memoria que tus mazos.
+Leer una nota una vez no basta para que un punto gramatical se quede. La práctica convierte los ejercicios de las notas en tarjetas de repaso que vuelven con el mismo calendario basado en la memoria que tus mazos.
 
-## Practicar una nota
+## Practicar
 
-En una nota de gramática, **Practicar** (con cuántas tarjetas hay pendientes, nuevas o en espera) crea las tarjetas de la nota, si aún no tienes ninguna, y empieza un repaso de esa nota. Las tarjetas van a un mazo llamado **Práctica de gramática** para el idioma, que también ves en Mis mazos. La flecha de al lado lista tus mazos, para añadir en cambio las tarjetas de la nota a uno de ellos, a través de la pestaña **Gramática** del mazo (ver [Crear mazos](../decks/creating-decks.md#gramática)). Una nota sin ejercicios se practica a partir de sus propias frases de ejemplo, así que todas las notas se pueden practicar.
+Practicas un nivel o un área cada vez:
 
-Una página de nivel o de área ofrece **Practicar todo**, con el número de tarjetas, para todas sus notas.
+- En la página de un nivel, **Practicar todo · 12 tarjetas**, al principio de la lista de áreas, abarca todas las notas del nivel, y **Practicar**, en la fila de un área, abarca esa área.
+- En la página de un área, **Practicar todo · 5 tarjetas**, al principio de la lista de notas, abarca todas las notas del área.
+
+Cada botón crea las tarjetas que aún no tienes y empieza el repaso enseguida. Las tarjetas van a un mazo llamado **Práctica de gramática** para el idioma, que también ves en Mis mazos. Una nota sin ejercicios se practica a partir de sus propias frases de ejemplo. Un nivel o un área sin nada que practicar no tiene botón.
+
+En una nota, cada ejercicio que respondes también se convierte en una tarjeta de Práctica de gramática, y cada respuesta cuenta como un repaso de esa tarjeta: una respuesta correcta como **Bien**, una incorrecta como **Otra vez**, esté la tarjeta pendiente o no. Otro intento después de un fallo es un repaso más. La misma respuesta enviada dos veces seguidas, con un doble toque, cuenta una sola vez. Ver [Leer notas de gramática](review-grammar.md#ejercicios).
 
 ## Repasar gramática
 
 Los repasos de gramática pueden abarcar una nota, un área, un nivel o todo:
 
-- En la página de Gramática: **Repasar 3 pendientes**, o **Practicar · 5 nuevas** cuando no hay nada pendiente.
+- En la página de Gramática, en una pantalla más ancha: **Repasar 3 pendientes**, o **Practicar · 5 nuevas** cuando no hay nada pendiente.
 - En la página de un nivel: **Repasar 3 pendientes en B1**.
-- En la página de un área: **Repasar esta área** o **Practicar esta área**.
-- En una nota: **Practicar**.
+- En la página de un área: **Repasar esta área · 3 pendientes**, o **Practicar esta área**.
+- En una nota: en un móvil, cuando una nota tiene ejercicios pendientes, **Continuar** en la página de Gramática la abre en esos ejercicios. Cuando los has hecho, la nota dice **Repasada por hoy.**, y **Nota siguiente** pasa a la siguiente.
 
 El repaso funciona como el de un mazo (ver [Repasar tarjetas](../decks/reviewing-cards.md)), con tres modos:
 

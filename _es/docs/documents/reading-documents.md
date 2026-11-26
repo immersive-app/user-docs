@@ -28,7 +28,7 @@ Abre un documento para leerlo. Bajo el título ves su traducción en tu idioma.
 - **La frase**, al pie de la tarjeta, muestra la traducción de la frase en la que está la palabra, con su propio altavoz y **Más**.
 - **Toca de nuevo** para oír la palabra en voz alta. Tocar en otro sitio cierra la tarjeta.
 - Cuando tu toque convierte la palabra en una tarjeta, la tarjeta dice **Añadido**, con **Deshacer** para quitarla. Cuando la palabra tiene un parecido en un idioma que conoces, la tarjeta también lo muestra.
-- Cada palabra y frase que consultas se registra en tu [Vocabulario](../vocabulary.md).
+- Cada palabra y frase que consultas se registra en tu [Vocabulario](../vocabulary.md), y una palabra que tocas se convierte en una tarjeta de tu mazo **Mi vocabulario**, con su frase.
 
 ## El panel Más
 
@@ -38,8 +38,8 @@ Abre un documento para leerlo. Bajo el título ves su traducción en tu idioma.
 - **Ayuda de lectura**, cuando la palabra o la frase tiene una.
 - **Gramática de la lectura**, cuando la frase contiene una construcción que recoge, con un enlace a la comparación.
 - **En las seis lenguas**: los equivalentes de la palabra en los seis idiomas, con tus idiomas en tinta plena.
-- **Guardar en el vocabulario** la marca como guardada en tu Vocabulario.
-- **Añadir a un mazo** lista tus mazos en este idioma; elige uno para abrir su espacio de trabajo con la palabra ya rellenada, o empieza un **Nuevo mazo**.
+- **Guardar en el vocabulario** la marca como guardada en tu Vocabulario y la convierte en una tarjeta de **Mi vocabulario**. En una palabra que tu toque acaba de convertir en tarjeta, dice **Añadido**, con **Deshacer** para quitar la tarjeta.
+- **Añadir a un mazo** lista tus mazos en este idioma; elige un mazo de vocabulario para abrir su espacio de trabajo con la palabra o la frase en el cuadro, o empieza un **Nuevo mazo**.
 - **Preguntar sobre esto** abre el [Coach](../coach.md) con la palabra o la frase a la vista.
 
 ## Ayudas de lectura

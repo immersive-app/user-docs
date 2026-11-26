@@ -1,6 +1,6 @@
 ---
 title: Mazos y repasos
-description: Qué contiene un mazo, cómo funcionan los repasos con repetición espaciada, la página de Mazos y Anki.
+description: Los dos tipos de mazo, cómo funcionan los repasos con repetición espaciada, la página de Mazos y Anki.
 nav_order: 3
 has_children: true
 lang: es
@@ -8,37 +8,36 @@ lang: es
 
 # Mazos y repasos
 
-Los mazos son donde ocurre la memorización en Immersive. Un mazo es una colección de tarjetas (palabras, frases, formas verbales o números), y repasar un mazo te muestra cada tarjeta en el momento en que estás a punto de olvidarla, usando repetición espaciada que se adapta a tu memoria (el calendario FSRS, la misma familia de programación que usa el Anki moderno).
+Los mazos son donde ocurre la memorización en Immersive. Un mazo es una colección de tarjetas, y repasar un mazo te muestra cada tarjeta en el momento en que estás a punto de olvidarla, usando repetición espaciada que se adapta a tu memoria (el calendario FSRS, la misma familia de programación que usa el Anki moderno).
 
-## Qué contiene un mazo
+## Dos tipos de mazo
 
-Puedes añadir tú mismo cinco tipos de tarjetas:
+Un mazo que creas es de uno de estos dos tipos:
 
-- **Tarjetas de palabra**: una palabra, su traducción y, opcionalmente, una frase de ejemplo.
-- **Tarjetas de frase**: una frase completa con su traducción.
-- **Tarjetas de verbo**: los verbos y tiempos que elijas, ya sea una tarjeta por persona o toda la tabla del tiempo en cada tarjeta.
-- **Tarjetas de número**: números escritos con letras en el idioma que aprendes.
-- **Tarjetas de gramática**: tarjetas de práctica hechas a partir de las notas de gramática que elijas, por nivel, área o nota.
+- **Mazos de verbos**: eliges verbos y tiempos, e Immersive crea una tarjeta por cada verbo en cada tiempo. Una tarjeta reúne las seis formas de ese tiempo, cada una con su audio y una frase de ejemplo.
+- **Mazos de vocabulario**: tus propias palabras y frases, una tarjeta para cada una. Las escribes o las pegas, subes una hoja de cálculo, las eliges de un documento o una foto, o las guardas mientras lees.
 
-Las tarjetas vienen de muchos sitios: escritas a mano, importadas de una hoja de cálculo, añadidas desde las palabras que guardaste en tu [Vocabulario](vocabulary.md), copiadas con un mazo de la Biblioteca o un mazo público, o añadidas desde el lector y desde las páginas de verbos con **Añadir a un mazo**.
+Un mazo tiene un solo tipo de tarjeta, nunca los dos. Ver [Crear mazos](decks/creating-decks.md).
 
-Immersive también llena tres mazos por ti mientras estudias. Aparecen en Mis mazos como cualquier otro:
+Immersive también llena algunos mazos por ti mientras estudias. Aparecen en Mis mazos como cualquier otro:
 
-- **De la lectura (idioma)**: una tarjeta cada vez que revelas una palabra deducible en el lector. Ver [Leer documentos](documents/reading-documents.md).
-- **Comparaciones puente (idioma)**: las tarjetas que añades con **Añadir una tarjeta de comparación** en la página de una forma verbal. Ver [Trabajar con verbos](verbs/working-with-verbs.md).
+- **Mi vocabulario**: una tarjeta por cada palabra que tocas al leer, y por cada palabra o frase que guardas. Ver [Vocabulario](vocabulary.md).
+- **De la lectura (idioma)**: una tarjeta cada vez que revelas una palabra adivinable en el lector. Ver [Leer documentos](documents/reading-documents.md).
 - **Práctica de gramática (idioma)**: tarjetas de las notas de gramática que practicas. Ver [Práctica de gramática](grammar/grammar-practice.md).
+
+La Biblioteca tiene mazos de verbos listos para usar, uno por tiempo, y el mazo **Pronunciación**. Ver [Gestionar mazos](decks/managing-decks.md#la-biblioteca).
 
 ## Cómo funciona el repaso
 
 Cada tarjeta se programa por separado. Cuando repasas una tarjeta, se califica con **Otra vez**, **Difícil**, **Bien** o **Fácil**, y el calendario se ajusta: las tarjetas que te resultan fáciles se alejan más en el futuro, las que fallas vuelven pronto. Con el tiempo, tus minutos de repaso van al material que los necesita.
 
-Puedes repasar en cuatro modos (**Leer**, **Escribir**, **Escuchar** y **Hablar**), de modo que el mismo mazo entrena el reconocimiento, la ortografía, la comprensión auditiva y la expresión oral. Ver [Repasar tarjetas](decks/reviewing-cards.md). El mazo listo para usar **Pronunciación** tiene dos modos propios, **Oír** y **Decir**. Ver [Pronunciación](decks/pronunciation.md).
+Puedes repasar en cuatro modos (**Leer**, **Escribir**, **Escuchar** y **Hablar**), de modo que el mismo mazo entrena el reconocimiento, la ortografía, la comprensión auditiva y la expresión oral. Una tarjeta que no quieres responder ahora se puede saltar, y una que no quieres estudiar en absoluto se puede suspender. Ver [Repasar tarjetas](decks/reviewing-cards.md). El mazo listo para usar **Pronunciación** tiene dos modos propios, **Oír** y **Decir**. Ver [Pronunciación](decks/pronunciation.md).
 
 ## La página de Mazos
 
 Al abrir **Mazos** verás:
 
-- **Biblioteca**: mazos listos para usar en el idioma que aprendes, plegada hasta que la abres. Copia uno a Mis mazos con su botón **+**.
+- **Biblioteca**: mazos listos para usar en el idioma que aprendes, abierta mientras no tienes ningún mazo propio y plegada en cuanto tienes alguno. Copia uno a Mis mazos con su botón **+**.
 - **Mis mazos**: tus mazos y carpetas, con columnas que muestran cuántas tarjetas hay **Nuevas**, **Aprendiendo** y **Pendientes**.
 - Tres botones arriba: el reloj abre tu **Historial de repasos**, el marcador muestra solo tus mazos marcados y **+** crea un mazo nuevo.
 
@@ -46,12 +45,12 @@ Al abrir **Mazos** verás:
 
 Si también usas Anki:
 
-- **Exportar a Anki**, en un mazo, tuyo o de la Biblioteca, prepara un archivo de Anki (.apkg) y te lo envía por correo. El archivo contiene las tarjetas de verbo del mazo; un mazo sin ninguna no tiene botón de exportación.
+- **Exportar a Anki**, en la página de un mazo y en un ordenador, prepara un archivo de Anki (.apkg) con todo el mazo y te lo envía por correo. Sirve para mazos de verbos y de vocabulario, tuyos o de la Biblioteca. Ver [Gestionar mazos](decks/managing-decks.md#exportar-a-anki).
 - La página **Anki** (enlazada en el pie de las páginas públicas de Immersive) explica la exportación, con **Ir a mis mazos** cuando tienes la sesión iniciada. Cuando hay mazos listos para usar, los muestra en **Mazos gratuitos para descargar**: con la sesión iniciada, descargas directamente; sin cuenta, introduces tu dirección de correo para descargar, e Immersive te envía también su curso gratuito del Método Puente por correo, cinco lecciones breves, del que puedes darte de baja en cualquier momento. El curso se detiene cuando creas una cuenta con esa dirección.
 
 ## En esta sección
 
-- [Crear mazos](decks/creating-decks.md): construye un mazo y llénalo de tarjetas.
-- [Repasar tarjetas](decks/reviewing-cards.md): la sesión de repaso, los cuatro modos, la calificación y los límites diarios.
-- [Gestionar mazos](decks/managing-decks.md): la Biblioteca, carpetas, etiquetas, marcadores, copias, exportación y borrado.
+- [Crear mazos](decks/creating-decks.md): crea un mazo de verbos o un mazo de vocabulario, y añade tarjetas.
+- [Repasar tarjetas](decks/reviewing-cards.md): la sesión de repaso, los cuatro modos, Saltar, el menú de la tarjeta, la calificación y los límites diarios.
+- [Gestionar mazos](decks/managing-decks.md): la Biblioteca, la página de un mazo, la edición, las tarjetas suspendidas, carpetas, etiquetas, marcadores, copias, exportación y borrado.
 - [Pronunciación](decks/pronunciation.md): el mazo listo para usar para oír, y después decir, los sonidos que tu idioma no distingue.

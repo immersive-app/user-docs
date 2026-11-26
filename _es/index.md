@@ -19,7 +19,7 @@ hero:
     link: https://immersive-app.com
 features:
 - title: Mazos y repasos
-  details: Crea mazos de palabras, frases, verbos y números, y repásalos con un calendario
+  details: Crea mazos de verbos y mazos de tus propias palabras y frases, y repásalos con un calendario
     que se adapta a tu memoria.
   link: "/es/docs/decks/"
 - title: Documentos
@@ -74,12 +74,12 @@ Parte del material de referencia de Immersive está abierto a todo el mundo:
 
 Registrarte desbloquea las herramientas de aprendizaje:
 
-- **[Mazos y repasos](docs/decks.md)**: crea mazos de palabras, frases, formas verbales y números, y repásalos en los modos Leer, Escribir, Escuchar y Hablar con un calendario que se adapta a tu memoria.
+- **[Mazos y repasos](docs/decks.md)**: crea mazos de verbos con los verbos y tiempos que elijas, y mazos de vocabulario con tus propias palabras y frases, y repásalos en los modos Leer, Escribir, Escuchar y Hablar con un calendario que se adapta a tu memoria.
 - **[Documentos](docs/documents.md)**: trae un texto (pégalo, sube un archivo o fotografía una página) y léelo con traducción al toque, audio y ayudas de lectura. O escribe los tuyos y recibe correcciones y reescrituras.
 - **[Gramática](docs/grammar.md)**: notas por nivel MCER (de A1 a C1) con ejercicios, y tarjetas de práctica que vuelven para repasar.
 - **[Verbos](docs/verbs.md)**: tus mazos y tus propias frases en cada página de verbo, y comparaciones entre los idiomas que conoces.
 - **[Coach](docs/coach.md)**: haz preguntas sobre lo que estés viendo.
-- **[Vocabulario](docs/vocabulary.md)**: las palabras y frases que consultas, recogidas para ti y listas para convertirse en un mazo.
+- **[Vocabulario](docs/vocabulary.md)**: las palabras y frases que consultas, recogidas para ti; las palabras que tocas ya son tarjetas de un mazo.
 - **[Perfil y progreso](docs/profile.md)**: dónde estás, tu actividad de estudio, las evaluaciones con compañeros, el [acceso para profesores](docs/teachers.md) y tu cuenta.
 
 Todo es gratuito durante la beta.
@@ -103,7 +103,7 @@ Después de la primera vez, iniciar sesión te lleva a la biblioteca de verbos, 
 
 Un buen primer cuarto de hora:
 
-1. **Abre tu primer mazo.** La página de Mazos tiene una **Biblioteca** de mazos listos para usar en el idioma que aprendes, como las palabras más frecuentes. Copia uno a Mis mazos con **+** y empieza un repaso. Ver [Repasar tarjetas](docs/decks/reviewing-cards.md).
+1. **Abre tu primer mazo.** La página de Mazos tiene una **Biblioteca** de mazos listos para usar en el idioma que aprendes, como los verbos esenciales, un mazo por tiempo. Copia uno a Mis mazos con **+** y empieza un repaso. Ver [Repasar tarjetas](docs/decks/reviewing-cards.md).
 2. **Lee algo de tu nivel.** Abre Documentos y elige un texto de la Biblioteca, o importa uno tuyo. Toca una palabra o frase para ver su traducción; tócala de nuevo para escucharla. Ver [Leer documentos](docs/documents/reading-documents.md).
 3. **Lee una nota de gramática.** Abre Gramática: te sugiere por dónde empezar. Ver [Gramática](docs/grammar.md).
 

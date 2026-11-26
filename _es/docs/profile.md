@@ -42,7 +42,7 @@ Las evaluaciones que das y recibes se listan en la pestaña, y las evaluaciones 
 
 ## Vocabulario
 
-Las palabras y frases que has recogido mientras estudias — con búsqueda, filtros y a una sola acción de convertirse en un mazo. Ver [Vocabulario](vocabulary.md).
+Las palabras y frases que has recogido mientras estudias, con búsqueda y filtros. Las palabras que tocas y las entradas que guardas son tarjetas de tu mazo **Mi vocabulario**, con **Estudiar** en la parte superior de la pestaña. Ver [Vocabulario](vocabulary.md).
 
 ## Coach
 

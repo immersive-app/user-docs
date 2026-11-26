@@ -1,6 +1,6 @@
 ---
 title: Repasar tarjetas
-description: Empezar un repaso, los modos Leer, Escribir, Escuchar y Hablar, la calificación, los resultados, los límites diarios y el historial de repasos.
+description: Empezar un repaso, los modos Leer, Escribir, Escuchar y Hablar, la tarjeta de verbo, Saltar, el menú de la tarjeta, la calificación, los resultados, los límites diarios y el historial de repasos.
 parent: Mazos y repasos
 nav_order: 2
 lang: es
@@ -27,9 +27,21 @@ Las pestañas en la parte superior de la tarjeta cambian el modo. Immersive recu
 - **Leer**: lee el enunciado y recuerda la respuesta mentalmente, luego pulsa **Mostrar respuesta** (o Espacio) y califícate. Las teclas numéricas del 1 al 4 eligen una calificación. Una vez que la respuesta está en la tarjeta, sus palabras funcionan como en el lector: toca una para ver su traducción y oír su audio.
 - **Escribir**: la tarjeta muestra la traducción; escribe la respuesta en el idioma que aprendes. **Tocar** te da fichas de palabras desordenadas para ponerlas en orden (colocar la última palabra envía la respuesta), o cambia a **Escribir** y usa el teclado, y luego **Enviar** (o Cmd+Intro / Ctrl+Intro).
 - **Escuchar**: la tarjeta se pronuncia; escribe lo que oyes, con la misma elección entre **Tocar** y **Escribir**. Si una tarjeta no tiene audio, muestra el texto en su lugar.
-- **Hablar**: lee el enunciado en voz alta. **Grabar** captura tu voz y se detiene sola a los diez segundos. Un momento después de enviarla, aparece en **Dijiste** una transcripción de lo que dijiste, con las palabras que difieren de la respuesta marcadas, y una calificación sugerida («Cerca: 92 %»). Reproduce **La tuya** y la **Referencia** para oír la diferencia. Si no aparece ninguna transcripción, califícate comparando con la referencia.
+- **Hablar**: lee el enunciado en voz alta. **Grabar** captura tu voz y se detiene sola a los diez segundos. Un momento después de enviarla, aparece en **Dijiste** una transcripción de lo que dijiste, con las palabras que difieren de la respuesta marcadas, y la calificación obtenida («Cerca: 92 %»). Reproduce **La tuya** y la **Referencia** para oír la diferencia. Si tu grabación no se puede comprobar, **Reintentar** la graba de nuevo.
 
 El mazo Pronunciación no tiene ninguno de estos cuatro: se repasa en **Oír** y **Decir**, y sus rondas se califican con reglas propias. Ver [Pronunciación](pronunciation.md).
+
+## La tarjeta de verbo
+
+Una tarjeta de un mazo de verbos es un verbo en un tiempo.
+
+- **Leer**: la tarjeta muestra el verbo, su tiempo y su significado. Recuerda las seis formas y pulsa **Mostrar respuesta**: aparecen las seis formas, cada una con su audio, y una frase de ejemplo debajo. Toca una forma, o reprodúcela, para ver la frase de esa persona; toca la frase para ver su traducción.
+- **Escribir**, **Escuchar** y **Hablar** piden una persona cada vez, en la frase de ejemplo de esa persona. En Escribir y Escuchar la forma queda en blanco, y Escuchar reproduce la frase y oculta su traducción. En Hablar lees la frase entera en voz alta. La línea bajo la frase nombra el verbo, la persona y el tiempo («avoir · je · Indicatif · Futur simple»); en Escuchar no dice la persona. Toca la línea, o pulsa P, para pasar a la persona siguiente sin responder.
+- En **Escribir** y **Escuchar**, **Tocar** ofrece formas enteras para elegir; un toque responde. **Escribir** acepta la forma con o sin su pronombre («j'aurai» o «aurai»); Intro la envía.
+
+Una forma escrita está bien o mal. El resultado muestra la frase entera con la forma marcada, tu respuesta, **Correcto** o **Incorrecto**, la forma correcta tras un fallo y cuándo vuelve la tarjeta. Un acento que falta o que está mal cuenta como fallo, y el resultado dice **Falta un acento**. Las mayúsculas, los espacios y el tipo de apóstrofo no cuentan.
+
+Immersive elige la persona cada vez: primero va una que todavía no has acertado. Un solo calendario cubre toda la tarjeta, sea cual sea la persona que te pidió.
 
 ## La calificación
 
@@ -41,6 +53,27 @@ Cada repaso termina en una de cuatro calificaciones:
 - **Fácil**: sin esfuerzo; la tarjeta se aleja al máximo.
 
 En el modo Leer eliges tú la calificación: **Otra vez**, **Difícil**, **Bien** o **Fácil**. En Escribir y Escuchar, Immersive califica tu respuesta. El resultado muestra **Correcto** o **Incorrecto**; tras una respuesta equivocada, la correcta («Respuesta · j'ai»); el motivo cuando lo hay, como **Falta un acento** o la explicación de una pregunta; y cuándo vuelve la tarjeta («Vuelve en 1 minuto», «Vuelve mañana»). Una forma verbal está bien o mal: bien es **Fácil**, mal es **Otra vez**. Las demás respuestas se califican según lo cerca que estén, así que un pequeño despiste puede contar como correcto, con la respuesta debajo. En Hablar, Immersive califica una transcripción de lo que dijiste. **Siguiente** guarda el repaso y pasa a la siguiente.
+
+## Saltar
+
+**Saltar** está al pie de la respuesta en Escribir, Escuchar y Hablar, junto a **Enviar** o **Grabar**, y bajo la tarjeta en una ronda de Pronunciación. Una tarjeta saltada no se califica y su calendario no cambia: sale de esta sesión y vuelve la próxima vez que pulses **Empezar repaso**. Leer no tiene Saltar. En un ordenador, la tecla S salta la tarjeta.
+
+## El menú de la tarjeta
+
+El botón de arriba a la izquierda de cada tarjeta (**Acciones de la tarjeta**) abre su menú:
+
+- **Suspender tarjeta** saca la tarjeta de tus repasos hasta que la recuperes. La tarjeta siguiente muestra **Tarjeta suspendida · Deshacer**, por si cambias de idea; más tarde, recupérala desde el pie de la página del mazo. Ver [Gestionar mazos](managing-decks.md#tarjetas-suspendidas).
+- **Editar tarjeta**, en una tarjeta de palabra o de frase de tu propio mazo, abre la tarjeta para cambiar su texto, su traducción o su ejemplo, y luego te devuelve al repaso.
+- **Avisar de esta frase**, en una tarjeta de verbo en Leer una vez mostrada la respuesta, envía la frase para que la revisen, con una nota opcional. Elige **Enviar aviso**.
+
+## Teclado
+
+En un ordenador:
+
+- **Espacio** muestra la respuesta en Leer; **1** a **4** eligen una calificación.
+- **S** salta la tarjeta.
+- **P** pasa una tarjeta de verbo a la persona siguiente.
+- **Cmd+Intro** (Ctrl+Intro) envía una respuesta escrita; una forma verbal escrita se envía con Intro.
 
 ## Durante la sesión
 
