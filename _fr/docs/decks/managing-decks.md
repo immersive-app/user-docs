@@ -26,6 +26,8 @@ Au-dessus de vos paquets se trouve la **Bibliothèque** : des paquets prêts à
 
 Les paquets de la Bibliothèque s'étudient via votre propre copie : appuyez sur le **+** à côté d'un paquet (**Copier dans mes paquets**) et la copie apparaît dans Mes paquets.
 
+Vous pouvez aussi ouvrir d'abord un paquet de la Bibliothèque : sa page montre ses cartes et **Commencer · 12 nouvelles**. Rien n'est copié tant que vous n'appuyez pas sur Commencer ; la copie se fait alors dans Mes paquets et sa première révision s'ouvre, et fermer la révision vous mène à votre copie. Une fois la copie faite, la page du paquet de la Bibliothèque indique **Dans mes paquets** et y mène.
+
 ## Paquets publics
 
 Les pages de verbe et les pages de forme verbale listent des **Paquets publics** qui travaillent ce verbe. Ouvrez-en un pour voir ses cartes, et choisissez **Copier dans mes paquets** pour l'étudier. Votre copie indique de quel paquet elle vient.
@@ -50,7 +52,7 @@ L'icône de signet sur un paquet (dans la liste ou sur la page du paquet) le met
 
 ## Modifier un paquet
 
-Ouvrez un paquet et choisissez le crayon pour ouvrir son espace de travail. **Modifier le paquet** ouvre les réglages : renommez-le dans l'une ou l'autre langue, changez son dossier ou ajustez ses étiquettes, puis choisissez **Mettre à jour le paquet**. La liste des cartes en dessous permet de modifier ou supprimer des cartes individuelles et d'ajouter des exemples ; elle affiche 25 cartes à la fois, et **Afficher plus** liste le reste.
+Ouvrez un paquet et choisissez le crayon pour ouvrir son espace de travail. **Modifier le paquet** ouvre les réglages : renommez-le dans l'une ou l'autre langue, changez son dossier ou ajustez ses étiquettes. L'espace de travail a un seul bouton **Sauvegarder** (dans l'application, en haut de l'écran), qui enregistre les réglages avec la zone de saisie d'un paquet de vocabulaire ou le tableau d'un paquet de verbes. La liste des cartes en dessous permet de modifier ou supprimer des cartes individuelles et d'ajouter des exemples ; elle affiche 25 cartes à la fois, et **Afficher plus** liste le reste.
 
 ## Exporter vers Anki
 
@@ -58,7 +60,7 @@ Ouvrez un paquet et choisissez le crayon pour ouvrir son espace de travail. **Mo
 
 ## Supprimer un paquet
 
-Supprimez un paquet avec le bouton corbeille de son espace de travail. La suppression retire le paquet, ses cartes et leur progression de révision ; une confirmation vous est demandée d'abord.
+Supprimez un paquet avec **Supprimer le paquet**, au bas de son espace de travail. La suppression retire le paquet, ses cartes et leur progression de révision ; une confirmation vous est demandée d'abord.
 
 ## Pour aller plus loin
 

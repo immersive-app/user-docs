@@ -13,8 +13,8 @@ O leitor assenta num princípio: tem êxito quando compreende o texto, não quan
 ## Trazer um texto
 
 1. Abra **Documentos** e escolha **+** (**Criar um novo documento**). Sem documentos ainda, a página oferece **Carregar um documento** e **Ou comece de uma página em branco**; os dois abrem o mesmo editor.
-2. Dê um título ao documento e adicione o texto: escreva-o ou cole-o, ou use **Importar de um ficheiro**. São aceites texto, Markdown, PDF e fotos de uma página (JPEG, PNG, WebP), até 10 MB. Um ficheiro enviado substitui o texto colado.
-3. **Guardar**. O Immersive transforma o texto em palavras e frases em que pode tocar. Um ficheiro importado é convertido depois de guardar: o leitor diz que o texto está a ser extraído, e ele aparece pouco depois. Os PDF digitalizados e as fotos são lidos por IA, por isso confira o resultado.
+2. Adicione o texto: escreva-o ou cole-o, ou use **Importar de um ficheiro**. São aceites texto, Markdown, PDF e fotos de uma página (JPEG, PNG, WebP), até 10 MB. Se escolher um ficheiro quando já há texto, o Immersive pergunta qual manter. O título é opcional: se o deixar em branco, vem do nome do ficheiro ou da primeira linha do texto.
+3. **Guardar**. O Immersive transforma o texto em palavras e frases em que pode tocar, o que demora alguns segundos: o leitor diz «A preparar o teu texto» e mostra o texto sozinho quando está pronto, sem recarregar. Um ficheiro importado é lido primeiro. Os PDF digitalizados e as fotos são lidos por IA, e o leitor indica-o por cima do texto: compare-o com a página.
 
 Não tem nenhum texto seu à mão? Abra a **Biblioteca** para textos com nível e contagem de palavras conhecidos.
 

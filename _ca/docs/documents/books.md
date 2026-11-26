@@ -15,7 +15,7 @@ Els llibres apareixen primer a la pàgina de **Documents**, sobre els teus docum
 ## Afegir un llibre
 
 1. A **Documents**, tria **Afegeix un llibre** a la secció **Llibres**. Al web, el botó **+** també ho ofereix.
-2. **Puja un fitxer** (**Tria un fitxer**, o deixa'n anar un al quadre: EPUB, text, Markdown o PDF, fins a 25 MB), o **Enganxa un enllaç de Project Gutenberg**. Fes servir l'un o l'altre, no tots dos.
+2. **Puja un fitxer** (**Tria un fitxer**, o en un ordinador deixa'n anar un al quadre: EPUB, text, Markdown o PDF, fins a 25 MB), o **Enganxa un enllaç de Project Gutenberg**. Fes servir l'un o l'altre, no tots dos.
 3. **Títol** i **Autor** són opcionals. Si els deixes en blanc, surten del fitxer.
 4. **Afegeix el llibre**. S'obre la pàgina del llibre.
 
@@ -39,7 +39,7 @@ Si la importació falla, la pàgina en diu el motiu. **Torna-ho a provar** impor
 
 ## Lectura
 
-A la pàgina de **Documents**, la fila d'un llibre mostra fins on has arribat, amb **Comença** per a un llibre nou i **Continua** per a un que estàs llegint. Toca la fila per anar a la pàgina del llibre: la coberta, l'índex i l'entrada, **Llegeix el capítol 1** o **Continua llegint**. **Documents**, damunt del títol, torna a la pàgina de Documents amb el llibre ressaltat.
+A la pàgina de **Documents**, la fila d'un llibre mostra fins on has arribat, amb **Comença** per a un llibre nou i **Continua** per a un que estàs llegint. Toca la fila per anar a la pàgina del llibre: la coberta, l'índex i l'entrada, **Llegeix el capítol 1** o **Continua**. Un llibre mostra **Continua** des del primer capítol que obres. **Documents**, damunt del títol, torna a la pàgina de Documents amb el llibre ressaltat.
 
 Un capítol s'obre al lector:
 
@@ -51,15 +51,15 @@ Un capítol s'obre al lector:
 
 ## Final del capítol
 
-Després de l'últim paràgraf ve el final del capítol, amb el títol, la llargada i el temps de lectura del capítol següent. **Capítol següent** l'obre, i **Torna al llibre** torna a la pàgina del llibre. Arribar al final marca el capítol com a llegit. **Llegeix en veu alta** s'atura al final d'un capítol.
+Després de l'últim paràgraf ve el final del capítol, amb el títol, la llargada i el temps de lectura del capítol següent. **Capítol següent** l'obre, i **Torna al llibre** torna a la pàgina del llibre. A sota, **Comprova la teva comprensió** obre les preguntes sobre el capítol, i en tancar-les tornes al final del capítol. Arribar al final marca el capítol com a llegit. **Llegeix en veu alta** s'atura al final d'un capítol.
 
 Després de l'últim capítol, el llibre s'ha acabat.
 
 ## La teva posició
 
-Immersive conserva la teva posició mentre llegeixes, fins a la frase, i a cada dispositiu que fas servir. **Continua** a la fila del llibre, o **Continua llegint** a la seva pàgina, obre el capítol on eres a la frase on ho vas deixar.
+Immersive conserva la teva posició mentre llegeixes, fins a la frase, i a cada dispositiu que fas servir. **Continua**, a la fila del llibre o a la seva pàgina, obre el capítol on eres a la frase on ho vas deixar.
 
-La pàgina del llibre mostra quina part del llibre has llegit i aproximadament quant en queda. Un llibre acabat mostra **Acabat**, i **Torna a llegir** comença pel capítol 1 i conserva les teves marques.
+La pàgina del llibre mostra quina part del llibre has llegit i aproximadament quant en queda. Un llibre acabat mostra **Acabat**, i **Torna a llegir** comença pel capítol 1 i conserva les teves marques. Fins que no continues llegint, el llibre continua acabat.
 
 ## Editar l'índex
 
@@ -67,10 +67,10 @@ Si un llibre s'ha tallat pels llocs equivocats, tria **Edita** al costat d'**Ín
 
 - **Canvia el nom**: escriu un títol nou al mateix lloc. Retorn, o sortir del camp, el desa; Esc hi torna a posar l'antic.
 - **Puja** i **Baixa** canvien l'ordre.
-- **Uneix a «…»** ajunta un capítol amb l'anterior. Es conserva cada paraula, i el títol del capítol unit es queda al text on començava.
-- **Divideix…** talla un capítol en dos. Tria on comença el nou capítol, en un encapçalament o un paràgraf, i després **Divideix aquí**. Es conserva cada paraula.
-- **Treu — esborra el text** suprimeix el capítol i el seu text: fes-lo servir per a les pàgines preliminars i finals que no llegiràs. Un llibre conserva com a mínim un capítol.
-- **Els capítols comencen a** mostra per on està tallat el llibre ara, quan es podria tallar d'una altra manera. Tria un altre lloc (d'**Encapçalament 1** a **Encapçalament 3**, o per a un fitxer de text **Línies de capítol**, **Números** o **Majúscules**), i després **Divideix de nou**: tot el llibre es torna a tallar a partir del text tal com es va importar. Els capítols amb el nom canviat i la teva posició de lectura es conserven on el text encara coincideix.
+- **Uneix a «…»** ajunta un capítol amb l'anterior, quan ho confirmes. Es conserva cada paraula, i el títol del capítol unit passa a ser un encapçalament al text on començava. L'historial, les ajudes de lectura i el marcador del capítol unit desapareixen; les targetes, paraules desades i repassos que n'has fet es conserven.
+- **Divideix…** talla un capítol en dos. Tria on comença el nou capítol, en un encapçalament o un paràgraf, i després **Divideix aquí**. Es conserva cada paraula: en un encapçalament, l'encapçalament dona nom al nou capítol, i les paraules dels dos capítols sumen les del que has dividit.
+- **Treu — esborra el text** suprimeix el capítol i el seu text, amb el seu historial, les seves ajudes de lectura i el seu marcador, quan ho confirmes: fes-lo servir per a les pàgines preliminars i finals que no llegiràs. Les targetes, paraules desades i repassos que n'has fet es conserven. Un llibre conserva com a mínim un capítol.
+- **Els capítols comencen a** mostra per on està tallat el llibre ara, quan es podria tallar d'una altra manera. Tria un altre lloc (d'**Encapçalament 1** a **Encapçalament 3**, o per a un fitxer de text **Línies de capítol**, **Números** o **Majúscules**), i després **Divideix de nou**: tot el llibre es torna a tallar a partir del text tal com es va importar. Els capítols amb el nom canviat i la teva posició de lectura es conserven on el text encara coincideix. El nom que has donat a un capítol es conserva fins i tot quan el nou tall no té un capítol propi per a ell: la línia de dalt ho diu, i el nom torna quan tornes a tallar el llibre on era.
 
 La teva posició segueix la seva frase quan els capítols s'uneixen o es divideixen. Si treus el capítol on ets, la teva posició passa al següent.
 

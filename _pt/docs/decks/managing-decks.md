@@ -26,6 +26,8 @@ Acima dos seus baralhos fica a **Biblioteca**: baralhos prontos do Immersive na 
 
 Os baralhos da Biblioteca estudam-se através da sua própria cópia: prima o **+** ao lado de um (**Copiar para os meus baralhos**) e a cópia aparece em **Os meus baralhos**.
 
+Também pode abrir primeiro um baralho da Biblioteca: a sua página mostra os cartões e **Começar · 12 novos**. Nada é copiado até premir Começar; então a cópia é criada em **Os meus baralhos** e abre-se a primeira revisão, e fechar a revisão leva-o à sua cópia. Quando já tem uma cópia, a página do baralho da Biblioteca indica **Nos meus baralhos** e leva até ela.
+
 ## Baralhos públicos
 
 As páginas de verbos e de formas verbais listam **Baralhos públicos** que praticam esse verbo. Abra um para ver os seus cartões e escolha **Copiar para os meus baralhos** para o estudar. A sua cópia mostra de que baralho foi copiada.
@@ -50,7 +52,7 @@ O ícone do marcador num baralho (na lista ou na página do baralho) marca-o. O 
 
 ## Editar um baralho
 
-Abra um baralho e escolha o lápis para abrir o seu espaço de trabalho. **Editar baralho** abre as definições: mude o nome em qualquer das línguas, mude a pasta ou ajuste as etiquetas, e depois escolha **Atualizar baralho**. A lista de cartões por baixo permite editar ou eliminar cartões individuais e adicionar exemplos; mostra 25 cartões de cada vez, e **Mostrar mais** lista os restantes.
+Abra um baralho e escolha o lápis para abrir o seu espaço de trabalho. **Editar baralho** abre as definições: mude o nome em qualquer das línguas, mude a pasta ou ajuste as etiquetas. O espaço de trabalho tem um só **Guardar** (na aplicação, no topo do ecrã), que guarda as definições juntamente com a caixa de um baralho de vocabulário ou a tabela de um baralho de verbos. A lista de cartões por baixo permite editar ou eliminar cartões individuais e adicionar exemplos; mostra 25 cartões de cada vez, e **Mostrar mais** lista os restantes.
 
 ## Exportar para o Anki
 
@@ -58,7 +60,7 @@ Abra um baralho e escolha o lápis para abrir o seu espaço de trabalho. **Edita
 
 ## Eliminar um baralho
 
-Elimine um baralho com o botão do caixote do lixo no seu espaço de trabalho. Eliminar remove o baralho, os seus cartões e o progresso de revisão; é-lhe pedida confirmação primeiro.
+Elimine um baralho com **Eliminar baralho**, no fundo do seu espaço de trabalho. Eliminar remove o baralho, os seus cartões e o progresso de revisão; é-lhe pedida confirmação primeiro.
 
 ## Para saber mais
 

@@ -14,7 +14,7 @@ Una sessione di ripasso ti mostra le carte da ripassare, una alla volta, a scher
 
 Apri uno dei tuoi mazzi. Se ci sono carte in attesa, la pagina del mazzo mostra un unico grande pulsante, **Inizia il ripasso** con il numero di carte, e una didascalia che scompone quel numero in carte da ripassare e nuove. Premilo, oppure premi Spazio.
 
-Se non c'è nulla da ripassare, il mazzo ti dice quando arriva la prossima carta. Quando restano carte nuove, **Studia in anticipo** le introduce prima del tempo.
+Se non c'è nulla da ripassare, il mazzo ti dice quando arriva la prossima carta. Quando le carte nuove del giorno sono fatte, ti dice quante ne restano, e **Studia il mazzo** percorre tutto il mazzo senza limite giornaliero.
 
 Un mazzo con carte da ripassare mostra anche il suo conteggio **Da rivedere** come link nella pagina Mazzi, che avvia direttamente il ripasso.
 
@@ -40,9 +40,7 @@ Ogni ripasso si conclude con uno di quattro giudizi:
 - **Bene**: richiamata con un certo sforzo.
 - **Facile**: senza sforzo; la carta si allontana il più possibile.
 
-In modalità Leggi scegli tu il giudizio. In Scrivi e Ascolta, Immersive confronta la tua risposta con quella attesa e propone un giudizio: il risultato mostra quanto ti sei avvicinato («92% di corrispondenza · valutato Bene»). In Parla confronta una trascrizione di ciò che hai detto e suggerisce il giudizio allo stesso modo. Scegli un giudizio diverso per correggerlo. Il ripasso viene salvato quando scegli un giudizio.
-
-Su un computer, **Mostra gli intervalli** sotto la carta aggiunge a ogni pulsante di giudizio fra quanto tempo la carta tornerà; **Nascondi gli intervalli** li toglie. Immersive ricorda la tua scelta. Sui telefoni gli intervalli non vengono mostrati.
+In modalità Leggi scegli tu il giudizio, e ogni pulsante di giudizio indica quando la carta torna («1 minuto», «1 giorno», «7 giorni»). In Scrivi e Ascolta, Immersive valuta da sé la tua risposta. Il risultato mostra **Corretto** o **Non corretto**; dopo una risposta sbagliata, quella giusta («Risposta · j'ai»); il motivo quando c'è, come **Accento mancante** o la spiegazione di una domanda; e quando torna la carta («Torna tra 1 minuto», «Torna domani»). Una forma verbale è giusta o sbagliata: giusta vale **Facile**, sbagliata vale **Ancora**. Le altre risposte sono valutate in base a quanto si avvicinano, quindi una piccola svista può contare come giusta, con la risposta mostrata sotto. In Parla, Immersive valuta una trascrizione di ciò che hai detto. **Avanti** salva il ripasso e passa oltre.
 
 ## Durante la sessione
 
@@ -57,7 +55,7 @@ Quando la coda è finita vedi **Sessione completata**: le carte ripassate, quant
 
 ## Limiti giornalieri
 
-Ogni mazzo introduce al massimo 20 carte nuove al giorno. Non c'è limite ai ripassi delle carte che hai già iniziato. Quando il mazzo raggiunge il limite di carte nuove per la giornata, la sessione lo dice e prosegue con le carte da ripassare; le carte nuove rimanenti aspettano domani. Il limite non si può cambiare.
+Ogni mazzo introduce 20 carte nuove al giorno. **Impostazioni**, sotto **Inizia il ripasso** nel mazzo, cambia il numero in 5, 10, 20, 40 o 80. Non c'è limite ai ripassi delle carte che hai già iniziato, e vengono prima delle carte nuove. Una carta sbagliata torna lo stesso giorno. Quando le carte nuove del giorno sono fatte, la sessione prosegue con le carte da ripassare e finisce dicendo quante carte nuove restano, con **Studia il mazzo** e **Impostazioni**.
 
 ## Cronologia dei ripassi
 

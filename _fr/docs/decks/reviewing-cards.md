@@ -14,7 +14,7 @@ Une session de révision vous montre les cartes à réviser, une à la fois, en 
 
 Ouvrez l'un de vos paquets. Si des cartes attendent, la page du paquet affiche un grand bouton, **Commencer la révision** avec le nombre de cartes, et une légende qui détaille ce nombre en cartes à revoir et nouvelles cartes. Appuyez dessus, ou sur Espace.
 
-Si rien n'est à revoir, le paquet vous dit quand la prochaine carte arrive. S'il reste des cartes nouvelles, **Étudier en avance** les introduit plus tôt.
+Si rien n'est à revoir, le paquet vous dit quand la prochaine carte arrive. Une fois les nouvelles cartes du jour faites, il dit combien il en reste, et **Étudier le paquet** parcourt tout le paquet sans limite quotidienne.
 
 Un paquet avec des cartes à revoir affiche aussi son nombre **À revoir** comme un lien sur la page Paquets, qui lance directement la révision.
 
@@ -40,9 +40,7 @@ Chaque révision se termine par l'une de quatre notes :
 - **Bien** : retrouvé avec un certain effort.
 - **Facile** : sans effort ; la carte s'éloigne le plus.
 
-En mode Lire, vous choisissez la note. En modes Écrire et Écouter, Immersive compare votre réponse à la réponse attendue et propose une note : le résultat montre à quel point vous étiez proche (« 92 % de correspondance · noté Bien »). En mode Parler, il compare une transcription de ce que vous avez dit et suggère la note de la même façon. Choisissez une autre note pour la remplacer. La révision est enregistrée quand vous choisissez une note.
-
-Sur un ordinateur, **Afficher les intervalles** sous la carte ajoute à chaque bouton de note le délai avant le retour de la carte ; **Masquer les intervalles** les retire. Immersive se souvient de votre choix. Les intervalles ne s'affichent pas sur téléphone.
+En mode Lire, vous choisissez la note, et chaque bouton de note indique quand il ramène la carte (« 1 minute », « 1 jour », « 7 jours »). En modes Écrire et Écouter, Immersive note votre réponse lui-même. Le résultat affiche **Correct** ou **Incorrect** ; après une réponse fausse, la bonne (« Réponse · j'ai ») ; la raison quand il y en a une, comme **Accent manquant** ou l'explication d'une question ; et quand la carte revient (« Revient dans 1 minute », « Revient demain »). Une forme verbale est juste ou fausse : juste vaut **Facile**, fausse vaut **Encore**. Les autres réponses sont notées selon leur proximité : une petite faute peut compter comme juste, et la réponse s'affiche alors en dessous. En mode Parler, Immersive note une transcription de ce que vous avez dit. **Suivant** enregistre la révision et passe à la suite.
 
 ## Pendant la session
 
@@ -57,7 +55,7 @@ Quand la file est terminée, vous voyez **Session terminée** : les cartes rév
 
 ## Limites quotidiennes
 
-Chaque paquet introduit au maximum 20 nouvelles cartes par jour. Les révisions des cartes déjà commencées ne sont pas limitées. Quand le paquet atteint sa limite de nouvelles cartes pour la journée, la session le signale et continue avec les cartes à revoir ; les nouvelles cartes restantes attendent demain. La limite ne peut pas être modifiée.
+Chaque paquet introduit 20 nouvelles cartes par jour. **Réglages**, sous **Commencer la révision** dans le paquet, change ce nombre en 5, 10, 20, 40 ou 80. Les révisions des cartes déjà commencées ne sont pas limitées et passent avant les nouvelles cartes. Une carte ratée revient le jour même. Une fois les nouvelles cartes du jour faites, la session continue avec les cartes à revoir, puis se termine en disant combien de nouvelles cartes il reste, avec **Étudier le paquet** et **Réglages**.
 
 ## Historique des révisions
 

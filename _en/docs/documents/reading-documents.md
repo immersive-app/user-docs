@@ -12,8 +12,8 @@ The reader is built on one principle: you succeed by understanding the text, not
 ## Bringing a text in
 
 1. Open **Documents** and choose **+** (**Create a new document**). With no documents yet, the page offers **Upload a document** and **Or start from a blank page**; both open the same editor.
-2. Give the document a title and add the text: type or paste it, or use **Import from a file**. Text, Markdown, PDF, and photos of a page (JPEG, PNG, WebP) are accepted, up to 10 MB. An uploaded file replaces pasted text.
-3. **Save**. Immersive turns the text into tappable words and sentences. An imported file is converted after you save: the reader says the text is being extracted, and it appears a moment later. Scanned PDFs and photos are read by AI, so check the result.
+2. Add the text: type or paste it, or use **Import from a file**. Text, Markdown, PDF, and photos of a page (JPEG, PNG, WebP) are accepted, up to 10 MB. If you choose a file while there is text, Immersive asks which to keep. The title is optional: left blank, it comes from the file's name or from the text's first line.
+3. **Save**. Immersive turns the text into tappable words and sentences, which takes a few seconds: the reader says "Preparing your text" and shows the text by itself when it is ready, with no need to reload. An imported file is read first. Scanned PDFs and photos are read by AI, and the reader says so above the text: check it against the page.
 
 No text of your own handy? Open the **Library** for texts with a known level and word count.
 

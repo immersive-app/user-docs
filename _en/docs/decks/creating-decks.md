@@ -14,7 +14,7 @@ A deck you make is one of two kinds: a **verb deck**, made from the verbs and te
 Open **Decks** and choose the **+** button (**Create a new deck**). **New deck** offers the two kinds:
 
 - **Verbs**: "Choose verbs and tenses."
-- **Vocabulary**: "Upload a list or use your studied and bookmarked vocabulary."
+- **Vocabulary**: "Name it, then type or paste its words and sentences, upload a list, or pick them from a text."
 
 ## A verb deck
 
@@ -33,9 +33,9 @@ Choosing **Vocabulary** opens the first step:
 
 1. Give the deck a title in the language you are learning and one in your own language. Both are required: reviews can show either side.
 2. Optionally pick a **Folder** (or type a new folder name) and add **Tags**. Leaving the folder blank keeps the deck at the top level of My Decks; tags group decks across folders.
-3. Choose **Save and add cards**.
+3. Choose **Create**.
 
-The deck's workspace opens on **Add cards**.
+The deck's workspace opens on **Add cards**, with "Deck created."
 
 ## Adding cards
 
@@ -47,7 +47,9 @@ Put one word or one sentence on each line. A line with one word becomes a word c
 
 For your own translation, put it after a tab or after " = ", for example `marché = market`. A list exported from Quizlet already has the tab. A line without a translation gets one automatically.
 
-Under the box, a count shows what you are about to add ("5 cards: 3 words, 2 sentences"), and the button names the number (**Add 5 cards**). Up to 500 lines are added at a time. A line that could not be added stays in the box, so you can fix it and send it again.
+Under the box, a count shows what saving adds ("Saving adds 5 cards: 3 words, 2 sentences"). Choose **Save**: it also saves any change you made under **Edit deck**. Up to 500 lines are added at a time.
+
+A line that could not be added stays in the box, and the reason is under it: the line has no word in it (a line of "=" alone, or a number), it has no translation while automatic translation is unavailable, or its card could not be saved. Fix the line and choose **Save** again.
 
 ### From a spreadsheet
 

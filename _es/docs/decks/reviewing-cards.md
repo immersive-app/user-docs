@@ -14,7 +14,7 @@ Una sesión de repaso te muestra las tarjetas pendientes, de una en una, a panta
 
 Abre uno de tus mazos. Si hay tarjetas esperando, la página del mazo muestra un gran botón, **Empezar repaso** con el número de tarjetas, y una leyenda que desglosa ese número en tarjetas pendientes y nuevas. Púlsalo, o pulsa Espacio.
 
-Si no hay nada pendiente, el mazo te dice cuándo llega la próxima tarjeta. Cuando quedan tarjetas nuevas, **Estudiar por adelantado** las introduce antes de tiempo.
+Si no hay nada pendiente, el mazo te dice cuándo llega la próxima tarjeta. Cuando las tarjetas nuevas del día están hechas, te dice cuántas quedan, y **Estudiar el mazo** recorre todo el mazo sin límite diario.
 
 Un mazo con tarjetas pendientes también muestra su recuento de **Pendientes** como enlace en la página de Mazos, que empieza el repaso directamente.
 
@@ -40,9 +40,7 @@ Cada repaso termina en una de cuatro calificaciones:
 - **Bien**: recordada con algo de esfuerzo.
 - **Fácil**: sin esfuerzo; la tarjeta se aleja al máximo.
 
-En el modo Leer eliges tú la calificación. En Escribir y Escuchar, Immersive compara tu respuesta con la esperada y propone una calificación: el resultado muestra cuánto te acercaste («92 % de coincidencia · calificado Bien»). En Hablar compara una transcripción de lo que dijiste y sugiere la calificación de la misma manera. Elige otra calificación para cambiarla. El repaso se guarda cuando eliges una calificación.
-
-En un ordenador, **Mostrar intervalos**, debajo de la tarjeta, añade a cada botón de calificación cuánto falta para que vuelva la tarjeta; **Ocultar intervalos** los quita. Immersive recuerda tu elección. Los intervalos no se muestran en los teléfonos.
+En el modo Leer eliges tú la calificación, y cada botón de calificación indica cuándo vuelve la tarjeta («1 minuto», «1 día», «7 días»). En Escribir y Escuchar, Immersive califica tu respuesta. El resultado muestra **Correcto** o **Incorrecto**; tras una respuesta equivocada, la correcta («Respuesta · j'ai»); el motivo cuando lo hay, como **Falta un acento** o la explicación de una pregunta; y cuándo vuelve la tarjeta («Vuelve en 1 minuto», «Vuelve mañana»). Una forma verbal está bien o mal: bien es **Fácil**, mal es **Otra vez**. Las demás respuestas se califican según lo cerca que estén, así que un pequeño despiste puede contar como correcto, con la respuesta debajo. En Hablar, Immersive califica una transcripción de lo que dijiste. **Siguiente** guarda el repaso y pasa a la siguiente.
 
 ## Durante la sesión
 
@@ -57,7 +55,7 @@ Cuando la cola termina ves **Sesión completada**: las tarjetas repasadas, cuán
 
 ## Límites diarios
 
-Cada mazo introduce como máximo 20 tarjetas nuevas al día. No hay límite para los repasos de las tarjetas que ya has empezado. Cuando el mazo alcanza su límite de tarjetas nuevas del día, la sesión lo indica y continúa con las tarjetas pendientes; las tarjetas nuevas restantes esperan a mañana. El límite no se puede cambiar.
+Cada mazo introduce 20 tarjetas nuevas al día. **Ajustes**, bajo **Empezar repaso** en el mazo, cambia el número a 5, 10, 20, 40 u 80. No hay límite para los repasos de las tarjetas que ya has empezado, y van antes que las nuevas. Una tarjeta que fallas vuelve el mismo día. Cuando las tarjetas nuevas del día están hechas, la sesión continúa con las pendientes y termina diciendo cuántas tarjetas nuevas quedan, con **Estudiar el mazo** y **Ajustes**.
 
 ## Historial de repasos
 
