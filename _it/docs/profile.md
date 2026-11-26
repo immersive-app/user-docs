@@ -42,7 +42,7 @@ Le valutazioni che dai e ricevi sono elencate nella scheda, e le valutazioni del
 
 ## Vocabolario
 
-Le parole e le frasi che hai raccolto mentre studiavi — ricercabili, filtrabili e a un'azione di distanza dal diventare un mazzo. Vedi [Vocabolario](vocabulary.md).
+Le parole e le frasi che hai raccolto mentre studiavi, ricercabili e filtrabili. Le parole che tocchi e le voci che salvi sono carte del tuo mazzo **Il mio vocabolario**, con **Studia** in cima alla scheda. Vedi [Vocabolario](vocabulary.md).
 
 ## Coach
 

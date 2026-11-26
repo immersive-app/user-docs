@@ -1,6 +1,6 @@
 ---
 title: Ripassare le carte
-description: Avviare un ripasso, le modalità Leggi, Scrivi, Ascolta e Parla, la valutazione, i risultati, i limiti giornalieri e la cronologia dei ripassi.
+description: Avviare un ripasso, le modalità Leggi, Scrivi, Ascolta e Parla, la carta verbo, Salta, il menu della carta, la valutazione, i risultati, i limiti giornalieri e la cronologia dei ripassi.
 parent: Mazzi e ripassi
 nav_order: 2
 lang: it
@@ -27,9 +27,21 @@ Le schede in cima alla carta cambiano la modalità. Immersive ricorda la modalit
 - **Leggi**: leggi la richiesta e richiama la risposta a mente, poi premi **Mostra risposta** (o Spazio) e valutati. I tasti numerici da 1 a 4 scelgono un giudizio. Una volta che la risposta è sulla carta, le sue parole funzionano come nel lettore: toccane una per la traduzione e l'audio.
 - **Scrivi**: la carta mostra la traduzione; scrivi la risposta nella lingua che stai imparando. **Tocca** ti dà tessere di parole mescolate da mettere in ordine (posizionare l'ultima parola invia la risposta), oppure passa a **Digita** e usa la tastiera, poi **Invia** (o Cmd+Invio / Ctrl+Invio).
 - **Ascolta**: la carta viene letta ad alta voce; scrivi ciò che senti, con la stessa scelta tra **Tocca** e **Digita**. Se una carta non ha audio, mostra invece il testo.
-- **Parla**: leggi la richiesta ad alta voce. **Registra** cattura la tua voce e si ferma da solo dopo dieci secondi. Un momento dopo l'invio, sotto **Hai detto** compare una trascrizione di ciò che hai detto, con le parole diverse dalla risposta segnate, e un giudizio suggerito («Vicino: 92%»). Riascolta **La tua** registrazione e il **Riferimento** per sentire la differenza. Se non compare nessuna trascrizione, valutati confrontandoti con il riferimento.
+- **Parla**: leggi la richiesta ad alta voce. **Registra** cattura la tua voce e si ferma da solo dopo dieci secondi. Un momento dopo l'invio, sotto **Hai detto** compare una trascrizione di ciò che hai detto, con le parole diverse dalla risposta segnate, e il giudizio ottenuto («Vicino: 92%»). Riascolta **La tua** registrazione e il **Riferimento** per sentire la differenza. Se la tua registrazione non si può controllare, **Riprova** la registra di nuovo.
 
 Il mazzo Pronuncia non ha nessuna di queste quattro: si ripassa in **Senti** e **Pronuncia**, e i suoi giri sono valutati con regole proprie. Vedi [Pronuncia](pronunciation.md).
+
+## La carta verbo
+
+Una carta di un mazzo di verbi è un verbo in un tempo.
+
+- **Leggi**: la carta mostra il verbo, il suo tempo e il suo significato. Ricorda le sei forme, poi premi **Mostra risposta**: compaiono le sei forme, ciascuna con il suo audio, e sotto una frase di esempio. Tocca una forma, o ascoltala, per vedere la frase di quella persona; tocca la frase per vederne la traduzione.
+- **Scrivi**, **Ascolta** e **Parla** chiedono una persona alla volta, nella frase di esempio di quella persona. In Scrivi e Ascolta la forma resta in bianco, e Ascolta legge la frase e ne nasconde la traduzione. In Parla leggi ad alta voce tutta la frase. La riga sotto la frase indica il verbo, la persona e il tempo («avoir · je · Indicatif · Futur simple»); in Ascolta non dice la persona. Tocca la riga, o premi P, per passare alla persona successiva senza rispondere.
+- In **Scrivi** e **Ascolta**, **Tocca** propone forme intere tra cui scegliere; un tocco risponde. **Digita** accetta la forma con o senza il pronome («j'aurai» o «aurai»); Invio la invia.
+
+Una forma scritta è giusta o sbagliata. Il risultato mostra tutta la frase con la forma evidenziata, la tua risposta, **Corretto** o **Non corretto**, la forma giusta dopo un errore e quando torna la carta. Un accento mancante o sbagliato conta come errore, e il risultato dice **Accento mancante**. Maiuscole, spazi e tipo di apostrofo non contano.
+
+Immersive sceglie la persona ogni volta: prima viene una a cui non hai ancora risposto giusto. Un'unica pianificazione copre tutta la carta, qualunque sia la persona che ti è stata chiesta.
 
 ## La valutazione
 
@@ -41,6 +53,27 @@ Ogni ripasso si conclude con uno di quattro giudizi:
 - **Facile**: senza sforzo; la carta si allontana il più possibile.
 
 In modalità Leggi scegli tu il giudizio: **Ancora**, **Difficile**, **Bene** o **Facile**. In Scrivi e Ascolta, Immersive valuta da sé la tua risposta. Il risultato mostra **Corretto** o **Non corretto**; dopo una risposta sbagliata, quella giusta («Risposta · j'ai»); il motivo quando c'è, come **Accento mancante** o la spiegazione di una domanda; e quando torna la carta («Torna tra 1 minuto», «Torna domani»). Una forma verbale è giusta o sbagliata: giusta vale **Facile**, sbagliata vale **Ancora**. Le altre risposte sono valutate in base a quanto si avvicinano, quindi una piccola svista può contare come giusta, con la risposta mostrata sotto. In Parla, Immersive valuta una trascrizione di ciò che hai detto. **Avanti** salva il ripasso e passa oltre.
+
+## Salta
+
+**Salta** si trova in fondo alla risposta in Scrivi, Ascolta e Parla, accanto a **Invia** o **Registra**, e sotto la carta in un turno di Pronuncia. Una carta saltata non riceve un giudizio e la sua pianificazione non cambia: esce da questa sessione e torna la prossima volta che premi **Inizia il ripasso**. Leggi non ha Salta. Su un computer, il tasto S salta la carta.
+
+## Il menu della carta
+
+Il pulsante in alto a sinistra di ogni carta (**Azioni della carta**) apre il suo menu:
+
+- **Sospendi carta** toglie la carta dai tuoi ripassi finché non la ripristini. La carta successiva mostra **Carta sospesa · Annulla**, nel caso tu cambi idea; più tardi, ripristinala dal fondo della pagina del mazzo. Vedi [Gestire i mazzi](managing-decks.md#carte-sospese).
+- **Modifica carta**, su una carta parola o frase di un tuo mazzo, apre la carta per cambiarne il testo, la traduzione o l'esempio, poi ti riporta al ripasso.
+- **Segnala questa frase**, su una carta verbo in Leggi dopo aver mostrato la risposta, invia la frase perché venga controllata, con una nota facoltativa. Scegli **Invia segnalazione**.
+
+## Tastiera
+
+Su un computer:
+
+- **Spazio** mostra la risposta in Leggi; **1**-**4** scelgono un giudizio.
+- **S** salta la carta.
+- **P** passa una carta verbo alla persona successiva.
+- **Cmd+Invio** (Ctrl+Invio) invia una risposta digitata; una forma verbale digitata si invia con Invio.
 
 ## Durante la sessione
 

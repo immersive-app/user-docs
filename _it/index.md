@@ -19,7 +19,7 @@ hero:
     link: https://immersive-app.com
 features:
 - title: Mazzi e ripassi
-  details: Crea mazzi di parole, frasi, verbi e numeri, e ripassali con un calendario
+  details: Crea mazzi di verbi e mazzi di parole e frasi tue, e ripassali con un calendario
     che si adatta alla tua memoria.
   link: "/it/docs/decks/"
 - title: Documenti
@@ -74,12 +74,12 @@ Parte del materiale di consultazione di Immersive è aperta a tutti:
 
 Registrarti sblocca gli strumenti di apprendimento:
 
-- **[Mazzi e ripassi](docs/decks.md)**: costruisci mazzi di parole, frasi, forme verbali e numeri, poi ripassali nelle modalità Leggi, Scrivi, Ascolta e Parla con un calendario che si adatta alla tua memoria.
+- **[Mazzi e ripassi](docs/decks.md)**: costruisci mazzi di verbi con i verbi e i tempi che scegli, e mazzi di vocabolario con parole e frasi tue, poi ripassali nelle modalità Leggi, Scrivi, Ascolta e Parla con un calendario che si adatta alla tua memoria.
 - **[Documenti](docs/documents.md)**: porta dentro un testo (incollalo, carica un file o fotografa una pagina) e leggilo con traduzione al tocco, audio e aiuti alla lettura. Oppure scrivi i tuoi testi e ricevi correzioni e riscritture.
 - **[Grammatica](docs/grammar.md)**: note per livello QCER (da A1 a C1) con esercizi, e carte di pratica che tornano per il ripasso.
 - **[Verbi](docs/verbs.md)**: i tuoi mazzi e le tue frasi su ogni pagina di verbo, e confronti tra le lingue che conosci.
 - **[Coach](docs/coach.md)**: fai domande su ciò che stai guardando.
-- **[Vocabolario](docs/vocabulary.md)**: le parole e le frasi che consulti, raccolte per te e pronte a diventare un mazzo.
+- **[Vocabolario](docs/vocabulary.md)**: le parole e le frasi che consulti, raccolte per te; le parole che tocchi sono già carte di un mazzo.
 - **[Profilo e progressi](docs/profile.md)**: a che punto sei, la tua attività di studio, le valutazioni con i compagni, l'[accesso per gli insegnanti](docs/teachers.md) e il tuo account.
 
 Durante la beta è tutto gratuito.
@@ -103,7 +103,7 @@ Dopo il primo accesso, accedendo arrivi sulla biblioteca dei verbi, e la navigaz
 
 Un buon primo quarto d'ora:
 
-1. **Apri il tuo primo mazzo.** La pagina Mazzi ha una **Biblioteca** di mazzi pronti nella lingua che stai imparando, come le parole più comuni. Copiane uno in I miei mazzi con **+** e inizia un ripasso. Vedi [Ripassare le carte](docs/decks/reviewing-cards.md).
+1. **Apri il tuo primo mazzo.** La pagina Mazzi ha una **Biblioteca** di mazzi pronti nella lingua che stai imparando, come i verbi essenziali, un mazzo per tempo. Copiane uno in I miei mazzi con **+** e inizia un ripasso. Vedi [Ripassare le carte](docs/decks/reviewing-cards.md).
 2. **Leggi qualcosa al tuo livello.** Apri Documenti e scegli un testo dalla Biblioteca, o importane uno tuo. Tocca una parola o una frase per vederne la traduzione; tocca di nuovo per ascoltarla. Vedi [Leggere documenti](docs/documents/reading-documents.md).
 3. **Leggi una nota di grammatica.** Apri Grammatica: ti suggerisce da dove cominciare. Vedi [Grammatica](docs/grammar.md).
 

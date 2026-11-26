@@ -8,22 +8,27 @@ lang: it
 
 # Pratica di grammatica
 
-Leggere una nota una volta non basta perché un punto di grammatica resti. **Esercitati** trasforma gli esercizi di una nota in carte di ripasso che tornano con lo stesso calendario basato sulla memoria dei tuoi mazzi.
+Leggere una nota una volta non basta perché un punto di grammatica resti. La pratica trasforma gli esercizi delle note in carte di ripasso che tornano con lo stesso calendario basato sulla memoria dei tuoi mazzi.
 
-## Esercitarsi su una nota
+## Esercitarsi
 
-In una nota di grammatica, **Esercitati** (con quante carte sono da ripassare, nuove o in attesa) crea le carte della nota, se non ne hai ancora, e avvia un ripasso di quella nota. Le carte finiscono in un mazzo chiamato **Pratica di grammatica** per la lingua, che vedi anche in I miei mazzi. La freccia accanto elenca i tuoi mazzi, per aggiungere invece le carte della nota a uno di essi, attraverso la scheda **Grammatica** del mazzo (vedi [Creare mazzi](../decks/creating-decks.md#grammatica)). Una nota senza esercizi si esercita con le sue frasi di esempio, così ogni nota si può esercitare.
+Ti eserciti su un livello o su un'area alla volta:
 
-Una pagina di livello o di area offre **Pratica tutto**, con il numero di carte, per ogni nota che contiene.
+- Nella pagina di un livello, **Pratica tutto · 12 carte**, in cima all'elenco delle aree, copre tutte le note del livello, e **Pratica**, sulla riga di un'area, copre quell'area.
+- Nella pagina di un'area, **Pratica tutto · 5 carte**, in cima all'elenco delle note, copre tutte le note dell'area.
+
+Ogni pulsante crea le carte che non hai ancora e avvia subito il ripasso. Le carte vanno in un mazzo chiamato **Pratica di grammatica** per la lingua, che vedi anche in I miei mazzi. Una nota senza esercizi si esercita con le sue frasi di esempio. Un livello o un'area senza nulla da esercitare non ha il pulsante.
+
+In una nota, ogni esercizio a cui rispondi diventa anche una carta di Pratica di grammatica, e ogni risposta conta come un ripasso di quella carta: una risposta giusta come **Bene**, una sbagliata come **Ancora**, che la carta sia da ripassare o no. Un altro tentativo dopo un errore è un ripasso in più. La stessa risposta inviata due volte di seguito, con un doppio tocco, conta una volta sola. Vedi [Leggere le note di grammatica](review-grammar.md#esercizi).
 
 ## Ripassare la grammatica
 
 I ripassi di grammatica possono riguardare una nota, un'area, un livello o tutto:
 
-- Nella pagina Grammatica: **Ripassa 3 carte**, oppure **Esercitati · 5 nuove** quando non c'è nulla da ripassare.
+- Nella pagina Grammatica, su uno schermo più largo: **Ripassa 3 carte**, oppure **Esercitati · 5 nuove** quando non c'è nulla da ripassare.
 - Nella pagina di un livello: **Ripassa 3 carte a B1**.
-- Nella pagina di un'area: **Ripassa quest'area** o **Esercitati su quest'area**.
-- In una nota: **Esercitati**.
+- Nella pagina di un'area: **Ripassa quest'area · 3 carte**, oppure **Esercitati su quest'area**.
+- In una nota: su un telefono, quando una nota ha esercizi da ripassare, **Continua** nella pagina Grammatica la apre su quegli esercizi. Quando li hai fatti, la nota dice **Ripassata per oggi.**, e **Scheda successiva** passa alla prossima.
 
 Il ripasso funziona come quello di un mazzo (vedi [Ripassare le carte](../decks/reviewing-cards.md)), con tre modalità:
 
