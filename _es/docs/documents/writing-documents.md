@@ -12,7 +12,7 @@ Escribir es donde un idioma se hace tuyo. El editor te da una página limpia en 
 
 ## El editor
 
-1. Abre **Documentos** y elige **+** (**Crear un nuevo documento**), o **Nuevo documento** en el menú **…** en un teléfono y en la app de iOS; o abre un documento y cambia a **Escribir** en la parte superior del lector (en la app de iOS, en su menú **…** arriba a la derecha).
+1. Abre **Documentos** y elige **+** (**Crear un nuevo documento**), o abre un documento y cambia a **Escribir** en la parte superior del lector.
 2. Escribe. El texto va justo debajo del título. En un documento nuevo, la barra de herramientas de encima ofrece negrita, cursiva, encabezados, listas y citas, además de sangría de párrafo, interlineado e impresión, y muestra un recuento de palabras en directo; una vez guardado el documento, estas herramientas están arriba del asistente de escritura.
 3. **Guardar** cuando quieras. Un documento guardado puede leerse como cualquier otro, con traducciones, audio y ayudas de lectura.
 

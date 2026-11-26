@@ -12,7 +12,7 @@ El lector es basa en un principi: reeixir vol dir entendre el text, no traduir c
 
 ## Portar-hi un text
 
-1. Obre **Documents** i tria **+** (**Crea un document nou**), o **Document nou** al menú **…** en un mòbil i a l'app d'iOS. Si encara no tens cap document, la pàgina ofereix **Puja un document** i **O comença des d'una pàgina en blanc**; tots dos obren el mateix editor.
+1. Obre **Documents** i tria **+** (**Crea un document nou**). Si encara no tens cap document, la pàgina ofereix **Puja un document** i **O comença des d'una pàgina en blanc**; tots dos obren el mateix editor.
 2. Afegeix el text: escriu-lo o enganxa'l, o fes servir **Importa des d'un fitxer**. S'accepten text, Markdown, PDF i fotos d'una pàgina (JPEG, PNG, WebP), fins a 10 MB. Si tries un fitxer quan ja hi ha text, Immersive et pregunta quin vols conservar. El títol és opcional: si el deixes en blanc, surt del nom del fitxer o de la primera línia del text.
 3. Tria **Desar**. Immersive converteix el text en paraules i frases que es poden tocar, cosa que triga uns segons: el lector diu «S'està preparant el teu text» i mostra el text tot sol quan està a punt, sense recarregar. Un fitxer importat es llegeix primer. Els PDF escanejats i les fotos els llegeix la IA, i el lector ho indica a sobre del text: revisa'l comparant-lo amb la pàgina.
 
@@ -87,11 +87,11 @@ Immersive recorda la mida del text, l'interlineat, el sagnat, la densitat d'ajud
 
 ## Marcadors
 
-La icona del marcador a dalt del lector marca el document. A l'app d'iOS, **Preferit** és al menú **…** del lector, a dalt a la dreta, amb una marca de verificació quan està activat. Llavors, **Només desades** a la pàgina de Documents (el botó del marcador al costat del quadre de cerca en un ordinador, un element del menú **…** en un mòbil i a l'app d'iOS) llista només els documents marcats.
+La icona del marcador a dalt del lector marca el document; llavors, **Només desades**, al menú **…** de dalt de la pàgina de Documents, llista només els documents marcats.
 
 ## Edició i historial
 
-Canvia a **Escriu** a dalt del lector (a l'app d'iOS, al seu menú **…** de dalt a la dreta) per editar el text; també hi pots eliminar un document. L'**Historial** del document conserva la versió anterior abans de cada edició, importació, correcció aplicada o restauració. Vegeu [Escriure documents](writing-documents.md#historial).
+Canvia a **Escriu** a dalt del lector per editar el text; també hi pots eliminar un document. L'**Historial** del document conserva la versió anterior abans de cada edició, importació, correcció aplicada o restauració. Vegeu [Escriure documents](writing-documents.md#historial).
 
 ## Per llegir més
 

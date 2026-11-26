@@ -12,7 +12,7 @@ Construire un paquet se fait en deux étapes : créer le paquet, puis y ajouter
 
 ## Pour créer un paquet
 
-1. Ouvrez **Paquets** et choisissez le bouton **+** (**Créer un nouveau paquet**) ; sur un téléphone et dans l'app iOS, choisissez **Créer un nouveau paquet** dans le menu **…** en haut.
+1. Ouvrez **Paquets** et choisissez le bouton **+** (**Créer un nouveau paquet**).
 2. Donnez au paquet un titre dans la langue que vous apprenez et un dans votre propre langue. Les deux sont obligatoires : les révisions peuvent montrer l'une ou l'autre face.
 3. Choisissez éventuellement un **Dossier** (ou tapez le nom d'un nouveau dossier) et ajoutez des **Étiquettes**. Sans dossier, le paquet reste au premier niveau de Mes paquets ; les étiquettes regroupent les paquets entre dossiers.
 4. Choisissez **Créer**.

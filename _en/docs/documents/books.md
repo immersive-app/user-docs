@@ -13,7 +13,7 @@ Books are listed first on the **Documents** page, above your documents and the *
 
 ## Adding a book
 
-1. On **Documents**, choose **Add a book** in the **Books** section. On a computer, the **+** button offers it too, and on a phone and in the iOS app, the **…** menu at the top.
+1. On **Documents**, choose **Add a book** in the **Books** section. The **…** menu at the top of the page offers it too.
 2. **Upload a file** (**Choose a file**, or on a computer drop one on the box: EPUB, text, Markdown, or PDF, up to 25 MB), or **Paste a Project Gutenberg link**. Use one or the other, not both.
 3. **Title** and **Author** are optional. Left blank, they come from the file.
 4. **Add book**. The book's page opens.

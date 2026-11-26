@@ -12,7 +12,7 @@ Escriure és on una llengua es fa teva. L'editor et dona una pàgina neta en la 
 
 ## L'editor
 
-1. Obre **Documents** i tria **+** (**Crea un document nou**), o **Document nou** al menú **…** en un mòbil i a l'app d'iOS; o obre un document i canvia a **Escriu** a dalt del lector (a l'app d'iOS, al seu menú **…** de dalt a la dreta).
+1. Obre **Documents** i tria **+** (**Crea un document nou**), o obre un document i canvia a **Escriu** a dalt del lector.
 2. Escriu. El text va just sota el títol. En un document nou, la barra d'eines de sobre ofereix negreta, cursiva, encapçalaments, llistes i citacions, a més de sagnat de paràgraf, interlineat i impressió, i mostra un recompte de paraules en directe; un cop desat el document, aquestes eines són a dalt de l'assistent d'escriptura.
 3. Tria **Desar** quan vulguis. Un document desat es pot llegir com qualsevol altre, amb traduccions, àudio i ajudes de lectura.
 

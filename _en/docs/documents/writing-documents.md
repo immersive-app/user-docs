@@ -11,7 +11,7 @@ Writing is where a language becomes yours. The editor gives you a clean page in 
 
 ## The editor
 
-1. Open **Documents** and choose **+** (**Create a new document**), or **New document** in the **…** menu on a phone and in the iOS app; or open a document and switch to **Write** at the top of the reader (in the iOS app, in its **…** menu at the top right).
+1. Open **Documents** and choose **+** (**Create a new document**), or open a document and switch to **Write** at the top of the reader.
 2. Write. The text comes right under the title. On a new document the toolbar above it offers bold, italic, headings, lists, and quotes, plus paragraph indent, line spacing, and print, and shows a running word count; once the document is saved, these tools are at the top of the writing assistant.
 3. **Save** whenever you like. A saved document can be read like any other, with translations, audio, and reading aids.
 

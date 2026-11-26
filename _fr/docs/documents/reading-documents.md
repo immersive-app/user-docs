@@ -12,7 +12,7 @@ Le lecteur repose sur un principe : vous réussissez en comprenant le texte, pa
 
 ## Apporter un texte
 
-1. Ouvrez **Documents** et choisissez **+** (**Créer un nouveau document**), ou **Nouveau document** dans le menu **…** sur un téléphone et dans l'app iOS. Tant que vous n'avez aucun document, la page propose **Importer un document** et **Ou partez d'une page vierge** ; les deux ouvrent le même éditeur.
+1. Ouvrez **Documents** et choisissez **+** (**Créer un nouveau document**). Tant que vous n'avez aucun document, la page propose **Importer un document** et **Ou partez d'une page vierge** ; les deux ouvrent le même éditeur.
 2. Ajoutez le texte : tapez-le ou collez-le, ou utilisez **Importer depuis un fichier**. Le texte, le Markdown, le PDF et les photos d'une page (JPEG, PNG, WebP) sont acceptés, jusqu'à 10 Mo. Si vous choisissez un fichier alors qu'il y a déjà du texte, Immersive vous demande lequel garder. Le titre est facultatif : laissé vide, il vient du nom du fichier ou de la première ligne du texte.
 3. **Enregistrer**. Immersive transforme le texte en mots et en phrases à toucher, ce qui prend quelques secondes : le lecteur indique « Préparation de ton texte » et affiche le texte tout seul dès qu'il est prêt, sans recharger. Un fichier importé est d'abord lu. Les PDF numérisés et les photos sont lus par IA, et le lecteur l'indique au-dessus du texte : vérifiez-le en le comparant à la page.
 
@@ -87,11 +87,11 @@ Immersive se souvient de votre taille de texte, de votre interligne, de votre al
 
 ## Favoris
 
-L'icône de signet en haut du lecteur met le document en favori. Dans l'app iOS, **Favori** est dans le menu **…** du lecteur, en haut à droite, avec une coche une fois activé. **Favoris seulement** sur la page Documents (le bouton signet à côté du champ de recherche sur un ordinateur, un élément du menu **…** sur un téléphone et dans l'app iOS) ne liste alors que vos documents favoris.
+L'icône de signet en haut du lecteur met le document en favori ; **Favoris seulement**, dans le menu **…** en haut de la page Documents, ne liste alors que vos documents favoris.
 
 ## Modification et historique
 
-Passez à **Écrire** en haut du lecteur (dans l'app iOS, dans son menu **…** en haut à droite) pour modifier le texte ; c'est aussi là que vous supprimez un document. L'**Historique** du document garde la version précédente avant chaque modification, importation, correction appliquée ou restauration. Voir [Écrire des documents](writing-documents.md#historique).
+Passez à **Écrire** en haut du lecteur pour modifier le texte ; c'est aussi là que vous supprimez un document. L'**Historique** du document garde la version précédente avant chaque modification, importation, correction appliquée ou restauration. Voir [Écrire des documents](writing-documents.md#historique).
 
 ## Pour aller plus loin
 

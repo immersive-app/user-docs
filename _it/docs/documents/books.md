@@ -14,7 +14,7 @@ I libri compaiono per primi nella pagina **Documenti**, sopra i tuoi documenti e
 
 ## Aggiungere un libro
 
-1. In **Documenti**, scegli **Aggiungi un libro** nella sezione **Libri**. Su un computer lo offre anche il pulsante **+**, e su un telefono e nell'app iOS il menu **…** in alto.
+1. In **Documenti**, scegli **Aggiungi un libro** nella sezione **Libri**. Lo offre anche il menu **…** in cima alla pagina.
 2. **Carica un file** (**Scegli un file**, oppure su un computer trascinane uno nel riquadro: EPUB, testo, Markdown o PDF, fino a 25 MB), oppure **Incolla un link di Project Gutenberg**. Usa l'uno o l'altro, non entrambi.
 3. **Titolo** e **Autore** sono facoltativi. Se li lasci vuoti, vengono presi dal file.
 4. **Aggiungi il libro**. Si apre la pagina del libro.

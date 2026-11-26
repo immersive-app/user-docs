@@ -12,9 +12,9 @@ Comment trouver la note dont vous avez besoin, la lire et faire ses exercices.
 
 ## Trouver une note
 
-- **Rechercher** : tapez dans le champ de recherche en haut de la page Grammaire. Sur un téléphone et dans l'app iOS, choisissez d'abord **Rechercher** dans le menu **…** (**Plus**) pour l'ouvrir. Les résultats listent toutes les notes correspondantes avec leur niveau, leur domaine et votre maîtrise ; les niveaux et les domaines sont masqués pendant la recherche.
+- **Rechercher** : tapez dans le champ de recherche en haut de la page Grammaire. Les résultats listent toutes les notes correspondantes avec leur niveau, leur domaine et votre maîtrise ; les niveaux et les domaines sont masqués pendant la recherche.
 - **Parcourir** : ouvrez un niveau, puis un domaine, pour voir ses notes, 20 à la fois.
-- **Favoris** : l'icône de signet sur une note la met en favori ; le bouton signet à côté du champ de recherche de la page Grammaire (**Favoris seulement** dans le menu **…** sur un téléphone et dans l'app iOS) ne liste que vos notes favorites.
+- **Favoris** : l'icône de signet sur une note la met en favori ; le bouton signet de la page Grammaire ne liste que vos notes favorites.
 
 ## Lire une note
 

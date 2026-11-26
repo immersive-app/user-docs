@@ -11,7 +11,7 @@ A deck you make is one of two kinds: a **verb deck**, made from the verbs and te
 
 ## To create a deck
 
-Open **Decks** and choose the **+** button (**Create a new deck**); on a phone and in the iOS app, choose **Create a new deck** in the **…** menu at the top. **New deck** offers the two kinds:
+Open **Decks** and choose the **+** button (**Create a new deck**). **New deck** offers the two kinds:
 
 - **Verbs**: "Choose verbs and tenses."
 - **Vocabulary**: "Name it, then type or paste its words and sentences, upload a list, or pick them from a text."

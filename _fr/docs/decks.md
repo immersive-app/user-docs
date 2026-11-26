@@ -40,7 +40,7 @@ Ouvrir **Paquets** affiche :
 
 - **Bibliothèque** : des paquets prêts à l'emploi dans la langue que vous apprenez, repliée jusqu'à ce que vous l'ouvriez. Copiez-en un dans Mes paquets avec son bouton **+**.
 - **Mes paquets** : vos paquets et vos dossiers, avec des colonnes indiquant combien de cartes sont **Nouvelles**, **En cours** et **À revoir**.
-- En haut : le champ de recherche, **+** pour créer un nouveau paquet, et le menu **…** (**Plus**) avec **Historique des révisions** et **Favoris seulement**, qui n'affiche que vos paquets favoris. Sur un téléphone et dans l'app iOS, le menu **…** les réunit tous : **Créer un nouveau paquet**, **Rechercher**, **Historique des révisions** et **Favoris seulement**.
+- En haut : le champ de recherche, **+** pour créer un nouveau paquet, et le menu **…** (**Plus**) avec **Historique des révisions** et **Favoris seulement**, qui n'affiche que vos paquets favoris. Sur un téléphone et dans l'app iOS, **Rechercher** est aussi dans le menu **…**.
 
 ## Anki
 

@@ -40,7 +40,7 @@ Abrir **Baralhos** mostra:
 
 - **Biblioteca**: baralhos prontos na língua que está a aprender, fechada até a abrir. Copie um para **Os meus baralhos** com o seu botão **+**.
 - **Os meus baralhos**: os seus baralhos e pastas, com colunas que mostram quantos cartões estão **Novas**, **A aprender** e **Pendentes**.
-- No topo: a caixa de pesquisa, **+** para criar um baralho novo, e o menu **…** (**Mais**) com **Histórico de revisões** e **Apenas guardadas**, que mostra apenas os baralhos que marcou. Num telemóvel e na app iOS, o menu **…** reúne tudo: **Criar um novo baralho**, **Pesquisar**, **Histórico de revisões** e **Apenas guardadas**.
+- No topo: a caixa de pesquisa, **+** para criar um baralho novo, e o menu **…** (**Mais**) com **Histórico de revisões** e **Apenas guardadas**, que mostra apenas os baralhos que marcou. Num telemóvel e na app iOS, **Pesquisar** também está no menu **…**.
 
 ## Anki
 

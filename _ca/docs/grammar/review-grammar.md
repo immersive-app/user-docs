@@ -12,9 +12,9 @@ Com trobar la nota que necessites, llegir-la i treballar-ne els exercicis.
 
 ## Trobar una nota
 
-- **Cerca**: escriu al quadre de cerca a dalt de la pàgina de Gramàtica. En un mòbil i a l'app d'iOS, tria primer **Cerca** al menú **…** (**Més**) per obrir-lo. Els resultats llisten cada nota coincident amb el seu nivell, la seva àrea i el teu domini; els nivells i les àrees s'amaguen mentre cerques.
+- **Cerca**: escriu al quadre de cerca a dalt de la pàgina de Gramàtica. Els resultats llisten cada nota coincident amb el seu nivell, la seva àrea i el teu domini; els nivells i les àrees s'amaguen mentre cerques.
 - **Explora**: obre un nivell, i després una àrea, per veure'n les notes, de 20 en 20.
-- **Marcadors**: la icona del marcador d'una nota la marca; el botó del marcador al costat del quadre de cerca de la pàgina de Gramàtica (**Només desades** al menú **…** en un mòbil i a l'app d'iOS) llista només les notes marcades.
+- **Marcadors**: la icona del marcador d'una nota la marca; el botó del marcador de la pàgina de Gramàtica llista només les notes marcades.
 
 ## Llegir una nota
 

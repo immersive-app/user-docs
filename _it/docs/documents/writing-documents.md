@@ -12,7 +12,7 @@ Scrivere è il momento in cui una lingua diventa tua. L'editor ti dà una pagina
 
 ## L'editor
 
-1. Apri **Documenti** e scegli **+** (**Crea un nuovo documento**), oppure **Nuovo documento** nel menu **…** su un telefono e nell'app iOS; oppure apri un documento e passa a **Scrivi** in cima al lettore (nell'app iOS, nel suo menu **…** in alto a destra).
+1. Apri **Documenti** e scegli **+** (**Crea un nuovo documento**), oppure apri un documento e passa a **Scrivi** in cima al lettore.
 2. Scrivi. Il testo viene subito sotto il titolo. In un documento nuovo, la barra degli strumenti sopra offre grassetto, corsivo, titoli, elenchi e citazioni, più rientro dei paragrafi, interlinea e stampa, e mostra un conteggio delle parole in tempo reale; dopo il salvataggio questi strumenti sono in cima all'assistente di scrittura.
 3. **Salva** quando vuoi. Un documento salvato può essere letto come qualsiasi altro, con traduzioni, audio e aiuti alla lettura.
 

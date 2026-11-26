@@ -12,7 +12,7 @@ lang: fr
 
 ## L'éditeur
 
-1. Ouvrez **Documents** et choisissez **+** (**Créer un nouveau document**), ou **Nouveau document** dans le menu **…** sur un téléphone et dans l'app iOS ; ou ouvrez un document et passez à **Écrire** en haut du lecteur (dans l'app iOS, dans son menu **…** en haut à droite).
+1. Ouvrez **Documents** et choisissez **+** (**Créer un nouveau document**), ou ouvrez un document et passez à **Écrire** en haut du lecteur.
 2. Écrivez. Le texte vient juste sous le titre. Sur un nouveau document, la barre d'outils au-dessus propose le gras, l'italique, les titres, les listes et les citations, plus l'alinéa, l'interligne et l'impression, et affiche un compteur de mots en continu ; une fois le document enregistré, ces outils sont en haut de l'assistant d'écriture.
 3. **Enregistrer** quand vous voulez. Un document enregistré se lit comme n'importe quel autre, avec traductions, audio et aides à la lecture.
 

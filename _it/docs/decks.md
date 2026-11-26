@@ -40,7 +40,7 @@ Aprendo **Mazzi** trovi:
 
 - **Biblioteca**: mazzi pronti nella lingua che stai imparando, chiusa finché non la apri. Copiane uno in I miei mazzi con il suo pulsante **+**.
 - **I miei mazzi**: i tuoi mazzi e le tue cartelle, con colonne che mostrano quante carte sono **Nuove**, **In corso** e **Da rivedere**.
-- In alto: la casella di ricerca, **+** per creare un nuovo mazzo e il menu **…** (**Altro**) con **Cronologia dei ripassi** e **Solo salvate**, che mostra solo i mazzi che hai salvato tra i segnalibri. Su un telefono e nell'app iOS, il menu **…** li raccoglie tutti: **Crea un nuovo mazzo**, **Cerca**, **Cronologia dei ripassi** e **Solo salvate**.
+- In alto: la casella di ricerca, **+** per creare un nuovo mazzo e il menu **…** (**Altro**) con **Cronologia dei ripassi** e **Solo salvate**, che mostra solo i mazzi che hai salvato tra i segnalibri. Su un telefono e nell'app iOS, anche **Cerca** è nel menu **…**.
 
 ## Anki
 

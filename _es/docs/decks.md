@@ -40,7 +40,7 @@ Al abrir **Mazos** verás:
 
 - **Biblioteca**: mazos listos para usar en el idioma que aprendes, plegada hasta que la abres. Copia uno a Mis mazos con su botón **+**.
 - **Mis mazos**: tus mazos y carpetas, con columnas que muestran cuántas tarjetas hay **Nuevas**, **Aprendiendo** y **Pendientes**.
-- Arriba: el cuadro de búsqueda, **+** para crear un mazo nuevo y el menú **…** (**Más**) con **Historial de repasos** y **Solo guardadas**, que muestra solo tus mazos marcados. En un teléfono y en la app de iOS, el menú **…** lo reúne todo: **Crear un nuevo mazo**, **Buscar**, **Historial de repasos** y **Solo guardadas**.
+- Arriba: el cuadro de búsqueda, **+** para crear un mazo nuevo y el menú **…** (**Más**) con **Historial de repasos** y **Solo guardadas**, que muestra solo tus mazos marcados. En un teléfono y en la app de iOS, **Buscar** también está en el menú **…**.
 
 ## Anki
 

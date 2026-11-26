@@ -17,7 +17,7 @@ Abre **Gramática** desde la barra de navegación una vez iniciada la sesión.
 - **Dónde estás**: «Empieza en A2» hasta que empiezas, y luego «Trabajando en B1», con un botón para **Repasar** las tarjetas de gramática pendientes o para **Practicar** tarjetas nuevas. Ver [Práctica de gramática](grammar/grammar-practice.md).
 - **Recomendado** (o **Empieza aquí** al principio): una lista corta de notas para leer, practicar o repasar a continuación, cada una marcada con el motivo: **Pendiente**, **Siguiente**, **Listo** o **Débil**.
 - **Por nivel**: de A1 a C1, cada uno con tu dominio, el número de notas y cuántas tarjetas están pendientes. Abre un nivel para ver sus áreas («Verbos, tiempos y conjugación», «Pronombres»...), y un área para ver sus notas. Una página de nivel o de área ofrece **Practicar todo**, que crea tarjetas para todas sus notas.
-- La **búsqueda** de la parte superior encuentra notas por palabra clave; el botón del marcador, a su lado, muestra solo tus notas marcadas. En un teléfono y en la app de iOS, los dos están en el menú **…** (**Más**) de la parte superior: **Buscar** abre el cuadro de búsqueda, y **Solo guardadas** muestra tus notas marcadas.
+- La **búsqueda** de la parte superior encuentra notas por palabra clave; el botón del marcador muestra solo tus notas marcadas.
 
 ## Dominio
 

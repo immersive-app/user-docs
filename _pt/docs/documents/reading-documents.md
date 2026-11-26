@@ -12,7 +12,7 @@ O leitor assenta num princípio: tem êxito quando compreende o texto, não quan
 
 ## Trazer um texto
 
-1. Abra **Documentos** e escolha **+** (**Criar um novo documento**), ou **Novo documento** no menu **…** num telemóvel e na app iOS. Sem documentos ainda, a página oferece **Carregar um documento** e **Ou comece de uma página em branco**; os dois abrem o mesmo editor.
+1. Abra **Documentos** e escolha **+** (**Criar um novo documento**). Sem documentos ainda, a página oferece **Carregar um documento** e **Ou comece de uma página em branco**; os dois abrem o mesmo editor.
 2. Adicione o texto: escreva-o ou cole-o, ou use **Importar de um ficheiro**. São aceites texto, Markdown, PDF e fotos de uma página (JPEG, PNG, WebP), até 10 MB. Se escolher um ficheiro quando já há texto, o Immersive pergunta qual manter. O título é opcional: se o deixar em branco, vem do nome do ficheiro ou da primeira linha do texto.
 3. **Guardar**. O Immersive transforma o texto em palavras e frases em que pode tocar, o que demora alguns segundos: o leitor diz «A preparar o teu texto» e mostra o texto sozinho quando está pronto, sem recarregar. Um ficheiro importado é lido primeiro. Os PDF digitalizados e as fotos são lidos por IA, e o leitor indica-o por cima do texto: compare-o com a página.
 
@@ -87,11 +87,11 @@ O Immersive lembra-se do tamanho do texto, da entrelinha, do recuo, da densidade
 
 ## Marcadores
 
-O ícone do marcador no topo do leitor marca o documento. Na app iOS, **Marcador** está no menu **…** do leitor, no canto superior direito, com um visto quando está ativo. **Apenas guardadas** na página Documentos (o botão do marcador ao lado da caixa de pesquisa num computador, um item do menu **…** num telemóvel e na app iOS) passa então a listar apenas os documentos que marcou.
+O ícone do marcador no topo do leitor marca o documento; **Apenas guardadas**, no menu **…** no topo da página Documentos, passa então a listar apenas os documentos que marcou.
 
 ## Edição e histórico
 
-Mude para **Escrever** no topo do leitor (na app iOS, no seu menu **…** no canto superior direito) para editar o texto; também pode eliminar um documento a partir daí. O **Histórico** do documento guarda a versão anterior antes de cada edição, importação, correção aplicada ou restauro. Ver [Escrever documentos](writing-documents.md#histórico).
+Mude para **Escrever** no topo do leitor para editar o texto; também pode eliminar um documento a partir daí. O **Histórico** do documento guarda a versão anterior antes de cada edição, importação, correção aplicada ou restauro. Ver [Escrever documentos](writing-documents.md#histórico).
 
 ## Para saber mais
 

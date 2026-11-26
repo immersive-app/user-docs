@@ -38,9 +38,9 @@ The Documents page also shows the **Library**: texts chosen or written by Immers
 
 ## The document list
 
-The Documents page lists documents in the language you are learning, with a search box. A search looks through the titles, and their translations, of your documents, your books and their chapters, and the Library, whatever the accents, and shows what it finds under Books, Documents and Library. Each row shows the title's translation, the level, and the word count. The bookmark icon on a document marks it, and the bookmark button beside the search box shows only your bookmarked documents. On a phone and in the iOS app, both are in the **…** menu (**More**) at the top: **Search** opens the search box, and **Bookmarked only** shows your bookmarked documents. **Filters** narrows the list by level: **A1–A2**, **B1–B2**, or **C1–C2**.
+The Documents page lists documents in the language you are learning, with a search box. A search looks through the titles, and their translations, of your documents, your books and their chapters, and the Library, whatever the accents, and shows what it finds under Books, Documents and Library. Each row shows the title's translation, the level, and the word count. The bookmark icon on a document marks it, and **Bookmarked only**, in the **…** menu (**More**) at the top of the page, shows only your bookmarked documents. On a phone and in the iOS app, **Search** in the same menu opens the search box. **Filters** narrows the list by level: **A1–A2**, **B1–B2**, or **C1–C2**.
 
-To create a document, choose **+** (**Create a new document**), or **New document** in the **…** menu on a phone and in the iOS app. The document is in the language you are learning at the time.
+To create a document, choose **+** (**Create a new document**). The document is in the language you are learning at the time.
 
 Documents keep an **edit history**: the previous version is saved before each edit, import, applied correction, or restore, and can be compared and restored. See [Writing documents](documents/writing-documents.md#history).
 

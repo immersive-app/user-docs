@@ -12,9 +12,9 @@ Cómo encontrar la nota que necesitas, leerla y trabajar sus ejercicios.
 
 ## Encontrar una nota
 
-- **Buscar**: escribe en el cuadro de búsqueda de la parte superior de la página de Gramática. En un teléfono y en la app de iOS, elige antes **Buscar** en el menú **…** (**Más**) para abrirlo. Los resultados listan todas las notas que coinciden, con su nivel, su área y tu dominio; los niveles y las áreas se ocultan mientras buscas.
+- **Buscar**: escribe en el cuadro de búsqueda de la parte superior de la página de Gramática. Los resultados listan todas las notas que coinciden, con su nivel, su área y tu dominio; los niveles y las áreas se ocultan mientras buscas.
 - **Explorar**: abre un nivel y luego un área para ver sus notas, de 20 en 20.
-- **Marcadores**: el icono del marcador en una nota la marca; el botón del marcador junto al cuadro de búsqueda de la página de Gramática (**Solo guardadas** en el menú **…** en un teléfono y en la app de iOS) lista solo tus notas marcadas.
+- **Marcadores**: el icono del marcador en una nota la marca; el botón del marcador en la página de Gramática lista solo tus notas marcadas.
 
 ## Leer una nota
 
