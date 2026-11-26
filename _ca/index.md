@@ -19,7 +19,7 @@ hero:
     link: https://immersive-app.com
 features:
 - title: Baralles i repassos
-  details: Crea baralles de paraules, frases, verbs i nombres, i repassa-les amb un
+  details: Crea baralles de verbs i baralles de les teves paraules i frases, i repassa-les amb un
     calendari que s'adapta a la teva memòria.
   link: "/ca/docs/decks/"
 - title: Documents
@@ -74,12 +74,12 @@ Una part del material de referència d'Immersive és oberta a tothom:
 
 Registrar-te desbloqueja les eines d'aprenentatge:
 
-- **[Baralles i repassos](docs/decks.md)**: crea baralles de paraules, frases, formes verbals i nombres, i repassa-les en els modes Llegeix, Escriu, Escolta i Parla amb un calendari que s'adapta a la teva memòria.
+- **[Baralles i repassos](docs/decks.md)**: crea baralles de verbs amb els verbs i els temps que triïs, i baralles de vocabulari amb les teves pròpies paraules i frases, i repassa-les en els modes Llegeix, Escriu, Escolta i Parla amb un calendari que s'adapta a la teva memòria.
 - **[Documents](docs/documents.md)**: porta-hi un text (enganxa'l, puja un fitxer o fotografia una pàgina) i llegeix-lo amb traducció a un toc, àudio i ajudes de lectura. O escriu els teus textos i obtén correccions i reescriptures.
 - **[Gramàtica](docs/grammar.md)**: notes per nivell MECR (A1 a C1) amb exercicis, i targetes de pràctica que tornen per repassar-les.
 - **[Verbs](docs/verbs.md)**: les teves baralles i les teves frases a cada pàgina de verb, i comparacions entre les llengües que coneixes.
 - **[Coach](docs/coach.md)**: fes preguntes sobre el que tens al davant.
-- **[Vocabulari](docs/vocabulary.md)**: les paraules i frases que consultes, recollides per a tu i a punt per convertir-se en una baralla.
+- **[Vocabulari](docs/vocabulary.md)**: les paraules i frases que consultes, recollides per a tu; les paraules que toques ja són targetes d'una baralla.
 - **[Perfil i progrés](docs/profile.md)**: on ets, la teva activitat d'estudi, les avaluacions amb companys, l'[accés per a professors](docs/teachers.md) i el teu compte.
 
 Tot és gratuït durant la beta.
@@ -103,7 +103,7 @@ Després del primer inici de sessió, iniciar sessió et porta a la biblioteca d
 
 Uns bons primers quinze minuts:
 
-1. **Obre la teva primera baralla.** La pàgina de Baralles té una **Biblioteca** de baralles ja fetes en la llengua que aprens, com ara les paraules més freqüents. Copia'n una a Les meves baralles amb **+** i comença un repàs. Vegeu [Repassar targetes](docs/decks/reviewing-cards.md).
+1. **Obre la teva primera baralla.** La pàgina de Baralles té una **Biblioteca** de baralles ja fetes en la llengua que aprens, com ara els verbs essencials, una baralla per temps. Copia'n una a Les meves baralles amb **+** i comença un repàs. Vegeu [Repassar targetes](docs/decks/reviewing-cards.md).
 2. **Llegeix alguna cosa del teu nivell.** Obre Documents i tria un text de la Biblioteca, o importa'n un de teu. Toca una paraula o frase per veure'n la traducció; toca-la de nou per escoltar-la. Vegeu [Llegir documents](docs/documents/reading-documents.md).
 3. **Llegeix una nota gramatical.** Obre Gramàtica: et suggereix per on començar. Vegeu [Gramàtica](docs/grammar.md).
 

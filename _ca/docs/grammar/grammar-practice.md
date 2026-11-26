@@ -8,22 +8,27 @@ lang: ca
 
 # Pràctica de gramàtica
 
-Llegir una nota una vegada no n'hi ha prou perquè un punt gramatical es fixi. **Practica** converteix els exercicis d'una nota en targetes de repàs que tornen amb el mateix calendari basat en la memòria que les teves baralles.
+Llegir una nota una vegada no n'hi ha prou perquè un punt gramatical es fixi. La pràctica converteix els exercicis de les notes en targetes de repàs que tornen amb el mateix calendari basat en la memòria que les teves baralles.
 
-## Practicar una nota
+## Practicar
 
-En una nota gramatical, **Practica** (amb quantes targetes hi ha pendents, noves o esperant) crea les targetes de la nota, si encara no en tens, i comença un repàs d'aquella nota. Les targetes van a una baralla anomenada **Pràctica de gramàtica** per a la llengua, que també veus a Les meves baralles. La fletxa del costat llista les teves baralles, per afegir-hi en canvi les targetes de la nota, a través de la pestanya **Gramàtica** de la baralla (vegeu [Crear baralles](../decks/creating-decks.md#gramàtica)). Una nota sense exercicis es practica amb les seves pròpies frases d'exemple, de manera que totes les notes es poden practicar.
+Practiques un nivell o una àrea cada vegada:
 
-La pàgina d'un nivell o d'una àrea ofereix **Practica-ho tot**, amb el nombre de targetes, per a totes les seves notes.
+- A la pàgina d'un nivell, **Practica-ho tot · 12 targetes**, al principi de la llista d'àrees, cobreix totes les notes del nivell, i **Practica**, a la fila d'una àrea, cobreix aquella àrea.
+- A la pàgina d'una àrea, **Practica-ho tot · 5 targetes**, al principi de la llista de notes, cobreix totes les notes de l'àrea.
+
+Cada botó crea les targetes que encara no tens i comença el repàs de seguida. Les targetes van a una baralla anomenada **Pràctica de gramàtica** de la llengua, que també veus a Les meves baralles. Una nota sense exercicis es practica amb les seves pròpies frases d'exemple. Un nivell o una àrea sense res per practicar no té botó.
+
+En una nota, cada exercici que respons també esdevé una targeta de Pràctica de gramàtica, i cada resposta compta com un repàs d'aquella targeta: una resposta correcta com a **Bé**, una d'incorrecta com a **Una altra vegada**, tant si la targeta era pendent com si no. Un altre intent després d'un error és un repàs més. La mateixa resposta enviada dues vegades seguides, amb un doble toc, compta una sola vegada. Vegeu [Llegir notes gramaticals](review-grammar.md#exercicis).
 
 ## Repassar gramàtica
 
 Els repassos de gramàtica poden cobrir una nota, una àrea, un nivell o tot:
 
-- A la pàgina de Gramàtica: **Repassa 3 pendents**, o **Practica · 5 noves** quan no hi ha res pendent.
+- A la pàgina de Gramàtica, en una pantalla més ampla: **Repassa 3 pendents**, o **Practica · 5 noves** quan no hi ha res pendent.
 - A la pàgina d'un nivell: **Repassa 3 pendents a B1**.
-- A la pàgina d'una àrea: **Repassa aquesta àrea** o **Practica aquesta àrea**.
-- En una nota: **Practica**.
+- A la pàgina d'una àrea: **Repassa aquesta àrea · 3 pendents**, o **Practica aquesta àrea**.
+- En una nota: en un mòbil, quan una nota té exercicis pendents, **Continua** a la pàgina de Gramàtica l'obre en aquests exercicis. Quan els has fet, la nota diu **Repassada per avui.**, i **Nota següent** passa a la següent.
 
 El repàs funciona com el d'una baralla (vegeu [Repassar targetes](../decks/reviewing-cards.md)), amb tres modes:
 

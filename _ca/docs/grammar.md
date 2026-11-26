@@ -14,21 +14,32 @@ Obre **Gramàtica** des de la barra de navegació un cop hagis iniciat sessió.
 
 ## La pàgina de Gramàtica
 
+En un mòbil, la pàgina de Gramàtica mostra un nivell cada vegada:
+
+- Els nivells, de l'**A1** al **C1**, a dalt; toca'n un per veure'l.
+- Quant has fet del nivell («A1 · 12 de 40 practicades») i **Avui**: quantes notes has practicat avui, amb set punts per als últims set dies, plens els dies que has practicat.
+- Les notes del nivell en l'ordre del curs, cadascuna amb la seva àrea i el seu títol en la teva llengua, i un cercle: s'omple a mesura que practiques la nota, i apareix tan bon punt l'has oberta.
+- **Continua**, al peu, obre la nota per on seguir: una nota amb exercicis pendents de repàs o, si no, la nota següent que encara no has practicat. La llista s'obre en aquesta nota.
+
+En una pantalla més ampla (una tauleta o un ordinador):
+
 - **On ets**: «Comença a A2» fins que comences, després «Treballant a B1», amb un botó: **Repassa** per a les targetes de gramàtica pendents, o **Practica** per començar-ne de noves. Vegeu [Pràctica de gramàtica](grammar/grammar-practice.md).
-- **Recomanat** (o **Comença aquí** al principi): una llista curta de notes per llegir, practicar o repassar a continuació, cadascuna marcada amb el motiu: **Pendent**, **Següent**, **A punt** o **Feble**.
-- **Per nivell**: d'A1 a C1, cadascun amb el teu domini, el nombre de notes i quantes targetes hi ha pendents. Obre un nivell per veure'n les àrees («Verbs, temps i conjugació», «Pronoms»...), i una àrea per veure'n les notes. La pàgina d'un nivell o d'una àrea ofereix **Practica-ho tot**, que fa targetes de totes les seves notes.
-- La **cerca** a dalt troba notes per paraula clau; el botó del marcador mostra només les notes marcades.
+- **Per nivell i àrea**: una fila per nivell, de l'A1 al C1, amb una casella per àrea ombrejada segons el teu domini, i quantes targetes són pendents.
+
+En tots dos casos, obre un nivell per veure'n les àrees («Verbs», «Pronoms»...), i una àrea per veure'n les notes. La pàgina d'un nivell o d'una àrea ofereix **Practica-ho tot**, que crea targetes per a totes les seves notes i comença un repàs; a la pàgina d'un nivell, cada àrea té el seu **Practica**.
+
+La **cerca** a dalt troba notes per paraula clau; el botó del marcador mostra només les notes marcades.
 
 ## Domini
 
-A mesura que practiques, cada nota, àrea i nivell rep una valoració de domini: **Sense començar**, **Principiant**, **En desenvolupament**, **Intermedi**, **Competent** o **Fluid**. Surt de com van les teves targetes de pràctica d'aquelles notes.
+A mesura que practiques, cada nota, àrea i nivell rep una valoració de domini: **Sense començar**, **Principiant**, **En desenvolupament**, **Intermedi**, **Competent** o **Fluid**. Surt de com van les teves targetes de pràctica d'aquelles notes. Una nota que has obert però encara no has practicat és **Llegida**.
 
 ## Què conté una nota
 
 - Una explicació del punt, escrita per a estudiants, amb paraules i frases d'exemple que pots tocar per a la traducció i l'àudio.
 - La nota està escrita en la llengua que aprens. Quan té traducció a la teva, una nota d'A1 o A2 s'obre en la teva llengua, i una de B1 amunt en la llengua que aprens; el selector al costat de les etiquetes ho canvia, i la teva tria val després per a totes les notes.
 - Exercicis de diversos tipus, comprovats al moment.
-- On ets en la nota, i **Practica** per convertir-la en targetes de repàs, o per afegir-les a una de les teves baralles.
+- El teu domini de la nota. Cada exercici que respons esdevé una targeta de repàs, i cada resposta compta com un repàs.
 
 Vegeu [Llegir notes gramaticals](grammar/review-grammar.md).
 
@@ -47,8 +58,9 @@ Vegeu [La gramàtica de la lectura](grammar/grammar-of-reading.md).
 ## Per on començar
 
 1. Obre **Gramàtica**.
-2. Segueix **Comença aquí**, o cerca el punt que necessites, o explora el teu nivell.
-3. Llegeix la nota, prova'n els exercicis i tria **Practica**.
+2. Tria **Continua**, o cerca el punt que necessites, o explora el teu nivell.
+3. Llegeix la nota i prova'n els exercicis.
+4. Per practicar una àrea sencera, tria **Practica** a la seva fila de la pàgina del nivell.
 
 ## En aquesta secció
 

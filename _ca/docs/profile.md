@@ -42,7 +42,7 @@ Les avaluacions que dones i reps apareixen llistades a la pestanya, i les avalua
 
 ## Vocabulari
 
-Les paraules i frases que has recollit mentre estudiaves — amb cerca, filtres i a una sola acció de convertir-se en una baralla. Vegeu [Vocabulari](vocabulary.md).
+Les paraules i frases que has recollit mentre estudiaves, amb cerca i filtres. Les paraules que toques i les entrades que deses són targetes de la teva baralla **El meu vocabulari**, amb **Estudia** a dalt de la pestanya. Vegeu [Vocabulari](vocabulary.md).
 
 ## Coach
 
