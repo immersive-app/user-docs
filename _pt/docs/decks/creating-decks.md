@@ -48,7 +48,7 @@ Escolha um nível (o seu vem primeiro) e depois marque **Todo o A2**, áreas int
 
 Escolha **Carregar folha de cálculo** para importar muitos cartões de uma vez:
 
-1. Escolha um ficheiro **CSV ou XLSX** com duas colunas: o texto na língua que está a aprender e a sua tradução. A tradução é opcional. **Descarregar template.csv** dá-lhe um ficheiro por onde começar. São lidas até 500 linhas.
+1. Escolha um ficheiro **CSV ou XLSX** com duas colunas: o texto na língua que está a aprender e a sua tradução. A tradução é opcional. **Descarregar template.csv** dá-lhe um ficheiro por onde começar; na aplicação abre-se na folha de partilha do telemóvel, onde o pode guardar em Ficheiros ou enviar. São lidas até 500 linhas.
 2. Escolha **Pré-visualizar**. Cada linha torna-se um cartão de palavra ou de frase, conforme o texto. As linhas que já estão no baralho aparecem marcadas **No baralho** e chegam desmarcadas, para não criar duplicados; as traduções que o Immersive preencheu aparecem marcadas **Auto** para as poder conferir de relance.
 3. Marque as linhas que quer e escolha **Importar cartões**.
 

@@ -49,8 +49,6 @@ Every form in the table is a link. Open one to get its own page:
 
 With comparisons turned on (**Profile → Account → Languages**), a form's page shows **Across your languages**: the same tense and person aligned in the language you are learning and the other languages you know, ordered so that neighbouring columns are the most similar. Seeing *falo – hablo – parlo – parle* in one row is often all it takes for a form to stick. It appears when at least one of your recorded languages (your display language counts) has the matching form.
 
-**Add a comparison card** makes it a review card in a deck called **Bridge comparisons** for the language, scheduled like any other card.
-
 Example sentences work as in the reader: tap a word for its translation and audio.
 
 ## In your decks and sentences
@@ -64,7 +62,7 @@ Each section keeps its heading when there is nothing yet, so you know where thin
 
 ## Adding a verb to a deck
 
-Choose **Add to a deck** at the top of a verb page and pick one of your verb decks in that language. The deck's table opens with the verb as a new row, ticked in the deck's tenses: change the ticks if you like and choose **Save**. Nothing is added until you do. With no verb deck in that language yet, the menu offers **Create a new deck**, which opens **New verb deck** with the verb ticked (and the tense too, from a form page).
+Choose **Add to a deck** at the top of a verb page, or of a form's page, and pick one of your verb decks in that language. The deck's table opens with the verb as a new row, ticked in the deck's tenses: change the ticks if you like and choose **Save**. Nothing is added until you do. With no verb deck in that language yet, the menu offers **Create a new deck**, which opens **New verb deck** with the verb ticked (and the tense too, from a form page).
 
 ## Practising verbs in decks
 

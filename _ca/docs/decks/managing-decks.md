@@ -60,7 +60,7 @@ Obre una baralla i tria el llapis per obrir-ne l'espai de treball. **Edita la ba
 
 ## Eliminar una baralla
 
-Elimina una baralla amb **Elimina la baralla**, al peu del seu espai de treball. Eliminar-la esborra la baralla, les seves targetes i el seu progrés de repàs; primer se't demana confirmació.
+Elimina una baralla amb **Elimina la baralla**, al peu del seu espai de treball. Primer se't pregunta, amb el nom de la baralla i el nombre de targetes: *Vols suprimir la baralla «Verbes du premier groupe»? Les seves 15 targetes i el seu historial de repassos desapareixen amb ella.* Quan ja no hi és, una línia ho diu.
 
 ## Per llegir més
 

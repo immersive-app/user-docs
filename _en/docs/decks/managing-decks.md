@@ -90,7 +90,7 @@ Suspended cards are left out, and so are cards of other kinds, such as grammar c
 
 ## Deleting a deck
 
-Delete a deck with **Delete deck**, at the foot of its workspace. Deleting removes the deck, its cards, and their review progress; you are asked to confirm first.
+Delete a deck with **Delete deck**, at the foot of its workspace. You are asked first, by the deck's name and its number of cards: *Delete “Verbes du premier groupe”? Its 15 cards and their review history go with it.* Once it is gone, a line says so.
 
 ## Further reading
 

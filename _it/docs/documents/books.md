@@ -78,7 +78,7 @@ La tua posizione segue la sua frase quando i capitoli vengono uniti o divisi. Se
 
 ## Eliminare un libro
 
-**Elimina il libro**, in fondo alla pagina del libro, elimina il libro e tutti i suoi capitoli dopo la tua conferma. Non si può annullare.
+**Elimina il libro**, in fondo alla pagina del libro, elimina il libro e tutti i suoi capitoli dopo la tua conferma. La domanda nomina il libro e ne conta i capitoli: il loro testo sparisce, con la cronologia, gli aiuti alla lettura e i segnalibri, e con esso la tua posizione di lettura; le carte, le parole salvate e i ripassi che ne hai ricavato restano. Non si può annullare.
 
 ## Per approfondire
 

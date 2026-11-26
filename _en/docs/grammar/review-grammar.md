@@ -19,7 +19,7 @@ How to find the note you need, read it, and work through its exercises.
 
 A grammar note explains one point. Its title is in the language you are learning, with the translated title underneath. Badges show the note's **CEFR level** (A1 to C1) and its **area**; both are links.
 
-Under the title, **Your standing on this note** shows your mastery, how many practice cards you have and how many are due, and when you last reviewed. **Practice** turns the note into review cards; see [Grammar practice](grammar-practice.md).
+Under the title, a bar shows your mastery of the note, with **Ask about this note** beside it. To practise the note along with the rest of its area or level, open the badge and choose **Practise** there; see [Grammar practice](grammar-practice.md).
 
 Example words and sentences can be tapped like text in the reader, for translation and audio.
 
@@ -49,6 +49,8 @@ To answer:
 3. **Hint** gives you a nudge, when the exercise has one. After a wrong answer, **Show answer** reveals it.
 
 Some exercises show a translation of the sentence under it, so you know what you are trying to say.
+
+Each exercise you check becomes a card in your **Grammar practice** deck, and your answer counts as a review of it. See [Grammar practice](grammar-practice.md).
 
 ## Asking and reporting
 

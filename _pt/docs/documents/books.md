@@ -78,7 +78,7 @@ O seu lugar acompanha a sua frase quando os capítulos são juntados ou dividido
 
 ## Apagar um livro
 
-**Apagar o livro**, no fundo da página do livro, apaga o livro e todos os seus capítulos depois de confirmar. Não é possível anular.
+**Apagar o livro**, no fundo da página do livro, apaga o livro e todos os seus capítulos depois de confirmar. A pergunta indica o nome do livro e conta os capítulos: o texto desaparece, com o histórico, as ajudas de leitura e os marcadores, e também a sua posição de leitura; os cartões, palavras guardadas e revisões que fez a partir deles ficam. Não é possível anular.
 
 ## Para saber mais
 

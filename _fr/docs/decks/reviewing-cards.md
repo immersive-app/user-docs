@@ -40,11 +40,11 @@ Chaque révision se termine par l'une de quatre notes :
 - **Bien** : retrouvé avec un certain effort.
 - **Facile** : sans effort ; la carte s'éloigne le plus.
 
-En mode Lire, vous choisissez la note, et chaque bouton de note indique quand il ramène la carte (« 1 minute », « 1 jour », « 7 jours »). En modes Écrire et Écouter, Immersive note votre réponse lui-même. Le résultat affiche **Correct** ou **Incorrect** ; après une réponse fausse, la bonne (« Réponse · j'ai ») ; la raison quand il y en a une, comme **Accent manquant** ou l'explication d'une question ; et quand la carte revient (« Revient dans 1 minute », « Revient demain »). Une forme verbale est juste ou fausse : juste vaut **Facile**, fausse vaut **Encore**. Les autres réponses sont notées selon leur proximité : une petite faute peut compter comme juste, et la réponse s'affiche alors en dessous. En mode Parler, Immersive note une transcription de ce que vous avez dit. **Suivant** enregistre la révision et passe à la suite.
+En mode Lire, vous choisissez la note : **Encore**, **Difficile**, **Bien** ou **Facile**. En modes Écrire et Écouter, Immersive note votre réponse lui-même. Le résultat affiche **Correct** ou **Incorrect** ; après une réponse fausse, la bonne (« Réponse · j'ai ») ; la raison quand il y en a une, comme **Accent manquant** ou l'explication d'une question ; et quand la carte revient (« Revient dans 1 minute », « Revient demain »). Une forme verbale est juste ou fausse : juste vaut **Facile**, fausse vaut **Encore**. Les autres réponses sont notées selon leur proximité : une petite faute peut compter comme juste, et la réponse s'affiche alors en dessous. En mode Parler, Immersive note une transcription de ce que vous avez dit. **Suivant** enregistre la révision et passe à la suite.
 
 ## Pendant la session
 
-- Une fine barre de progression suit la session.
+- Une fine barre de progression suit la session, avec votre place à côté, par exemple « 3 sur 12 ». Une carte à laquelle vous répondez mal revient plus tard dans la session : elle ne fait pas avancer votre place.
 - Une ligne sous la carte compte ce qui reste : à revoir aujourd'hui, nouvelles et en cours.
 - Une fois la réponse affichée, **Demander à propos de cette carte** ouvre le [Coach](../coach.md) avec la carte sous les yeux.
 - Le X en haut de la carte ramène au paquet.

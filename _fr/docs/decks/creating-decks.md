@@ -48,7 +48,7 @@ Choisissez un niveau (le vôtre vient en premier), puis cochez **Tout le A2**, d
 
 Choisissez **Importer un tableur** pour importer beaucoup de cartes d'un coup :
 
-1. Choisissez un fichier **CSV ou XLSX** à deux colonnes : le texte dans la langue que vous apprenez, et sa traduction. La traduction est facultative. **Télécharger template.csv** vous donne un fichier de départ. Jusqu'à 500 lignes sont lues.
+1. Choisissez un fichier **CSV ou XLSX** à deux colonnes : le texte dans la langue que vous apprenez, et sa traduction. La traduction est facultative. **Télécharger template.csv** vous donne un fichier de départ ; dans l'application, il s'ouvre dans la feuille de partage du téléphone, d'où vous pouvez l'enregistrer dans Fichiers ou l'envoyer. Jusqu'à 500 lignes sont lues.
 2. Choisissez **Aperçu**. Chaque ligne devient une carte de mot ou une carte de phrase, selon son texte. Les lignes déjà dans le paquet sont marquées **Dans le paquet** et arrivent décochées, pour ne pas créer de doublons ; les traductions remplies par Immersive sont marquées **Auto** pour que vous puissiez les vérifier d'un coup d'œil.
 3. Cochez les lignes que vous voulez et choisissez **Importer les cartes**.
 

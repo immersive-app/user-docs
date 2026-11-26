@@ -60,7 +60,7 @@ Ouvrez un paquet et choisissez le crayon pour ouvrir son espace de travail. **Mo
 
 ## Supprimer un paquet
 
-Supprimez un paquet avec **Supprimer le paquet**, au bas de son espace de travail. La suppression retire le paquet, ses cartes et leur progression de révision ; une confirmation vous est demandée d'abord.
+Supprimez un paquet avec **Supprimer le paquet**, au bas de son espace de travail. La question vient d'abord, avec le nom du paquet et son nombre de cartes : *Supprimer le paquet « Verbes du premier groupe » ? Ses 15 cartes et leur historique de révision disparaissent avec lui.* Une fois le paquet supprimé, une ligne le dit.
 
 ## Pour aller plus loin
 

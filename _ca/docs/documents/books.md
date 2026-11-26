@@ -78,7 +78,7 @@ La teva posició segueix la seva frase quan els capítols s'uneixen o es dividei
 
 ## Suprimir un llibre
 
-**Suprimeix el llibre**, al peu de la pàgina del llibre, suprimeix el llibre i tots els seus capítols un cop ho confirmes. No es pot desfer.
+**Suprimeix el llibre**, al peu de la pàgina del llibre, suprimeix el llibre i tots els seus capítols un cop ho confirmes. La pregunta diu el nom del llibre i en compta els capítols: el text desapareix, amb el seu historial, les ajudes de lectura i els marcadors, i també la teva posició de lectura; les targetes, paraules desades i repassos que n'has fet es conserven. No es pot desfer.
 
 ## Per llegir més
 

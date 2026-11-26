@@ -23,12 +23,11 @@ For a whole book, read in chapters, use **Add a book** instead: see [Books](book
 
 Open a document to read it. Under the title you see its translation in your language.
 
-- **Tap** a word or sentence: a small card shows its translation, with a **speaker** button and **More**.
-- **Tap again** to hear it read aloud. Tapping elsewhere closes the card.
-- The bar at the bottom keeps the **last word** you looked up, with its meaning and, when there is one, a look-alike from a language you know.
+- **Tap** a word: a card opens at the foot of the screen with its translation, a **speaker** button and **More**. The text moves up, when it needs to, so the word stays in view above the card.
+- **The sentence**, at the foot of the card, shows the translation of the sentence the word is in, with its own speaker and **More**.
+- **Tap again** to hear the word read aloud. Tapping elsewhere closes the card.
+- When your tap makes the word a card, the card says **Added**, with **Undo** to take it back out. When the word has a look-alike from a language you know, the card shows it too.
 - Every word and sentence you look up is recorded in your [Vocabulary](../vocabulary.md), and a word you tap becomes a card in your **My vocabulary** deck, with its sentence.
-
-The **View** control (in the reading controls, below) sets what a tap selects: **Sentences** (the default) or **Words**.
 
 ## The More panel
 
@@ -46,7 +45,7 @@ The **View** control (in the reading controls, below) sets what a tap selects: *
 
 Some words and sentences carry a subtle underline: the aid layer, tailored to the languages you know and your level.
 
-In the **Words** view:
+On a word:
 
 - **Guessable from context**: try the word before revealing it. The first tap nudges you; the second, or **Reveal**, shows the look-alike from a language you know or the meaning in context.
 - **Listen first**: the sound is clearer than the spelling.
@@ -54,10 +53,10 @@ In the **Words** view:
 - **Seen earlier**: links a word back to where it first appeared in the text.
 - **Safe to skip**: the gist survives without it.
 
-In the **Sentences** view:
+On a sentence, its aids shown under **The sentence** on the card of any word in it:
 
 - **Safe to skip** on a whole sentence.
-- A **dotted underline** marks a sentence with a construction the [grammar of reading](../grammar/grammar-of-reading.md) covers. Tap it for the comparison: whether the language you are learning differs from yours here or works the same way, with a link to the full comparison. That page brings you back to the same sentence.
+- A **dotted underline** marks a sentence with a construction the [grammar of reading](../grammar/grammar-of-reading.md) covers. Tap a word in it, then **The sentence**, for the comparison: whether the language you are learning differs from yours here or works the same way, with a link to the full comparison. That page brings you back to the same sentence.
 
 **Aids** in the reading controls switches between **Full** and **Light**; Light keeps only the aids that matter most. Aids fade as your level rises (beginners see many, advanced readers few), and a language you marked as native has none. Aids are prepared in the background, so a document you just added may show them a little later.
 
@@ -67,18 +66,20 @@ When you reveal a guessable word, Immersive creates a review card from that mome
 
 ## Reading controls
 
-Two round buttons sit at the bottom right of the reader (stacked on a phone): the chat button opens the [Coach](../coach.md) with the document in view, and the sliders button opens the reading controls:
+Two round buttons sit at the bottom right of the reader (stacked on a phone, and out of the way while a word's card is open): the chat button opens the [Coach](../coach.md) with the document in view, and the sliders button opens the reading controls:
 
-- **View**: **Words** or **Sentences**.
 - **Text size**: the small A and the large A make the reading text smaller or larger, in five steps. The controls and the word cards keep their size.
 - **Line spacing** (1, 1.5, or 2) and **Paragraph indent** (off or on).
 - **Theme** (**Classic**, **Paper**, **Quiet**, or **Solarized**) and **Appearance** (**Light**, **Dark**, or **System**), the same choice as in [Profile → Account](../profile.md#account).
+- **Full screen** (**On** or **Off**): on, the bar and the round buttons go as you read on, and come back when you scroll up a little or tap the line at the foot of the screen. That line shows the time left in the text, at least 1 min, with full screen on or off.
 - **Reading voice**: **Automatic voice** or a named voice, shown when voices are available for the language.
 - **Aids**: **Full** or **Light**.
-- **Read to me**, and a print button.
+- **Read to me**, and a print button (in the app it opens your phone's print options).
 - The document's level, word count, and reading time.
 
-Immersive remembers your text size, spacing, indent, aid density, theme, and voice (the voice per language). Tap outside the controls, or press Escape, to close them.
+On a phone the reading controls open at the foot of the screen, with the text above them, so a text size, a spacing or a theme shows on the text as you choose it.
+
+Immersive remembers your text size, spacing, indent, aid density, theme, full screen, and voice (the voice per language). Tap **×** at the top of the controls, tap outside them, or press Escape, to close them.
 
 ## Read to me
 
@@ -86,11 +87,15 @@ Immersive remembers your text size, spacing, indent, aid density, theme, and voi
 
 ## Bookmarks
 
-The bookmark icon at the top of the reader marks the document; **Bookmarked only**, in the **…** menu at the top of the Documents page, then lists only your bookmarked documents.
+The bookmark icon at the top of the reader (in the app, in the bar at the top of the screen) marks the document; **Bookmarked only**, in the **…** menu at the top of the Documents page, then lists only your bookmarked documents.
+
+## Questions
+
+At the end of a text, **Check your understanding** asks a few questions about it, in your language, or in the text's own with **Ask in** and the language. Each answer is a review, and the questions come back like any card, in one deck per text in **Decks**, whichever language they were asked in. The section says what is left: "1 of 3 answered" with **Continue**, then, once every question is answered, "3 of 3 · 2 right first time", which counts your first answer to each question.
 
 ## Editing and history
 
-Switch to **Write** at the top of the reader to edit the text; delete a document from there too. The document's **History** keeps the previous version before each edit, import, applied correction, or restore. See [Writing documents](writing-documents.md#history).
+Switch to **Write** at the top of the reader (in the app, the pencil in the bar at the top of the screen) to edit the text; delete a document from there too. You are asked first, by the document's name: its text goes with its history, corrections, reading aids and bookmark, and the cards, saved words and reviews you made from it are kept. The document's **History** keeps the previous version before each edit, import, applied correction, or restore. See [Writing documents](writing-documents.md#history).
 
 ## Further reading
 

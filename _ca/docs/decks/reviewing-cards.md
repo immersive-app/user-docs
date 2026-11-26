@@ -40,11 +40,11 @@ Cada repàs acaba en una de quatre qualificacions:
 - **Bé**: recordat amb una mica d'esforç.
 - **Fàcil**: sense esforç; la targeta és la que s'allunya més.
 
-En mode Llegeix tries tu la qualificació, i cada botó de qualificació indica quan torna la targeta («1 minut», «1 dia», «7 dies»). En Escriu i Escolta, Immersive qualifica la teva resposta. El resultat mostra **Correcte** o **Incorrecte**; després d'una resposta errònia, la correcta («Resposta · j'ai»); el motiu quan n'hi ha, com **Falta un accent** o l'explicació d'una pregunta; i quan torna la targeta («Torna d'aquí a 1 minut», «Torna demà»). Una forma verbal està bé o malament: bé és **Fàcil**, malament és **Una altra vegada**. Les altres respostes es qualifiquen segons com s'acosten, així que un petit descuit pot comptar com a correcte, amb la resposta a sota. En Parla, Immersive qualifica una transcripció del que has dit. **Següent** desa el repàs i passa a la següent.
+En mode Llegeix tries tu la qualificació: **Una altra vegada**, **Difícil**, **Bé** o **Fàcil**. En Escriu i Escolta, Immersive qualifica la teva resposta. El resultat mostra **Correcte** o **Incorrecte**; després d'una resposta errònia, la correcta («Resposta · j'ai»); el motiu quan n'hi ha, com **Falta un accent** o l'explicació d'una pregunta; i quan torna la targeta («Torna d'aquí a 1 minut», «Torna demà»). Una forma verbal està bé o malament: bé és **Fàcil**, malament és **Una altra vegada**. Les altres respostes es qualifiquen segons com s'acosten, així que un petit descuit pot comptar com a correcte, amb la resposta a sota. En Parla, Immersive qualifica una transcripció del que has dit. **Següent** desa el repàs i passa a la següent.
 
 ## Durant la sessió
 
-- Una barra de progrés fina segueix la sessió.
+- Una barra de progrés fina segueix la sessió, amb el teu lloc al costat, per exemple «3 de 12». Una targeta que respons malament torna més tard a la sessió, així que no fa avançar el teu lloc.
 - Una línia sota la targeta compta el que queda: pendents avui, noves i en aprenentatge.
 - Un cop es mostra la resposta, **Pregunta sobre aquesta targeta** obre el [Coach](../coach.md) amb la targeta a la vista.
 - La X a la part superior de la targeta torna a la baralla.

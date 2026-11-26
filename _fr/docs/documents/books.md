@@ -78,7 +78,7 @@ Votre place suit sa phrase quand des chapitres sont fusionnés ou divisés. Si v
 
 ## Supprimer un livre
 
-**Supprimer le livre**, au bas de la page du livre, supprime le livre et tous ses chapitres une fois que vous confirmez. Cette action est définitive.
+**Supprimer le livre**, au bas de la page du livre, supprime le livre et tous ses chapitres une fois que vous confirmez. La question nomme le livre et compte ses chapitres : leur texte disparaît, avec leur historique, leurs aides de lecture et leurs signets, ainsi que votre position de lecture ; les cartes, les mots enregistrés et les révisions qui en viennent sont gardés. Cette action est définitive.
 
 ## Pour aller plus loin
 

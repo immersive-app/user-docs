@@ -55,7 +55,7 @@ A line that could not be added stays in the box, and the reason is under it: the
 
 Choose **Upload a spreadsheet** to import many cards at once:
 
-1. Choose a **CSV or XLSX** file with two columns: the text in the language you are learning, and its translation. The translation is optional. **Download template.csv** gives you a file to start from. Up to 500 rows are read.
+1. Choose a **CSV or XLSX** file with two columns: the text in the language you are learning, and its translation. The translation is optional. **Download template.csv** gives you a file to start from; in the app it opens in your phone's share sheet, where you can save it to Files or send it on. Up to 500 rows are read.
 2. Choose **Preview**. Each row becomes a word card or a sentence card, depending on its text. Rows already in the deck are marked **In Deck** and arrive unticked, so you do not create duplicates; translations Immersive filled in are marked **Auto** so you can glance over them.
 3. Tick the rows you want and choose **Import cards**.
 
@@ -89,8 +89,8 @@ You do not always start from a blank deck:
 
 - **Copy** a Library or public deck to My Decks and it becomes yours to study. See [Managing decks](managing-decks.md).
 - **Add to a deck** in the reader (from a word's **More** panel) opens a vocabulary deck's workspace with the word or sentence in the box.
-- **Add to a deck** on a verb page opens one of your verb decks with the verb added, or, with no verb deck in that language yet, **New verb deck** with the verb ticked. See [Working with verbs](../verbs/working-with-verbs.md#adding-a-verb-to-a-deck).
-- Immersive fills the **My vocabulary**, **From reading**, **Bridge comparisons**, and **Grammar practice** decks as you study. See [Decks & Reviews](../decks.md#two-kinds-of-deck).
+- **Add to a deck** on a verb page or a form's page opens one of your verb decks with the verb as a new row, or, with no verb deck in that language yet, **New verb deck** with the verb ticked. See [Working with verbs](../verbs/working-with-verbs.md#adding-a-verb-to-a-deck).
+- Immersive fills the **My vocabulary**, **From reading**, and **Grammar practice** decks as you study. See [Decks & Reviews](../decks.md#two-kinds-of-deck).
 
 ## Further reading
 
