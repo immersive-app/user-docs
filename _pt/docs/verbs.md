@@ -23,9 +23,10 @@ Os verbos são a maquinaria de uma frase, e o Immersive dá-lhes uma secção de
 
 Com uma conta, as páginas de verbos fazem mais:
 
-- **Através dos seus idiomas**: na página de uma forma, o mesmo tempo e a mesma pessoa alinhados em cada língua que conhece, com as línguas mais parecidas lado a lado. **Adicionar um cartão de comparação** transforma-o num cartão de revisão.
+- **Através dos seus idiomas**: na página de uma forma, o mesmo tempo e a mesma pessoa alinhados em cada língua que conhece, com as línguas mais parecidas lado a lado.
 - **Nos seus baralhos** e **Nas suas frases**: os baralhos que contêm o verbo, com os cartões pendentes, e as frases dos seus documentos e vocabulário que o usam.
-- **Adicionar a um baralho**: abre o seletor de verbos de um dos seus baralhos com o verbo selecionado.
+- **Adicionar a um baralho**: adiciona o verbo a um dos seus baralhos de verbos, ou começa um novo baralho de verbos com ele.
+- **Gramática** ao lado do nome de um tempo: a nota de gramática que ensina esse tempo.
 - **Mostrar apenas os seus verbos**: um filtro da lista de verbos para os verbos que já estão nos seus baralhos.
 - **Pronome**: escolha como são mostradas as formas da terceira pessoa (por exemplo *il*, *elle* ou ambas).
 - Um verbo que ainda não tem tabelas é conjugado da primeira vez que alguém com sessão iniciada o abre.

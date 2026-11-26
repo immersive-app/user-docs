@@ -19,7 +19,7 @@ hero:
     link: https://immersive-app.com
 features:
 - title: Baralhos e Revisões
-  details: Cria baralhos de palavras, frases, verbos e números, e revê-os com um calendário
+  details: Cria baralhos de verbos e baralhos das tuas palavras e frases, e revê-os com um calendário
     que se adapta à tua memória.
   link: "/pt/docs/decks/"
 - title: Documentos
@@ -74,12 +74,12 @@ Parte do material de referência do Immersive está aberta a todos:
 
 Criar conta desbloqueia as ferramentas de aprendizagem:
 
-- **[Baralhos e Revisões](docs/decks.md)**: crie baralhos de palavras, frases, formas verbais e números, e depois reveja-os nos modos Ler, Escrever, Ouvir e Falar, com um calendário que se adapta à sua memória.
+- **[Baralhos e Revisões](docs/decks.md)**: crie baralhos de verbos com os verbos e os tempos que escolher, e baralhos de vocabulário com as suas próprias palavras e frases, e depois reveja-os nos modos Ler, Escrever, Ouvir e Falar, com um calendário que se adapta à sua memória.
 - **[Documentos](docs/documents.md)**: traga um texto (cole-o, envie um ficheiro ou fotografe uma página) e leia-o com tradução ao toque, áudio e ajudas de leitura. Ou escreva os seus próprios textos e receba correções e reescritas.
 - **[Gramática](docs/grammar.md)**: notas por nível QECR (A1 a C1) com exercícios, e cartões de prática que voltam para revisão.
 - **[Verbos](docs/verbs.md)**: os seus baralhos e as suas próprias frases em cada página de verbo, e comparações entre as línguas que conhece.
 - **[Coach](docs/coach.md)**: faça perguntas sobre aquilo que está a ver.
-- **[Vocabulário](docs/vocabulary.md)**: as palavras e frases que consulta, recolhidas para si e prontas a tornar-se um baralho.
+- **[Vocabulário](docs/vocabulary.md)**: as palavras e frases que consulta, recolhidas para si; as palavras em que toca já são cartões de um baralho.
 - **[Perfil e Progresso](docs/profile.md)**: onde está, a sua atividade de estudo, avaliações com colegas, [acesso de professores](docs/teachers.md) e a sua conta.
 
 Tudo é gratuito durante a beta.
@@ -103,7 +103,7 @@ Depois do primeiro início de sessão, iniciar sessão leva-o à biblioteca de v
 
 Uns bons primeiros quinze minutos:
 
-1. **Abra o seu primeiro baralho.** A página Baralhos tem uma **Biblioteca** de baralhos prontos na língua que está a aprender, como as palavras mais comuns. Copie um para **Os meus baralhos** com **+** e comece uma revisão. Ver [Rever cartões](docs/decks/reviewing-cards.md).
+1. **Abra o seu primeiro baralho.** A página Baralhos tem uma **Biblioteca** de baralhos prontos na língua que está a aprender, como os verbos essenciais, um baralho por tempo. Copie um para **Os meus baralhos** com **+** e comece uma revisão. Ver [Rever cartões](docs/decks/reviewing-cards.md).
 2. **Leia algo do seu nível.** Abra Documentos e escolha um texto da Biblioteca, ou importe um seu. Toque numa palavra ou frase para ver a tradução; toque de novo para a ouvir. Ver [Ler documentos](docs/documents/reading-documents.md).
 3. **Leia uma nota de gramática.** Abra Gramática: sugere-lhe por onde começar. Ver [Gramática](docs/grammar.md).
 

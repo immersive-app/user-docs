@@ -42,7 +42,7 @@ As avaliações que dá e recebe ficam listadas no separador, e as avaliações 
 
 ## Vocabulário
 
-As palavras e frases que recolheu enquanto estudava — pesquisáveis, filtráveis e a uma ação de se tornarem um baralho. Ver [Vocabulário](vocabulary.md).
+As palavras e frases que recolheu enquanto estudava, pesquisáveis e filtráveis. As palavras em que toca e as entradas que guarda são cartões do seu baralho **O meu vocabulário**, com **Estudar** no topo do separador. Ver [Vocabulário](vocabulary.md).
 
 ## Coach
 
