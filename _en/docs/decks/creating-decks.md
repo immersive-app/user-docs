@@ -89,8 +89,8 @@ You do not always start from a blank deck:
 
 - **Copy** a Library or public deck to My Decks and it becomes yours to study. See [Managing decks](managing-decks.md).
 - **Add to a deck** in the reader (from a word's **More** panel) opens a vocabulary deck's workspace with the word or sentence in the box.
-- **Add to a deck** on a verb page opens one of your verb decks with the verb added, or, with no verb deck in that language yet, **New verb deck** with the verb ticked. See [Working with verbs](../verbs/working-with-verbs.md#adding-a-verb-to-a-deck).
-- Immersive fills the **My vocabulary**, **From reading**, **Bridge comparisons**, and **Grammar practice** decks as you study. See [Decks & Reviews](../decks.md#two-kinds-of-deck).
+- **Add to a deck** on a verb page or a form's page opens one of your verb decks with the verb as a new row, or, with no verb deck in that language yet, **New verb deck** with the verb ticked. See [Working with verbs](../verbs/working-with-verbs.md#adding-a-verb-to-a-deck).
+- Immersive fills the **My vocabulary**, **From reading**, and **Grammar practice** decks as you study. See [Decks & Reviews](../decks.md#two-kinds-of-deck).
 
 ## Further reading
 
