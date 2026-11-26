@@ -36,7 +36,7 @@ You can review in four modes (**Read**, **Write**, **Listen**, and **Speak**), s
 
 Opening **Decks** shows:
 
-- **Library**: ready-made decks in the language you are learning, folded closed until you open it. Copy one to My Decks with its **+** button.
+- **Library**: ready-made decks in the language you are learning, open while you have no deck of your own and folded once you have some. Copy one to My Decks with its **+** button.
 - **My Decks**: your decks and folders, with columns showing how many cards are **New**, in **Learn**ing, and **Due**.
 - Three buttons at the top: the clock opens your **Review history**, the bookmark shows only your bookmarked decks, and **+** creates a new deck.
 

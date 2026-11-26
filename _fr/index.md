@@ -19,8 +19,8 @@ hero:
     link: https://immersive-app.com
 features:
 - title: Paquets et révisions
-  details: Créez des paquets de mots, de phrases, de verbes et de nombres, et révisez-les
-    selon un calendrier qui s'adapte à votre mémoire.
+  details: Créez des paquets de verbes et des paquets de vos propres mots et phrases,
+    et révisez-les selon un calendrier qui s'adapte à votre mémoire.
   link: "/fr/docs/decks/"
 - title: Documents
   details: Lisez des textes qui vous intéressent avec traduction au toucher et audio,
@@ -75,12 +75,12 @@ Une partie du matériel de référence d'Immersive est ouverte à tous :
 
 L'inscription débloque les outils d'apprentissage :
 
-- **[Paquets et révisions](docs/decks.md)** : créez des paquets de mots, de phrases, de formes verbales et de nombres, puis révisez-les en modes Lire, Écrire, Écouter et Parler, selon un calendrier qui s'adapte à votre mémoire.
+- **[Paquets et révisions](docs/decks.md)** : créez des paquets de verbes à partir des verbes et des temps que vous choisissez, et des paquets de vocabulaire à partir de vos propres mots et phrases, puis révisez-les en modes Lire, Écrire, Écouter et Parler, selon un calendrier qui s'adapte à votre mémoire.
 - **[Documents](docs/documents.md)** : apportez un texte (collez-le, importez un fichier ou photographiez une page) et lisez-le avec traduction au toucher, audio et aides à la lecture. Ou écrivez vos propres textes et obtenez corrections et réécritures.
 - **[Grammaire](docs/grammar.md)** : des notes par niveau CECR (A1 à C1) avec exercices, et des cartes d'entraînement qui reviennent en révision.
 - **[Verbes](docs/verbs.md)** : vos paquets et vos propres phrases sur chaque page de verbe, et des comparaisons entre les langues que vous connaissez.
 - **[Coach](docs/coach.md)** : posez des questions sur ce que vous regardez.
-- **[Vocabulaire](docs/vocabulary.md)** : les mots et les phrases que vous consultez, rassemblés pour vous et prêts à devenir un paquet.
+- **[Vocabulaire](docs/vocabulary.md)** : les mots et les phrases que vous consultez, rassemblés pour vous ; les mots que vous touchez sont déjà des cartes d'un paquet.
 - **[Profil et progression](docs/profile.md)** : où vous en êtes, votre activité d'étude, les évaluations entre camarades, l'[accès professeur](docs/teachers.md) et votre compte.
 
 Tout est gratuit pendant la bêta.
@@ -104,7 +104,7 @@ Après la première connexion, la connexion vous amène à la bibliothèque de v
 
 Un bon premier quart d'heure :
 
-1. **Ouvrez votre premier paquet.** La page Paquets comprend une **Bibliothèque** de paquets prêts à l'emploi dans la langue que vous apprenez, comme les mots les plus courants. Copiez-en un dans Mes paquets avec **+** et commencez une révision. Voir [Réviser les cartes](docs/decks/reviewing-cards.md).
+1. **Ouvrez votre premier paquet.** La page Paquets comprend une **Bibliothèque** de paquets prêts à l'emploi dans la langue que vous apprenez, comme les verbes essentiels, un paquet par temps. Copiez-en un dans Mes paquets avec **+** et commencez une révision. Voir [Réviser les cartes](docs/decks/reviewing-cards.md).
 2. **Lisez quelque chose à votre niveau.** Ouvrez Documents et choisissez un texte de la Bibliothèque, ou importez le vôtre. Touchez un mot ou une phrase pour voir sa traduction ; touchez à nouveau pour l'écouter. Voir [Lire des documents](docs/documents/reading-documents.md).
 3. **Lisez une note de grammaire.** Ouvrez Grammaire : elle vous suggère par où commencer. Voir [Grammaire](docs/grammar.md).
 

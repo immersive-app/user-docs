@@ -42,7 +42,7 @@ Les évaluations données et reçues sont listées sur l'onglet, et les évaluat
 
 ## Vocabulaire
 
-Les mots et les phrases collectés pendant vos études — consultables, filtrables et à une action de devenir un paquet. Voir [Vocabulaire](vocabulary.md).
+Les mots et les phrases collectés pendant vos études, consultables et filtrables. Les mots que vous touchez et les entrées que vous enregistrez sont des cartes de votre paquet **Mon vocabulaire**, avec **Étudier** en haut de l'onglet. Voir [Vocabulaire](vocabulary.md).
 
 ## Coach
 

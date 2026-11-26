@@ -16,7 +16,7 @@ Open **Grammar** from the navigation bar once you are signed in.
 On a phone, the Grammar page is one level at a time:
 
 - The levels, **A1** to **C1**, along the top; tap one to show it.
-- How far you are in the level ("A1 · 12 of 40 practised"), and **Today**: how many notes you practised today, with a dot for each of the last seven days you practised.
+- How far you are in the level ("A1 · 12 of 40 practised"), and **Today**: how many notes you practised today, with seven dots for the last seven days, filled on the days you practised.
 - The level's notes in course order, each with its area and its title in your language, and a circle: filled as you practise the note, outlined once you have opened it.
 - **Continue** at the foot opens the note to carry on with: a note with exercises due for review, or else the next note you have not practised. The list opens at that note.
 

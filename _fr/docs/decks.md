@@ -1,6 +1,6 @@
 ---
 title: Paquets et révisions
-description: Ce que contient un paquet, le fonctionnement des révisions espacées, la page Paquets et Anki.
+description: Les deux sortes de paquets, le fonctionnement des révisions espacées, la page Paquets et Anki.
 nav_order: 3
 has_children: true
 lang: fr
@@ -8,37 +8,36 @@ lang: fr
 
 # Paquets et révisions
 
-Les paquets sont le lieu de la mémorisation dans Immersive. Un paquet est une collection de cartes (mots, phrases, formes verbales ou nombres), et réviser un paquet vous montre chaque carte au moment où vous êtes sur le point de l'oublier, grâce à une répétition espacée qui s'adapte à votre mémoire (le planificateur FSRS, la même famille d'algorithmes que celle utilisée par les versions modernes d'Anki).
+Les paquets sont le lieu de la mémorisation dans Immersive. Un paquet est une collection de cartes, et réviser un paquet vous montre chaque carte au moment où vous êtes sur le point de l'oublier, grâce à une répétition espacée qui s'adapte à votre mémoire (le planificateur FSRS, la même famille d'algorithmes que celle utilisée par les versions modernes d'Anki).
 
-## Ce qu'un paquet contient
+## Deux sortes de paquets
 
-Vous pouvez ajouter vous-même cinq types de cartes :
+Un paquet que vous créez est de l'une de ces deux sortes :
 
-- **Cartes de mot** : un mot, sa traduction et, en option, une phrase d'exemple.
-- **Cartes de phrase** : une phrase complète avec sa traduction.
-- **Cartes de verbe** : les verbes et les temps de votre choix, soit une carte par personne, soit un tableau de temps complet par carte.
-- **Cartes de nombre** : des nombres écrits en toutes lettres dans la langue que vous apprenez.
-- **Cartes de grammaire** : des cartes d'entraînement tirées des notes de grammaire que vous choisissez, par niveau, par domaine ou par note.
+- **Paquets de verbes** : vous choisissez des verbes et des temps, et Immersive crée une carte par verbe et par temps. Une carte contient les six formes de ce temps, chacune avec son audio et une phrase d'exemple.
+- **Paquets de vocabulaire** : vos propres mots et vos propres phrases, une carte pour chacun. Vous les saisissez ou les collez, vous importez un tableur, vous les choisissez dans un document ou une photo, ou vous les enregistrez en lisant.
 
-Les cartes viennent de nombreux endroits : saisies à la main, importées depuis un tableur, ajoutées depuis les mots enregistrés dans votre [Vocabulaire](vocabulary.md), copiées avec un paquet de la Bibliothèque ou un paquet public, ou ajoutées depuis le lecteur et les pages de verbe avec **Ajouter à un paquet**.
+Un paquet ne contient qu'une seule sorte de cartes, jamais les deux. Voir [Créer des paquets](decks/creating-decks.md).
 
-Immersive remplit aussi trois paquets pour vous au fil de vos études. Ils apparaissent dans Mes paquets comme les autres :
+Immersive remplit aussi des paquets pour vous au fil de vos études. Ils apparaissent dans Mes paquets comme les autres :
 
+- **Mon vocabulaire** : une carte pour chaque mot que vous touchez en lisant, et pour chaque mot ou phrase que vous enregistrez. Voir [Vocabulaire](vocabulary.md).
 - **De la lecture (langue)** : une carte chaque fois que vous révélez un mot devinable dans le lecteur. Voir [Lire des documents](documents/reading-documents.md).
-- **Comparaisons pont (langue)** : les cartes que vous ajoutez avec **Ajouter une carte de comparaison** sur la page d'une forme verbale. Voir [Travailler avec les verbes](verbs/working-with-verbs.md).
 - **Pratique de grammaire (langue)** : les cartes des notes de grammaire que vous pratiquez. Voir [Pratique de grammaire](grammar/grammar-practice.md).
+
+La Bibliothèque propose des paquets de verbes prêts à l'emploi, un par temps, et le paquet **Prononciation**. Voir [Gérer les paquets](decks/managing-decks.md#la-bibliothèque).
 
 ## Comment fonctionne la révision
 
 Chaque carte est programmée individuellement. Quand vous révisez une carte, elle reçoit une note, **Encore**, **Difficile**, **Bien** ou **Facile**, et le calendrier s'ajuste : les cartes que vous trouvez faciles s'éloignent dans le futur, celles que vous manquez reviennent vite. Avec le temps, vos minutes de révision vont au matériel qui en a besoin.
 
-Vous pouvez réviser dans quatre modes (**Lire**, **Écrire**, **Écouter** et **Parler**), pour que le même paquet entraîne la reconnaissance, l'orthographe, la compréhension orale et l'expression orale. Voir [Réviser les cartes](decks/reviewing-cards.md). Le paquet prêt à l'emploi **Prononciation** a deux modes qui lui sont propres, **Entendre** et **Dire**. Voir [Prononciation](decks/pronunciation.md).
+Vous pouvez réviser dans quatre modes (**Lire**, **Écrire**, **Écouter** et **Parler**), pour que le même paquet entraîne la reconnaissance, l'orthographe, la compréhension orale et l'expression orale. Une carte à laquelle vous ne voulez pas répondre tout de suite peut être passée, et une carte que vous ne voulez plus étudier du tout peut être suspendue. Voir [Réviser les cartes](decks/reviewing-cards.md). Le paquet prêt à l'emploi **Prononciation** a deux modes qui lui sont propres, **Entendre** et **Dire**. Voir [Prononciation](decks/pronunciation.md).
 
 ## La page Paquets
 
 Ouvrir **Paquets** affiche :
 
-- **Bibliothèque** : des paquets prêts à l'emploi dans la langue que vous apprenez, repliée jusqu'à ce que vous l'ouvriez. Copiez-en un dans Mes paquets avec son bouton **+**.
+- **Bibliothèque** : des paquets prêts à l'emploi dans la langue que vous apprenez, ouverte tant que vous n'avez aucun paquet à vous, repliée dès que vous en avez. Copiez-en un dans Mes paquets avec son bouton **+**.
 - **Mes paquets** : vos paquets et vos dossiers, avec des colonnes indiquant combien de cartes sont **Nouvelles**, **En cours** et **À revoir**.
 - Trois boutons en haut : l'horloge ouvre votre **Historique des révisions**, le signet n'affiche que vos paquets favoris, et **+** crée un nouveau paquet.
 
@@ -46,12 +45,12 @@ Ouvrir **Paquets** affiche :
 
 Si vous utilisez aussi Anki :
 
-- **Exporter vers Anki** sur un paquet, le vôtre ou un paquet de la Bibliothèque, prépare un fichier Anki (.apkg) et vous l'envoie par e-mail. Le fichier contient les cartes de verbe du paquet ; un paquet qui n'en a aucune n'a pas de bouton d'export.
+- **Exporter vers Anki**, sur la page d'un paquet et sur un ordinateur, prépare un fichier Anki (.apkg) de tout le paquet et vous l'envoie par e-mail. Cela fonctionne pour les paquets de verbes comme pour les paquets de vocabulaire, les vôtres ou ceux de la Bibliothèque. Voir [Gérer les paquets](decks/managing-decks.md#exporter-vers-anki).
 - La page **Anki** (en lien dans le pied de page des pages publiques d'Immersive) explique l'export, avec **Voir mes paquets** quand vous êtes connecté. Quand des paquets prêts à l'emploi sont disponibles, elle les liste sous **Paquets gratuits à télécharger** : connecté, vous téléchargez directement ; sans compte, vous saisissez votre adresse e-mail pour télécharger, et Immersive vous envoie aussi son cours gratuit par e-mail sur la Méthode des Ponts, cinq courtes leçons, dont vous pouvez vous désabonner à tout moment. Le cours s'arrête dès que vous créez un compte avec cette adresse.
 
 ## Dans cette section
 
-- [Créer des paquets](decks/creating-decks.md) : créez un paquet et remplissez-le de cartes.
-- [Réviser les cartes](decks/reviewing-cards.md) : la session de révision, les quatre modes, la notation et les limites quotidiennes.
-- [Gérer les paquets](decks/managing-decks.md) : la Bibliothèque, les dossiers, les étiquettes, les favoris, la copie, l'export et la suppression.
+- [Créer des paquets](decks/creating-decks.md) : créez un paquet de verbes ou un paquet de vocabulaire, et ajoutez des cartes.
+- [Réviser les cartes](decks/reviewing-cards.md) : la session de révision, les quatre modes, Passer, le menu de la carte, la notation et les limites quotidiennes.
+- [Gérer les paquets](decks/managing-decks.md) : la Bibliothèque, la page d'un paquet, la modification, les cartes suspendues, les dossiers, les étiquettes, les favoris, la copie, l'export et la suppression.
 - [Prononciation](decks/pronunciation.md) : le paquet prêt à l'emploi pour entendre, puis dire, les sons que votre langue ne distingue pas.

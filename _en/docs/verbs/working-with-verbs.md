@@ -57,7 +57,7 @@ Example sentences work as in the reader: tap a word for its translation and audi
 Signed in, a verb page (and a form page) also shows two sections about your own material:
 
 - **In your decks**: the decks holding a card of the verb (or of that exact form), with how many cards of it each deck has and how many are due. Open a deck from its row.
-- **In your sentences**: sentences from your documents and your vocabulary that use a form of the verb, the form in bold; **Show more** lists the rest. The source line opens the document at that sentence.
+- **In your sentences**: sentences from your documents and your vocabulary that use a form of the verb, the form in bold; **Show 3 more** lists the rest. The source line opens the document at that sentence.
 
 Each section keeps its heading when there is nothing yet, so you know where things will gather. Signed out, the page shows a single prompt to log in instead.
 
