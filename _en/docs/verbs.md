@@ -25,6 +25,7 @@ With an account, the verb pages do more:
 - **Across your languages**: on a form's page, the same tense and person lined up in each language you know, most similar languages side by side.
 - **In your decks** and **In your sentences**: the decks that hold the verb, with due counts, and the sentences from your documents and vocabulary that use it.
 - **Add to a deck**: adds the verb to one of your verb decks, or starts a new verb deck with it.
+- **Grammar** beside a tense's name: the grammar note that teaches that tense.
 - **Show only your verbs**: a filter on the verb list for the verbs already in your decks.
 - **Pronoun**: choose how third-person forms are shown (for example *il*, *elle*, or both).
 - A verb with no tables yet is conjugated the first time a signed-in learner opens it.

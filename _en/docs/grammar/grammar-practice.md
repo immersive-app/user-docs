@@ -18,16 +18,16 @@ You practise a level or an area at a time:
 
 Each button makes the cards you do not have yet and starts the review straight away. The cards go into a deck called **Grammar practice** for the language, which you also see in My Decks. A note with no exercises is practised from its own example sentences. A level or area with nothing to practise has no button.
 
-On a note itself, each exercise you check becomes a card in Grammar practice too. Your answer counts as a review when the card is due, so another try right after a wrong answer is only practice. See [Reading grammar notes](review-grammar.md#exercises).
+On a note itself, each exercise you answer becomes a card in Grammar practice too, and every answer counts as a review of it: a right answer as **Good**, a wrong one as **Again**, whether the card was due or not. Another try after a wrong answer is one more review. The same answer sent twice in a row, by a double tap, counts once. See [Reading grammar notes](review-grammar.md#exercises).
 
 ## Reviewing grammar
 
 Grammar reviews can cover one note, one area, one level, or everything:
 
-- On the Grammar page: **Review 3 due**, or **Practice · 5 new** when nothing is due.
+- On the Grammar page, on a wider screen: **Review 3 due**, or **Practice · 5 new** when nothing is due.
 - On a level page: **Review 3 due at B1**.
-- On an area page: **Review this area** or **Practise this area**.
-- Under **Recommended**, on a note marked **Due**: **Review**.
+- On an area page: **Review this area · 3 due**, or **Practise this area**.
+- On a note: on a phone, when a note has exercises due, **Continue** on the Grammar page opens it on those exercises. Once they are answered, the note says **Reviewed for today.**, and **Next note** goes on to the next one.
 
 The review works like a deck review (see [Reviewing cards](../decks/reviewing-cards.md)), with three modes:
 

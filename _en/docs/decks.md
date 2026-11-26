@@ -24,7 +24,7 @@ Immersive also fills some decks for you as you study. They appear in My Decks li
 - **From reading (language)**: a card each time you reveal a guessable word in the reader. See [Reading documents](documents/reading-documents.md).
 - **Grammar practice (language)**: cards from the grammar notes you practise. See [Grammar practice](grammar/grammar-practice.md).
 
-The Library holds ready-made decks of both kinds, and the **Pronunciation** deck. See [Managing decks](decks/managing-decks.md#the-library).
+The Library holds ready-made verb decks, one for each tense, and the **Pronunciation** deck. See [Managing decks](decks/managing-decks.md#the-library).
 
 ## How reviewing works
 

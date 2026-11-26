@@ -102,7 +102,7 @@ After the first sign-in, signing in takes you to the verb library, and the navig
 
 A good first fifteen minutes:
 
-1. **Open your first deck.** The Decks page has a **Library** of ready-made decks in the language you are learning, such as the most common words. Copy one to My Decks with **+** and start a review. See [Reviewing cards](docs/decks/reviewing-cards.md).
+1. **Open your first deck.** The Decks page has a **Library** of ready-made decks in the language you are learning, such as the essential verbs, one deck for each tense. Copy one to My Decks with **+** and start a review. See [Reviewing cards](docs/decks/reviewing-cards.md).
 2. **Read something at your level.** Open Documents and pick a text from the Library, or import one of your own. Tap a word or sentence to see its translation; tap again to hear it. See [Reading documents](docs/documents/reading-documents.md).
 3. **Read a grammar note.** Open Grammar: it suggests where to start. See [Grammar](docs/grammar.md).
 

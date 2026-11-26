@@ -31,6 +31,7 @@ Open a verb to see its page:
 - Signed in, **For you** above the tables shows up to three example sentences you need to practise: in a tense or form you have been forgetting in your reviews, or whose card in your decks is due. Each names its tense: choose the name to jump to its table. With nothing to practise, the section is not shown.
 - The **tense menu** at the top of the table lists every mood and tense: choose one to jump to its table. As you scroll, it shows the tense you are looking at.
 - Signed in, **Pronoun** chooses how third-person forms are shown (masculine, feminine, or both). Immersive remembers your choice.
+- Signed in, **Grammar** beside a tense's name opens the grammar note that teaches that tense, when there is one.
 
 The **speaker** next to a form plays it where a recording already exists; every form's own page can play it.
 
@@ -62,7 +63,7 @@ Each section keeps its heading when there is nothing yet, so you know where thin
 
 ## Adding a verb to a deck
 
-Choose **Add to a deck** at the top of a verb page, or of a form's page, and pick one of your verb decks in that language. The deck's table opens with the verb as a new row, ticked in the deck's tenses: change the ticks if you like and choose **Save**. Nothing is added until you do. With no verb deck in that language yet, the menu offers **Create a new deck**, which opens **New verb deck** with the verb ticked (and the tense too, from a form page).
+Choose **Add to a deck**, beside the tense menu on a verb page, or beside the form at the top of a form's page, and pick one of your verb decks in that language. The deck's table opens with the verb as a new row, ticked in the deck's tenses: change the ticks if you like and choose **Save**. Nothing is added until you do. A deck that already holds the verb shows **In** and its name, and opens the deck. With no verb deck in the language you are learning yet, the menu offers **Create a new deck**, which opens **New verb deck** with the verb ticked (and the tense too, from a form page).
 
 ## Practising verbs in decks
 
