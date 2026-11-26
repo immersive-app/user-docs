@@ -17,7 +17,7 @@ Com sessão iniciada, abra **Gramática** a partir da barra de navegação.
 - **Onde está**: «Comece em A2» até começar, depois «A trabalhar em B1», com um botão para **Rever** os cartões de gramática pendentes ou **Praticar** cartões novos. Ver [Prática de gramática](grammar/grammar-practice.md).
 - **Recomendado** (ou **Comece aqui** no início): uma lista curta de notas para ler, praticar ou rever a seguir, cada uma marcada com o motivo: **A rever**, **Seguinte**, **Pronto** ou **Fraco**.
 - **Por nível**: A1 a C1, cada um com o seu domínio, o número de notas e quantos cartões estão para rever. Abra um nível para ver as suas áreas («Verbos, tempos e conjugação», «Pronomes»...), e uma área para ver as suas notas. A página de um nível ou de uma área oferece **Praticar tudo**, que cria cartões para todas as notas que contém.
-- A **pesquisa** no topo encontra notas por palavra-chave; o botão do marcador mostra apenas as notas que marcou.
+- A **pesquisa** no topo encontra notas por palavra-chave; o botão do marcador ao lado mostra apenas as notas que marcou. Num telemóvel e na app iOS, ambos estão no menu **…** (**Mais**) no topo: **Pesquisar** abre a caixa de pesquisa, e **Apenas guardadas** mostra as notas que marcou.
 
 ## Domínio
 
@@ -26,7 +26,7 @@ Com sessão iniciada, abra **Gramática** a partir da barra de navegação.
 ## O que uma nota contém
 
 - Uma explicação do ponto, escrita para estudantes, com palavras e frases de exemplo em que pode tocar para ver a tradução e ouvir o áudio.
-- A nota está escrita na língua que está a aprender. Quando tem tradução na sua, uma nota de A1 ou A2 abre na sua língua, e uma de B1 para cima na língua que está a aprender; o seletor ao lado das etiquetas muda-a, e a sua escolha vale depois para todas as notas.
+- A nota está escrita na língua que está a aprender. Quando tem tradução na sua, uma nota de A1 ou A2 abre na sua língua, e uma de B1 para cima na língua que está a aprender; o seletor nas definições da nota (o botão redondo no canto inferior direito da nota) muda-a, e a sua escolha vale depois para todas as notas.
 - Exercícios de vários tipos, verificados na hora.
 - A sua situação na nota, e **Praticar** para a transformar em cartões de revisão, ou para os adicionar a um dos seus baralhos.
 

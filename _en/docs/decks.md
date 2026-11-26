@@ -39,7 +39,7 @@ Opening **Decks** shows:
 
 - **Library**: ready-made decks in the language you are learning, folded closed until you open it. Copy one to My Decks with its **+** button.
 - **My Decks**: your decks and folders, with columns showing how many cards are **New**, in **Learn**ing, and **Due**.
-- Three buttons at the top: the clock opens your **Review history**, the bookmark shows only your bookmarked decks, and **+** creates a new deck.
+- At the top: the search box, **+** to create a new deck, and the **…** menu (**More**) with **Review history** and **Bookmarked only**, which shows only your bookmarked decks. On a phone and in the iOS app, the **…** menu holds them all: **Create a new deck**, **Search**, **Review history**, and **Bookmarked only**.
 
 ## Anki
 

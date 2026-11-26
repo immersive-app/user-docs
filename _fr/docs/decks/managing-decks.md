@@ -48,7 +48,7 @@ Les étiquettes regroupent les paquets entre dossiers. Ajoutez-les à la créati
 
 ## Favoris
 
-L'icône de signet sur un paquet (dans la liste ou sur la page du paquet) le met en favori. Le bouton signet en haut de la page Paquets n'affiche alors que vos paquets favoris.
+L'icône de signet sur un paquet (dans la liste ou sur la page du paquet) le met en favori. **Favoris seulement**, dans le menu **…** en haut de la page Paquets, n'affiche alors que vos paquets favoris.
 
 ## Modifier un paquet
 

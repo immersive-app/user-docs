@@ -11,7 +11,7 @@ The reader is built on one principle: you succeed by understanding the text, not
 
 ## Bringing a text in
 
-1. Open **Documents** and choose **+** (**Create a new document**). With no documents yet, the page offers **Upload a document** and **Or start from a blank page**; both open the same editor.
+1. Open **Documents** and choose **+** (**Create a new document**), or **New document** in the **…** menu on a phone and in the iOS app. With no documents yet, the page offers **Upload a document** and **Or start from a blank page**; both open the same editor.
 2. Add the text: type or paste it, or use **Import from a file**. Text, Markdown, PDF, and photos of a page (JPEG, PNG, WebP) are accepted, up to 10 MB. If you choose a file while there is text, Immersive asks which to keep. The title is optional: left blank, it comes from the file's name or from the text's first line.
 3. **Save**. Immersive turns the text into tappable words and sentences, which takes a few seconds: the reader says "Preparing your text" and shows the text by itself when it is ready, with no need to reload. An imported file is read first. Scanned PDFs and photos are read by AI, and the reader says so above the text: check it against the page.
 
@@ -86,11 +86,11 @@ Immersive remembers your text size, spacing, indent, aid density, theme, and voi
 
 ## Bookmarks
 
-The bookmark icon at the top of the reader marks the document; the bookmark button on the Documents page then lists only your bookmarked documents.
+The bookmark icon at the top of the reader marks the document. In the iOS app, **Bookmark** is in the reader's **…** menu at the top right, with a tick once it is set. **Bookmarked only** on the Documents page (the bookmark button beside the search box on a computer, an item of the **…** menu on a phone and in the iOS app) then lists only your bookmarked documents.
 
 ## Editing and history
 
-Switch to **Write** at the top of the reader to edit the text; delete a document from there too. The document's **History** keeps the previous version before each edit, import, applied correction, or restore. See [Writing documents](writing-documents.md#history).
+Switch to **Write** at the top of the reader (in the iOS app, in its **…** menu at the top right) to edit the text; delete a document from there too. The document's **History** keeps the previous version before each edit, import, applied correction, or restore. See [Writing documents](writing-documents.md#history).
 
 ## Further reading
 

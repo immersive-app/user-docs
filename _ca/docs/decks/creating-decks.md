@@ -12,7 +12,7 @@ Construir una baralla té dos passos: crear la baralla i afegir-hi targetes. Una
 
 ## Per crear una baralla
 
-1. Obre **Baralles** i tria el botó **+** (**Crea una baralla nova**).
+1. Obre **Baralles** i tria el botó **+** (**Crear una nova baralla**); en un mòbil i a l'app d'iOS, tria **Crear una nova baralla** al menú **…** de dalt.
 2. Posa a la baralla un títol en la llengua que aprens i un altre en la teva. Tots dos són obligatoris: els repassos poden mostrar qualsevol dels dos costats.
 3. Opcionalment, tria una **Carpeta** (o escriu el nom d'una carpeta nova) i afegeix **Etiquetes**. Si deixes la carpeta en blanc, la baralla queda al nivell superior de Les meves baralles; les etiquetes agrupen baralles entre carpetes.
 4. Tria **Crea**.

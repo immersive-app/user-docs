@@ -17,7 +17,7 @@ Une fois connecté, ouvrez **Grammaire** depuis la barre de navigation.
 - **Où vous en êtes** : « Commencez au niveau A2 » tant que vous n'avez pas commencé, puis « Vous travaillez le niveau B1 », avec un bouton pour **Réviser** les cartes de grammaire à revoir ou **S'entraîner** sur de nouvelles. Voir [Pratique de grammaire](grammar/grammar-practice.md).
 - **Recommandé** (ou **Commencez ici** au début) : une courte liste de notes à lire, pratiquer ou réviser ensuite, chacune marquée de sa raison : **À revoir**, **Suivant**, **Prêt** ou **Fragile**.
 - **Par niveau** : de A1 à C1, chacun avec votre maîtrise, le nombre de notes et combien de cartes sont à revoir. Ouvrez un niveau pour voir ses domaines (« Verbes, temps et conjugaison », « Pronoms »...), et un domaine pour voir ses notes. La page d'un niveau ou d'un domaine propose **Tout pratiquer**, qui crée des cartes pour chacune de ses notes.
-- La **recherche** en haut trouve des notes par mot-clé ; le bouton signet n'affiche que vos notes favorites.
+- La **recherche** en haut trouve des notes par mot-clé ; le bouton signet à côté n'affiche que vos notes favorites. Sur un téléphone et dans l'app iOS, les deux sont dans le menu **…** (**Plus**) en haut : **Rechercher** ouvre le champ de recherche, et **Favoris seulement** affiche vos notes favorites.
 
 ## Maîtrise
 
@@ -26,7 +26,7 @@ Une fois connecté, ouvrez **Grammaire** depuis la barre de navigation.
 ## Ce que contient une note
 
 - Une explication du point, écrite pour les apprenants, avec des mots et des phrases d'exemple que vous pouvez toucher pour la traduction et l'audio.
-- La note est écrite dans la langue que vous apprenez. Quand elle a une traduction dans la vôtre, une note de niveau A1 ou A2 s'ouvre dans votre langue, et une note à partir de B1 dans la langue que vous apprenez ; le sélecteur à côté des badges la change, et votre choix vaut ensuite pour toutes les notes.
+- La note est écrite dans la langue que vous apprenez. Quand elle a une traduction dans la vôtre, une note de niveau A1 ou A2 s'ouvre dans votre langue, et une note à partir de B1 dans la langue que vous apprenez ; le sélecteur des réglages de la note (le bouton rond en bas à droite de la note) la change, et votre choix vaut ensuite pour toutes les notes.
 - Des exercices de plusieurs sortes, vérifiés sur place.
 - Où vous en êtes sur la note, et **S'entraîner** pour la transformer en cartes de révision, ou pour les ajouter à l'un de vos propres paquets.
 

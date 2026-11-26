@@ -39,9 +39,9 @@ La page Documents montre aussi la **Bibliothèque** : des textes choisis ou éc
 
 ## La liste des documents
 
-La page Documents liste les documents dans la langue que vous apprenez, avec un champ de recherche. Une recherche parcourt les titres, et leurs traductions, de vos documents, de vos livres et de leurs chapitres, et de la Bibliothèque, sans tenir compte des accents, et montre ce qu'elle trouve sous Livres, Documents et Bibliothèque. Chaque ligne montre la traduction du titre, le niveau et le nombre de mots. L'icône de signet sur un document le met en favori, et le bouton signet en haut de la page n'affiche que vos documents favoris. **Filtres** restreint la liste par niveau : **A1–A2**, **B1–B2** ou **C1–C2**.
+La page Documents liste les documents dans la langue que vous apprenez, avec un champ de recherche. Une recherche parcourt les titres, et leurs traductions, de vos documents, de vos livres et de leurs chapitres, et de la Bibliothèque, sans tenir compte des accents, et montre ce qu'elle trouve sous Livres, Documents et Bibliothèque. Chaque ligne montre la traduction du titre, le niveau et le nombre de mots. L'icône de signet sur un document le met en favori, et le bouton signet à côté du champ de recherche n'affiche que vos documents favoris. Sur un téléphone et dans l'app iOS, les deux sont dans le menu **…** (**Plus**) en haut : **Rechercher** ouvre le champ de recherche, et **Favoris seulement** affiche vos documents favoris. **Filtres** restreint la liste par niveau : **A1–A2**, **B1–B2** ou **C1–C2**.
 
-Pour créer un document, choisissez **+** (**Créer un nouveau document**). Le document est dans la langue que vous apprenez à ce moment-là.
+Pour créer un document, choisissez **+** (**Créer un nouveau document**), ou **Nouveau document** dans le menu **…** sur un téléphone et dans l'app iOS. Le document est dans la langue que vous apprenez à ce moment-là.
 
 Les documents gardent un **historique des modifications** : la version précédente est enregistrée avant chaque modification, importation, correction appliquée ou restauration, et peut être comparée et restaurée. Voir [Écrire des documents](documents/writing-documents.md#historique).
 

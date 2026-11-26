@@ -12,7 +12,7 @@ Costruire un mazzo richiede due passaggi: crea il mazzo, poi aggiungici le carte
 
 ## Per creare un mazzo
 
-1. Apri **Mazzi** e scegli il pulsante **+** (**Crea un nuovo mazzo**).
+1. Apri **Mazzi** e scegli il pulsante **+** (**Crea un nuovo mazzo**); su un telefono e nell'app iOS, scegli **Crea un nuovo mazzo** nel menu **…** in alto.
 2. Dai al mazzo un titolo nella lingua che stai imparando e uno nella tua. Sono obbligatori entrambi: i ripassi possono mostrare l'una o l'altra faccia.
 3. Facoltativamente scegli una **Cartella** (o scrivi il nome di una nuova cartella) e aggiungi delle **Etichette**. Lasciando vuota la cartella, il mazzo resta al primo livello di I miei mazzi; le etichette raggruppano i mazzi tra cartelle diverse.
 4. Scegli **Crea**.

@@ -12,7 +12,7 @@ Il lettore è costruito su un principio: riesci quando capisci il testo, non qua
 
 ## Portare dentro un testo
 
-1. Apri **Documenti** e scegli **+** (**Crea un nuovo documento**). Se non hai ancora documenti, la pagina offre **Carica un documento** e **Oppure parti da una pagina bianca**; entrambi aprono lo stesso editor.
+1. Apri **Documenti** e scegli **+** (**Crea un nuovo documento**), oppure **Nuovo documento** nel menu **…** su un telefono e nell'app iOS. Se non hai ancora documenti, la pagina offre **Carica un documento** e **Oppure parti da una pagina bianca**; entrambi aprono lo stesso editor.
 2. Aggiungi il testo: scrivilo o incollalo, oppure usa **Importa da un file**. Sono accettati testo, Markdown, PDF e foto di una pagina (JPEG, PNG, WebP), fino a 10 MB. Se scegli un file quando c'è già del testo, Immersive ti chiede quale tenere. Il titolo è facoltativo: se lo lasci vuoto, viene dal nome del file o dalla prima riga del testo.
 3. **Salva**. Immersive trasforma il testo in parole e frasi da toccare, e ci vogliono pochi secondi: il lettore dice «Preparazione del tuo testo» e mostra il testo da solo quando è pronto, senza ricaricare. Un file importato viene prima letto. I PDF scansionati e le foto vengono letti dall'IA, e il lettore lo dice sopra il testo: confrontalo con la pagina.
 
@@ -87,11 +87,11 @@ Immersive ricorda dimensione del testo, interlinea, rientro, densità degli aiut
 
 ## Segnalibri
 
-L'icona del segnalibro in cima al lettore contrassegna il documento; il pulsante del segnalibro nella pagina Documenti elenca poi solo i documenti che hai salvato tra i segnalibri.
+L'icona del segnalibro in cima al lettore contrassegna il documento. Nell'app iOS, **Segnalibro** è nel menu **…** del lettore, in alto a destra, con un segno di spunta quando è attivo. **Solo salvate** nella pagina Documenti (il pulsante del segnalibro accanto alla casella di ricerca su un computer, una voce del menu **…** su un telefono e nell'app iOS) elenca poi solo i documenti che hai salvato tra i segnalibri.
 
 ## Modifica e cronologia
 
-Passa a **Scrivi** in cima al lettore per modificare il testo; da lì puoi anche eliminare un documento. La **Cronologia** del documento conserva la versione precedente prima di ogni modifica, importazione, correzione applicata o ripristino. Vedi [Scrivere documenti](writing-documents.md#cronologia).
+Passa a **Scrivi** in cima al lettore (nell'app iOS, nel suo menu **…** in alto a destra) per modificare il testo; da lì puoi anche eliminare un documento. La **Cronologia** del documento conserva la versione precedente prima di ogni modifica, importazione, correzione applicata o ripristino. Vedi [Scrivere documenti](writing-documents.md#cronologia).
 
 ## Per approfondire
 

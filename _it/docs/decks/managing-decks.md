@@ -48,7 +48,7 @@ Le etichette raggruppano i mazzi tra cartelle diverse. Aggiungile quando crei o 
 
 ## Segnalibri
 
-L'icona del segnalibro su un mazzo (nell'elenco, o nella pagina del mazzo) lo contrassegna. Il pulsante del segnalibro in cima alla pagina Mazzi mostra poi solo i mazzi che hai salvato tra i segnalibri.
+L'icona del segnalibro su un mazzo (nell'elenco, o nella pagina del mazzo) lo contrassegna. **Solo salvate**, nel menu **…** in cima alla pagina Mazzi, mostra poi solo i mazzi che hai salvato tra i segnalibri.
 
 ## Modificare un mazzo
 

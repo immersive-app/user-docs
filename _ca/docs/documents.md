@@ -39,9 +39,9 @@ La pàgina de Documents també mostra la **Biblioteca**: textos triats o escrits
 
 ## La llista de documents
 
-La pàgina de Documents llista els documents en la llengua que aprens, amb un quadre de cerca. Una cerca recorre els títols, i les seves traduccions, dels teus documents, dels teus llibres i els seus capítols, i de la Biblioteca, sense tenir en compte els accents, i mostra el que troba sota Llibres, Documents i Biblioteca. Cada fila mostra la traducció del títol, el nivell i el recompte de paraules. La icona del marcador d'un document el marca, i el botó del marcador a dalt de la pàgina mostra només els documents marcats. **Filtres** redueix la llista per nivell: **A1–A2**, **B1–B2** o **C1–C2**.
+La pàgina de Documents llista els documents en la llengua que aprens, amb un quadre de cerca. Una cerca recorre els títols, i les seves traduccions, dels teus documents, dels teus llibres i els seus capítols, i de la Biblioteca, sense tenir en compte els accents, i mostra el que troba sota Llibres, Documents i Biblioteca. Cada fila mostra la traducció del títol, el nivell i el recompte de paraules. La icona del marcador d'un document el marca, i el botó del marcador al costat del quadre de cerca mostra només els documents marcats. En un mòbil i a l'app d'iOS, tots dos són al menú **…** (**Més**) de dalt: **Cerca** obre el quadre de cerca, i **Només desades** mostra els documents marcats. **Filtres** redueix la llista per nivell: **A1–A2**, **B1–B2** o **C1–C2**.
 
-Per crear un document, tria **+** (**Crea un document nou**). El document és en la llengua que aprens en aquell moment.
+Per crear un document, tria **+** (**Crea un document nou**), o **Document nou** al menú **…** en un mòbil i a l'app d'iOS. El document és en la llengua que aprens en aquell moment.
 
 Els documents conserven un **historial de canvis**: la versió anterior es desa abans de cada edició, importació, correcció aplicada o restauració, i es pot comparar i restaurar. Vegeu [Escriure documents](documents/writing-documents.md#historial).
 

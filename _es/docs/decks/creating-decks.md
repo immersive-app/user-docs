@@ -12,7 +12,7 @@ Construir un mazo lleva dos pasos: crear el mazo y luego añadirle tarjetas. Un 
 
 ## Para crear un mazo
 
-1. Abre **Mazos** y elige el botón **+** (**Crear un nuevo mazo**).
+1. Abre **Mazos** y elige el botón **+** (**Crear un nuevo mazo**); en un teléfono y en la app de iOS, elige **Crear un nuevo mazo** en el menú **…** de la parte superior.
 2. Dale al mazo un título en el idioma que aprendes y otro en tu idioma. Los dos son obligatorios: los repasos pueden mostrar cualquiera de los dos lados.
 3. Opcionalmente elige una **Carpeta** (o escribe el nombre de una nueva) y añade **Etiquetas**. Si dejas la carpeta en blanco, el mazo queda en el nivel superior de Mis mazos; las etiquetas agrupan mazos entre carpetas.
 4. Elige **Crear**.

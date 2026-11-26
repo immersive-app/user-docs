@@ -12,9 +12,9 @@ Cómo encontrar la nota que necesitas, leerla y trabajar sus ejercicios.
 
 ## Encontrar una nota
 
-- **Buscar**: escribe en el cuadro de búsqueda de la parte superior de la página de Gramática. Los resultados listan todas las notas que coinciden, con su nivel, su área y tu dominio; los niveles y las áreas se ocultan mientras buscas.
+- **Buscar**: escribe en el cuadro de búsqueda de la parte superior de la página de Gramática. En un teléfono y en la app de iOS, elige antes **Buscar** en el menú **…** (**Más**) para abrirlo. Los resultados listan todas las notas que coinciden, con su nivel, su área y tu dominio; los niveles y las áreas se ocultan mientras buscas.
 - **Explorar**: abre un nivel y luego un área para ver sus notas, de 20 en 20.
-- **Marcadores**: el icono del marcador en una nota la marca; el botón del marcador en la página de Gramática lista solo tus notas marcadas.
+- **Marcadores**: el icono del marcador en una nota la marca; el botón del marcador junto al cuadro de búsqueda de la página de Gramática (**Solo guardadas** en el menú **…** en un teléfono y en la app de iOS) lista solo tus notas marcadas.
 
 ## Leer una nota
 
@@ -26,7 +26,9 @@ Las palabras y frases de ejemplo se pueden tocar como el texto del lector, para 
 
 ### Cambiar de idioma
 
-Una nota de A1 o A2 se abre en tu idioma, y una de B1 en adelante, en el idioma que aprendes. El selector junto al nivel y el área muestra los dos idiomas: toca uno para leer la nota en él. Tu elección se guarda: desde entonces todas las notas se abren en ese idioma, en todos los niveles, hasta que vuelvas a cambiar. Una nota sin traducción a tu idioma se abre en el idioma que aprendes. Leer la explicación en el idioma que aprendes es un buen reto una vez que el punto en sí ya no es nuevo.
+Una nota de A1 o A2 se abre en tu idioma, y una de B1 en adelante, en el idioma que aprendes. El selector está en los ajustes de la nota, que abre el botón redondo abajo a la derecha de la nota; muestra los dos idiomas: toca uno para leer la nota en él. Tu elección se guarda: desde entonces todas las notas se abren en ese idioma, en todos los niveles, hasta que vuelvas a cambiar. Una nota sin traducción a tu idioma se abre en el idioma que aprendes. Leer la explicación en el idioma que aprendes es un buen reto una vez que el punto en sí ya no es nuevo.
+
+Los ajustes de la nota también tienen el **Tamaño del texto**: la A pequeña y la A grande hacen el texto de la nota más pequeño o más grande.
 
 ### En tus idiomas
 

@@ -48,7 +48,7 @@ As etiquetas agrupam baralhos entre pastas. Adicione-as ao criar ou editar um ba
 
 ## Marcadores
 
-O ícone do marcador num baralho (na lista ou na página do baralho) marca-o. O botão do marcador no topo da página Baralhos passa então a mostrar apenas os baralhos que marcou.
+O ícone do marcador num baralho (na lista ou na página do baralho) marca-o. **Apenas guardadas**, no menu **…** no topo da página Baralhos, passa então a mostrar apenas os baralhos que marcou.
 
 ## Editar um baralho
 

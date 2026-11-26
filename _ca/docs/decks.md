@@ -40,7 +40,7 @@ Obrir **Baralles** mostra:
 
 - **Biblioteca**: baralles ja fetes en la llengua que aprens, plegada fins que l'obres. Copia'n una a Les meves baralles amb el seu botó **+**.
 - **Les meves baralles**: les teves baralles i carpetes, amb columnes que mostren quantes targetes hi ha **Noves**, en **Aprenent** i **Pendents**.
-- Tres botons a dalt: el rellotge obre el teu **Historial de repassos**, el marcador mostra només les baralles marcades, i **+** crea una baralla nova.
+- A dalt: el quadre de cerca, **+** per crear una baralla nova, i el menú **…** (**Més**) amb **Historial de repassos** i **Només desades**, que mostra només les baralles marcades. En un mòbil i a l'app d'iOS, el menú **…** ho aplega tot: **Crear una nova baralla**, **Cerca**, **Historial de repassos** i **Només desades**.
 
 ## Anki
 

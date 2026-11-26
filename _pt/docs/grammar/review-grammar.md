@@ -12,9 +12,9 @@ Como encontrar a nota de que precisa, lê-la e trabalhar os seus exercícios.
 
 ## Encontrar uma nota
 
-- **Pesquisa**: escreva na caixa de pesquisa no topo da página Gramática. Os resultados listam todas as notas correspondentes, com o nível, a área e o seu domínio; os níveis e as áreas ficam ocultos durante a pesquisa.
+- **Pesquisa**: escreva na caixa de pesquisa no topo da página Gramática. Num telemóvel e na app iOS, escolha primeiro **Pesquisar** no menu **…** (**Mais**) para a abrir. Os resultados listam todas as notas correspondentes, com o nível, a área e o seu domínio; os níveis e as áreas ficam ocultos durante a pesquisa.
 - **Percorrer**: abra um nível e depois uma área para ver as suas notas, 20 de cada vez.
-- **Marcadores**: o ícone do marcador numa nota marca-a; o botão do marcador na página Gramática lista apenas as notas que marcou.
+- **Marcadores**: o ícone do marcador numa nota marca-a; o botão do marcador ao lado da caixa de pesquisa na página Gramática (**Apenas guardadas** no menu **…** num telemóvel e na app iOS) lista apenas as notas que marcou.
 
 ## Ler uma nota
 
@@ -26,7 +26,9 @@ As palavras e frases de exemplo podem ser tocadas como o texto no leitor, para v
 
 ### Mudar de língua
 
-Uma nota de A1 ou A2 abre na sua língua, e uma de B1 para cima, na língua que está a aprender. O seletor ao lado do nível e da área mostra as duas línguas: toque numa para ler a nota nela. A sua escolha fica guardada: a partir daí todas as notas abrem nessa língua, em todos os níveis, até mudar de novo. Uma nota sem tradução na sua língua abre na língua que está a aprender. Ler a explicação na língua que está a aprender é um bom desafio quando o ponto em si já não é novo.
+Uma nota de A1 ou A2 abre na sua língua, e uma de B1 para cima, na língua que está a aprender. O seletor está nas definições da nota, que se abrem com o botão redondo no canto inferior direito da nota; mostra as duas línguas: toque numa para ler a nota nela. A sua escolha fica guardada: a partir daí todas as notas abrem nessa língua, em todos os níveis, até mudar de novo. Uma nota sem tradução na sua língua abre na língua que está a aprender. Ler a explicação na língua que está a aprender é um bom desafio quando o ponto em si já não é novo.
+
+As definições da nota têm também o **Tamanho do texto**: o A pequeno e o A grande tornam o texto da nota mais pequeno ou maior.
 
 ### Nas suas línguas
 

@@ -12,7 +12,7 @@ Escrever é onde uma língua se torna sua. O editor dá-lhe uma página limpa na
 
 ## O editor
 
-1. Abra **Documentos** e escolha **+** (**Criar um novo documento**), ou abra um documento e mude para **Escrever** no topo do leitor.
+1. Abra **Documentos** e escolha **+** (**Criar um novo documento**), ou **Novo documento** no menu **…** num telemóvel e na app iOS; ou abra um documento e mude para **Escrever** no topo do leitor (na app iOS, no seu menu **…** no canto superior direito).
 2. Escreva. O texto vem logo por baixo do título. Num documento novo, a barra de ferramentas por cima oferece negrito, itálico, títulos, listas e citações, além de recuo de parágrafo, entrelinha e impressão, e mostra uma contagem de palavras em curso; depois de guardar o documento, estas ferramentas estão no topo do assistente de escrita.
 3. **Guardar** quando quiser. Um documento guardado pode ser lido como qualquer outro, com traduções, áudio e ajudas de leitura.
 

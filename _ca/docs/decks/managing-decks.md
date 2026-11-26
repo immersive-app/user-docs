@@ -48,7 +48,7 @@ Les etiquetes agrupen baralles entre carpetes. Afegeix-les en crear o editar una
 
 ## Marcadors
 
-La icona del marcador d'una baralla (a la llista o a la pàgina de la baralla) la marca. Llavors, el botó del marcador a dalt de la pàgina de Baralles mostra només les baralles marcades.
+La icona del marcador d'una baralla (a la llista o a la pàgina de la baralla) la marca. Llavors, **Només desades**, al menú **…** de dalt de la pàgina de Baralles, mostra només les baralles marcades.
 
 ## Editar una baralla
 

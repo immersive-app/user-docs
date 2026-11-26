@@ -12,9 +12,9 @@ Come trovare la nota che ti serve, leggerla e lavorare sui suoi esercizi.
 
 ## Trovare una nota
 
-- **Ricerca**: scrivi nella casella di ricerca in cima alla pagina Grammatica. I risultati elencano ogni nota corrispondente con il suo livello, la sua area e la tua padronanza; livelli e aree sono nascosti durante la ricerca.
+- **Ricerca**: scrivi nella casella di ricerca in cima alla pagina Grammatica. Su un telefono e nell'app iOS, scegli prima **Cerca** nel menu **…** (**Altro**) per aprirla. I risultati elencano ogni nota corrispondente con il suo livello, la sua area e la tua padronanza; livelli e aree sono nascosti durante la ricerca.
 - **Sfoglia**: apri un livello, poi un'area, per vederne le note, 20 alla volta.
-- **Segnalibri**: l'icona del segnalibro su una nota la contrassegna; il pulsante del segnalibro nella pagina Grammatica elenca solo le note che hai salvato tra i segnalibri.
+- **Segnalibri**: l'icona del segnalibro su una nota la contrassegna; il pulsante del segnalibro accanto alla casella di ricerca nella pagina Grammatica (**Solo salvate** nel menu **…** su un telefono e nell'app iOS) elenca solo le note che hai salvato tra i segnalibri.
 
 ## Leggere una nota
 
@@ -26,7 +26,9 @@ Le parole e le frasi di esempio si possono toccare come il testo nel lettore, pe
 
 ### Cambiare lingua
 
-Una nota di livello A1 o A2 si apre nella tua lingua, e una da B1 in su nella lingua che stai imparando. Il selettore accanto al livello e all'area mostra le due lingue: toccane una per leggere la nota in quella lingua. La tua scelta viene ricordata: da quel momento ogni nota si apre in quella lingua, a ogni livello, finché non cambi di nuovo. Una nota senza traduzione nella tua lingua si apre nella lingua che stai imparando. Leggere la spiegazione nella lingua che stai imparando è una buona sfida, una volta che il punto in sé non è più nuovo.
+Una nota di livello A1 o A2 si apre nella tua lingua, e una da B1 in su nella lingua che stai imparando. Il selettore è nelle impostazioni della nota, che si aprono con il pulsante rotondo in basso a destra della nota; mostra le due lingue: toccane una per leggere la nota in quella lingua. La tua scelta viene ricordata: da quel momento ogni nota si apre in quella lingua, a ogni livello, finché non cambi di nuovo. Una nota senza traduzione nella tua lingua si apre nella lingua che stai imparando. Leggere la spiegazione nella lingua che stai imparando è una buona sfida, una volta che il punto in sé non è più nuovo.
+
+Le impostazioni della nota contengono anche la **Dimensione del testo**: la A piccola e la A grande rendono il testo della nota più piccolo o più grande.
 
 ### Nelle tue lingue
 

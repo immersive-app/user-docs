@@ -39,9 +39,9 @@ La página de Documentos también muestra la **Biblioteca**: textos elegidos o e
 
 ## La lista de documentos
 
-La página de Documentos lista los documentos en el idioma que aprendes, con un cuadro de búsqueda. Una búsqueda recorre los títulos, y sus traducciones, de tus documentos, tus libros y sus capítulos, y la Biblioteca, sin tener en cuenta los acentos, y muestra lo que encuentra bajo Libros, Documentos y Biblioteca. Cada fila muestra la traducción del título, el nivel y el recuento de palabras. El icono del marcador en un documento lo marca, y el botón del marcador en la parte superior de la página muestra solo tus documentos marcados. **Filtros** acota la lista por nivel: **A1–A2**, **B1–B2** o **C1–C2**.
+La página de Documentos lista los documentos en el idioma que aprendes, con un cuadro de búsqueda. Una búsqueda recorre los títulos, y sus traducciones, de tus documentos, tus libros y sus capítulos, y la Biblioteca, sin tener en cuenta los acentos, y muestra lo que encuentra bajo Libros, Documentos y Biblioteca. Cada fila muestra la traducción del título, el nivel y el recuento de palabras. El icono del marcador en un documento lo marca, y el botón del marcador junto al cuadro de búsqueda muestra solo tus documentos marcados. En un teléfono y en la app de iOS, los dos están en el menú **…** (**Más**) de la parte superior: **Buscar** abre el cuadro de búsqueda, y **Solo guardadas** muestra tus documentos marcados. **Filtros** acota la lista por nivel: **A1–A2**, **B1–B2** o **C1–C2**.
 
-Para crear un documento, elige **+** (**Crear un nuevo documento**). El documento queda en el idioma que estés aprendiendo en ese momento.
+Para crear un documento, elige **+** (**Crear un nuevo documento**), o **Nuevo documento** en el menú **…** en un teléfono y en la app de iOS. El documento queda en el idioma que estés aprendiendo en ese momento.
 
 Los documentos conservan un **historial de cambios**: la versión anterior se guarda antes de cada edición, importación, corrección aplicada o restauración, y se puede comparar y restaurar. Ver [Escribir documentos](documents/writing-documents.md#historial).
 

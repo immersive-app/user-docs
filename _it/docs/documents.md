@@ -39,9 +39,9 @@ La pagina Documenti mostra anche la **Biblioteca**: testi scelti o scritti da Im
 
 ## L'elenco dei documenti
 
-La pagina Documenti elenca i documenti nella lingua che stai imparando, con una casella di ricerca. Una ricerca scorre i titoli, e le loro traduzioni, dei tuoi documenti, dei tuoi libri e dei loro capitoli, e della Biblioteca, senza badare agli accenti, e mostra ciò che trova sotto Libri, Documenti e Biblioteca. Ogni riga mostra la traduzione del titolo, il livello e il conteggio di parole. L'icona del segnalibro su un documento lo contrassegna, e il pulsante del segnalibro in cima alla pagina mostra solo i documenti che hai salvato tra i segnalibri. **Filtri** restringe l'elenco per livello: **A1–A2**, **B1–B2** o **C1–C2**.
+La pagina Documenti elenca i documenti nella lingua che stai imparando, con una casella di ricerca. Una ricerca scorre i titoli, e le loro traduzioni, dei tuoi documenti, dei tuoi libri e dei loro capitoli, e della Biblioteca, senza badare agli accenti, e mostra ciò che trova sotto Libri, Documenti e Biblioteca. Ogni riga mostra la traduzione del titolo, il livello e il conteggio di parole. L'icona del segnalibro su un documento lo contrassegna, e il pulsante del segnalibro accanto alla casella di ricerca mostra solo i documenti che hai salvato tra i segnalibri. Su un telefono e nell'app iOS, entrambi sono nel menu **…** (**Altro**) in alto: **Cerca** apre la casella di ricerca, e **Solo salvate** mostra i documenti che hai salvato tra i segnalibri. **Filtri** restringe l'elenco per livello: **A1–A2**, **B1–B2** o **C1–C2**.
 
-Per creare un documento, scegli **+** (**Crea un nuovo documento**). Il documento è nella lingua che stai imparando in quel momento.
+Per creare un documento, scegli **+** (**Crea un nuovo documento**), oppure **Nuovo documento** nel menu **…** su un telefono e nell'app iOS. Il documento è nella lingua che stai imparando in quel momento.
 
 I documenti conservano una **cronologia delle modifiche**: la versione precedente viene salvata prima di ogni modifica, importazione, correzione applicata o ripristino, e può essere confrontata e ripristinata. Vedi [Scrivere documenti](documents/writing-documents.md#cronologia).
 

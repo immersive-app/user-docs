@@ -14,7 +14,7 @@ Les livres sont listés en premier sur la page **Documents**, au-dessus de vos d
 
 ## Ajouter un livre
 
-1. Sur **Documents**, choisissez **Ajouter un livre** dans la section **Livres**. Sur le web, le bouton **+** le propose aussi.
+1. Sur **Documents**, choisissez **Ajouter un livre** dans la section **Livres**. Sur un ordinateur, le bouton **+** le propose aussi, et sur un téléphone et dans l'app iOS, le menu **…** en haut.
 2. **Importer un fichier** (**Choisissez un fichier**, ou sur un ordinateur déposez-en un sur la zone : EPUB, texte, Markdown ou PDF, jusqu'à 25 Mo), ou **Coller un lien Project Gutenberg**. L'un ou l'autre, pas les deux.
 3. **Titre** et **Auteur** sont facultatifs. Laissés vides, ils viennent du fichier.
 4. **Ajouter le livre**. La page du livre s'ouvre.

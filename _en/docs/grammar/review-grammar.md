@@ -11,9 +11,9 @@ How to find the note you need, read it, and work through its exercises.
 
 ## Finding a note
 
-- **Search**: type in the search box at the top of the Grammar page. Results list every matching note with its level, area, and your mastery; levels and areas are hidden while you search.
+- **Search**: type in the search box at the top of the Grammar page. On a phone and in the iOS app, choose **Search** in the **…** menu (**More**) first to open it. Results list every matching note with its level, area, and your mastery; levels and areas are hidden while you search.
 - **Browse**: open a level, then an area, to see its notes, 20 at a time.
-- **Bookmarks**: the bookmark icon on a note marks it; the bookmark button on the Grammar page lists only your bookmarked notes.
+- **Bookmarks**: the bookmark icon on a note marks it; the bookmark button beside the search box on the Grammar page (**Bookmarked only** in the **…** menu on a phone and in the iOS app) lists only your bookmarked notes.
 
 ## Reading a note
 
@@ -25,7 +25,9 @@ Example words and sentences can be tapped like text in the reader, for translati
 
 ### Switching languages
 
-A note at A1 or A2 opens in your language, and a note from B1 up in the language you are learning. The switch beside the level and area names both languages: tap one to read the note in it. Your choice is kept: from then on every note opens in that language, at every level, until you switch again. A note with no translation in your language opens in the language you are learning. Reading the explanation in the language you are learning is a good stretch once the point itself is no longer new.
+A note at A1 or A2 opens in your language, and a note from B1 up in the language you are learning. The switch is in the note's settings, which the round button at the bottom right of the note opens. It names both languages: tap one to read the note in it. Your choice is kept: from then on every note opens in that language, at every level, until you switch again. A note with no translation in your language opens in the language you are learning. Reading the explanation in the language you are learning is a good stretch once the point itself is no longer new.
+
+The note's settings also hold **Text size**: the small A and the large A make the note's text smaller or larger.
 
 ### Across your languages
 
