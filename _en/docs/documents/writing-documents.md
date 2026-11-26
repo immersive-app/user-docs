@@ -49,7 +49,7 @@ The sliders button opens the **Assistant**: a panel beside the editor on a compu
 
 - **Edits** shows your writing level ("Writing level ≈ B1"), up to three of your latest corrections, **Open the full report**, and the **Correct** button. While a correction is on its way it says so, and the edits appear by themselves. It also holds **Level up** (below) and **Past corrections**.
 - **Rewrite** takes the sentence your cursor is in, or a passage you select (up to 4,000 characters): choose **Suggest rewrite**. Immersive rewrites it one level above your writing level, with the same meaning. The suggestion appears under the paragraph; **Replace** takes it, **Dismiss** leaves your text alone. On a phone, while the assistant is open, a tap in your text places the cursor without bringing up the keyboard, and the assistant steps aside to show the suggestion.
-- **Tone** rewrites your whole draft for a situation you describe in your own words in **Rewrite this as…** ("a formal email to my landlord about the broken heater"), then **Rewrite**. The rewrite stays close to your level: your voice, adjusted. **Apply to document** puts it in the editor, and **Export .docx** downloads it as a Word file.
+- **Tone** rewrites your whole draft for a situation you describe in your own words in **Rewrite this as…** ("a formal email to my landlord about the broken heater"), then **Rewrite**. The rewrite stays close to your level: your voice, adjusted. **Apply to document** puts it in the editor, and **Export .docx** downloads it as a Word file (in the app, your phone's share sheet opens with it over the editor).
 
 Your writing level comes from your latest correction's CEFR estimate; before your first correction, it is the level you set for the language in your profile.
 

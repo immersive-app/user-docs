@@ -55,7 +55,7 @@ A line that could not be added stays in the box, and the reason is under it: the
 
 Choose **Upload a spreadsheet** to import many cards at once:
 
-1. Choose a **CSV or XLSX** file with two columns: the text in the language you are learning, and its translation. The translation is optional. **Download template.csv** gives you a file to start from. Up to 500 rows are read.
+1. Choose a **CSV or XLSX** file with two columns: the text in the language you are learning, and its translation. The translation is optional. **Download template.csv** gives you a file to start from; in the app it opens in your phone's share sheet, where you can save it to Files or send it on. Up to 500 rows are read.
 2. Choose **Preview**. Each row becomes a word card or a sentence card, depending on its text. Rows already in the deck are marked **In Deck** and arrive unticked, so you do not create duplicates; translations Immersive filled in are marked **Auto** so you can glance over them.
 3. Tick the rows you want and choose **Import cards**.
 

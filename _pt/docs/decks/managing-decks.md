@@ -60,7 +60,7 @@ Abra um baralho e escolha o lápis para abrir o seu espaço de trabalho. **Edita
 
 ## Eliminar um baralho
 
-Elimine um baralho com **Eliminar baralho**, no fundo do seu espaço de trabalho. Eliminar remove o baralho, os seus cartões e o progresso de revisão; é-lhe pedida confirmação primeiro.
+Elimine um baralho com **Eliminar baralho**, no fundo do seu espaço de trabalho. Primeiro é-lhe perguntado, com o nome do baralho e o número de cartões: *Eliminar o baralho «Verbes du premier groupe»? Os seus 15 cartões e o histórico de revisões deles desaparecem com ele.* Depois de eliminado, uma linha di-lo.
 
 ## Para saber mais
 

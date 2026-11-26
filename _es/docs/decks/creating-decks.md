@@ -48,7 +48,7 @@ Elige un nivel (el tuyo va primero) y luego marca **Todo el A2**, áreas enteras
 
 Elige **Subir hoja de cálculo** para importar muchas tarjetas a la vez:
 
-1. Elige un archivo **CSV o XLSX** con dos columnas: el texto en el idioma que aprendes y su traducción. La traducción es opcional. **Descargar template.csv** te da un archivo desde el que empezar. Se leen hasta 500 filas.
+1. Elige un archivo **CSV o XLSX** con dos columnas: el texto en el idioma que aprendes y su traducción. La traducción es opcional. **Descargar template.csv** te da un archivo desde el que empezar; en la aplicación se abre en la hoja de compartir del teléfono, desde donde puedes guardarlo en Archivos o enviarlo. Se leen hasta 500 filas.
 2. Elige **Vista previa**. Cada fila se convierte en una tarjeta de palabra o de frase, según su texto. Las filas que ya están en el mazo se marcan **En el mazo** y llegan sin marcar, para que no crees duplicados; las traducciones que completó Immersive se marcan **Auto** para que puedas revisarlas de un vistazo.
 3. Marca las filas que quieras y elige **Importar tarjetas**.
 

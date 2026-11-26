@@ -24,12 +24,11 @@ Para un libro entero, leído por capítulos, usa **Añadir un libro**: ver [Libr
 
 Abre un documento para leerlo. Bajo el título ves su traducción en tu idioma.
 
-- **Toca** una palabra o frase: una pequeña tarjeta muestra su traducción, con un botón de **altavoz** y **Más**.
-- **Toca de nuevo** para oírla en voz alta. Tocar en otro sitio cierra la tarjeta.
-- La barra de la parte inferior conserva la **última palabra** que consultaste, con su significado y, cuando lo hay, un parecido en un idioma que conoces.
+- **Toca** una palabra: se abre una tarjeta al pie de la pantalla con su traducción, un botón de **altavoz** y **Más**. Si hace falta, el texto sube para que la palabra siga a la vista encima de la tarjeta.
+- **La frase**, al pie de la tarjeta, muestra la traducción de la frase en la que está la palabra, con su propio altavoz y **Más**.
+- **Toca de nuevo** para oír la palabra en voz alta. Tocar en otro sitio cierra la tarjeta.
+- Cuando tu toque convierte la palabra en una tarjeta, la tarjeta dice **Añadido**, con **Deshacer** para quitarla. Cuando la palabra tiene un parecido en un idioma que conoces, la tarjeta también lo muestra.
 - Cada palabra y frase que consultas se registra en tu [Vocabulario](../vocabulary.md).
-
-El control **Vista** (en los controles de lectura, más abajo) decide qué selecciona un toque: **Frases** (la opción por defecto) o **Palabras**.
 
 ## El panel Más
 
@@ -47,7 +46,7 @@ El control **Vista** (en los controles de lectura, más abajo) decide qué selec
 
 Algunas palabras y frases llevan un sutil subrayado: la capa de ayudas, adaptada a los idiomas que conoces y a tu nivel.
 
-En la vista **Palabras**:
+En una palabra:
 
 - **Se puede deducir del contexto**: intenta la palabra antes de revelarla. El primer toque te da un empujón; el segundo, o **Revelar**, muestra el parecido en un idioma que conoces o el significado en contexto.
 - **Escucha primero**: el sonido es más claro que la ortografía.
@@ -55,10 +54,10 @@ En la vista **Palabras**:
 - **Visto antes**: enlaza una palabra con el lugar donde apareció por primera vez en el texto.
 - **Se puede saltar**: el sentido general se mantiene sin ella.
 
-En la vista **Frases**:
+En una frase, cuyas ayudas se muestran bajo **La frase** en la tarjeta de cualquiera de sus palabras:
 
 - **Se puede saltar** en una frase entera.
-- Un **subrayado de puntos** marca una frase con una construcción que recoge la [gramática de la lectura](../grammar/grammar-of-reading.md). Tócala para ver la comparación: si el idioma que aprendes difiere aquí de los tuyos o funciona igual, con un enlace a la comparación completa. Esa página te devuelve a la misma frase.
+- Un **subrayado de puntos** marca una frase con una construcción que recoge la [gramática de la lectura](../grammar/grammar-of-reading.md). Toca una de sus palabras y luego **La frase** para ver la comparación: si el idioma que aprendes difiere aquí de los tuyos o funciona igual, con un enlace a la comparación completa. Esa página te devuelve a la misma frase.
 
 **Ayudas**, en los controles de lectura, alterna entre **Completa** y **Ligera**; Ligera conserva solo las ayudas más importantes. Las ayudas se reducen a medida que sube tu nivel (los principiantes ven muchas, los lectores avanzados pocas), y un idioma que marcaste como nativo no tiene ninguna. Las ayudas se preparan en segundo plano, así que un documento que acabas de añadir puede mostrarlas un poco más tarde.
 
@@ -68,18 +67,20 @@ Cuando revelas una palabra deducible, Immersive crea una tarjeta de repaso a par
 
 ## Controles de lectura
 
-Dos botones redondos están en la parte inferior derecha del lector (apilados en un teléfono): el botón de chat abre el [Coach](../coach.md) con el documento a la vista, y el botón de los controles deslizantes abre los controles de lectura:
+Dos botones redondos están en la parte inferior derecha del lector (apilados en un teléfono, y apartados mientras la tarjeta de una palabra está abierta): el botón de chat abre el [Coach](../coach.md) con el documento a la vista, y el botón de los controles deslizantes abre los controles de lectura:
 
-- **Vista**: **Palabras** o **Frases**.
 - **Tamaño del texto**: la A pequeña y la A grande hacen el texto de lectura más pequeño o más grande, en cinco pasos. Los controles y las tarjetas de las palabras mantienen su tamaño.
 - **Interlineado** (1, 1.5 o 2) y **Sangría** (desactivada o activada).
 - **Tema** (**Clásico**, **Papel**, **Tranquilo** o **Solarized**) y **Apariencia** (**Claro**, **Oscuro** o **Sistema**), la misma opción que en [Perfil → Cuenta](../profile.md#cuenta).
+- **Pantalla completa** (**Sí** o **No**): activada, la barra y los botones redondos se apartan mientras sigues leyendo, y vuelven en cuanto te desplazas un poco hacia arriba o tocas la línea al pie de la pantalla. Esa línea muestra el tiempo que queda del texto, al menos 1 min, con la pantalla completa activada o no.
 - **Voz de lectura**: **Voz automática** o una voz con nombre, que se muestra cuando hay voces disponibles para el idioma.
 - **Ayudas**: **Completa** o **Ligera**.
-- **Leer en voz alta**, y un botón para imprimir.
+- **Leer en voz alta**, y un botón para imprimir (en la aplicación abre las opciones de impresión del teléfono).
 - El nivel del documento, su recuento de palabras y su tiempo de lectura.
 
-Immersive recuerda tu tamaño de texto, tu interlineado, tu sangría, la densidad de ayudas, tu tema y la voz (la voz, por idioma). Toca fuera de los controles, o pulsa Esc, para cerrarlos.
+En un teléfono, los controles se abren al pie de la pantalla, con el texto encima, así que un tamaño, un interlineado o un tema se ve en el texto mientras lo eliges.
+
+Immersive recuerda tu tamaño de texto, tu interlineado, tu sangría, la densidad de ayudas, tu tema, la pantalla completa y la voz (la voz, por idioma). Toca **×** arriba de los controles, toca fuera de ellos, o pulsa Esc, para cerrarlos.
 
 ## Leer en voz alta
 
@@ -87,11 +88,15 @@ Immersive recuerda tu tamaño de texto, tu interlineado, tu sangría, la densida
 
 ## Marcadores
 
-El icono del marcador en la parte superior del lector marca el documento; el botón del marcador en la página de Documentos lista entonces solo tus documentos marcados.
+El icono del marcador en la parte superior del lector (en la app, en la barra de arriba de la pantalla) marca el documento; el botón del marcador en la página de Documentos lista entonces solo tus documentos marcados.
+
+## Preguntas
+
+Al final de un texto, **Comprueba tu comprensión** hace unas preguntas sobre él, en tu idioma, o en el del texto con **Preguntas en** y el idioma. Cada respuesta es un repaso, y las preguntas vuelven como cualquier tarjeta, en un solo mazo por texto en **Mazos**, sea cual sea el idioma de las preguntas. La sección dice lo que queda: «1 de 3 respondida» con **Continuar** y, cuando todas están respondidas, «3 de 3 · 2 acertadas a la primera», que cuenta tu primera respuesta a cada pregunta.
 
 ## Edición e historial
 
-Cambia a **Escribir** en la parte superior del lector para editar el texto; desde ahí también puedes eliminar un documento. El **Historial** del documento guarda la versión anterior antes de cada edición, importación, corrección aplicada o restauración. Ver [Escribir documentos](writing-documents.md#historial).
+Cambia a **Escribir** en la parte superior del lector (en la app, el lápiz de la barra de arriba de la pantalla) para editar el texto; desde ahí también puedes eliminar un documento. Primero se te pregunta, con el nombre del documento: su texto desaparece, con su historial, sus correcciones, sus ayudas de lectura y su marcador, y las tarjetas, palabras guardadas y repasos que hiciste a partir de él se conservan. El **Historial** del documento guarda la versión anterior antes de cada edición, importación, corrección aplicada o restauración. Ver [Escribir documentos](writing-documents.md#historial).
 
 ## Más lectura
 

@@ -78,7 +78,7 @@ Tu posición sigue a su frase cuando se unen o se dividen capítulos. Si quitas 
 
 ## Eliminar un libro
 
-**Eliminar el libro**, al pie de la página del libro, elimina el libro y todos sus capítulos cuando lo confirmas. No se puede deshacer.
+**Eliminar el libro**, al pie de la página del libro, elimina el libro y todos sus capítulos cuando lo confirmas. La pregunta nombra el libro y cuenta sus capítulos: su texto desaparece, con su historial, sus ayudas de lectura y sus marcadores, y también tu posición de lectura; las tarjetas, palabras guardadas y repasos que hiciste a partir de ellos se conservan. No se puede deshacer.
 
 ## Más lectura
 

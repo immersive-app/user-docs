@@ -77,7 +77,7 @@ Your place follows its sentence when chapters are merged or split. If you remove
 
 ## Deleting a book
 
-**Delete book**, at the foot of the book's page, deletes the book and all its chapters once you confirm. This cannot be undone.
+**Delete book**, at the foot of the book's page, deletes the book and all its chapters once you confirm. The question names the book and counts its chapters: their text goes with their history, reading aids and bookmarks, and so does your reading place; the cards, saved words and reviews you made from them are kept. This cannot be undone.
 
 ## Further reading
 

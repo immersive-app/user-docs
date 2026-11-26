@@ -51,11 +51,11 @@ Every review ends in one of four grades:
 - **Good**: recalled with some effort.
 - **Easy**: effortless; the card moves furthest out.
 
-In Read mode you choose the grade, and each grade button shows when it brings the card back ("1 minute", "1 day", "7 days"). In Write and Listen, Immersive grades your answer itself. The result shows **Correct** or **Incorrect**; after a wrong answer, the right one ("Answer · j'ai"); the reason where there is one, such as **Missing accent** or a question's explanation; and when the card comes back ("Back in 1 minute", "Back tomorrow"). A verb form is right or wrong: right is **Easy**, wrong is **Again**. Other answers are graded by how close they are, so a small slip can still be right, with the answer shown under it. In Speak, Immersive grades a transcript of what you said. **Next** saves the review and moves on.
+In Read mode you choose the grade: **Again**, **Hard**, **Good** or **Easy**. In Write and Listen, Immersive grades your answer itself. The result shows **Correct** or **Incorrect**; after a wrong answer, the right one ("Answer · j'ai"); the reason where there is one, such as **Missing accent** or a question's explanation; and when the card comes back ("Back in 1 minute", "Back tomorrow"). A verb form is right or wrong: right is **Easy**, wrong is **Again**. Other answers are graded by how close they are, so a small slip can still be right, with the answer shown under it. In Speak, Immersive grades a transcript of what you said. **Next** saves the review and moves on.
 
 ## Skip
 
-**Skip** sits beside the answer in Write, Listen, and Speak, and under the card in a Pronunciation round. A skipped card is not graded and its schedule does not change: it leaves this session and comes back when you next press **Start review**. Read has no Skip. On a computer, the S key skips.
+**Skip** sits at the foot of the answer in Write, Listen, and Speak, beside **Submit** or **Record**, and under the card in a Pronunciation round. A skipped card is not graded and its schedule does not change: it leaves this session and comes back when you next press **Start review**. Read has no Skip. On a computer, the S key skips.
 
 ## The card menu
 
@@ -76,7 +76,7 @@ On a computer:
 
 ## During the session
 
-- A thin progress bar tracks the session.
+- A thin progress bar tracks the session, with your place beside it, such as "3 of 12". A card you answer wrong comes back later in the session, so it does not move your place on.
 - A line under the card counts what is left: due today, new, and learning.
 - Once the answer is shown, **Ask about this card** opens the [Coach](../coach.md) with the card in view.
 - The X at the top of the card returns to the deck.

@@ -60,7 +60,7 @@ Abre un mazo y elige el lápiz para abrir su espacio de trabajo. **Editar mazo**
 
 ## Eliminar un mazo
 
-Elimina un mazo con **Eliminar mazo**, al pie de su espacio de trabajo. Eliminarlo borra el mazo, sus tarjetas y su progreso de repaso; se te pide confirmación primero.
+Elimina un mazo con **Eliminar mazo**, al pie de su espacio de trabajo. Primero se te pregunta, con el nombre del mazo y su número de tarjetas: *¿Eliminar el mazo «Verbes du premier groupe»? Sus 15 tarjetas y su historial de repaso desaparecen con él.* Cuando ya no está, una línea lo dice.
 
 ## Más lectura
 
