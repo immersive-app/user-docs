@@ -38,8 +38,8 @@ features:
     a ver, na tua própria língua.
   link: "/pt/docs/coach/"
 - title: Perfil e Progresso
-  details: Onde estás, a tua atividade de estudo, o teu vocabulário, os professores
-    e a tua conta.
+  details: O que fazer a seguir, onde está, a sua atividade de estudo, o seu vocabulário
+    e a sua conta.
   link: "/pt/docs/profile/"
 ---
 
@@ -58,7 +58,7 @@ Encontra-o em toda a aplicação:
 - As páginas de verbos alinham a mesma forma **através das suas línguas**.
 - O leitor assinala as palavras que consegue deduzir a partir de uma língua que conhece, e as ajudas rareiam à medida que o seu nível sobe.
 - A [gramática da leitura](docs/grammar/grammar-of-reading.md) trata apenas dos pontos em que a língua que está a aprender difere da sua.
-- O seu Perfil acompanha a compreensão e a produção em separado, porque a compreensão vai à frente. O separador Progresso di-lo claramente: essa diferença é o método a funcionar.
+- O seu Perfil acompanha a compreensão e a produção em separado, porque a compreensão vai à frente. **Onde está**, no Início, di-lo claramente: essa diferença é o método a funcionar.
 
 As comparações entre línguas estão desativadas até as ativar (ver [Perfil → Conta](docs/profile.md#conta)); a maioria das pessoas aprende uma língua de cada vez.
 
@@ -80,7 +80,7 @@ Criar conta desbloqueia as ferramentas de aprendizagem:
 - **[Verbos](docs/verbs.md)**: os seus baralhos e as suas próprias frases em cada página de verbo, e comparações entre as línguas que conhece.
 - **[Coach](docs/coach.md)**: faça perguntas sobre aquilo que está a ver.
 - **[Vocabulário](docs/vocabulary.md)**: as palavras e frases que consulta, recolhidas para si; as palavras em que toca já são cartões de um baralho.
-- **[Perfil e Progresso](docs/profile.md)**: onde está, a sua atividade de estudo, avaliações com colegas, [acesso de professores](docs/teachers.md) e a sua conta.
+- **[Perfil e Progresso](docs/profile.md)**: o que fazer a seguir, onde está, a sua atividade de estudo, avaliações com colegas e a sua conta.
 
 Tudo é gratuito durante a beta.
 
@@ -89,7 +89,7 @@ Tudo é gratuito durante a beta.
 1. Escolha **Registar-se**. O primeiro ecrã é a sua **grelha de idiomas**: para cada uma das seis línguas, marque **Eu falo** ou **Estou aprendendo** e escolha o seu nível, de A1 («Conheço algumas palavras e frases.») até C2 ou **Nativo**. Se estiver a aprender mais do que uma, use **Definir como idioma de aprendizagem** na que quer estudar agora. Escolha um **Idioma da interface** e prima **Continuar**.
 2. Preencha o formulário da conta (nome próprio, apelido, e-mail e uma palavra-passe com pelo menos 6 caracteres) e escolha **Criar conta**.
 3. Abra o e-mail de confirmação e siga a ligação. Não pode iniciar sessão enquanto o endereço não estiver confirmado.
-4. No primeiro início de sessão, o Immersive mostra de novo a grelha de idiomas, já preenchida, para que a possa verificar. Prima **Confirmar** e chega a **Perfil → Progresso**, com primeiros passos para experimentar.
+4. No primeiro início de sessão, o Immersive mostra de novo a grelha de idiomas, já preenchida, para que a possa verificar. Prima **Confirmar** e chega ao **Início**, que lhe propõe a primeira coisa a fazer. Se não tiver a certeza do seu nível, escolha antes **Não sabe o seu nível? Faça o teste de nível**: a grelha é guardada da mesma forma, e o [teste de nível](docs/profile.md#teste-de-nível) define o nível por si. É proposto quando a língua que está a aprender tem um.
 
 Ou escolha **Continuar com a Apple** ou **Continuar com o Google** na página de registo: o seu ID Apple ou a sua Conta Google cria a conta, já confirmada, e passa diretamente para a grelha de idiomas. Ver [A sua conta](docs/account.md#iniciar-sessão).
 
@@ -99,7 +99,7 @@ As suas escolhas de línguas contam: o Immersive usa as línguas que conhece par
 
 ## Uma primeira sessão
 
-Depois do primeiro início de sessão, iniciar sessão leva-o à biblioteca de verbos, e a navegação dá-lhe acesso a toda a aplicação: **Baralhos**, **Documentos**, **Gramática**, **Verbos** e **Perfil**. Num telemóvel, estas áreas ficam numa barra de separadores na parte de baixo do ecrã. Ver [Navegação](docs/dashboard.md).
+Depois do primeiro início de sessão, iniciar sessão leva-o ao **Início**, e a navegação dá-lhe acesso a toda a aplicação: **Baralhos**, **Documentos**, **Gramática**, **Verbos** e **Início**. Num telemóvel, ficam numa barra de separadores na parte de baixo do ecrã. Ver [Navegação](docs/dashboard.md).
 
 Uns bons primeiros quinze minutos:
 

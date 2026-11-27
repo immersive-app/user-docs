@@ -103,4 +103,4 @@ Quando há cartões à espera, o Immersive pode enviar-lhe um e-mail todas as ma
 - [Criar baralhos](creating-decks.md)
 - [Gerir baralhos](managing-decks.md)
 - [Pronúncia](pronunciation.md)
-- [Perfil e Progresso](../profile.md): as suas revisões alimentam os separadores Atividade e Progresso
+- [Perfil e Progresso](../profile.md): as suas revisões alimentam os separadores Início e Atividade
