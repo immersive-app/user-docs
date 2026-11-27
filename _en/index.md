@@ -37,8 +37,8 @@ features:
     own language.
   link: "/docs/coach/"
 - title: Profile & Progress
-  details: Where you stand, your study activity, your vocabulary, teachers, and your
-    account.
+  details: What to do next, where you stand, your study activity, your vocabulary,
+    and your account.
   link: "/docs/profile/"
 ---
 
@@ -57,7 +57,7 @@ You meet it throughout the app:
 - Verb pages line up the same form **across your languages**.
 - The reader points out words you can guess from a language you know, and the aids thin out as your level rises.
 - The [grammar of reading](docs/grammar/grammar-of-reading.md) covers only the points where the language you are learning differs from yours.
-- Your Profile tracks understanding and producing separately, because understanding runs ahead. The Progress tab says it plainly: that gap is the method working.
+- Your Profile tracks understanding and producing separately, because understanding runs ahead. **Where you stand**, on Home, says it plainly: that gap is the method working.
 
 The cross-language comparisons are off until you turn them on (see [Profile → Account](docs/profile.md#account)); most people learn one language at a time.
 
@@ -79,7 +79,7 @@ Signing up unlocks the learning tools:
 - **[Verbs](docs/verbs.md)**: your decks and your own sentences on every verb page, and comparisons across the languages you know.
 - **[Coach](docs/coach.md)**: ask questions about whatever you are looking at.
 - **[Vocabulary](docs/vocabulary.md)**: the words and sentences you look up, collected for you; the words you tap are already cards in a deck.
-- **[Profile & Progress](docs/profile.md)**: where you stand, your study activity, evaluations with classmates, [teacher access](docs/teachers.md), and your account.
+- **[Profile & Progress](docs/profile.md)**: what to do next, where you stand, your study activity, evaluations with classmates, and your account.
 
 Everything is free during the beta.
 
@@ -88,7 +88,7 @@ Everything is free during the beta.
 1. Choose **Sign up**. The first screen is your **language grid**: for each of the six languages, mark **I speak it** or **I'm learning it** and pick your level, from A1 ("I know a few words and phrases.") up to C2 or **Native**. If you are learning more than one, use **Set as learning language** on the one to study now. Pick a **Display language**, and press **Continue**.
 2. Fill in the account form (first name, last name, email, and a password of at least 6 characters) and choose **Create account**.
 3. Open the confirmation email and follow its link. You cannot sign in until the address is confirmed.
-4. On your first sign-in, Immersive shows the language grid again, filled in, so you can check it. Press **Confirm** and you land on **Profile → Progress**, with first steps to try.
+4. On your first sign-in, Immersive shows the language grid again, filled in, so you can check it. Press **Confirm** and you land on **Home**, which offers the first thing to do. If you are not sure of your level, choose **Not sure of your level? Take the level test** instead: the grid is saved the same way, and the [level test](docs/profile.md#level-test) sets your level for you. It is offered where the language you are learning has one.
 
 Or choose **Continue with Apple** or **Continue with Google** on the sign-up page: your Apple ID or Google account creates the account, already confirmed, and you go straight to the language grid. See [Your account](docs/account.md#signing-in).
 
@@ -98,7 +98,7 @@ Your language choices matter: Immersive uses the languages you know for comparis
 
 ## A first session
 
-After the first sign-in, signing in takes you to the verb library, and the navigation gives you the whole app: **Decks**, **Documents**, **Grammar**, **Verbs**, and **Profile**. On a phone these sit in a tab bar at the bottom of the screen. See [Navigation](docs/dashboard.md).
+After the first sign-in, signing in takes you to **Home**, and the navigation gives you the whole app: **Decks**, **Documents**, **Grammar**, **Verbs**, and **Home**. On a phone these sit in a tab bar at the bottom of the screen. See [Navigation](docs/dashboard.md).
 
 A good first fifteen minutes:
 

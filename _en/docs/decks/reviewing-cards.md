@@ -102,4 +102,4 @@ When cards are waiting, Immersive can email you each morning. See [Navigation](.
 - [Creating decks](creating-decks.md)
 - [Managing decks](managing-decks.md)
 - [Pronunciation](pronunciation.md)
-- [Profile & Progress](../profile.md): your reviews feed the Activity and Progress tabs
+- [Profile & Progress](../profile.md): your reviews feed the Home and Activity tabs
