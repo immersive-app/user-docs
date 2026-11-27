@@ -11,7 +11,7 @@ Una volta effettuato l'accesso, tutto in Immersive è a uno o due tocchi di dist
 
 ## Dove arrivi
 
-Il tuo primissimo accesso ti fa passare dal controllo delle lingue e poi su **Profilo → Progressi** (vedi [Per iniziare](../index.md)). In seguito, accedendo arrivi sulla **biblioteca dei verbi**, la home page di Immersive. Anche il logo di Immersive riporta lì.
+Il tuo primissimo accesso ti fa passare dal controllo delle lingue. Poi **Conferma** ti porta sulla **Home** oppure, se hai scelto **Non sai il tuo livello? Fai il test di livello**, prima al [test di livello](profile.md#test-di-livello) (vedi [Per iniziare](../index.md#creare-un-account)). In seguito, anche l'accesso ti porta sulla **Home**, o sulla pagina che stavi aprendo quando Immersive ti ha chiesto di accedere. Il logo di Immersive porta alla **biblioteca dei verbi**.
 
 ## Le schede
 
@@ -21,7 +21,7 @@ Su un computer o un tablet le schede corrono lungo la parte alta della pagina; s
 - **Documenti**: i testi che stai leggendo o scrivendo, più la Biblioteca di documenti. Vedi [Documenti](documents.md).
 - **Grammatica**: note per livello QCER, pratica e la grammatica della lettura. Vedi [Grammatica](grammar.md).
 - **Verbi**: tabelle di coniugazione, audio e frasi di esempio. Vedi [Verbi](verbs.md).
-- **Profilo**: i tuoi progressi, l'attività, le valutazioni, il vocabolario, le chat con il coach, gli insegnanti e l'account. Vedi [Profilo e progressi](profile.md).
+- **Home**: il tuo Profilo, aperto sulla sua scheda Home, con la prossima cosa da fare e a che punto sei; le altre schede sono **Attività**, **Valutare**, **Vocabolario** e **Account**. Vedi [Profilo e progressi](profile.md).
 
 La scheda della sezione in cui ti trovi è evidenziata.
 
@@ -35,7 +35,7 @@ La tua immagine del profilo sta in fondo alla barra di navigazione. Selezionando
 
 ## Il pulsante del coach
 
-In fondo alle pagine con la barra di navigazione c'è un pulsante per fare una domanda al coach. La sua etichetta segue ciò che stai guardando: **Chiedi al coach** in generale, **Chiedi di questa nota** in una nota di grammatica, **Chiedi di questo verbo** nella pagina di un verbo. Vedi [Coach](coach.md).
+Un pulsante rotondo in basso a destra dello schermo serve a fare una domanda al coach, nel browser come nell'app iOS. Il suo nome, che compare su un computer quando ci passi sopra con il puntatore, segue ciò che stai guardando: **Chiedi al coach** in generale, **Chiedi di questa nota** in una nota di grammatica, **Chiedi di questo verbo** nella pagina di un verbo. Vedi [Coach](coach.md).
 
 ## Pagine a schermo intero
 

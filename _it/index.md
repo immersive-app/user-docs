@@ -38,8 +38,8 @@ features:
     nella tua lingua.
   link: "/it/docs/coach/"
 - title: Profilo e progressi
-  details: A che punto sei, la tua attività di studio, il tuo vocabolario, gli insegnanti
-    e il tuo account.
+  details: La prossima cosa da fare, a che punto sei, la tua attività di studio, il tuo
+    vocabolario e il tuo account.
   link: "/it/docs/profile/"
 ---
 
@@ -58,7 +58,7 @@ Lo incontri in tutta l'app:
 - Le pagine dei verbi allineano la stessa forma **attraverso le tue lingue**.
 - Il lettore ti segnala le parole che puoi intuire da una lingua che conosci, e gli aiuti si diradano man mano che il tuo livello sale.
 - La [grammatica della lettura](docs/grammar/grammar-of-reading.md) tratta solo i punti in cui la lingua che stai imparando differisce dalle tue.
-- Il tuo Profilo misura separatamente comprensione e produzione, perché la comprensione corre avanti. La scheda Progressi lo dice chiaramente: quel divario è il metodo che funziona.
+- Il tuo Profilo misura separatamente comprensione e produzione, perché la comprensione corre avanti. **A che punto sei**, nella Home, lo dice chiaramente: quel divario è il metodo che funziona.
 
 I confronti tra lingue sono disattivati finché non li attivi (vedi [Profilo → Account](docs/profile.md#account)); la maggior parte delle persone impara una lingua alla volta.
 
@@ -80,7 +80,7 @@ Registrarti sblocca gli strumenti di apprendimento:
 - **[Verbi](docs/verbs.md)**: i tuoi mazzi e le tue frasi su ogni pagina di verbo, e confronti tra le lingue che conosci.
 - **[Coach](docs/coach.md)**: fai domande su ciò che stai guardando.
 - **[Vocabolario](docs/vocabulary.md)**: le parole e le frasi che consulti, raccolte per te; le parole che tocchi sono già carte di un mazzo.
-- **[Profilo e progressi](docs/profile.md)**: a che punto sei, la tua attività di studio, le valutazioni con i compagni, l'[accesso per gli insegnanti](docs/teachers.md) e il tuo account.
+- **[Profilo e progressi](docs/profile.md)**: la prossima cosa da fare, a che punto sei, la tua attività di studio, le valutazioni con i compagni e il tuo account.
 
 Durante la beta è tutto gratuito.
 
@@ -89,7 +89,7 @@ Durante la beta è tutto gratuito.
 1. Scegli **Registrati**. La prima schermata è la tua **griglia delle lingue**: per ognuna delle sei lingue, segna **La parlo** o **La sto imparando** e scegli il tuo livello, da A1 («Conosco alcune parole e frasi.») fino a C2 o **Nativo**. Se ne stai imparando più di una, usa **Imposta come lingua di apprendimento** su quella da studiare adesso. Scegli una **Lingua dell'interfaccia** e premi **Continua**.
 2. Compila il modulo dell'account (nome, cognome, email e una password di almeno 6 caratteri) e scegli **Crea un account**.
 3. Apri l'email di conferma e segui il suo link. Non puoi accedere finché l'indirizzo non è confermato.
-4. Al primo accesso, Immersive ti mostra di nuovo la griglia delle lingue, già compilata, così puoi controllarla. Premi **Conferma** e arrivi su **Profilo → Progressi**, con alcuni primi passi da provare.
+4. Al primo accesso, Immersive ti mostra di nuovo la griglia delle lingue, già compilata, così puoi controllarla. Premi **Conferma** e arrivi sulla **Home**, che ti propone la prima cosa da fare. Se non sei sicuro del tuo livello, scegli invece **Non sai il tuo livello? Fai il test di livello**: la griglia viene salvata allo stesso modo, e il [test di livello](docs/profile.md#test-di-livello) imposta il livello al posto tuo. È proposto quando la lingua che stai imparando ne ha uno.
 
 Oppure scegli **Continua con Apple** o **Continua con Google** nella pagina di registrazione: il tuo ID Apple o il tuo account Google crea l'account, già confermato, e vai direttamente alla griglia delle lingue. Vedi [Il tuo account](docs/account.md#accedere).
 
@@ -99,7 +99,7 @@ Le tue scelte linguistiche contano: Immersive usa le lingue che conosci per conf
 
 ## Una prima sessione
 
-Dopo il primo accesso, accedendo arrivi sulla biblioteca dei verbi, e la navigazione ti mette a disposizione l'intera app: **Mazzi**, **Documenti**, **Grammatica**, **Verbi** e **Profilo**. Su un telefono queste voci stanno in una barra di schede in fondo allo schermo. Vedi [Navigazione](docs/dashboard.md).
+Dopo il primo accesso, accedendo arrivi sulla **Home**, e la navigazione ti mette a disposizione l'intera app: **Mazzi**, **Documenti**, **Grammatica**, **Verbi** e **Home**. Su un telefono si trovano in una barra di schede in fondo allo schermo. Vedi [Navigazione](docs/dashboard.md).
 
 Un buon primo quarto d'ora:
 

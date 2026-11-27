@@ -103,4 +103,4 @@ Quando ci sono carte in attesa, Immersive può inviarti un'email ogni mattina. V
 - [Creare mazzi](creating-decks.md)
 - [Gestire i mazzi](managing-decks.md)
 - [Pronuncia](pronunciation.md)
-- [Profilo e progressi](../profile.md): i tuoi ripassi alimentano le schede Attività e Progressi
+- [Profilo e progressi](../profile.md): i tuoi ripassi alimentano le schede Home e Attività
