@@ -1,6 +1,6 @@
 ---
 title: Créer des paquets
-description: Créez un paquet et ajoutez des cartes de mot, de phrase, de verbe et de nombre, depuis un tableur ou depuis votre vocabulaire enregistré.
+description: Créez un paquet de verbes à partir de verbes et de temps, ou un paquet de vocabulaire à partir de mots et de phrases que vous saisissez, collez, importez ou choisissez dans un texte.
 parent: Paquets et révisions
 nav_order: 1
 lang: fr
@@ -8,43 +8,51 @@ lang: fr
 
 # Créer des paquets
 
-Construire un paquet se fait en deux étapes : créer le paquet, puis y ajouter des cartes. Un paquet ne révise rien tant qu'il n'a pas de cartes, alors l'espace de travail vous mène directement de l'une à l'autre.
+Un paquet que vous créez est de l'une de deux sortes : un **paquet de verbes**, fait des verbes et des temps que vous choisissez, ou un **paquet de vocabulaire**, rempli de vos propres mots et de vos propres phrases. Vous choisissez la sorte en créant le paquet.
 
 ## Pour créer un paquet
 
-1. Ouvrez **Paquets** et choisissez le bouton **+** (**Créer un nouveau paquet**).
-2. Donnez au paquet un titre dans la langue que vous apprenez et un dans votre propre langue. Les deux sont obligatoires : les révisions peuvent montrer l'une ou l'autre face.
-3. Choisissez éventuellement un **Dossier** (ou tapez le nom d'un nouveau dossier) et ajoutez des **Étiquettes**. Sans dossier, le paquet reste au premier niveau de Mes paquets ; les étiquettes regroupent les paquets entre dossiers.
-4. Choisissez **Créer**.
+Ouvrez **Paquets** et choisissez le bouton **+** (**Créer un nouveau paquet**). **Nouveau paquet** propose les deux sortes :
+
+- **Verbes** : « Choisissez des verbes et des temps. »
+- **Vocabulaire** : « Donnez-lui un nom, puis saisissez ou collez ses mots et ses phrases, importez une liste ou choisissez-les dans un texte. »
+
+## Un paquet de verbes
+
+Choisir **Verbes** ouvre **Nouveau paquet de verbes** :
+
+1. Choisissez des verbes dans la liste **Essentiels**, **Courants** ou **Tous**. Essentiels contient les premiers verbes dont un débutant a besoin ; Courants et Tous ont un champ de recherche. Immersive se souvient de la dernière liste utilisée.
+2. Cochez les **Temps verbaux** que vous voulez pratiquer.
+3. Vérifiez le **Nom**. Immersive en propose un dans les deux langues d'après les temps cochés ; changez-le si vous voulez. Choisissez éventuellement un **Dossier**.
+4. La barre en bas de la page compte les cartes (« 24 cartes », « 12 verbes × 2 temps »). Choisissez **Créer le paquet**.
+
+La page du paquet s'ouvre (« Paquet créé avec 24 cartes. »). Chaque verbe à chaque temps devient une carte, qui contient les six formes, chacune avec son audio, et une phrase d'exemple pour chaque personne. Pour ajouter ou retirer des verbes et des temps plus tard, modifiez le paquet : voir [Gérer les paquets](managing-decks.md#paquets-de-verbes).
+
+## Un paquet de vocabulaire
+
+Choisir **Vocabulaire** ouvre la première étape :
+
+1. Donnez au paquet un titre dans la langue que vous apprenez et un dans votre propre langue. Les deux sont obligatoires : les révisions peuvent montrer l'une ou l'autre face.
+2. Choisissez éventuellement un **Dossier** (ou tapez le nom d'un nouveau dossier) et ajoutez des **Étiquettes**. Sans dossier, le paquet reste au premier niveau de Mes paquets ; les étiquettes regroupent les paquets entre dossiers.
+3. Choisissez **Créer**.
+
+L'espace de travail du paquet s'ouvre sur **Ajouter des cartes**, avec une ligne qui nomme le paquet, par exemple *Paquet « Au marché » créé.*
 
 ## Ajouter des cartes
 
-L'espace de travail du paquet propose cinq types de cartes (**Mot**, **Phrase**, **Verbe**, **Nombre**, **Grammaire**) et deux autres sources : **Importer un tableur** et **Depuis les signets**.
+L'espace de travail d'un paquet de vocabulaire a une seule zone, **Saisir ou coller**, et trois autres entrées en dessous : **Importer un tableur**, **Un document ou une photo** et **Enregistré en lisant**.
 
-### Mots
+### Saisir ou coller
 
-Tapez un **Mot** et, en option, sa **Traduction**. Laissez la traduction vide et Immersive la remplit. Appuyer sur Entrée ajoute la carte et vide le champ pour le mot suivant, pour saisir une liste rapidement.
+Mettez un mot ou une phrase par ligne. Une ligne d'un seul mot devient une carte de mot ; une ligne de plusieurs mots devient une carte de phrase. Un article ou une particule suivis d'un mot comptent comme un mot : *la revanche*, *l'eau*, *se lever*, *to run*.
 
-### Phrases
+Pour donner votre propre traduction, mettez-la après une tabulation ou après « = », par exemple `marché = market`. Une liste exportée de Quizlet a déjà la tabulation. Une ligne sans traduction en reçoit une automatiquement.
 
-Saisissez les phrases, une par ligne, et choisissez **Ajouter les cartes**. Les traductions se remplissent automatiquement ; vous pourrez les modifier ensuite dans la liste des cartes.
+Sous la zone, un compte indique ce que l'enregistrement ajoute (« L'enregistrement ajoute 5 cartes : 3 mots, 2 phrases »). Choisissez **Sauvegarder** : cela enregistre aussi ce que vous avez changé sous **Modifier le paquet**. Jusqu'à 500 lignes sont ajoutées à la fois.
 
-### Verbes
+Une ligne qui n'a pas pu être ajoutée reste dans la zone, avec la raison en dessous : la ligne ne contient aucun mot (un « = » seul, ou un nombre), elle n'a pas de traduction alors que la traduction automatique est indisponible, ou sa carte n'a pas pu être enregistrée. Corrigez la ligne et choisissez à nouveau **Sauvegarder**.
 
-1. Choisissez des verbes dans la liste **Essentiels**, **Courants** ou **Tous**. Essentiels contient les premiers verbes dont un nouvel apprenant a besoin ; Courants et Tous ont un champ de recherche. Immersive se souvient de la dernière liste utilisée.
-2. Cochez les **temps** que vous voulez pratiquer.
-3. Choisissez un style de carte : **Une carte par personne** (chaque personne révisée séparément) ou **Toutes les personnes sur une carte** (le tableau complet du temps sur une seule carte).
-4. Choisissez **Créer les cartes**.
-
-### Nombres
-
-Saisissez des nombres séparés par des virgules, par exemple `17, 70, 71, 80`, et choisissez **Ajouter les cartes**. Chaque nombre devient une carte que vous lirez, écrirez, écouterez ou direz en toutes lettres.
-
-### Grammaire
-
-Choisissez un niveau (le vôtre vient en premier), puis cochez **Tout le A2**, des domaines entiers ou des notes seules ; chacun indique combien de cartes il produit, et les notes déjà dans le paquet sont marquées. Choisissez **Créer les cartes**. Les cartes sont les exercices des notes, ou leurs phrases d'exemple avec le point de grammaire masqué.
-
-## Depuis un tableur
+### Depuis un tableur
 
 Choisissez **Importer un tableur** pour importer beaucoup de cartes d'un coup :
 
@@ -52,26 +60,38 @@ Choisissez **Importer un tableur** pour importer beaucoup de cartes d'un coup :
 2. Choisissez **Aperçu**. Chaque ligne devient une carte de mot ou une carte de phrase, selon son texte. Les lignes déjà dans le paquet sont marquées **Dans le paquet** et arrivent décochées, pour ne pas créer de doublons ; les traductions remplies par Immersive sont marquées **Auto** pour que vous puissiez les vérifier d'un coup d'œil.
 3. Cochez les lignes que vous voulez et choisissez **Importer les cartes**.
 
-## Depuis votre vocabulaire
+### Documents et photos
 
-**Depuis les signets** liste les mots et les phrases que vous avez enregistrés dans votre [Vocabulaire](../vocabulary.md), pour les langues de ce paquet, tous cochés. Filtrez par **Tous**, **Mots** ou **Phrases**, décochez ce que vous ne voulez pas, et choisissez **Ajouter les cartes**. Les entrées restent enregistrées dans votre Vocabulaire.
+Choisissez **Un document ou une photo** pour choisir des cartes dans un texte :
+
+1. Choisissez le texte : **Prendre une photo** (sur un téléphone) ou **Importer une photo**, **Importer un document**, ou l'un de vos documents sous **Dans tes documents**. Une photo ou un fichier envoyé devient un document dans vos [Documents](../documents.md), et Immersive le lit, ce qui prend quelques secondes (« Lecture du texte… »).
+2. Les **Phrases** et les **Mots** du texte sont listés dans deux onglets, tous décochés. Les mots que vous avez déjà sont laissés de côté. Cochez ce que vous voulez, ou **Tout sélectionner** ; **Chercher un mot** filtre une longue liste de mots.
+3. La barre compte vos coches (« 7 cochés : 4 phrases, 3 mots »). Choisissez **Ajouter 7 cartes**. Jusqu'à 500 cartes sont ajoutées à la fois.
+
+Les cartes apparaissent sur la page du paquet sous le titre du texte.
+
+### Enregistré en lisant
+
+**Enregistré en lisant** ouvre votre [Vocabulaire](../vocabulary.md) : les mots que vous touchez ou enregistrez en lisant, qui sont déjà des cartes de votre paquet **Mon vocabulaire**.
 
 ## Phrases d'exemple
 
-Une carte de mot ou une carte de verbe peut porter une phrase d'exemple. Dans la liste des cartes, choisissez **Ajouter un exemple** (ou **Changer l'exemple**) sur la carte, puis :
+Une carte de mot peut porter une phrase d'exemple. Dans la liste des cartes, choisissez **Ajouter un exemple** (ou **Changer l'exemple**) sur la carte, puis :
 
 - **Depuis vos documents** : les phrases que vous avez lues et qui contiennent le mot apparaissent en premier.
 - **Écrire la vôtre** : tapez une phrase et choisissez **Attacher la phrase**.
 - **Générer** : Immersive écrit une phrase à votre niveau ; choisissez **Régénérer** si elle ne convient pas.
+
+Les cartes d'un paquet de verbes arrivent avec leurs phrases d'exemple.
 
 ## D'autres façons de créer des paquets
 
 Vous ne partez pas toujours d'un paquet vide :
 
 - **Copiez** un paquet de la Bibliothèque ou un paquet public dans Mes paquets et il devient le vôtre à étudier. Voir [Gérer les paquets](managing-decks.md).
-- **Ajouter à un paquet** dans le lecteur (depuis le panneau **Plus** d'un mot) ou sur une page de verbe ouvre l'espace de travail du paquet avec le mot ou le verbe déjà rempli.
-- **Créer un paquet à partir de la sélection** dans votre [Vocabulaire](../vocabulary.md) crée un nouveau paquet avec les entrées que vous cochez.
-- Immersive remplit les paquets **De la lecture**, **Comparaisons pont** et **Pratique de grammaire** au fil de vos études. Voir [Paquets et révisions](../decks.md#ce-quun-paquet-contient).
+- **Ajouter à un paquet** dans le lecteur (depuis le panneau **Plus** d'un mot) ouvre l'espace de travail d'un paquet de vocabulaire avec le mot ou la phrase dans la zone.
+- **Ajouter à un paquet** sur une page de verbe ou sur la page d'une forme ouvre l'un de vos paquets de verbes avec le verbe en nouvelle ligne ou, si vous n'avez pas encore de paquet de verbes dans cette langue, **Nouveau paquet de verbes** avec le verbe coché. Voir [Travailler avec les verbes](../verbs/working-with-verbs.md#ajouter-un-verbe-à-un-paquet).
+- Immersive remplit les paquets **Mon vocabulaire**, **De la lecture** et **Pratique de grammaire** au fil de vos études. Voir [Paquets et révisions](../decks.md#deux-sortes-de-paquets).
 
 ## Pour aller plus loin
 

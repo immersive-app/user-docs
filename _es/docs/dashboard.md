@@ -11,7 +11,7 @@ Una vez que has iniciado sesión, todo en Immersive está a uno o dos toques. Es
 
 ## Dónde llegas
 
-La primera vez que inicias sesión pasas por la comprobación de idiomas y luego llegas a **Perfil → Progreso** (ver [Primeros pasos](../index.md)). Después, iniciar sesión te lleva a la **biblioteca de verbos**, la página de inicio de Immersive. El logotipo de Immersive también te lleva de vuelta ahí.
+La primera vez que inicias sesión pasas por la comprobación de idiomas. Después, **Confirmar** te lleva a **Inicio** o, si elegiste **¿No sabes tu nivel? Haz la prueba de nivel**, primero a la [prueba de nivel](profile.md#prueba-de-nivel) (ver [Primeros pasos](../index.md#crear-una-cuenta)). A partir de entonces, iniciar sesión también te lleva a **Inicio**, o a la página que ibas a abrir cuando Immersive te pidió que iniciaras sesión. El logotipo de Immersive lleva a la **biblioteca de verbos**.
 
 ## Las pestañas
 
@@ -21,7 +21,7 @@ En un ordenador o una tableta, las pestañas van en la parte superior de la pág
 - **Documentos**: los textos que estás leyendo o escribiendo, más la Biblioteca de documentos. Ver [Documentos](documents.md).
 - **Gramática**: notas por nivel MCER, práctica y la gramática de la lectura. Ver [Gramática](grammar.md).
 - **Verbos**: tablas de conjugación, audio y frases de ejemplo. Ver [Verbos](verbs.md).
-- **Perfil**: tu progreso, actividad, evaluaciones, vocabulario, chats con el coach, profesores y cuenta. Ver [Perfil y progreso](profile.md).
+- **Inicio**: tu Perfil, abierto en su pestaña Inicio, con lo siguiente que hacer y dónde estás; sus otras pestañas son **Actividad**, **Evaluar**, **Vocabulario** y **Cuenta**. Ver [Perfil y progreso](profile.md).
 
 La pestaña de la sección en la que estás aparece resaltada.
 
@@ -35,7 +35,7 @@ Tu foto de perfil está al final de la barra de navegación. Al seleccionarla se
 
 ## El botón del coach
 
-En la parte inferior de las páginas con barra de navegación hay un botón para preguntar al coach. Su etiqueta sigue lo que estás viendo: **Preguntar al coach** en general, **Preguntar sobre esta nota** en una nota de gramática, **Preguntar sobre este verbo** en la página de un verbo. Ver [Coach](coach.md).
+Un botón redondo abajo a la derecha de la pantalla sirve para preguntar al coach, tanto en el navegador como en la app de iOS. Su nombre, que aparece al pasar el puntero por encima en un ordenador, sigue lo que estás viendo: **Preguntar al coach** en general, **Preguntar sobre esta nota** en una nota de gramática, **Preguntar sobre este verbo** en la página de un verbo. Ver [Coach](coach.md).
 
 ## Pantalla completa
 

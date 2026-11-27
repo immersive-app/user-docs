@@ -11,7 +11,7 @@ Depois de iniciar sessão, tudo no Immersive fica a um ou dois toques de distân
 
 ## Onde começa
 
-O seu primeiro início de sessão passa pela verificação das línguas e leva-o depois a **Perfil → Progresso** (ver [Começar](../index.md)). A partir daí, iniciar sessão leva-o à **biblioteca de verbos**, a página inicial do Immersive. O logótipo do Immersive também o leva de volta até lá.
+O seu primeiro início de sessão passa pela verificação das línguas. Depois, **Confirmar** leva-o ao **Início** ou, se escolheu **Não sabe o seu nível? Faça o teste de nível**, primeiro ao [teste de nível](profile.md#teste-de-nível) (ver [Começar](../index.md#criar-uma-conta)). A partir daí, iniciar sessão também o leva ao **Início**, ou à página que estava a abrir quando o Immersive lhe pediu para iniciar sessão. O logótipo do Immersive leva à **biblioteca de verbos**.
 
 ## Os separadores
 
@@ -21,7 +21,7 @@ Num computador ou tablet, os separadores correm ao longo do topo da página; num
 - **Documentos**: textos que está a ler ou a escrever, além da Biblioteca de documentos. Ver [Documentos](documents.md).
 - **Gramática**: notas por nível QECR, prática e a gramática da leitura. Ver [Gramática](grammar.md).
 - **Verbos**: tabelas de conjugação, áudio e frases de exemplo. Ver [Verbos](verbs.md).
-- **Perfil**: o seu progresso, atividade, avaliações, vocabulário, conversas com o coach, professores e conta. Ver [Perfil e Progresso](profile.md).
+- **Início**: o seu Perfil, aberto no separador Início, com o que fazer a seguir e onde está; os outros separadores são **Atividade**, **Avaliar**, **Vocabulário** e **Conta**. Ver [Perfil e Progresso](profile.md).
 
 O separador da secção em que está fica realçado.
 
@@ -35,7 +35,7 @@ A sua foto de perfil fica no fim da barra de navegação. Ao selecioná-la, abre
 
 ## O botão do coach
 
-Na parte de baixo das páginas com a barra de navegação há um botão para perguntar ao coach. A etiqueta acompanha o que está a ver: **Perguntar ao coach** em geral, **Perguntar sobre esta nota** numa nota de gramática, **Perguntar sobre este verbo** numa página de verbo. Ver [Coach](coach.md).
+Um botão redondo no canto inferior direito do ecrã serve para perguntar ao coach, tanto no browser como na app iOS. O nome dele, que aparece num computador quando passa o ponteiro por cima, acompanha o que está a ver: **Perguntar ao coach** em geral, **Perguntar sobre esta nota** numa nota de gramática, **Perguntar sobre este verbo** numa página de verbo. Ver [Coach](coach.md).
 
 ## Páginas em ecrã inteiro
 

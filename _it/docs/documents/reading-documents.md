@@ -28,7 +28,7 @@ Apri un documento per leggerlo. Sotto il titolo vedi la sua traduzione nella tua
 - **La frase**, in fondo alla scheda, mostra la traduzione della frase in cui si trova la parola, con il suo altoparlante e **Altro**.
 - **Tocca di nuovo** per sentire la parola letta ad alta voce. Toccando altrove la scheda si chiude.
 - Quando il tuo tocco fa della parola una scheda, la scheda dice **Aggiunto**, con **Annulla** per toglierla. Quando la parola ha un sosia in una lingua che conosci, la scheda lo mostra anche.
-- Ogni parola e frase che consulti viene registrata nel tuo [Vocabolario](../vocabulary.md).
+- Ogni parola e frase che consulti viene registrata nel tuo [Vocabolario](../vocabulary.md), e una parola che tocchi diventa una carta del tuo mazzo **Il mio vocabolario**, con la sua frase.
 
 ## Il pannello Altro
 
@@ -38,8 +38,8 @@ Apri un documento per leggerlo. Sotto il titolo vedi la sua traduzione nella tua
 - **Aiuto alla lettura**, quando la parola o la frase ne ha uno.
 - **Grammatica della lettura**, quando la frase contiene una costruzione che tratta, con un link al confronto.
 - **Nelle sei lingue**: gli equivalenti della parola in tutte e sei le lingue, le tue in inchiostro pieno.
-- **Salva nel vocabolario** la contrassegna come salvata nel tuo Vocabolario.
-- **Aggiungi a un mazzo** elenca i tuoi mazzi in questa lingua; scegline uno per aprire il suo spazio di lavoro con la parola già inserita, oppure inizia un **Nuovo mazzo**.
+- **Salva nel vocabolario** la contrassegna come salvata nel tuo Vocabolario e ne fa una carta di **Il mio vocabolario**. Per una parola che il tuo tocco ha appena reso una carta, dice **Aggiunto**, con **Annulla** per togliere la carta.
+- **Aggiungi a un mazzo** elenca i tuoi mazzi in questa lingua; scegli un mazzo di vocabolario per aprire il suo spazio di lavoro con la parola o la frase nella casella, oppure inizia un **Nuovo mazzo**.
 - **Chiedi di questo** apre il [Coach](../coach.md) con la parola o la frase sotto gli occhi.
 
 ## Aiuti alla lettura

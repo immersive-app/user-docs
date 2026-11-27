@@ -11,7 +11,7 @@ Une fois connecté, tout dans Immersive est à un ou deux gestes. Cette page fai
 
 ## Où vous arrivez
 
-Votre toute première connexion vous fait passer par la vérification des langues, puis vous amène à **Profil → Progression** (voir [Bien démarrer](../index.md)). Ensuite, la connexion vous amène à la **bibliothèque de verbes**, la page d'accueil d'Immersive. Le logo Immersive y ramène aussi.
+Votre toute première connexion vous fait passer par la vérification des langues. **Confirmer** vous amène ensuite à l'**Accueil** ou, si vous avez choisi **Vous ne connaissez pas votre niveau ? Passez le test de niveau**, d'abord au [test de niveau](profile.md#test-de-niveau) (voir [Bien démarrer](../index.md#créer-un-compte)). Par la suite, la connexion vous amène aussi à l'**Accueil**, ou à la page que vous ouvriez quand Immersive vous a demandé de vous connecter. Le logo Immersive mène à la **bibliothèque de verbes**.
 
 ## Les onglets
 
@@ -21,7 +21,7 @@ Sur un ordinateur ou une tablette, les onglets s'alignent en haut de la page ;
 - **Documents** : les textes que vous lisez ou écrivez, plus la Bibliothèque de documents. Voir [Documents](documents.md).
 - **Grammaire** : des notes par niveau CECR, l'entraînement et la grammaire de la lecture. Voir [Grammaire](grammar.md).
 - **Verbes** : tableaux de conjugaison, audio et phrases d'exemple. Voir [Verbes](verbs.md).
-- **Profil** : votre progression, votre activité, vos évaluations, votre vocabulaire, vos chats avec le coach, vos professeurs et votre compte. Voir [Profil et progression](profile.md).
+- **Accueil** : votre Profil, ouvert sur son onglet Accueil, avec ce qu'il y a à faire et où vous en êtes ; ses autres onglets sont **Activité**, **Évaluer**, **Vocabulaire** et **Compte**. Voir [Profil et progression](profile.md).
 
 L'onglet de la section où vous vous trouvez est mis en évidence.
 
@@ -35,7 +35,7 @@ Votre photo de profil se trouve au bout de la barre de navigation. La sélection
 
 ## Le bouton du coach
 
-En bas des pages qui ont la barre de navigation se trouve un bouton pour interroger le coach. Son libellé suit ce que vous regardez : **Demander au coach** en général, **Demander à propos de cette note** sur une note de grammaire, **Demander à propos de ce verbe** sur une page de verbe. Voir [Coach](coach.md).
+Un bouton rond en bas à droite de l'écran permet d'interroger le coach, dans un navigateur comme dans l'app iOS. Son nom, affiché quand vous le survolez sur un ordinateur, suit ce que vous regardez : **Demander au coach** en général, **Demander à propos de cette note** sur une note de grammaire, **Demander à propos de ce verbe** sur une page de verbe. Voir [Coach](coach.md).
 
 ## Pages en plein écran
 

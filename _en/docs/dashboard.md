@@ -10,7 +10,7 @@ Once you are signed in, everything in Immersive is one or two taps away. This pa
 
 ## Where you land
 
-Your very first sign-in takes you through the language check and then to **Profile → Progress** (see [Getting started](../index.md)). After that, signing in takes you to the **verb library**, Immersive's home page. The Immersive logo also leads back there.
+Your very first sign-in takes you through the language check. **Confirm** then takes you to **Home**, or, if you chose **Not sure of your level? Take the level test**, to the [level test](profile.md#level-test) first (see [Getting started](../index.md#creating-an-account)). After that, signing in takes you to **Home** too, or to the page you were opening when Immersive asked you to sign in. The Immersive logo leads to the **verb library**.
 
 ## The tabs
 
@@ -20,7 +20,7 @@ On a computer or tablet, the tabs run along the top of the page; on a phone, the
 - **Documents**: texts you are reading or writing, plus the document Library. See [Documents](documents.md).
 - **Grammar**: notes by CEFR level, practice, and the grammar of reading. See [Grammar](grammar.md).
 - **Verbs**: conjugation tables, audio, and example sentences. See [Verbs](verbs.md).
-- **Profile**: your progress, activity, evaluations, vocabulary, coach chats, teachers, and account. See [Profile & Progress](profile.md).
+- **Home**: your Profile, opening on its Home tab, with what to do next and where you stand; its other tabs are **Activity**, **Evaluate**, **Vocabulary**, and **Account**. See [Profile & Progress](profile.md).
 
 The tab for the section you are in is highlighted.
 
@@ -34,7 +34,7 @@ Your profile picture sits at the end of the navigation bar. Selecting it opens a
 
 ## The coach button
 
-At the bottom of the pages with the navigation bar is a button to ask the coach. Its label follows what you are looking at: **Ask the coach** in general, **Ask about this note** on a grammar note, **Ask about this verb** on a verb page. See [Coach](coach.md).
+A round button at the bottom right of the screen asks the coach, in a browser and in the iOS app alike. Its name, shown when you point at it on a computer, follows what you are looking at: **Ask the coach** in general, **Ask about this note** on a grammar note, **Ask about this verb** on a verb page. See [Coach](coach.md).
 
 ## Full-screen pages
 

@@ -1,6 +1,6 @@
 ---
 title: Criar baralhos
-description: Crie um baralho e adicione cartões de palavra, frase, verbo e número, a partir de uma folha de cálculo ou do vocabulário que guardou.
+description: Crie um baralho de verbos a partir de verbos e tempos, ou um baralho de vocabulário com palavras e frases que escreve, cola, carrega ou escolhe num texto.
 parent: Baralhos e Revisões
 nav_order: 1
 lang: pt
@@ -8,70 +8,90 @@ lang: pt
 
 # Criar baralhos
 
-Construir um baralho tem dois passos: criar o baralho e depois adicionar-lhe cartões. Um baralho não revê nada enquanto não tiver cartões, por isso o espaço de trabalho leva-o diretamente de um passo ao outro.
+Um baralho que cria é de um de dois tipos: um **baralho de verbos**, feito com os verbos e os tempos que escolhe, ou um **baralho de vocabulário**, cheio das suas próprias palavras e frases. Escolhe o tipo quando cria o baralho.
 
 ## Para criar um baralho
 
-1. Abra **Baralhos** e escolha o botão **+** (**Criar um novo baralho**).
-2. Dê ao baralho um título na língua que está a aprender e outro na sua língua. Os dois são obrigatórios: as revisões podem mostrar qualquer um dos lados.
-3. Opcionalmente, escolha uma **Pasta** (ou escreva o nome de uma pasta nova) e adicione **Etiquetas**. Deixar a pasta em branco mantém o baralho no nível de topo de **Os meus baralhos**; as etiquetas agrupam baralhos entre pastas.
-4. Escolha **Criar**.
+Abra **Baralhos** e escolha o botão **+** (**Criar um novo baralho**). **Novo baralho** oferece os dois tipos:
+
+- **Verbos**: «Escolha verbos e tempos.»
+- **Vocabulário**: «Dê-lhe um nome e depois escreva ou cole as suas palavras e frases, carregue uma lista ou escolha-as num texto.»
+
+## Um baralho de verbos
+
+Ao escolher **Verbos** abre-se **Novo baralho de verbos**:
+
+1. Escolha verbos da lista **Essenciais**, **Comuns** ou **Todos**. Essenciais reúne os primeiros verbos de que um principiante precisa; Comuns e Todos têm uma caixa de pesquisa. O Immersive lembra-se da última lista que usou.
+2. Assinale os **Tempos verbais** que quer praticar.
+3. Verifique o **Nome**. O Immersive sugere um nas duas línguas a partir dos tempos que assinalou; mude-o se quiser. Opcionalmente, escolha uma **Pasta**.
+4. A barra no fundo da página conta os cartões («24 cartões», «12 verbos × 2 tempos»). Escolha **Criar baralho**.
+
+Abre-se a página do baralho («Baralho criado com 24 cartões.»). Cada verbo em cada tempo passa a ser um cartão, que reúne as seis formas, cada uma com o seu áudio, e uma frase de exemplo para cada pessoa. Para adicionar ou retirar verbos e tempos mais tarde, edite o baralho: ver [Gerir baralhos](managing-decks.md#baralhos-de-verbos).
+
+## Um baralho de vocabulário
+
+Ao escolher **Vocabulário** abre-se o primeiro passo:
+
+1. Dê ao baralho um título na língua que está a aprender e outro na sua língua. Os dois são obrigatórios: as revisões podem mostrar qualquer um dos lados.
+2. Opcionalmente, escolha uma **Pasta** (ou escreva o nome de uma pasta nova) e adicione **Etiquetas**. Deixar a pasta em branco mantém o baralho no nível de topo de **Os meus baralhos**; as etiquetas agrupam baralhos entre pastas.
+3. Escolha **Criar**.
+
+O espaço de trabalho do baralho abre-se em **Adicionar cartões**, com uma linha que dá o nome do baralho, por exemplo *Baralho «Au marché» criado.*
 
 ## Adicionar cartões
 
-O espaço de trabalho do baralho tem cinco tipos de cartão (**Palavra**, **Frase**, **Verbo**, **Número**, **Gramática**) e duas outras fontes: **Carregar folha de cálculo** e **Dos marcadores**.
+O espaço de trabalho de um baralho de vocabulário tem uma só caixa, **Escrever ou colar**, e mais três entradas por baixo: **Carregar uma folha de cálculo**, **Um documento ou uma fotografia** e **Guardado ao ler**.
 
-### Palavras
+### Escrever ou colar
 
-Escreva uma **Palavra** e, opcionalmente, a sua **Tradução**. Deixe a tradução em branco e o Immersive preenche-a. Premir Enter adiciona o cartão e limpa o campo para a palavra seguinte, para poder introduzir uma lista rapidamente.
+Ponha uma palavra ou uma frase em cada linha. Uma linha com uma só palavra passa a ser um cartão de palavra; uma linha com várias palavras, um cartão de frase. Um artigo ou uma partícula com uma palavra contam como uma palavra: *la revanche*, *l'eau*, *se lever*, *to run*.
 
-### Frases
+Para dar a sua própria tradução, ponha-a depois de uma tabulação ou de « = », por exemplo `marché = market`. Uma lista exportada do Quizlet já traz a tabulação. Uma linha sem tradução recebe uma automaticamente.
 
-Introduza frases, uma por linha, e escolha **Adicionar cartões**. As traduções preenchem-se automaticamente; pode editá-las depois na lista de cartões.
+Por baixo da caixa, uma contagem mostra o que guardar acrescenta («Ao guardar, adicionas 5 cartões: 3 palavras, 2 frases»). Escolha **Guardar**: guarda também o que tiver mudado em **Editar baralho**. São adicionadas até 500 linhas de cada vez.
 
-### Verbos
+Uma linha que não pôde ser adicionada fica na caixa, com o motivo por baixo: a linha não tem nenhuma palavra (um «=» sozinho, ou um número), não tem tradução e a tradução automática não está disponível, ou o seu cartão não pôde ser guardado. Corrija a linha e escolha **Guardar** outra vez.
 
-1. Escolha verbos da lista **Essenciais**, **Comuns** ou **Todos**. Essenciais reúne os primeiros verbos de que um iniciante precisa; Comuns e Todos têm uma caixa de pesquisa. O Immersive lembra-se da lista que usou da última vez.
-2. Marque os **Tempos** que quer praticar.
-3. Escolha um estilo de cartão: **Um cartão por pessoa** (cada pessoa revista separadamente) ou **Todas as pessoas num cartão** (a tabela completa do tempo num único cartão).
-4. Escolha **Criar cartões**.
+### A partir de uma folha de cálculo
 
-### Números
-
-Introduza números separados por vírgulas, por exemplo `17, 70, 71, 80`, e escolha **Adicionar cartões**. Cada número torna-se um cartão que vai ler, escrever, ouvir ou dizer por extenso.
-
-### Gramática
-
-Escolha um nível (o seu vem primeiro) e depois marque **Todo o A2**, áreas inteiras ou notas individuais; cada um mostra quantos cartões faz, e as notas que já estão no baralho aparecem assinaladas. Escolha **Criar cartões**. Os cartões são os exercícios das notas, ou as suas frases de exemplo com o ponto em branco.
-
-## A partir de uma folha de cálculo
-
-Escolha **Carregar folha de cálculo** para importar muitos cartões de uma vez:
+Escolha **Carregar uma folha de cálculo** para importar muitos cartões de uma vez:
 
 1. Escolha um ficheiro **CSV ou XLSX** com duas colunas: o texto na língua que está a aprender e a sua tradução. A tradução é opcional. **Descarregar template.csv** dá-lhe um ficheiro por onde começar; na aplicação abre-se na folha de partilha do telemóvel, onde o pode guardar em Ficheiros ou enviar. São lidas até 500 linhas.
 2. Escolha **Pré-visualizar**. Cada linha torna-se um cartão de palavra ou de frase, conforme o texto. As linhas que já estão no baralho aparecem marcadas **No baralho** e chegam desmarcadas, para não criar duplicados; as traduções que o Immersive preencheu aparecem marcadas **Auto** para as poder conferir de relance.
 3. Marque as linhas que quer e escolha **Importar cartões**.
 
-## Do seu vocabulário
+### Documentos e fotografias
 
-**Dos marcadores** lista as palavras e frases que marcou como guardadas no seu [Vocabulário](../vocabulary.md), para as línguas deste baralho, todas marcadas. Filtre por **Tudo**, **Palavras** ou **Frases**, desmarque o que não quer e escolha **Adicionar cartões**. As entradas continuam salvas no seu Vocabulário.
+Escolha **Um documento ou uma fotografia** para tirar cartões de um texto:
+
+1. Escolha o texto: **Tirar uma fotografia** (num telemóvel) ou **Carregar uma fotografia**, **Carregar um documento**, ou um dos seus documentos em **Dos teus documentos**. Uma fotografia ou um ficheiro que envia passa a ser um documento nos seus [Documentos](../documents.md), e o Immersive lê-o, o que demora alguns segundos («A ler o texto…»).
+2. As **Frases** e as **Palavras** do texto aparecem em dois separadores, todas por assinalar. As palavras que já tem ficam de fora. Assinale o que quiser, ou **Selecionar tudo**; **Procurar uma palavra** filtra uma lista longa de palavras.
+3. A barra conta o que assinalou («7 assinalados: 4 frases, 3 palavras»). Escolha **Adicionar 7 cartões**. São adicionados até 500 cartões de cada vez.
+
+Os cartões aparecem na página do baralho sob o título do texto.
+
+### Guardado ao ler
+
+**Guardado ao ler** abre o seu [Vocabulário](../vocabulary.md): as palavras em que toca ou que guarda ao ler, que já são cartões do seu baralho **O meu vocabulário**.
 
 ## Frases de exemplo
 
-Um cartão de palavra ou de verbo pode ter uma frase de exemplo. Na lista de cartões, escolha **Adicionar exemplo** (ou **Mudar exemplo**) no cartão e depois:
+Um cartão de palavra pode ter uma frase de exemplo. Na lista de cartões, escolha **Adicionar exemplo** (ou **Mudar exemplo**) no cartão e depois:
 
-- **Dos seus documentos**: as frases que já leu e que contêm a palavra aparecem primeiro.
+- **Dos seus documentos**: aparecem primeiro as frases que leu e que contêm a palavra.
 - **Escreva a sua**: escreva uma frase e escolha **Anexar frase**.
-- **Gerar**: o Immersive escreve uma frase no seu nível; escolha **Gerar novamente** se não servir.
+- **Gerar**: o Immersive escreve uma frase ao seu nível; escolha **Gerar novamente** se não servir.
+
+Os cartões de um baralho de verbos já vêm com as suas frases de exemplo.
 
 ## Outras formas de criar baralhos
 
-Nem sempre parte de um baralho em branco:
+Nem sempre começa com um baralho vazio:
 
-- **Copie** um baralho da Biblioteca ou público para **Os meus baralhos** e ele passa a ser seu para estudar. Ver [Gerir baralhos](managing-decks.md).
-- **Adicionar a um baralho** no leitor (a partir do painel **Mais** de uma palavra) ou numa página de verbo abre o espaço de trabalho do baralho com a palavra ou o verbo já preenchido.
-- **Criar um baralho com a seleção** no seu [Vocabulário](../vocabulary.md) cria um baralho novo com as entradas que marcar.
-- O Immersive enche os baralhos **Da leitura**, **Comparações ponte** e **Prática de gramática** à medida que estuda. Ver [Baralhos e Revisões](../decks.md#o-que-um-baralho-contém).
+- **Copie** um baralho da Biblioteca ou um baralho público para Os meus baralhos e ele passa a ser seu para estudar. Ver [Gerir baralhos](managing-decks.md).
+- **Adicionar a um baralho** no leitor (no painel **Mais** de uma palavra) abre o espaço de trabalho de um baralho de vocabulário com a palavra ou a frase na caixa.
+- **Adicionar a um baralho** na página de um verbo ou de uma forma abre um dos seus baralhos de verbos com o verbo como linha nova ou, se ainda não tiver um baralho de verbos nessa língua, **Novo baralho de verbos** com o verbo assinalado. Ver [Trabalhar com verbos](../verbs/working-with-verbs.md#adicionar-um-verbo-a-um-baralho).
+- O Immersive enche os baralhos **O meu vocabulário**, **Da leitura** e **Prática de gramática** enquanto estuda. Ver [Baralhos e Revisões](../decks.md#dois-tipos-de-baralho).
 
 ## Para saber mais
 

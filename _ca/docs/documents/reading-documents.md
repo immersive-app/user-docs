@@ -28,7 +28,7 @@ Obre un document per llegir-lo. Sota el títol en veus la traducció en la teva 
 - **La frase**, al peu de la targeta, mostra la traducció de la frase on és la paraula, amb el seu propi altaveu i **Més**.
 - **Toca de nou** per escoltar la paraula en veu alta. Tocar en un altre lloc tanca la targeta.
 - Quan el teu toc fa de la paraula una targeta, la targeta diu **Afegit**, amb **Desfés** per treure-la. Quan la paraula té una paraula semblant d'una llengua que coneixes, la targeta també la mostra.
-- Cada paraula i frase que consultes queda registrada al teu [Vocabulari](../vocabulary.md).
+- Cada paraula i frase que consultes queda registrada al teu [Vocabulari](../vocabulary.md), i una paraula que toques esdevé una targeta de la teva baralla **El meu vocabulari**, amb la seva frase.
 
 ## El plafó Més
 
@@ -38,8 +38,8 @@ Obre un document per llegir-lo. Sota el títol en veus la traducció en la teva 
 - **Ajuda a la lectura**, quan la paraula o la frase en té.
 - **Gramàtica de la lectura**, quan la frase conté una construcció que tracta, amb un enllaç a la comparació.
 - **En les sis llengües**: els equivalents de la paraula en les sis llengües, amb les teves llengües en tinta plena.
-- **Desa al vocabulari** la marca com a desada al teu Vocabulari.
-- **Afegeix a un joc** llista les teves baralles en aquesta llengua; tria'n una per obrir-ne l'espai de treball amb la paraula ja posada, o comença un **Joc nou**.
+- **Desa al vocabulari** la marca com a desada al teu Vocabulari i la converteix en una targeta d'**El meu vocabulari**. En una paraula que el teu toc acaba de convertir en targeta, diu **Afegit**, amb **Desfés** per treure la targeta.
+- **Afegeix a un joc** llista les teves baralles en aquesta llengua; tria una baralla de vocabulari per obrir-ne l'espai de treball amb la paraula o la frase al quadre, o comença un **Joc nou**.
 - **Pregunta sobre això** obre el [Coach](../coach.md) amb la paraula o la frase a la vista.
 
 ## Ajudes de lectura

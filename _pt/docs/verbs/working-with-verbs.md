@@ -29,8 +29,10 @@ Abra um verbo para ver a sua página:
 
 - As **formas nominais** (infinitivo, particípios, gerúndio) aparecem no topo.
 - Todos os tempos estão na página, agrupados por modo, com todas as pessoas listadas. Debaixo de cada tabela, uma **frase de exemplo** com a sua tradução.
+- Com sessão iniciada, **Para você**, por cima das tabelas, mostra até três frases de exemplo que precisa de praticar: num tempo ou numa forma que tem esquecido nas revisões, ou cujo cartão nos seus baralhos está pendente. Cada uma indica o seu tempo: escolha o nome para saltar para a sua tabela. Quando não há nada para praticar, a secção não aparece.
 - O **menu de tempos** no topo da tabela lista todos os modos e tempos: escolha um para saltar para a sua tabela. Ao percorrer a página, mostra o tempo que está a ver.
 - Com sessão iniciada, **Pronome** escolhe como são mostradas as formas da terceira pessoa (masculino, feminino ou ambos). O Immersive lembra-se da sua escolha.
+- Com sessão iniciada, **Gramática** ao lado do nome de um tempo abre a nota de gramática que ensina esse tempo, quando existe.
 
 O **altifalante** ao lado de uma forma reprodu-la onde já existe uma gravação; a página própria de cada forma pode reproduzi-la.
 
@@ -49,8 +51,6 @@ Cada forma na tabela é uma ligação. Abra uma para chegar à sua própria pág
 
 Com as comparações ativadas (**Perfil → Conta → Idiomas**), a página de uma forma mostra **Através dos seus idiomas**: o mesmo tempo e a mesma pessoa alinhados na língua que está a aprender e nas outras línguas que conhece, ordenados para que as colunas vizinhas sejam as mais parecidas. Ver *falo – hablo – parlo – parle* numa só linha é muitas vezes tudo o que é preciso para uma forma ficar na memória. Aparece quando pelo menos uma das línguas que indicou (o seu idioma da interface conta) tem a forma correspondente.
 
-**Adicionar um cartão de comparação** transforma-a num cartão de revisão num baralho chamado **Comparações ponte** da língua, agendado como qualquer outro cartão.
-
 As frases de exemplo funcionam como no leitor: toque numa palavra para ver a tradução e ouvir o áudio.
 
 ## Nos seus baralhos e nas suas frases
@@ -58,17 +58,17 @@ As frases de exemplo funcionam como no leitor: toque numa palavra para ver a tra
 Com sessão iniciada, a página de um verbo (e a de uma forma) mostra também duas secções sobre o seu próprio material:
 
 - **Nos seus baralhos**: os baralhos que têm um cartão do verbo (ou dessa forma exata), com quantos cartões dele cada baralho tem e quantos estão pendentes. Abra um baralho a partir da sua linha.
-- **Nas suas frases**: frases dos seus documentos e do seu vocabulário que usam uma forma do verbo, com a forma a negrito; **Mostrar mais** lista as restantes. A linha de origem abre o documento nessa frase.
+- **Nas suas frases**: frases dos seus documentos e do seu vocabulário que usam uma forma do verbo, com a forma a negrito; **Mostrar mais 3** lista as restantes. A linha de origem abre o documento nessa frase.
 
 Cada secção mantém o título quando ainda não há nada, para saber onde as coisas se vão juntar. Sem sessão iniciada, a página mostra em vez disso um único convite para iniciar sessão.
 
 ## Adicionar um verbo a um baralho
 
-Escolha **Adicionar a um baralho** no topo da página de um verbo e indique um dos seus baralhos nessa língua. O espaço de trabalho do baralho abre no formulário de verbos com o verbo já selecionado (e também o tempo, a partir da página de uma forma): escolha os tempos que quer e crie os cartões. Nada é adicionado até o fazer. Se ainda não tiver nenhum baralho nessa língua, o menu oferece **Criar um novo baralho**.
+Escolha **Adicionar a um baralho**, ao lado do menu de tempos na página de um verbo, ou ao lado da forma no topo da página de uma forma, e escolha um dos seus baralhos de verbos nessa língua. A tabela do baralho abre-se com o verbo como linha nova, assinalado nos tempos do baralho: mude os vistos se quiser e escolha **Guardar**. Nada é adicionado antes disso. Um baralho que já tem o verbo aparece como **Em** seguido do nome, e abre o baralho. Se ainda não tiver nenhum baralho de verbos na língua que está a aprender, o menu oferece **Criar um novo baralho**, que abre **Novo baralho de verbos** com o verbo assinalado (e também o tempo, a partir da página de uma forma).
 
 ## Praticar verbos em baralhos
 
-A secção Verbos é uma referência; a prática acontece nos seus baralhos. Quando adiciona cartões a um baralho, pode escolher verbos e tempos e optar entre um cartão por pessoa ou a tabela completa do tempo num único cartão. Ver [Criar baralhos](../decks/creating-decks.md).
+A secção Verbos é uma referência; a prática acontece nos seus baralhos de verbos. Escolhe verbos e tempos, e cada verbo em cada tempo passa a ser um cartão com as suas seis formas e as respetivas frases de exemplo. Ver [Criar baralhos](../decks/creating-decks.md#um-baralho-de-verbos) e [Rever cartões](../decks/reviewing-cards.md#o-cartão-de-verbo).
 
 ## Para saber mais
 

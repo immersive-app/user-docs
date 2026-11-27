@@ -23,9 +23,10 @@ I verbi sono il motore di una frase, e Immersive dedica loro una sezione di cons
 
 Con un account, le pagine dei verbi fanno di più:
 
-- **Attraverso le tue lingue**: nella pagina di una forma, lo stesso tempo e la stessa persona allineati in ogni lingua che conosci, con le lingue più simili fianco a fianco. **Aggiungi una scheda di confronto** lo trasforma in una carta di ripasso.
+- **Attraverso le tue lingue**: nella pagina di una forma, lo stesso tempo e la stessa persona allineati in ogni lingua che conosci, con le lingue più simili fianco a fianco.
 - **Nei tuoi mazzi** e **Nelle tue frasi**: i mazzi che contengono il verbo, con le carte da ripassare, e le frasi dei tuoi documenti e del tuo vocabolario che lo usano.
-- **Aggiungi a un mazzo**: apre il selettore dei verbi di uno dei tuoi mazzi con il verbo selezionato.
+- **Aggiungi a un mazzo**: aggiunge il verbo a uno dei tuoi mazzi di verbi, oppure avvia un nuovo mazzo di verbi con quel verbo.
+- **Grammatica** accanto al nome di un tempo: la nota di grammatica che insegna quel tempo.
 - **Mostra solo i tuoi verbi**: un filtro dell'elenco per i verbi già nei tuoi mazzi.
 - **Pronome**: scegli come vengono mostrate le forme di terza persona (per esempio *il*, *elle* o entrambi).
 - Un verbo che non ha ancora tabelle viene coniugato la prima volta che qualcuno che ha effettuato l'accesso lo apre.

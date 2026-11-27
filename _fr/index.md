@@ -19,8 +19,8 @@ hero:
     link: https://immersive-app.com
 features:
 - title: Paquets et révisions
-  details: Créez des paquets de mots, de phrases, de verbes et de nombres, et révisez-les
-    selon un calendrier qui s'adapte à votre mémoire.
+  details: Créez des paquets de verbes et des paquets de vos propres mots et phrases,
+    et révisez-les selon un calendrier qui s'adapte à votre mémoire.
   link: "/fr/docs/decks/"
 - title: Documents
   details: Lisez des textes qui vous intéressent avec traduction au toucher et audio,
@@ -39,7 +39,7 @@ features:
     que vous regardez, dans votre propre langue.
   link: "/fr/docs/coach/"
 - title: Profil et progression
-  details: Où vous en êtes, votre activité d'étude, votre vocabulaire, vos professeurs
+  details: Ce qu'il y a à faire, où vous en êtes, votre activité d'étude, votre vocabulaire
     et votre compte.
   link: "/fr/docs/profile/"
 ---
@@ -59,7 +59,7 @@ Vous la rencontrez partout dans l'application :
 - Les pages de verbe alignent la même forme **à travers vos langues**.
 - Le lecteur signale les mots que vous pouvez deviner grâce à une langue que vous connaissez, et les aides s'estompent à mesure que votre niveau monte.
 - La [grammaire de la lecture](docs/grammar/grammar-of-reading.md) ne traite que les points où la langue que vous apprenez diffère de la vôtre.
-- Votre Profil suit la compréhension et la production séparément, parce que la compréhension prend de l'avance. L'onglet Progression le dit clairement : cet écart, c'est la méthode qui fonctionne.
+- Votre Profil suit la compréhension et la production séparément, parce que la compréhension prend de l'avance. **Où vous en êtes**, sur l'Accueil, le dit clairement : cet écart, c'est la méthode qui fonctionne.
 
 Les comparaisons entre langues sont désactivées tant que vous ne les activez pas (voir [Profil → Compte](docs/profile.md#compte)) ; la plupart des gens apprennent une langue à la fois.
 
@@ -75,13 +75,13 @@ Une partie du matériel de référence d'Immersive est ouverte à tous :
 
 L'inscription débloque les outils d'apprentissage :
 
-- **[Paquets et révisions](docs/decks.md)** : créez des paquets de mots, de phrases, de formes verbales et de nombres, puis révisez-les en modes Lire, Écrire, Écouter et Parler, selon un calendrier qui s'adapte à votre mémoire.
+- **[Paquets et révisions](docs/decks.md)** : créez des paquets de verbes à partir des verbes et des temps que vous choisissez, et des paquets de vocabulaire à partir de vos propres mots et phrases, puis révisez-les en modes Lire, Écrire, Écouter et Parler, selon un calendrier qui s'adapte à votre mémoire.
 - **[Documents](docs/documents.md)** : apportez un texte (collez-le, importez un fichier ou photographiez une page) et lisez-le avec traduction au toucher, audio et aides à la lecture. Ou écrivez vos propres textes et obtenez corrections et réécritures.
 - **[Grammaire](docs/grammar.md)** : des notes par niveau CECR (A1 à C1) avec exercices, et des cartes d'entraînement qui reviennent en révision.
 - **[Verbes](docs/verbs.md)** : vos paquets et vos propres phrases sur chaque page de verbe, et des comparaisons entre les langues que vous connaissez.
 - **[Coach](docs/coach.md)** : posez des questions sur ce que vous regardez.
-- **[Vocabulaire](docs/vocabulary.md)** : les mots et les phrases que vous consultez, rassemblés pour vous et prêts à devenir un paquet.
-- **[Profil et progression](docs/profile.md)** : où vous en êtes, votre activité d'étude, les évaluations entre camarades, l'[accès professeur](docs/teachers.md) et votre compte.
+- **[Vocabulaire](docs/vocabulary.md)** : les mots et les phrases que vous consultez, rassemblés pour vous ; les mots que vous touchez sont déjà des cartes d'un paquet.
+- **[Profil et progression](docs/profile.md)** : ce qu'il y a à faire, où vous en êtes, votre activité d'étude, les évaluations entre camarades et votre compte.
 
 Tout est gratuit pendant la bêta.
 
@@ -90,7 +90,7 @@ Tout est gratuit pendant la bêta.
 1. Choisissez **S'inscrire**. Le premier écran est votre **grille de langues** : pour chacune des six langues, cochez **Je le parle** ou **Je l'apprends** et choisissez votre niveau, de A1 (« Je connais quelques mots et expressions. ») jusqu'à C2 ou **Langue maternelle**. Si vous en apprenez plusieurs, utilisez **Définir comme langue d'apprentissage** sur celle à étudier maintenant. Choisissez une **Langue d'affichage**, et appuyez sur **Continuer**.
 2. Remplissez le formulaire du compte (prénom, nom de famille, e-mail et un mot de passe d'au moins 6 caractères) et choisissez **Créer un compte**.
 3. Ouvrez l'e-mail de confirmation et suivez son lien. Vous ne pouvez pas vous connecter tant que l'adresse n'est pas confirmée.
-4. À votre première connexion, Immersive affiche de nouveau la grille de langues, remplie, pour que vous la vérifiiez. Appuyez sur **Confirmer** et vous arrivez sur **Profil → Progression**, avec des premiers pas à essayer.
+4. À votre première connexion, Immersive affiche de nouveau la grille de langues, remplie, pour que vous la vérifiiez. Appuyez sur **Confirmer** et vous arrivez sur l'**Accueil**, qui vous propose la première chose à faire. Si vous n'êtes pas sûr de votre niveau, choisissez plutôt **Vous ne connaissez pas votre niveau ? Passez le test de niveau** : la grille est enregistrée de la même façon, et le [test de niveau](docs/profile.md#test-de-niveau) fixe votre niveau à votre place. Il est proposé quand la langue que vous apprenez en a un.
 
 Ou choisissez **Continuer avec Apple** ou **Continuer avec Google** sur la page d'inscription : votre identifiant Apple ou votre compte Google crée le compte, déjà confirmé, et vous arrivez directement sur la grille de langues. Voir [Votre compte](docs/account.md#se-connecter).
 
@@ -100,11 +100,11 @@ Vos choix de langues comptent : Immersive utilise les langues que vous connaiss
 
 ## Une première session
 
-Après la première connexion, la connexion vous amène à la bibliothèque de verbes, et la navigation vous donne accès à toute l'application : **Paquets**, **Documents**, **Grammaire**, **Verbes** et **Profil**. Sur un téléphone, ces onglets se trouvent dans une barre en bas de l'écran. Voir [Navigation](docs/dashboard.md).
+Après la première connexion, la connexion vous amène à l'**Accueil**, et la navigation vous donne accès à toute l'application : **Paquets**, **Documents**, **Grammaire**, **Verbes** et **Accueil**. Sur un téléphone, ces onglets se trouvent dans une barre en bas de l'écran. Voir [Navigation](docs/dashboard.md).
 
 Un bon premier quart d'heure :
 
-1. **Ouvrez votre premier paquet.** La page Paquets comprend une **Bibliothèque** de paquets prêts à l'emploi dans la langue que vous apprenez, comme les mots les plus courants. Copiez-en un dans Mes paquets avec **+** et commencez une révision. Voir [Réviser les cartes](docs/decks/reviewing-cards.md).
+1. **Ouvrez votre premier paquet.** La page Paquets comprend une **Bibliothèque** de paquets prêts à l'emploi dans la langue que vous apprenez, comme les verbes essentiels, un paquet par temps. Copiez-en un dans Mes paquets avec **+** et commencez une révision. Voir [Réviser les cartes](docs/decks/reviewing-cards.md).
 2. **Lisez quelque chose à votre niveau.** Ouvrez Documents et choisissez un texte de la Bibliothèque, ou importez le vôtre. Touchez un mot ou une phrase pour voir sa traduction ; touchez à nouveau pour l'écouter. Voir [Lire des documents](docs/documents/reading-documents.md).
 3. **Lisez une note de grammaire.** Ouvrez Grammaire : elle vous suggère par où commencer. Voir [Grammaire](docs/grammar.md).
 

@@ -23,9 +23,10 @@ Els verbs són la maquinària d'una frase, i Immersive els dedica una secció de
 
 Amb un compte, les pàgines de verbs fan més coses:
 
-- **A través de les teves llengües**: a la pàgina d'una forma, el mateix temps i persona alineats en cada llengua que coneixes, amb les llengües més semblants una al costat de l'altra. **Afegeix una targeta de comparació** ho converteix en una targeta de repàs.
+- **A través de les teves llengües**: a la pàgina d'una forma, el mateix temps i persona alineats en cada llengua que coneixes, amb les llengües més semblants una al costat de l'altra.
 - **A les teves baralles** i **A les teves frases**: les baralles que contenen el verb, amb les targetes pendents, i les frases dels teus documents i del teu vocabulari que el fan servir.
-- **Afegeix a una baralla**: obre el selector de verbs d'una de les teves baralles amb el verb seleccionat.
+- **Afegeix a una baralla**: afegeix el verb a una de les teves baralles de verbs, o en comença una de nova amb aquest verb.
+- **Gramàtica** al costat del nom d'un temps: la nota gramatical que ensenya aquell temps.
 - **Mostrar només els teus verbs**: un filtre de la llista de verbs per als verbs que ja són a les teves baralles.
 - **Pronom**: tria com es mostren les formes de tercera persona (per exemple *il*, *elle* o totes dues).
 - Un verb que encara no té taules es conjuga el primer cop que l'obre un estudiant amb sessió iniciada.
