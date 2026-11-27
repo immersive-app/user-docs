@@ -88,7 +88,7 @@ Immersive ricorda dimensione del testo, interlinea, rientro, densità degli aiut
 
 ## Segnalibri
 
-L'icona del segnalibro in cima al lettore (nell'app, nella barra in cima allo schermo) contrassegna il documento; il pulsante del segnalibro nella pagina Documenti elenca poi solo i documenti che hai salvato tra i segnalibri.
+L'icona del segnalibro in cima al lettore (nell'app, nella barra in cima allo schermo) contrassegna il documento; **Solo salvate**, nel menu **…** in cima alla pagina Documenti, elenca poi solo i documenti che hai salvato tra i segnalibri.
 
 ## Domande
 

@@ -28,7 +28,9 @@ Sur un téléphone, une barre au bas de la note propose **Précédent** et **Sui
 
 ### Changer de langue
 
-Une note de niveau A1 ou A2 s'ouvre dans votre langue, et une note à partir de B1 dans la langue que vous apprenez. Le sélecteur à côté du niveau et du domaine affiche les deux langues : touchez-en une pour y lire la note. Votre choix est gardé : ensuite, toutes les notes s'ouvrent dans cette langue, à tous les niveaux, jusqu'à ce que vous changiez à nouveau. Une note sans traduction dans votre langue s'ouvre dans la langue que vous apprenez. Lire l'explication dans la langue que vous apprenez est un bon défi une fois que le point lui-même n'est plus nouveau.
+Une note de niveau A1 ou A2 s'ouvre dans votre langue, et une note à partir de B1 dans la langue que vous apprenez. Le sélecteur se trouve dans les réglages de la note, qu'ouvre le bouton rond en bas à droite de la note ; il affiche les deux langues : touchez-en une pour y lire la note. Votre choix est gardé : ensuite, toutes les notes s'ouvrent dans cette langue, à tous les niveaux, jusqu'à ce que vous changiez à nouveau. Une note sans traduction dans votre langue s'ouvre dans la langue que vous apprenez. Lire l'explication dans la langue que vous apprenez est un bon défi une fois que le point lui-même n'est plus nouveau.
+
+Les réglages de la note contiennent aussi la **Taille du texte** : le petit A et le grand A rendent le texte de la note plus petit ou plus grand.
 
 ### Dans vos langues
 

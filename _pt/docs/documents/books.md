@@ -14,7 +14,7 @@ Os livros aparecem primeiro na página **Documentos**, acima dos seus documentos
 
 ## Adicionar um livro
 
-1. Em **Documentos**, escolha **Adicionar um livro** na secção **Livros**. Na web, o botão **+** também o oferece.
+1. Em **Documentos**, escolha **Adicionar um livro** na secção **Livros**. O menu **…** no topo da página também o oferece.
 2. **Carregar um ficheiro** (**Escolha um ficheiro**, ou num computador largue um na caixa: EPUB, texto, Markdown ou PDF, até 25 MB), ou **Colar uma ligação do Project Gutenberg**. Use um ou outro, não os dois.
 3. **Título** e **Autor** são opcionais. Em branco, vêm do ficheiro.
 4. **Adicionar livro**. A página do livro abre-se.

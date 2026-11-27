@@ -88,7 +88,7 @@ O Immersive lembra-se do tamanho do texto, da entrelinha, do recuo, da densidade
 
 ## Marcadores
 
-O ícone do marcador no topo do leitor (na app, na barra no topo do ecrã) marca o documento; o botão do marcador na página Documentos passa então a listar apenas os documentos que marcou.
+O ícone do marcador no topo do leitor (na app, na barra no topo do ecrã) marca o documento; **Apenas guardadas**, no menu **…** no topo da página Documentos, passa então a listar apenas os documentos que marcou.
 
 ## Perguntas
 

@@ -37,7 +37,7 @@ La **recherche** en haut trouve des notes par mot-clé ; le bouton signet n'af
 ## Ce que contient une note
 
 - Une explication du point, écrite pour les apprenants, avec des mots et des phrases d'exemple que vous pouvez toucher pour la traduction et l'audio.
-- La note est écrite dans la langue que vous apprenez. Quand elle a une traduction dans la vôtre, une note de niveau A1 ou A2 s'ouvre dans votre langue, et une note à partir de B1 dans la langue que vous apprenez ; le sélecteur à côté des badges la change, et votre choix vaut ensuite pour toutes les notes.
+- La note est écrite dans la langue que vous apprenez. Quand elle a une traduction dans la vôtre, une note de niveau A1 ou A2 s'ouvre dans votre langue, et une note à partir de B1 dans la langue que vous apprenez ; le sélecteur des réglages de la note (le bouton rond en bas à droite de la note) la change, et votre choix vaut ensuite pour toutes les notes.
 - Des exercices de plusieurs sortes, vérifiés sur place.
 - Votre maîtrise de la note. Chaque exercice auquel vous répondez devient une carte de révision, et chaque réponse compte comme une révision.
 

@@ -28,7 +28,9 @@ Num telemóvel, uma barra no fundo da nota tem **Anterior** e **Seguinte**, as n
 
 ### Mudar de língua
 
-Uma nota de A1 ou A2 abre na sua língua, e uma de B1 para cima, na língua que está a aprender. O seletor ao lado do nível e da área mostra as duas línguas: toque numa para ler a nota nela. A sua escolha fica guardada: a partir daí todas as notas abrem nessa língua, em todos os níveis, até mudar de novo. Uma nota sem tradução na sua língua abre na língua que está a aprender. Ler a explicação na língua que está a aprender é um bom desafio quando o ponto em si já não é novo.
+Uma nota de A1 ou A2 abre na sua língua, e uma de B1 para cima, na língua que está a aprender. O seletor está nas definições da nota, que se abrem com o botão redondo no canto inferior direito da nota; mostra as duas línguas: toque numa para ler a nota nela. A sua escolha fica guardada: a partir daí todas as notas abrem nessa língua, em todos os níveis, até mudar de novo. Uma nota sem tradução na sua língua abre na língua que está a aprender. Ler a explicação na língua que está a aprender é um bom desafio quando o ponto em si já não é novo.
+
+As definições da nota têm também o **Tamanho do texto**: o A pequeno e o A grande tornam o texto da nota mais pequeno ou maior.
 
 ### Nas suas línguas
 

@@ -27,7 +27,9 @@ On a phone, a bar at the foot of the note has **Previous** and **Next**, the not
 
 ### Switching languages
 
-A note at A1 or A2 opens in your language, and a note from B1 up in the language you are learning. The switch beside the level and area names both languages: tap one to read the note in it. Your choice is kept: from then on every note opens in that language, at every level, until you switch again. A note with no translation in your language opens in the language you are learning. Reading the explanation in the language you are learning is a good stretch once the point itself is no longer new.
+A note at A1 or A2 opens in your language, and a note from B1 up in the language you are learning. The switch is in the note's settings, which the round button at the bottom right of the note opens. It names both languages: tap one to read the note in it. Your choice is kept: from then on every note opens in that language, at every level, until you switch again. A note with no translation in your language opens in the language you are learning. Reading the explanation in the language you are learning is a good stretch once the point itself is no longer new.
+
+The note's settings also hold **Text size**: the small A and the large A make the note's text smaller or larger.
 
 ### Across your languages
 

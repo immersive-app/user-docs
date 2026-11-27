@@ -37,7 +37,7 @@ A **pesquisa** no topo encontra notas por palavra-chave; o botão do marcador mo
 ## O que uma nota contém
 
 - Uma explicação do ponto, escrita para estudantes, com palavras e frases de exemplo em que pode tocar para ver a tradução e ouvir o áudio.
-- A nota está escrita na língua que está a aprender. Quando tem tradução na sua, uma nota de A1 ou A2 abre na sua língua, e uma de B1 para cima na língua que está a aprender; o seletor ao lado das etiquetas muda-a, e a sua escolha vale depois para todas as notas.
+- A nota está escrita na língua que está a aprender. Quando tem tradução na sua, uma nota de A1 ou A2 abre na sua língua, e uma de B1 para cima na língua que está a aprender; o seletor nas definições da nota (o botão redondo no canto inferior direito da nota) muda-a, e a sua escolha vale depois para todas as notas.
 - Exercícios de vários tipos, verificados na hora.
 - O seu domínio da nota. Cada exercício a que responde passa a ser um cartão de revisão, e cada resposta conta como uma revisão.
 

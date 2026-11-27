@@ -39,7 +39,7 @@ Ouvrir **Paquets** affiche :
 
 - **Bibliothèque** : des paquets prêts à l'emploi dans la langue que vous apprenez, ouverte tant que vous n'avez aucun paquet à vous, repliée dès que vous en avez. Copiez-en un dans Mes paquets avec son bouton **+**.
 - **Mes paquets** : vos paquets et vos dossiers, avec des colonnes indiquant combien de cartes sont **Nouvelles**, **En cours** et **À revoir**.
-- Trois boutons en haut : l'horloge ouvre votre **Historique des révisions**, le signet n'affiche que vos paquets favoris, et **+** crée un nouveau paquet.
+- En haut : le champ de recherche, **+** pour créer un nouveau paquet, et le menu **…** (**Plus**) avec **Historique des révisions** et **Favoris seulement**, qui n'affiche que vos paquets favoris. Sur un téléphone et dans l'app iOS, **Rechercher** est aussi dans le menu **…**.
 
 ## Anki
 

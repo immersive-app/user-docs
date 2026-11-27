@@ -87,7 +87,7 @@ Immersive remembers your text size, spacing, indent, aid density, theme, full sc
 
 ## Bookmarks
 
-The bookmark icon at the top of the reader (in the app, in the bar at the top of the screen) marks the document; the bookmark button on the Documents page then lists only your bookmarked documents.
+The bookmark icon at the top of the reader (in the app, in the bar at the top of the screen) marks the document; **Bookmarked only**, in the **…** menu at the top of the Documents page, then lists only your bookmarked documents.
 
 ## Questions
 

@@ -28,7 +28,9 @@ En un móvil, una barra al pie de la nota tiene **Anterior** y **Siguiente**, la
 
 ### Cambiar de idioma
 
-Una nota de A1 o A2 se abre en tu idioma, y una de B1 en adelante, en el idioma que aprendes. El selector junto al nivel y el área muestra los dos idiomas: toca uno para leer la nota en él. Tu elección se guarda: desde entonces todas las notas se abren en ese idioma, en todos los niveles, hasta que vuelvas a cambiar. Una nota sin traducción a tu idioma se abre en el idioma que aprendes. Leer la explicación en el idioma que aprendes es un buen reto una vez que el punto en sí ya no es nuevo.
+Una nota de A1 o A2 se abre en tu idioma, y una de B1 en adelante, en el idioma que aprendes. El selector está en los ajustes de la nota, que abre el botón redondo abajo a la derecha de la nota; muestra los dos idiomas: toca uno para leer la nota en él. Tu elección se guarda: desde entonces todas las notas se abren en ese idioma, en todos los niveles, hasta que vuelvas a cambiar. Una nota sin traducción a tu idioma se abre en el idioma que aprendes. Leer la explicación en el idioma que aprendes es un buen reto una vez que el punto en sí ya no es nuevo.
+
+Los ajustes de la nota también tienen el **Tamaño del texto**: la A pequeña y la A grande hacen el texto de la nota más pequeño o más grande.
 
 ### En tus idiomas
 

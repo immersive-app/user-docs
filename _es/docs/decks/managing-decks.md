@@ -61,7 +61,7 @@ Las etiquetas agrupan mazos entre carpetas. Añádelas al crear o editar un mazo
 
 ## Marcadores
 
-El icono del marcador en un mazo (en la lista o en la página del mazo) lo marca. El botón del marcador en la parte superior de la página de Mazos muestra entonces solo tus mazos marcados.
+El icono del marcador en un mazo (en la lista o en la página del mazo) lo marca. **Solo guardadas**, en el menú **…** de la parte superior de la página de Mazos, muestra entonces solo tus mazos marcados.
 
 ## Editar un mazo
 

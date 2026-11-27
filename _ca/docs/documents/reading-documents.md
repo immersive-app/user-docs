@@ -88,7 +88,7 @@ Immersive recorda la mida del text, l'interlineat, el sagnat, la densitat d'ajud
 
 ## Marcadors
 
-La icona del marcador a dalt del lector (a l'app, a la barra de dalt de la pantalla) marca el document; llavors, el botó del marcador de la pàgina de Documents llista només els documents marcats.
+La icona del marcador a dalt del lector (a l'app, a la barra de dalt de la pantalla) marca el document; llavors, **Només desades**, al menú **…** de dalt de la pàgina de Documents, llista només els documents marcats.
 
 ## Preguntes
 

@@ -60,7 +60,7 @@ Tags group decks across folders. Add them when creating or editing a deck; tappi
 
 ## Bookmarks
 
-The bookmark icon on a deck (in the list, or on the deck page) marks it. The bookmark button at the top of the Decks page then shows only your bookmarked decks.
+The bookmark icon on a deck (in the list, or on the deck page) marks it. **Bookmarked only**, in the **…** menu at the top of the Decks page, then shows only your bookmarked decks.
 
 ## Editing a deck
 

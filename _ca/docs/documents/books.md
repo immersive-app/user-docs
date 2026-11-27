@@ -14,7 +14,7 @@ Els llibres apareixen primer a la pàgina de **Documents**, sobre els teus docum
 
 ## Afegir un llibre
 
-1. A **Documents**, tria **Afegeix un llibre** a la secció **Llibres**. Al web, el botó **+** també ho ofereix.
+1. A **Documents**, tria **Afegeix un llibre** a la secció **Llibres**. El menú **…** de dalt de la pàgina també ho ofereix.
 2. **Puja un fitxer** (**Tria un fitxer**, o en un ordinador deixa'n anar un al quadre: EPUB, text, Markdown o PDF, fins a 25 MB), o **Enganxa un enllaç de Project Gutenberg**. Fes servir l'un o l'altre, no tots dos.
 3. **Títol** i **Autor** són opcionals. Si els deixes en blanc, surten del fitxer.
 4. **Afegeix el llibre**. S'obre la pàgina del llibre.

@@ -36,7 +36,7 @@ As you practise, each note, area, and level gets a mastery rating: **Not started
 ## What a note contains
 
 - An explanation of the point, written for learners, with example words and sentences you can tap for translation and audio.
-- The note is written in the language you are learning. When it has a translation in yours, a note at A1 or A2 opens in your language, and one from B1 up in the language you are learning; the switch beside the badges changes it, and your choice then holds for every note.
+- The note is written in the language you are learning. When it has a translation in yours, a note at A1 or A2 opens in your language, and one from B1 up in the language you are learning; the switch in the note's settings (the round button at the bottom right of the note) changes it, and your choice then holds for every note.
 - Exercises of several kinds, checked on the spot.
 - Your mastery of the note. Each exercise you answer becomes a review card, and each answer counts as a review.
 

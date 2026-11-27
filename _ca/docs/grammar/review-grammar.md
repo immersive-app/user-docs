@@ -28,7 +28,9 @@ En un mòbil, una barra al peu de la nota té **Anterior** i **Següent**, les n
 
 ### Canviar de llengua
 
-Una nota d'A1 o A2 s'obre en la teva llengua, i una de B1 amunt, en la llengua que aprens. El selector al costat del nivell i de l'àrea mostra les dues llengües: toca'n una per llegir-hi la nota. La teva tria es guarda: a partir d'aleshores totes les notes s'obren en aquella llengua, a tots els nivells, fins que tornis a canviar. Una nota sense traducció a la teva llengua s'obre en la llengua que aprens. Llegir l'explicació en la llengua que aprens és un bon repte un cop el punt en si ja no és nou.
+Una nota d'A1 o A2 s'obre en la teva llengua, i una de B1 amunt, en la llengua que aprens. El selector és a la configuració de la nota, que s'obre amb el botó rodó a baix a la dreta de la nota; mostra les dues llengües: toca'n una per llegir-hi la nota. La teva tria es guarda: a partir d'aleshores totes les notes s'obren en aquella llengua, a tots els nivells, fins que tornis a canviar. Una nota sense traducció a la teva llengua s'obre en la llengua que aprens. Llegir l'explicació en la llengua que aprens és un bon repte un cop el punt en si ja no és nou.
+
+La configuració de la nota també té la **Mida del text**: la A petita i la A gran fan el text de la nota més petit o més gran.
 
 ### En les teves llengües
 

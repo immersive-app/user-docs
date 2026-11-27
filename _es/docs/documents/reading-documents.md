@@ -88,7 +88,7 @@ Immersive recuerda tu tamaño de texto, tu interlineado, tu sangría, la densida
 
 ## Marcadores
 
-El icono del marcador en la parte superior del lector (en la app, en la barra de arriba de la pantalla) marca el documento; el botón del marcador en la página de Documentos lista entonces solo tus documentos marcados.
+El icono del marcador en la parte superior del lector (en la app, en la barra de arriba de la pantalla) marca el documento; **Solo guardadas**, en el menú **…** de la parte superior de la página de Documentos, lista entonces solo tus documentos marcados.
 
 ## Preguntas
 

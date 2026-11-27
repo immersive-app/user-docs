@@ -88,7 +88,7 @@ Immersive se souvient de votre taille de texte, de votre interligne, de votre al
 
 ## Favoris
 
-L'icône de signet en haut du lecteur (dans l'app, dans la barre en haut de l'écran) met le document en favori ; le bouton signet de la page Documents ne liste alors que vos documents favoris.
+L'icône de signet en haut du lecteur (dans l'app, dans la barre en haut de l'écran) met le document en favori ; **Favoris seulement**, dans le menu **…** en haut de la page Documents, ne liste alors que vos documents favoris.
 
 ## Questions
 
