@@ -103,4 +103,4 @@ Cuando hay tarjetas esperando, Immersive puede enviarte un correo cada mañana. 
 - [Crear mazos](creating-decks.md)
 - [Gestionar mazos](managing-decks.md)
 - [Pronunciación](pronunciation.md)
-- [Perfil y progreso](../profile.md): tus repasos alimentan las pestañas Actividad y Progreso
+- [Perfil y progreso](../profile.md): tus repasos alimentan las pestañas Inicio y Actividad

@@ -38,8 +38,8 @@ features:
     en tu propio idioma.
   link: "/es/docs/coach/"
 - title: Perfil y progreso
-  details: Dónde estás, tu actividad de estudio, tu vocabulario, tus profesores y
-    tu cuenta.
+  details: Lo siguiente que hacer, dónde estás, tu actividad de estudio, tu vocabulario
+    y tu cuenta.
   link: "/es/docs/profile/"
 ---
 
@@ -58,7 +58,7 @@ Lo encuentras por toda la aplicación:
 - Las páginas de verbos alinean la misma forma **en tus idiomas**.
 - El lector señala las palabras que puedes deducir de un idioma que conoces, y las ayudas se reducen a medida que sube tu nivel.
 - La [gramática de la lectura](docs/grammar/grammar-of-reading.md) trata solo los puntos en los que el idioma que aprendes difiere del tuyo.
-- Tu Perfil mide la comprensión y la producción por separado, porque la comprensión va por delante. La pestaña Progreso lo dice claramente: esa diferencia es el método funcionando.
+- Tu Perfil mide la comprensión y la producción por separado, porque la comprensión va por delante. **Dónde estás**, en Inicio, lo dice claramente: esa diferencia es el método funcionando.
 
 Las comparaciones entre idiomas están desactivadas hasta que las actives (ver [Perfil → Cuenta](docs/profile.md#cuenta)); la mayoría de la gente aprende un idioma a la vez.
 
@@ -80,7 +80,7 @@ Registrarte desbloquea las herramientas de aprendizaje:
 - **[Verbos](docs/verbs.md)**: tus mazos y tus propias frases en cada página de verbo, y comparaciones entre los idiomas que conoces.
 - **[Coach](docs/coach.md)**: haz preguntas sobre lo que estés viendo.
 - **[Vocabulario](docs/vocabulary.md)**: las palabras y frases que consultas, recogidas para ti; las palabras que tocas ya son tarjetas de un mazo.
-- **[Perfil y progreso](docs/profile.md)**: dónde estás, tu actividad de estudio, las evaluaciones con compañeros, el [acceso para profesores](docs/teachers.md) y tu cuenta.
+- **[Perfil y progreso](docs/profile.md)**: lo siguiente que hacer, dónde estás, tu actividad de estudio, las evaluaciones con compañeros y tu cuenta.
 
 Todo es gratuito durante la beta.
 
@@ -89,7 +89,7 @@ Todo es gratuito durante la beta.
 1. Elige **Registrarse**. La primera pantalla es tu **cuadrícula de idiomas**: para cada uno de los seis idiomas, marca **Lo hablo** o **Lo estoy aprendiendo** y elige tu nivel, desde A1 («Conozco algunas palabras y frases.») hasta C2 o **Nativo**. Si aprendes más de uno, usa **Establecer como idioma de aprendizaje** en el que quieras estudiar ahora. Elige un **Idioma de la interfaz** y pulsa **Continuar**.
 2. Rellena el formulario de la cuenta (nombre, apellido, correo electrónico y una contraseña de al menos 6 caracteres) y elige **Crear cuenta**.
 3. Abre el correo de confirmación y sigue su enlace. No puedes iniciar sesión hasta que la dirección esté confirmada.
-4. La primera vez que inicias sesión, Immersive vuelve a mostrar la cuadrícula de idiomas, ya rellenada, para que la compruebes. Pulsa **Confirmar** y llegas a **Perfil → Progreso**, con primeros pasos para probar.
+4. La primera vez que inicias sesión, Immersive vuelve a mostrar la cuadrícula de idiomas, ya rellenada, para que la compruebes. Pulsa **Confirmar** y llegas a **Inicio**, que te propone lo primero que hacer. Si no tienes claro tu nivel, elige en su lugar **¿No sabes tu nivel? Haz la prueba de nivel**: la cuadrícula se guarda igual, y la [prueba de nivel](docs/profile.md#prueba-de-nivel) fija tu nivel por ti. Se ofrece cuando el idioma que aprendes tiene una.
 
 O elige **Continuar con Apple** o **Continuar con Google** en la página de registro: tu Apple ID o tu cuenta de Google crea la cuenta, ya confirmada, y pasas directamente a la cuadrícula de idiomas. Ver [Tu cuenta](docs/account.md#iniciar-sesión).
 
@@ -99,7 +99,7 @@ Tus elecciones de idiomas importan: Immersive usa los idiomas que conoces para l
 
 ## Una primera sesión
 
-Después de la primera vez, iniciar sesión te lleva a la biblioteca de verbos, y la navegación te da toda la aplicación: **Mazos**, **Documentos**, **Gramática**, **Verbos** y **Perfil**. En un teléfono están en una barra de pestañas en la parte inferior de la pantalla. Ver [Navegación](docs/dashboard.md).
+Después de la primera vez, iniciar sesión te lleva a **Inicio**, y la navegación te da toda la aplicación: **Mazos**, **Documentos**, **Gramática**, **Verbos** e **Inicio**. En un teléfono están en una barra de pestañas en la parte inferior de la pantalla. Ver [Navegación](docs/dashboard.md).
 
 Un buen primer cuarto de hora:
 
