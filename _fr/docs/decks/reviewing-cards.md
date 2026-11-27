@@ -103,4 +103,4 @@ Quand des cartes attendent, Immersive peut vous envoyer un e-mail chaque matin. 
 - [Créer des paquets](creating-decks.md)
 - [Gérer les paquets](managing-decks.md)
 - [Prononciation](pronunciation.md)
-- [Profil et progression](../profile.md) : vos révisions alimentent les onglets Activité et Progression
+- [Profil et progression](../profile.md) : vos révisions alimentent les onglets Accueil et Activité
