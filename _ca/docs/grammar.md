@@ -26,7 +26,7 @@ En una pantalla més ampla (una tauleta o un ordinador):
 - **On ets**: «Comença a A2» fins que comences, després «Treballant a B1», amb un botó: **Repassa** per a les targetes de gramàtica pendents, o **Practica** per començar-ne de noves. Vegeu [Pràctica de gramàtica](grammar/grammar-practice.md).
 - **Per nivell i àrea**: una fila per nivell, de l'A1 al C1, amb una casella per àrea ombrejada segons el teu domini, i quantes targetes són pendents.
 
-En tots dos casos, obre un nivell per veure'n les àrees («Verbs», «Pronoms»...), i una àrea per veure'n les notes. La pàgina d'un nivell o d'una àrea ofereix **Practica-ho tot**, que crea targetes per a totes les seves notes i comença un repàs; a la pàgina d'un nivell, cada àrea té el seu **Practica**.
+En tots dos casos, obre un nivell per veure'n les àrees («Verbs», «Pronoms»...), i una àrea per veure'n les notes. La pàgina d'un nivell o d'una àrea ofereix **Practica-ho tot**, que crea targetes per a totes les seves notes i comença un repàs; a la pàgina d'un nivell, cada àrea té el seu **Practica**. **Posa't a prova**, a aquestes mateixes pàgines, és un test de fins a deu preguntes sobre el nivell o l'àrea, que es comproven totes alhora (vegeu [Posa't a prova](grammar/grammar-practice.md#posat-a-prova)).
 
 La **cerca** a dalt troba notes per paraula clau; el botó del marcador mostra només les notes marcades.
 
@@ -65,5 +65,5 @@ Vegeu [La gramàtica de la lectura](grammar/grammar-of-reading.md).
 ## En aquesta secció
 
 - [Llegir notes gramaticals](grammar/review-grammar.md): trobar una nota, llegir-la i els exercicis.
-- [Pràctica de gramàtica](grammar/grammar-practice.md): targetes de pràctica i repassos de gramàtica.
+- [Pràctica de gramàtica](grammar/grammar-practice.md): targetes de pràctica, repassos de gramàtica i tests.
 - [La gramàtica de la lectura](grammar/grammar-of-reading.md): com difereix de la teva la llengua que aprens.

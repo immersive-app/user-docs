@@ -1,32 +1,36 @@
 ---
 title: Profile & Progress
-description: Your progress, activity, evaluations, vocabulary, coach chats, teachers, and account settings.
+description: Home, with what to do next and where you stand, then your activity, evaluations, vocabulary, and account settings.
 nav_order: 9
 ---
 
 # Profile & Progress
 
-Your Profile is the command centre for everything about you as a learner: where you stand, what you have done, the words you have collected, your chats with the coach, the people you study with, and your account itself. Open **Profile** from the navigation — it remembers which tab you used last. The tabs are **Progress**, **Activity**, **Evaluate**, **Vocabulary**, **Coach**, **Teachers**, and **Account**.
+Your Profile is the command centre for everything about you as a learner: what to do next, where you stand, what you have done, the words you have collected, and your account itself. Open **Profile** from the navigation — it remembers which tab you used last. The tabs are **Home**, **Activity**, **Evaluate**, **Vocabulary**, and **Account**.
 
 ---
 
-## Progress
+## Home
 
-**Where you stand.** Immersive tracks **comprehension** and **production** separately, because understanding legitimately runs ahead of speaking and writing — that gap is the method working, not a problem. **Comprehension** shows the level you gave yourself at sign-up, with the evidence gathering under it for Reading and Listening. **Production** shows the middle grade of your corrected writing, with the evidence for Writing and Speaking (graded writing, evaluations from classmates).
+Home puts the one thing to do now at the top, then what is waiting, then where you stand.
 
-**By domain.** Rollups for each area — your decks (cards mastered, learning, new, and due now), your grammar (working level, notes started, mastery, and cards due), your documents, your vocabulary, and your graded writing. The rows for decks, grammar, documents, and vocabulary open their section.
+- **At the top**, the next step. With cards due in your decks, it counts them ("3 cards are due"), names the deck with the most, and offers **Start review**. With nothing due, it says **All caught up**, and **Continue** opens the grammar note to carry on with; while you are new, it says "Start at B1" ("Start from A1" until you set a level), and **Start** opens the first note. Due grammar exercises are not counted here: **Continue** leads to the note they are on. Under it, your level ("Level **B1**, set by you"), with **Change**.
+- **Set your level**, until you have one: tap the level that sounds like you, or **Take the level test** where the language has one. A test left unfinished is offered again, with **Resume the test**.
+- **Reading**: the book or text you are reading (**Continue reading**), and the next Library text at your level, with **Start**. With neither, **Browse** leads to the Library.
+- **Grammar by level**: each level with your mastery and its due grammar cards, and each of its areas shaded by your mastery. On a phone, tap a level to show its areas, with **Open B1** and **Test yourself on B1**; on a wider screen, the areas are all shown, and the button with a tick beside a level's mastery is its quiz (see [Test yourself](grammar/grammar-practice.md#test-yourself)).
+- **Decks due**: up to five decks with cards due, most first, and **All decks**. With none due, it says **Nothing due in your decks**; with no deck yet, **Start with a ready-made deck** leads to the Library.
+- **This week**, once you have cards, documents, or vocabulary: the days you studied in the last seven, and the week's sessions, time studied, and reviews. A count, never a streak: a day off loses nothing.
 
-**Up next.** What is actually waiting: due cards to review, due grammar cards, words from this week not yet in a deck. When nothing is waiting, it says so.
+**Where you stand**, likewise once you have begun. Immersive tracks **comprehension** and **production** separately, because understanding legitimately runs ahead of speaking and writing — that gap is the method working, not a problem. **Comprehension** shows the level you gave yourself, with the evidence gathering under it for Reading and Listening. **Production** shows the middle grade of your corrected writing, with the evidence for Writing and Speaking (graded writing, evaluations from classmates).
 
 **Languages.** The language you are learning first, with its level (**Level not set** until you choose one), then the languages you speak, with **Edit** to change them. Comparisons and hints use these.
-
-Until you have cards, documents, or vocabulary, the tab shows **First steps** instead: your starting level from sign-up and up to three concrete actions — open your first deck, read something at your level, and read your first grammar note.
 
 ## Activity
 
 Your study, added up — effort only, never judgement:
 
 - **This week** and **All time**: sessions, time studied, and reviews.
+- **By domain**: a row for each area — your decks (cards mastered, learning, new, and due today), your grammar (working level, notes started, notes fluent, and cards due now), your documents, your vocabulary, and your graded writing. The rows for decks, grammar, documents, and vocabulary open their section.
 - A **heatmap** of the last 12 months: one square per day, darker meaning more study, with your total study days, longest run, and current run.
 - The **study log**: your sessions and reviews, day by day, filterable by kind of activity, with a full log available.
 
@@ -37,25 +41,11 @@ After studying with a classmate, you can trade quick evaluations — one overall
 - **Show my code** shows your code as a QR code, with the code itself underneath. Your classmate scans the QR code with their phone's camera, or types the code. Codes last 10 minutes and work once.
 - To evaluate a classmate, scan the QR code on their screen with your phone's camera, or choose **Enter a code** and type it. Then pick an impression, add a sentence if you like, and send.
 
-Evaluations you give and receive are listed on the tab, and spoken evaluations count as evidence on your Progress tab.
+Evaluations you give and receive are listed on the tab, and spoken evaluations count as evidence under **Where you stand** on Home.
 
 ## Vocabulary
 
 The words and sentences you have collected while studying, searchable and filterable. The words you tap and the entries you save are cards in your **My vocabulary** deck, with **Study** at the top of the tab. See [Vocabulary](vocabulary.md).
-
-## Coach
-
-Your chats with the coach, newest first, each labelled with what it was about. Open one to read it again, or delete it. See [Coach](coach.md).
-
-## Teachers
-
-If you study with a teacher, you can let them follow your progress — on your terms:
-
-1. Choose **Create access code** and pick exactly what it unlocks: Progress, Activity, and/or Vocabulary.
-2. Set an expiry (a week, a month, end of term, or none) and hand the code to your teacher.
-3. They claim it and see the parts you chose — read-only, never your account details.
-
-**Revoke** any teacher's access at any time; it ends immediately. Unclaimed codes can be cancelled, and lapse after seven days. See [Teachers](teachers.md) for the details and what your teacher sees.
 
 ## Account
 
@@ -82,7 +72,6 @@ Everything administrative lives here:
 - [Vocabulary](vocabulary.md)
 - [Reviewing cards](decks/reviewing-cards.md)
 - [Coach](coach.md)
-- [Teachers](teachers.md)
 - [Your account](account.md)
 - [Getting started](../index.md)
 - [Language varieties](language-varieties.md)

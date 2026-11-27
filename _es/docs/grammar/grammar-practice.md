@@ -1,6 +1,6 @@
 ---
 title: Práctica de gramática
-description: Convierte las notas de gramática en tarjetas de repaso, y repásalas por nota, área o nivel en los modos Leer, Escribir y Elegir.
+description: Convierte las notas de gramática en tarjetas de repaso, repásalas por nota, área o nivel en los modos Leer, Escribir y Elegir, y ponte a prueba en un nivel o un área.
 parent: Gramática
 nav_order: 2
 lang: es
@@ -42,9 +42,23 @@ Immersive recuerda el modo que usas para la gramática por separado de tus repas
 
 Si aún no tienes tarjetas de gramática, la página de repaso dice **Aún no hay tarjetas** y sugiere notas para probar. Cuando hay tarjetas pero ninguna está pendiente, dice cuándo llega la próxima. En los dos casos ofrece las notas recomendadas, **Explorar** tu nivel y **Volver a Gramática**.
 
+## Ponte a prueba
+
+Un test repasa de una vez todo un nivel o toda un área. **Ponte a prueba** está en la página de un nivel y en la de un área, debajo de su botón principal, cuando hay algo que preguntarte. Donde la gramática se muestra por niveles (**Por nivel y área** en la página de Gramática, en una pantalla más ancha; **Gramática por nivel** en [Perfil → Inicio](../profile.md#inicio)), cada nivel tiene también su **Ponte a prueba en B1**: el botón con una marca de verificación junto al dominio del nivel o, en un móvil, el enlace junto a **Abrir B1** al desplegar el nivel.
+
+Un test tiene hasta diez preguntas en una sola página. Son tus propias tarjetas de gramática de las notas del nivel o del área: una nota por pregunta mientras haya notas suficientes, con tipos de ejercicio variados. Si de una nota aún no tienes tarjetas, el test las crea primero en **Práctica de gramática**, como hace **Practicar**. Las preguntas de opciones se responden eligiendo una; las demás, escribiendo la respuesta. Durante el test no hay pistas ni coach.
+
+Responde a todas y elige **Comprobar todo**. La página muestra entonces:
+
+- tu resultado («7 de 10 correctas») y **Repetir el test**, que saca un test nuevo;
+- **Por nota**: cada nota sobre la que preguntaba el test, cuántas de sus preguntas acertaste («1 de 2») y tu dominio de esa nota ahora; el título abre la nota;
+- cada pregunta con la respuesta que diste: **Correcto**, o bien **Incorrecto** o **Sin respuesta** con la respuesta correcta («Respuesta: …»).
+
+Cada respuesta cuenta como un repaso de su tarjeta, calificado como en un repaso de gramática, y una pregunta en blanco cuenta como fallada. Así, un test mueve tu dominio y el calendario de las tarjetas como cualquier repaso, y las tarjetas vuelven después en tus repasos de gramática. Un test se comprueba una sola vez: enviarlo de nuevo no cambia nada.
+
 ## Tu situación
 
-Cada repaso actualiza tu dominio de la nota, de su área y de su nivel, que se muestra en la página de Gramática y en cada nota. Las tarjetas de gramática pendientes también aparecen en **A continuación**, en [Perfil → Progreso](../profile.md#progreso).
+Cada repaso actualiza tu dominio de la nota, de su área y de su nivel, que se muestra en la página de Gramática y en cada nota. En [Perfil → Inicio](../profile.md#inicio), **Gramática por nivel** muestra tu dominio de cada nivel y cuántas de sus tarjetas de gramática están pendientes.
 
 ## Más lectura
 

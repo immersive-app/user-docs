@@ -26,7 +26,7 @@ Su uno schermo più largo (un tablet o un computer):
 - **A che punto sei**: «Inizia da A2» finché non cominci, poi «Stai lavorando su B1», con un pulsante per **Ripassa** le carte di grammatica da ripassare o **Esercitati** su quelle nuove. Vedi [Pratica di grammatica](grammar/grammar-practice.md).
 - **Per livello e area**: una riga per ogni livello, da A1 a C1, con una casella per ogni area colorata secondo la tua padronanza, e quante carte sono da ripassare.
 
-In entrambi i casi, apri un livello per vederne le aree («Verbi», «Pronomi»...), e un'area per vederne le note. La pagina di un livello o di un'area offre **Pratica tutto**, che crea carte per tutte le sue note e avvia un ripasso; nella pagina di un livello, ogni area ha il suo **Pratica**.
+In entrambi i casi, apri un livello per vederne le aree («Verbi», «Pronomi»...), e un'area per vederne le note. La pagina di un livello o di un'area offre **Pratica tutto**, che crea carte per tutte le sue note e avvia un ripasso; nella pagina di un livello, ogni area ha il suo **Pratica**. **Mettiti alla prova**, nelle stesse pagine, è un test di dieci domande al massimo sul livello o sull'area, verificate tutte insieme (vedi [Mettiti alla prova](grammar/grammar-practice.md#mettiti-alla-prova)).
 
 La **ricerca** in alto trova le note per parola chiave; il pulsante del segnalibro mostra solo le note che hai salvato tra i segnalibri.
 
@@ -65,5 +65,5 @@ Vedi [La grammatica della lettura](grammar/grammar-of-reading.md).
 ## In questa sezione
 
 - [Leggere le note grammaticali](grammar/review-grammar.md): trovare una nota, leggerla e fare gli esercizi.
-- [Pratica di grammatica](grammar/grammar-practice.md): carte di pratica e ripassi di grammatica.
+- [Pratica di grammatica](grammar/grammar-practice.md): carte di pratica, ripassi di grammatica e test.
 - [La grammatica della lettura](grammar/grammar-of-reading.md): come la lingua che stai imparando differisce dalle tue.

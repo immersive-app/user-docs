@@ -1,6 +1,6 @@
 ---
 title: Prática de gramática
-description: Transforme notas de gramática em cartões de revisão e reveja-os por nota, área ou nível, nos modos Ler, Escrever e Escolher.
+description: Transforme notas de gramática em cartões de revisão, reveja-os por nota, área ou nível, nos modos Ler, Escrever e Escolher, e teste-se num nível ou numa área.
 parent: Gramática
 nav_order: 2
 lang: pt
@@ -42,9 +42,23 @@ O Immersive lembra-se do modo que usa na gramática separadamente das revisões 
 
 Sem cartões de gramática ainda, a página de revisão diz **Ainda sem cartões** e sugere notas para experimentar. Quando há cartões mas nenhum está para rever, diz quando chega o próximo. Em ambos os casos, oferece as notas recomendadas, **Ver** o seu nível e **Voltar à gramática**.
 
+## Teste-se
+
+Um teste avalia de uma só vez um nível ou uma área inteira. **Teste-se** está na página de um nível e na de uma área, por baixo do botão principal, quando há alguma coisa para lhe perguntar. Onde a gramática aparece por nível (**Por nível e área** na página Gramática, num ecrã mais largo; **Gramática por nível** em [Perfil → Início](../profile.md#início)), cada nível tem também o seu **Teste-se no B1**: o botão com um visto ao lado do domínio do nível ou, num telemóvel, a ligação ao lado de **Abrir B1** quando abre o nível.
+
+Um teste tem até dez perguntas, todas numa página. São os seus próprios cartões de gramática das notas do nível ou da área: uma nota por pergunta enquanto houver notas suficientes, com tipos de exercício variados. Para uma nota de que ainda não tem cartões, o teste cria-os primeiro em **Prática de gramática**, como faz **Praticar**. Às perguntas de escolha responde escolhendo uma opção, e às outras escrevendo a resposta. Durante o teste não há dicas nem coach.
+
+Responda a todas e escolha **Verificar tudo**. A página mostra então:
+
+- a sua pontuação («7 de 10 certas») e **Repetir o teste**, que tira um teste novo;
+- **Por nota**: cada nota sobre a qual o teste perguntou, quantas das suas perguntas acertou («1 de 2») e o seu domínio dessa nota agora; o título abre a nota;
+- cada pergunta com a resposta que deu: **Correto**, ou então **Incorreto** ou **Sem resposta** com a resposta certa («Resposta: …»).
+
+Cada resposta conta como uma revisão do respetivo cartão, classificada como numa revisão de gramática, e uma pergunta deixada em branco conta como errada. Assim, um teste faz avançar o seu domínio e o calendário dos cartões como qualquer revisão, e os cartões voltam depois nas suas revisões de gramática. Um teste só é verificado uma vez: enviá-lo de novo não muda nada.
+
 ## A sua situação
 
-Cada revisão atualiza o seu domínio da nota, da área e do nível, que aparece na página Gramática e em cada nota. Os cartões de gramática para rever também aparecem em **A seguir**, em [Perfil → Progresso](../profile.md#progresso).
+Cada revisão atualiza o seu domínio da nota, da área e do nível, que aparece na página Gramática e em cada nota. Em [Perfil → Início](../profile.md#início), **Gramática por nível** mostra o seu domínio de cada nível e quantos dos seus cartões de gramática estão por rever.
 
 ## Para saber mais
 

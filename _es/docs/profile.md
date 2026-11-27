@@ -1,33 +1,37 @@
 ---
 title: Perfil y progreso
-description: Tu progreso, actividad, evaluaciones, vocabulario, chats con el coach, profesores y ajustes de la cuenta.
+description: Inicio, con lo siguiente que hacer y dónde estás, y luego tu actividad, evaluaciones, vocabulario y ajustes de la cuenta.
 nav_order: 9
 lang: es
 ---
 
 # Perfil y progreso
 
-Tu Perfil es el centro de mando de todo lo que te concierne como estudiante: dónde estás, qué has hecho, las palabras que has recogido, tus chats con el coach, las personas con las que estudias y tu propia cuenta. Abre **Perfil** desde la navegación — recuerda la última pestaña que usaste. Las pestañas son **Progreso**, **Actividad**, **Evaluar**, **Vocabulario**, **Coach**, **Profesores** y **Cuenta**.
+Tu Perfil es el centro de mando de todo lo que te concierne como estudiante: qué hacer ahora, dónde estás, qué has hecho, las palabras que has recogido y tu propia cuenta. Abre **Perfil** desde la navegación — recuerda la última pestaña que usaste. Las pestañas son **Inicio**, **Actividad**, **Evaluar**, **Vocabulario** y **Cuenta**.
 
 ---
 
-## Progreso
+## Inicio
 
-**Dónde estás.** Immersive mide la **comprensión** y la **producción** por separado, porque entender va legítimamente por delante de hablar y escribir — esa diferencia es el método funcionando, no un problema. **Comprensión** muestra el nivel que te diste en el registro, con la evidencia que se va acumulando debajo para Lectura y Escucha. **Producción** muestra la calificación mediana de tu escritura corregida, con la evidencia para Escritura y Habla (escritura calificada, evaluaciones de compañeros).
+Inicio pone arriba lo único que toca hacer ahora, luego lo que te espera y después dónde estás.
 
-**Por área.** Resúmenes de cada zona — tus mazos (tarjetas dominadas, en aprendizaje, nuevas y pendientes ahora), tu gramática (nivel de trabajo, notas empezadas, dominio y tarjetas pendientes), tus documentos, tu vocabulario y tu escritura calificada. Las filas de mazos, gramática, documentos y vocabulario abren su sección.
+- **Arriba**, el siguiente paso. Si tienes tarjetas pendientes en tus mazos, las cuenta («Tienes 3 tarjetas pendientes»), nombra el mazo que más tiene y ofrece **Empezar a repasar**. Si no hay nada pendiente, dice **Todo al día**, y **Continuar** abre la nota de gramática por la que seguir; mientras estás empezando, dice «Empieza en B1» («Empieza desde A1» hasta que indiques tu nivel), y **Empezar** abre la primera nota. Los ejercicios de gramática pendientes no se cuentan aquí: **Continuar** lleva a la nota en la que están. Debajo, tu nivel («Nivel **B1**, indicado por ti»), con **Cambiar**.
+- **Indica tu nivel**, hasta que tengas uno: toca el nivel que mejor te describa, o **Hacer la prueba de nivel** si el idioma tiene una. Una prueba empezada y sin terminar se te vuelve a ofrecer, con **Seguir con la prueba**.
+- **Lectura**: el libro o el texto que estás leyendo (**Seguir leyendo**), y el siguiente texto de la biblioteca de tu nivel, con **Empezar**. Si no hay ninguno de los dos, **Explorar** lleva a la biblioteca.
+- **Gramática por nivel**: cada nivel con tu dominio y sus tarjetas de gramática pendientes, y cada una de sus áreas sombreada según tu dominio. En un móvil, toca un nivel para ver sus áreas, con **Abrir B1** y **Ponte a prueba en B1**; en una pantalla más ancha se ven todas las áreas, y el botón con una marca de verificación junto al dominio de un nivel abre su test (ver [Ponte a prueba](grammar/grammar-practice.md#ponte-a-prueba)).
+- **Mazos pendientes**: hasta cinco mazos con tarjetas pendientes, primero el que más tiene, y **Todos los mazos**. Si ninguno tiene nada pendiente, dice **Nada pendiente en tus mazos**; si aún no tienes ningún mazo, **Empieza con un mazo ya hecho** lleva a la biblioteca.
+- **Esta semana**, en cuanto tengas tarjetas, documentos o vocabulario: los días que estudiaste de los últimos siete, y las sesiones, el tiempo de estudio y los repasos de la semana. Una cuenta, nunca una racha: un día libre no te hace perder nada.
 
-**A continuación.** Lo que de verdad está esperando: tarjetas pendientes por repasar, tarjetas de gramática pendientes, palabras de esta semana que aún no están en un mazo. Cuando no hay nada esperando, lo dice.
+**Dónde estás**, también en cuanto hayas empezado. Immersive mide la **comprensión** y la **producción** por separado, porque entender va legítimamente por delante de hablar y escribir — esa diferencia es el método funcionando, no un problema. **Comprensión** muestra el nivel que te diste, con la evidencia que se va acumulando debajo para Lectura y Escucha. **Producción** muestra la calificación mediana de tu escritura corregida, con la evidencia para Escritura y Habla (escritura calificada, evaluaciones de compañeros).
 
 **Idiomas.** Primero el idioma que estás aprendiendo, con su nivel (**Nivel sin definir** hasta que elijas uno), y luego los idiomas que hablas, con **Editar** para cambiarlos. Las comparaciones y las pistas los usan.
-
-Hasta que tengas tarjetas, documentos o vocabulario, la pestaña muestra en su lugar **Primeros pasos**: tu nivel de partida del registro y hasta tres acciones concretas — abre tu primer mazo, lee algo de tu nivel y lee tu primera nota de gramática.
 
 ## Actividad
 
 Tu estudio, sumado — solo esfuerzo, nunca juicio:
 
 - **Esta semana** y **Desde el principio**: sesiones, tiempo estudiado y repasos.
+- **Por área**: una fila por área — tus mazos (tarjetas dominadas, en aprendizaje, nuevas y pendientes), tu gramática (nivel de trabajo, notas empezadas, notas fluidas y tarjetas pendientes), tus documentos, tu vocabulario y tu escritura calificada. Las filas de mazos, gramática, documentos y vocabulario abren su sección.
 - Un **mapa de calor** de los últimos 12 meses: un cuadrado por día, más oscuro cuanto más estudio, con tu total de días de estudio, tu racha más larga y tu racha actual.
 - El **registro de estudio**: tus sesiones y repasos, día a día, que puedes filtrar por tipo de actividad, con un registro completo disponible.
 
@@ -38,25 +42,11 @@ Después de estudiar con un compañero, podéis intercambiar evaluaciones rápid
 - **Mostrar mi código** muestra tu código como un código QR, con el código debajo. Tu compañero escanea el código QR con la cámara de su teléfono, o escribe el código. Los códigos duran 10 minutos y sirven una vez.
 - Para evaluar a un compañero, escanea el código QR de su pantalla con la cámara de tu teléfono, o elige **Introducir un código** y escríbelo. Después elige una impresión, añade una frase si quieres y envíala.
 
-Las evaluaciones que das y recibes se listan en la pestaña, y las evaluaciones de habla cuentan como evidencia en tu pestaña de Progreso.
+Las evaluaciones que das y recibes se listan en la pestaña, y las evaluaciones de habla cuentan como evidencia en **Dónde estás**, en Inicio.
 
 ## Vocabulario
 
 Las palabras y frases que has recogido mientras estudias, con búsqueda y filtros. Las palabras que tocas y las entradas que guardas son tarjetas de tu mazo **Mi vocabulario**, con **Estudiar** en la parte superior de la pestaña. Ver [Vocabulario](vocabulary.md).
-
-## Coach
-
-Tus chats con el coach, del más reciente al más antiguo, cada uno etiquetado con aquello de lo que trataba. Abre uno para volver a leerlo, o elimínalo. Ver [Coach](coach.md).
-
-## Profesores
-
-Si estudias con un profesor, puedes dejar que siga tu progreso — en tus términos:
-
-1. Elige **Crear código de acceso** y selecciona exactamente qué desbloquea: Progreso, Actividad y/o Vocabulario.
-2. Establece una caducidad (una semana, un mes, fin del trimestre o ninguna) y entrégale el código a tu profesor.
-3. Lo reclama y ve las partes que elegiste — solo lectura, nunca los detalles de tu cuenta.
-
-**Revoca** el acceso de cualquier profesor en cualquier momento; termina inmediatamente. Los códigos sin reclamar se pueden cancelar, y caducan a los siete días. Ver [Profesores](teachers.md) para los detalles y lo que ve tu profesor.
 
 ## Cuenta
 
@@ -84,7 +74,6 @@ Todo lo administrativo vive aquí:
 - [Vocabulario](vocabulary.md)
 - [Repasar tarjetas](decks/reviewing-cards.md)
 - [Coach](coach.md)
-- [Profesores](teachers.md)
 - [Tu cuenta](account.md)
 - [Primeros pasos](../index.md)
 - [Variedades de idioma](language-varieties.md)

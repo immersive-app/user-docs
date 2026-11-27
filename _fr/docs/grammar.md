@@ -26,7 +26,7 @@ Sur un écran plus large (une tablette ou un ordinateur) :
 - **Où vous en êtes** : « Commencez au niveau A2 » tant que vous n'avez pas commencé, puis « Vous travaillez le niveau B1 », avec un bouton pour **Réviser** les cartes de grammaire à revoir ou **S'entraîner** sur de nouvelles. Voir [Pratique de grammaire](grammar/grammar-practice.md).
 - **Par niveau et domaine** : une ligne par niveau, de A1 à C1, avec une case par domaine teintée selon votre maîtrise, et le nombre de cartes à revoir.
 
-Dans les deux cas, ouvrez un niveau pour voir ses domaines (« Verbes », « Pronoms »...), et un domaine pour voir ses notes. La page d'un niveau ou d'un domaine propose **Tout pratiquer**, qui crée des cartes pour chacune de ses notes et lance une révision ; sur la page d'un niveau, chaque domaine a son propre **Pratiquer**.
+Dans les deux cas, ouvrez un niveau pour voir ses domaines (« Verbes », « Pronoms »...), et un domaine pour voir ses notes. La page d'un niveau ou d'un domaine propose **Tout pratiquer**, qui crée des cartes pour chacune de ses notes et lance une révision ; sur la page d'un niveau, chaque domaine a son propre **Pratiquer**. **Testez-vous**, sur ces mêmes pages, lance un test de dix questions au plus sur le niveau ou le domaine, vérifiées toutes ensemble (voir [Testez-vous](grammar/grammar-practice.md#testez-vous)).
 
 La **recherche** en haut trouve des notes par mot-clé ; le bouton signet n'affiche que vos notes favorites.
 
@@ -65,5 +65,5 @@ Voir [La grammaire de la lecture](grammar/grammar-of-reading.md).
 ## Dans cette section
 
 - [Lire les notes de grammaire](grammar/review-grammar.md) : trouver une note, la lire et faire les exercices.
-- [Pratique de grammaire](grammar/grammar-practice.md) : les cartes d'entraînement et les révisions de grammaire.
+- [Pratique de grammaire](grammar/grammar-practice.md) : les cartes d'entraînement, les révisions de grammaire et les tests.
 - [La grammaire de la lecture](grammar/grammar-of-reading.md) : en quoi la langue que vous apprenez diffère des vôtres.

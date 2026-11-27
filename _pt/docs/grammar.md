@@ -26,7 +26,7 @@ Num ecrã mais largo (um tablet ou um computador):
 - **Onde está**: «Comece em A2» até começar, depois «A trabalhar em B1», com um botão para **Rever** os cartões de gramática pendentes ou **Praticar** cartões novos. Ver [Prática de gramática](grammar/grammar-practice.md).
 - **Por nível e área**: uma linha por nível, de A1 a C1, com uma casa por área sombreada conforme o seu domínio, e quantos cartões estão pendentes.
 
-Nos dois casos, abra um nível para ver as suas áreas («Verbos», «Pronomes»...), e uma área para ver as suas notas. A página de um nível ou de uma área oferece **Praticar tudo**, que cria cartões para todas as suas notas e começa uma revisão; na página de um nível, cada área tem o seu próprio **Praticar**.
+Nos dois casos, abra um nível para ver as suas áreas («Verbos», «Pronomes»...), e uma área para ver as suas notas. A página de um nível ou de uma área oferece **Praticar tudo**, que cria cartões para todas as suas notas e começa uma revisão; na página de um nível, cada área tem o seu próprio **Praticar**. **Teste-se**, nessas mesmas páginas, é um teste de até dez perguntas sobre o nível ou a área, verificadas todas de uma vez (ver [Teste-se](grammar/grammar-practice.md#teste-se)).
 
 A **pesquisa** no topo encontra notas por palavra-chave; o botão do marcador mostra apenas as notas que marcou.
 
@@ -65,5 +65,5 @@ Ver [A gramática da leitura](grammar/grammar-of-reading.md).
 ## Nesta secção
 
 - [Ler notas de gramática](grammar/review-grammar.md): encontrar uma nota, lê-la e fazer os exercícios.
-- [Prática de gramática](grammar/grammar-practice.md): cartões de prática e revisões de gramática.
+- [Prática de gramática](grammar/grammar-practice.md): cartões de prática, revisões de gramática e testes.
 - [A gramática da leitura](grammar/grammar-of-reading.md): onde a língua que está a aprender difere das suas.

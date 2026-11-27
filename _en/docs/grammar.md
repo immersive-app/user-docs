@@ -25,7 +25,7 @@ On a wider screen (a tablet or a computer):
 - **Where you stand**: "Start at A2" until you begin, then "Working at B1", with a button to **Review** the grammar cards that are due or to **Practice** new ones. See [Grammar practice](grammar/grammar-practice.md).
 - **By level and area**: a row for each level from A1 to C1, with a cell for each area shaded by your mastery, and how many cards are due.
 
-Either way, open a level to see its areas ("Verbs", "Pronouns"...), and an area to see its notes. A level or area page offers **Practise all**, which makes cards for every note in it and starts a review; on a level page, each area has its own **Practise**.
+Either way, open a level to see its areas ("Verbs", "Pronouns"...), and an area to see its notes. A level or area page offers **Practise all**, which makes cards for every note in it and starts a review; on a level page, each area has its own **Practise**. **Test yourself** there is a quiz of up to ten questions on the level or area, checked all at once (see [Test yourself](grammar/grammar-practice.md#test-yourself)).
 
 **Search** at the top finds notes by keyword; the bookmark button shows only your bookmarked notes.
 
@@ -64,5 +64,5 @@ See [The grammar of reading](grammar/grammar-of-reading.md).
 ## In this section
 
 - [Reading grammar notes](grammar/review-grammar.md): finding a note, reading it, and the exercises.
-- [Grammar practice](grammar/grammar-practice.md): practice cards and grammar reviews.
+- [Grammar practice](grammar/grammar-practice.md): practice cards, grammar reviews, and quizzes.
 - [The grammar of reading](grammar/grammar-of-reading.md): how the language you are learning differs from yours.
