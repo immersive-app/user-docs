@@ -23,9 +23,10 @@ Los verbos son la maquinaria de la frase, e Immersive les dedica una sección de
 
 Con una cuenta, las páginas de verbos hacen más:
 
-- **A través de tus idiomas**: en la página de una forma, el mismo tiempo y la misma persona alineados en cada idioma que conoces, con los idiomas más parecidos uno junto al otro. **Añadir una tarjeta de comparación** lo convierte en una tarjeta de repaso.
+- **A través de tus idiomas**: en la página de una forma, el mismo tiempo y la misma persona alineados en cada idioma que conoces, con los idiomas más parecidos uno junto al otro.
 - **En tus mazos** y **En tus frases**: los mazos que contienen el verbo, con las tarjetas pendientes, y las frases de tus documentos y tu vocabulario que lo usan.
-- **Añadir a un mazo**: abre el selector de verbos de uno de tus mazos con el verbo seleccionado.
+- **Añadir a un mazo**: añade el verbo a uno de tus mazos de verbos, o empieza un mazo de verbos nuevo con él.
+- **Gramática** junto al nombre de un tiempo: la nota de gramática que enseña ese tiempo.
 - **Mostrar solo tus verbos**: un filtro de la lista de verbos para los verbos que ya están en tus mazos.
 - **Pronombre**: elige cómo se muestran las formas de tercera persona (por ejemplo *il*, *elle* o los dos).
 - Un verbo que aún no tiene tablas se conjuga la primera vez que lo abre alguien con la sesión iniciada.

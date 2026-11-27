@@ -11,7 +11,7 @@ Un cop has iniciat sessió, tot a Immersive és a un o dos tocs de distància. A
 
 ## On arribes
 
-El primer cop que inicies sessió, passes per la comprovació d'idiomes i després arribes a **Perfil → Progrés** (vegeu [Primers passos](../index.md)). Després, iniciar sessió et porta a la **biblioteca de verbs**, la pàgina d'inici d'Immersive. El logotip d'Immersive també t'hi torna.
+El primer cop que inicies sessió, passes per la comprovació d'idiomes. Després, **Confirma** et porta a l'**Inici** o, si has triat **No saps el teu nivell? Fes la prova de nivell**, primer a la [prova de nivell](profile.md#prova-de-nivell) (vegeu [Primers passos](../index.md#crear-un-compte)). A partir d'aleshores, iniciar sessió també et porta a l'**Inici**, o a la pàgina que anaves a obrir quan Immersive et va demanar que iniciessis sessió. El logotip d'Immersive porta a la **biblioteca de verbs**.
 
 ## Les pestanyes
 
@@ -21,7 +21,7 @@ En un ordinador o una tauleta, les pestanyes són a la part superior de la pàgi
 - **Documents**: els textos que estàs llegint o escrivint, més la Biblioteca de documents. Vegeu [Documents](documents.md).
 - **Gramàtica**: notes per nivell MECR, pràctica i la gramàtica de la lectura. Vegeu [Gramàtica](grammar.md).
 - **Verbs**: taules de conjugació, àudio i frases d'exemple. Vegeu [Verbs](verbs.md).
-- **Perfil**: el teu progrés, activitat, avaluacions, vocabulari, xats amb el coach, professors i compte. Vegeu [Perfil i progrés](profile.md).
+- **Inici**: el teu Perfil, obert a la pestanya Inici, amb el que cal fer ara i on ets; les altres pestanyes són **Activitat**, **Avaluar**, **Vocabulari** i **Compte**. Vegeu [Perfil i progrés](profile.md).
 
 La pestanya de la secció on ets queda ressaltada.
 
@@ -35,7 +35,7 @@ La teva foto de perfil és al final de la barra de navegació. En seleccionar-la
 
 ## El botó del coach
 
-A la part inferior de les pàgines amb la barra de navegació hi ha un botó per preguntar al coach. La seva etiqueta segueix el que tens al davant: **Pregunta al coach** en general, **Pregunta sobre aquesta nota** en una nota gramatical, **Pregunta sobre aquest verb** en una pàgina de verb. Vegeu [Coach](coach.md).
+Un botó rodó a baix a la dreta de la pantalla serveix per preguntar al coach, tant al navegador com a l'app d'iOS. El seu nom, que apareix en un ordinador quan hi passes el punter per sobre, segueix el que tens al davant: **Pregunta al coach** en general, **Pregunta sobre aquesta nota** en una nota gramatical, **Pregunta sobre aquest verb** en una pàgina de verb. Vegeu [Coach](coach.md).
 
 ## Pantalla completa
 

@@ -13,16 +13,18 @@ Comment trouver la note dont vous avez besoin, la lire et faire ses exercices.
 ## Trouver une note
 
 - **Rechercher** : tapez dans le champ de recherche en haut de la page Grammaire. Les résultats listent toutes les notes correspondantes avec leur niveau, leur domaine et votre maîtrise ; les niveaux et les domaines sont masqués pendant la recherche.
-- **Parcourir** : ouvrez un niveau, puis un domaine, pour voir ses notes, 20 à la fois.
+- **Parcourir** : sur un téléphone, la page Grammaire liste les notes d'un niveau dans l'ordre du cours. Partout, ouvrez un niveau, puis un domaine, pour voir ses notes, 20 à la fois.
 - **Favoris** : l'icône de signet sur une note la met en favori ; le bouton signet de la page Grammaire ne liste que vos notes favorites.
 
 ## Lire une note
 
 Une note de grammaire explique un point. Son titre est dans la langue que vous apprenez, avec le titre traduit en dessous. Des badges indiquent le **niveau CECR** de la note (A1 à C1) et son **domaine** ; les deux sont des liens.
 
-Sous le titre, **Où vous en êtes sur cette note** montre votre maîtrise, combien de cartes d'entraînement vous avez et combien sont à revoir, et la date de votre dernière révision. **S'entraîner** transforme la note en cartes de révision ; voir [Pratique de grammaire](grammar-practice.md).
+Sous le titre, une barre montre votre maîtrise de la note, avec **Demander à propos de cette note** à côté. Pour pratiquer la note avec le reste de son domaine ou de son niveau, ouvrez le badge et choisissez **Pratiquer** sur cette page ; voir [Pratique de grammaire](grammar-practice.md).
 
 Les mots et les phrases d'exemple se touchent comme le texte du lecteur, pour la traduction et l'audio.
+
+Sur un téléphone, une barre au bas de la note propose **Précédent** et **Suivant**, les notes qui l'entourent dans le cours, et **Exercices** entre les deux (**Exercices écrits** quand les premiers sont à écrire). Sur un écran plus large, le titre de la note suivante, en haut de la note, mène à la suite.
 
 ### Changer de langue
 
@@ -39,17 +41,27 @@ Avec les comparaisons activées (**Profil → Compte → Langues**), une note af
 Beaucoup de notes se terminent par des **Exercices**, numérotés, chacun marqué de sa sorte :
 
 - **Remplissez le blanc** et **Complétez la phrase** : tapez les mots manquants.
-- **Choisissez la forme** : choisissez dans une liste ou touchez l'une des options.
+- **Choisissez la forme** : touchez l'une des options.
 - **Corrigez la phrase** : la phrase avec des fautes est déjà dans le champ ; corrigez-la. L'exercice vous dit combien de choses il faut corriger, et montre ce qui a changé une fois que vous avez juste.
 - **Traduisez en** la langue que vous apprenez.
 
+Les exercices viennent par séries. Ceux auxquels on répond en choisissant passent en premier, tous dans une même série ; les exercices à écrire suivent, par séries de dix au plus, chacune ouverte par **Plus d'exercices**. Dans chaque série, les exercices à revoir passent en premier, puis ceux que vous n'avez pas encore faits.
+
+Sur un téléphone, **Exercices**, dans la barre du bas, les ouvre dans un panneau au pied de l'écran, un à la fois, la note restant visible au-dessus. L'en-tête du panneau compte la série (« 3 sur 6 ») et indique **Écrivez les réponses** pour une série d'exercices à écrire ; le X le ferme. Sur un écran plus large, les exercices sont listés à la fin de la note.
+
 Pour répondre :
 
-1. Tapez ou choisissez votre réponse. Quand vous touchez une option, elle est vérifiée tout de suite ; sinon, appuyez sur **Vérifier**.
-2. Le retour dit **Correct** ou **Pas tout à fait — réessayez**.
-3. **Indice** vous met sur la voie, quand l'exercice en a un. Après une mauvaise réponse, **Voir la réponse** la révèle.
+1. Touchez une option : elle est vérifiée tout de suite. Ou tapez votre réponse et appuyez sur **Vérifier**.
+2. Une bonne réponse affiche **Correct**. Une mauvaise affiche **Incorrect**, avec d'abord la bonne réponse (« Réponse · … ») et l'indice en dessous ; quand seuls les accents sont faux, elle indique **Vérifiez les accents**. Un choix ne se fait qu'une fois : les options sont marquées, la bonne d'une coche. Une réponse tapée reste dans son champ, pour que vous puissiez la corriger et la vérifier de nouveau.
+3. **Indice**, avant de répondre, vous met sur la voie quand l'exercice en a un.
 
-Certains exercices affichent une traduction de la phrase en dessous, pour que vous sachiez ce que vous essayez de dire.
+Sur un téléphone, **Suivant** passe à l'exercice suivant après une mauvaise réponse. Certains exercices affichent une traduction de la phrase en dessous, pour que vous sachiez ce que vous essayez de dire.
+
+Si une traduction que vous avez donnée est marquée fausse alors que vous la croyez juste, choisissez **Ma réponse était juste** : « Merci. Un éditeur examinera votre réponse et vous tiendra au courant. » La réponse de l'éditeur apparaît sur l'exercice.
+
+À la fin d'une série, le panneau montre combien de réponses étaient justes du premier coup (« 5 sur 6 justes du premier coup »), ce qui reste sur la note (« Encore 9 à écrire », ou « Tout est fait sur cette fiche »), **Plus d'exercices** et **Fiche suivante**.
+
+Chaque exercice auquel vous répondez devient une carte de votre paquet **Pratique de grammaire**, et chaque réponse compte comme une révision de cette carte. Voir [Pratique de grammaire](grammar-practice.md).
 
 ## Questions et signalements
 

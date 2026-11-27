@@ -13,16 +13,18 @@ Cómo encontrar la nota que necesitas, leerla y trabajar sus ejercicios.
 ## Encontrar una nota
 
 - **Buscar**: escribe en el cuadro de búsqueda de la parte superior de la página de Gramática. Los resultados listan todas las notas que coinciden, con su nivel, su área y tu dominio; los niveles y las áreas se ocultan mientras buscas.
-- **Explorar**: abre un nivel y luego un área para ver sus notas, de 20 en 20.
+- **Explorar**: en un móvil, la página de Gramática lista las notas de un nivel en el orden del curso. En cualquier pantalla, abre un nivel y luego un área para ver sus notas, de 20 en 20.
 - **Marcadores**: el icono del marcador en una nota la marca; el botón del marcador en la página de Gramática lista solo tus notas marcadas.
 
 ## Leer una nota
 
 Una nota de gramática explica un punto. Su título está en el idioma que aprendes, con el título traducido debajo. Las insignias muestran el **nivel MCER** de la nota (de A1 a C1) y su **área**; las dos son enlaces.
 
-Bajo el título, **Tu situación en esta nota** muestra tu dominio, cuántas tarjetas de práctica tienes y cuántas están pendientes, y cuándo repasaste por última vez. **Practicar** convierte la nota en tarjetas de repaso; ver [Práctica de gramática](grammar-practice.md).
+Bajo el título, una barra muestra tu dominio de la nota, con **Preguntar sobre esta nota** al lado. Para practicar la nota junto con el resto de su área o su nivel, abre su insignia y elige **Practicar** allí; ver [Práctica de gramática](grammar-practice.md).
 
 Las palabras y frases de ejemplo se pueden tocar como el texto del lector, para ver su traducción y oír su audio.
+
+En un móvil, una barra al pie de la nota tiene **Anterior** y **Siguiente**, las notas de antes y de después en el curso, y **Ejercicios** entre ellas (**Ejercicios escritos** cuando los primeros son para escribir). En una pantalla más ancha, el título de la nota siguiente, arriba de la nota, lleva a ella.
 
 ### Cambiar de idioma
 
@@ -39,17 +41,27 @@ Con las comparaciones activadas (**Perfil → Cuenta → Idiomas**), una nota mu
 Muchas notas terminan con **Ejercicios**, numerados, cada uno con su tipo:
 
 - **Rellena el hueco** y **Completa la frase**: escribe las palabras que faltan.
-- **Elige la forma**: elige de una lista o toca una de las opciones.
+- **Elige la forma**: toca una de las opciones.
 - **Corrige la frase**: la frase con errores ya está en el cuadro; corrígela. El ejercicio te dice cuántas cosas hay que corregir, y muestra lo que cambió cuando aciertas.
 - **Traduce al** idioma que aprendes.
 
+Los ejercicios vienen en series. Los que se responden eligiendo van primero, todos en una serie; los de escribir vienen después, en series de hasta diez, cada una detrás de **Más ejercicios**. En cada serie van primero los ejercicios pendientes de repaso y luego los que aún no has hecho.
+
+En un móvil, **Ejercicios**, en la barra del pie, los abre en un panel al pie de la pantalla, de uno en uno, con la nota todavía encima. La cabecera del panel cuenta la serie («3 de 6») y dice **Escribe las respuestas** en una serie de ejercicios para escribir; la X lo cierra. En una pantalla más ancha, los ejercicios aparecen al final de la nota.
+
 Para responder:
 
-1. Escribe o elige tu respuesta. Cuando tocas una opción, se comprueba al momento; si no, pulsa **Comprobar**.
-2. La respuesta dice **Correcto** o **No del todo — inténtalo de nuevo**.
-3. **Pista** te da un empujón, cuando el ejercicio tiene una. Después de una respuesta incorrecta, **Ver la respuesta** la revela.
+1. Toca una opción: se comprueba al momento. O escribe tu respuesta y pulsa **Comprobar**.
+2. Una respuesta correcta dice **Correcto**. Una incorrecta dice **Incorrecto**, con la respuesta correcta primero («Respuesta · …») y la pista debajo; cuando solo fallan las tildes, dice **Revisa las tildes**. Una opción se elige una sola vez: las opciones quedan marcadas, la correcta con una marca de verificación. Una respuesta escrita se queda en su cuadro, para que puedas corregirla y volver a comprobarla.
+3. **Pista**, antes de responder, te da un empujón cuando el ejercicio tiene una.
 
-Algunos ejercicios muestran una traducción de la frase debajo, para que sepas qué intentas decir.
+En un móvil, **Siguiente** pasa al ejercicio siguiente después de un fallo. Algunos ejercicios muestran una traducción de la frase debajo, para que sepas qué intentas decir.
+
+Si una traducción tuya se marca como incorrecta pero crees que está bien, elige **Mi respuesta era correcta**: «Gracias. Un editor revisará tu respuesta y te lo hará saber.» La respuesta del editor aparece en el ejercicio.
+
+Al final de una serie, el panel muestra cuántas acertaste a la primera («5 de 6 bien a la primera»), lo que queda en la nota («Quedan 9 por escribir», o «Todo hecho en esta nota»), **Más ejercicios** y **Nota siguiente**.
+
+Cada ejercicio que respondes se convierte en una tarjeta de tu mazo **Práctica de gramática**, y cada respuesta cuenta como un repaso de esa tarjeta. Ver [Práctica de gramática](grammar-practice.md).
 
 ## Preguntar y avisar
 

@@ -23,9 +23,10 @@ Les verbes sont la mécanique de la phrase, et Immersive leur consacre une secti
 
 Avec un compte, les pages de verbe font davantage :
 
-- **À travers vos langues** : sur la page d'une forme, le même temps et la même personne alignés dans chaque langue que vous connaissez, les langues les plus proches côte à côte. **Ajouter une carte de comparaison** en fait une carte de révision.
+- **À travers vos langues** : sur la page d'une forme, le même temps et la même personne alignés dans chaque langue que vous connaissez, les langues les plus proches côte à côte.
 - **Dans vos paquets** et **Dans vos phrases** : les paquets qui contiennent le verbe, avec le nombre de cartes à revoir, et les phrases de vos documents et de votre vocabulaire qui l'utilisent.
-- **Ajouter à un paquet** : ouvre le sélecteur de verbes de l'un de vos paquets avec le verbe sélectionné.
+- **Ajouter à un paquet** : ajoute le verbe à l'un de vos paquets de verbes, ou commence un nouveau paquet de verbes avec lui.
+- **Grammaire** à côté du nom d'un temps : la note de grammaire qui enseigne ce temps.
 - **Afficher seulement vos verbes** : un filtre de la liste pour les verbes déjà dans vos paquets.
 - **Pronom** : choisissez comment les formes de la troisième personne sont affichées (par exemple *il*, *elle*, ou les deux).
 - Un verbe qui n'a pas encore de tableaux est conjugué la première fois qu'un apprenant connecté l'ouvre.

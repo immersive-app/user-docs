@@ -14,21 +14,32 @@ Abre **Gramática** desde la barra de navegación una vez iniciada la sesión.
 
 ## La página de Gramática
 
+En un móvil, la página de Gramática muestra un nivel cada vez:
+
+- Los niveles, de **A1** a **C1**, arriba; toca uno para verlo.
+- Cuánto llevas del nivel («A1 · 12 de 40 practicadas») y **Hoy**: cuántas notas has practicado hoy, con siete puntos para los últimos siete días, rellenos los días en que practicaste.
+- Las notas del nivel en el orden del curso, cada una con su área y su título en tu idioma, y un círculo: se va llenando a medida que practicas la nota, y aparece en cuanto la has abierto.
+- **Continuar**, al pie, abre la nota por la que seguir: una nota con ejercicios pendientes de repaso o, si no, la siguiente nota que aún no has practicado. La lista se abre en esa nota.
+
+En una pantalla más ancha (una tableta o un ordenador):
+
 - **Dónde estás**: «Empieza en A2» hasta que empiezas, y luego «Trabajando en B1», con un botón para **Repasar** las tarjetas de gramática pendientes o para **Practicar** tarjetas nuevas. Ver [Práctica de gramática](grammar/grammar-practice.md).
-- **Recomendado** (o **Empieza aquí** al principio): una lista corta de notas para leer, practicar o repasar a continuación, cada una marcada con el motivo: **Pendiente**, **Siguiente**, **Listo** o **Débil**.
-- **Por nivel**: de A1 a C1, cada uno con tu dominio, el número de notas y cuántas tarjetas están pendientes. Abre un nivel para ver sus áreas («Verbos, tiempos y conjugación», «Pronombres»...), y un área para ver sus notas. Una página de nivel o de área ofrece **Practicar todo**, que crea tarjetas para todas sus notas.
-- La **búsqueda** de la parte superior encuentra notas por palabra clave; el botón del marcador muestra solo tus notas marcadas.
+- **Por nivel y área**: una fila por nivel, de A1 a C1, con una casilla por área sombreada según tu dominio, y cuántas tarjetas están pendientes.
+
+En los dos casos, abre un nivel para ver sus áreas («Verbos», «Pronombres»...), y un área para ver sus notas. Una página de nivel o de área ofrece **Practicar todo**, que crea tarjetas para todas sus notas y empieza un repaso; en una página de nivel, cada área tiene su propio **Practicar**. **Ponte a prueba**, en esas mismas páginas, es un test de hasta diez preguntas sobre el nivel o el área, que se comprueban todas a la vez (ver [Ponte a prueba](grammar/grammar-practice.md#ponte-a-prueba)).
+
+La **búsqueda** de la parte superior encuentra notas por palabra clave; el botón del marcador muestra solo tus notas marcadas.
 
 ## Dominio
 
-A medida que practicas, cada nota, área y nivel recibe una valoración de dominio: **Sin empezar**, **Principiante**, **En desarrollo**, **Intermedio**, **Competente** o **Fluido**. Sale de cómo te van las tarjetas de práctica de esas notas.
+A medida que practicas, cada nota, área y nivel recibe una valoración de dominio: **Sin empezar**, **Principiante**, **En desarrollo**, **Intermedio**, **Competente** o **Fluido**. Sale de cómo te van las tarjetas de práctica de esas notas. Una nota que has abierto pero no has practicado está **Leída**.
 
 ## Qué contiene una nota
 
 - Una explicación del punto, escrita para estudiantes, con palabras y frases de ejemplo que puedes tocar para ver su traducción y oír su audio.
 - La nota está escrita en el idioma que aprendes. Cuando tiene traducción al tuyo, una nota de A1 o A2 se abre en tu idioma, y una de B1 en adelante en el idioma que aprendes; el selector de los ajustes de la nota (el botón redondo abajo a la derecha de la nota) lo cambia, y tu elección vale después para todas las notas.
 - Ejercicios de varios tipos, que se comprueban en el acto.
-- Tu situación en la nota, y **Practicar** para convertirla en tarjetas de repaso, o para añadirlas a uno de tus propios mazos.
+- Tu dominio de la nota. Cada ejercicio que respondes se convierte en una tarjeta de repaso, y cada respuesta cuenta como un repaso.
 
 Ver [Leer notas gramaticales](grammar/review-grammar.md).
 
@@ -47,11 +58,12 @@ Ver [La gramática de la lectura](grammar/grammar-of-reading.md).
 ## Por dónde empezar
 
 1. Abre **Gramática**.
-2. Sigue **Empieza aquí**, busca el punto que necesitas o recorre tu nivel.
-3. Lee la nota, prueba sus ejercicios y elige **Practicar**.
+2. Elige **Continuar**, busca el punto que necesitas o recorre tu nivel.
+3. Lee la nota y prueba sus ejercicios.
+4. Para practicar un área entera, elige **Practicar** en su fila de la página del nivel.
 
 ## En esta sección
 
 - [Leer notas gramaticales](grammar/review-grammar.md): encontrar una nota, leerla y los ejercicios.
-- [Práctica de gramática](grammar/grammar-practice.md): tarjetas de práctica y repasos de gramática.
+- [Práctica de gramática](grammar/grammar-practice.md): tarjetas de práctica, repasos de gramática y tests.
 - [La gramática de la lectura](grammar/grammar-of-reading.md): en qué difiere el idioma que aprendes de los tuyos.

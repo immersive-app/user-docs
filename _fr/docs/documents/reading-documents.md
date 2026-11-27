@@ -28,7 +28,7 @@ Ouvrez un document pour le lire. Sous le titre, vous voyez sa traduction dans vo
 - **La phrase**, au pied de la carte, montre la traduction de la phrase où se trouve le mot, avec son propre haut-parleur et **Plus**.
 - **Toucher à nouveau** pour écouter le mot. Toucher ailleurs ferme la carte.
 - Quand votre toucher fait du mot une carte, la carte affiche **Ajouté**, avec **Annuler** pour la retirer. Quand le mot a un sosie dans une langue que vous connaissez, la carte le montre aussi.
-- Chaque mot et chaque phrase que vous consultez sont enregistrés dans votre [Vocabulaire](../vocabulary.md).
+- Chaque mot et chaque phrase que vous consultez sont enregistrés dans votre [Vocabulaire](../vocabulary.md), et un mot que vous touchez devient une carte de votre paquet **Mon vocabulaire**, avec sa phrase.
 
 ## Le panneau Plus
 
@@ -38,8 +38,8 @@ Ouvrez un document pour le lire. Sous le titre, vous voyez sa traduction dans vo
 - **Aide à la lecture**, quand le mot ou la phrase en a une.
 - **Grammaire de la lecture**, quand la phrase contient une construction qu'elle traite, avec un lien vers la comparaison.
 - **Dans les six langues** : les équivalents du mot dans les six langues, vos langues en pleine encre.
-- **Enregistrer dans le vocabulaire** le marque comme enregistré dans votre Vocabulaire.
-- **Ajouter à un paquet** liste vos paquets dans cette langue ; choisissez-en un pour ouvrir son espace de travail avec le mot déjà rempli, ou commencez un **Nouveau paquet**.
+- **Enregistrer dans le vocabulaire** le marque comme enregistré dans votre Vocabulaire et en fait une carte de **Mon vocabulaire**. Pour un mot dont votre toucher vient de faire une carte, il affiche **Ajouté**, avec **Annuler** pour retirer la carte.
+- **Ajouter à un paquet** liste vos paquets dans cette langue ; choisissez un paquet de vocabulaire pour ouvrir son espace de travail avec le mot ou la phrase dans la zone, ou commencez un **Nouveau paquet**.
 - **Poser une question** ouvre le [Coach](../coach.md) avec le mot ou la phrase sous les yeux.
 
 ## Aides à la lecture

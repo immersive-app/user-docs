@@ -12,7 +12,7 @@ How to find the note you need, read it, and work through its exercises.
 ## Finding a note
 
 - **Search**: type in the search box at the top of the Grammar page. Results list every matching note with its level, area, and your mastery; levels and areas are hidden while you search.
-- **Browse**: open a level, then an area, to see its notes, 20 at a time.
+- **Browse**: on a phone, the Grammar page lists a level's notes in course order. Anywhere, open a level, then an area, to see its notes, 20 at a time.
 - **Bookmarks**: the bookmark icon on a note marks it; the bookmark button on the Grammar page lists only your bookmarked notes.
 
 ## Reading a note
@@ -22,6 +22,8 @@ A grammar note explains one point. Its title is in the language you are learning
 Under the title, a bar shows your mastery of the note, with **Ask about this note** beside it. To practise the note along with the rest of its area or level, open the badge and choose **Practise** there; see [Grammar practice](grammar-practice.md).
 
 Example words and sentences can be tapped like text in the reader, for translation and audio.
+
+On a phone, a bar at the foot of the note has **Previous** and **Next**, the notes either side in the course, and **Exercises** between them (**Typed exercises** when the first ones are typed). On a wider screen, the next note's title at the top of the note leads on.
 
 ### Switching languages
 
@@ -38,19 +40,27 @@ With comparisons turned on (**Profile → Account → Languages**), a note shows
 Many notes end with **Exercises**, numbered, each labelled with its kind:
 
 - **Fill in the blank** and **Complete the sentence**: type the missing words.
-- **Choose the form**: pick from a list or tap one of the options.
+- **Choose the form**: tap one of the options.
 - **Correct the sentence**: the sentence with mistakes is already in the box; fix it. The exercise tells you how many things there are to fix, and shows what changed once you have it right.
 - **Translate into** the language you are learning.
 
+The exercises come in sets. The ones you answer by choosing come first, all in one set; the typed ones follow in sets of up to ten, each opened by **More exercises**. Exercises due for review come first in each set, then the ones you have not done yet.
+
+On a phone, **Exercises** in the foot bar opens them in a panel at the foot of the screen, one at a time, with the note still above it. The panel's head counts the set ("3 of 6"), and says **Type the answers** on a set of typed exercises; the X closes it. On a wider screen, the exercises are listed at the end of the note.
+
 To answer:
 
-1. Type or choose your answer. When you tap an option, it is checked straight away; otherwise press **Check**.
-2. The feedback says **Correct** or **Not quite — try again**.
-3. **Hint** gives you a nudge, when the exercise has one. After a wrong answer, **Show answer** reveals it.
+1. Tap an option: it is checked straight away. Or type your answer and press **Check**.
+2. A right answer says **Correct**. A wrong one says **Incorrect**, with the right answer first ("Answer · …") and the hint under it; when only the accents are wrong, it says **Check the accents**. A choice is answered once: the options are marked, the right one with a tick. A typed answer stays in its box, so you can correct it and check it again.
+3. **Hint**, before you answer, gives you a nudge when the exercise has one.
 
-Some exercises show a translation of the sentence under it, so you know what you are trying to say.
+On a phone, **Next** moves to the next exercise after a wrong answer. Some exercises show a translation of the sentence under it, so you know what you are trying to say.
 
-Each exercise you check becomes a card in your **Grammar practice** deck, and your answer counts as a review of it. See [Grammar practice](grammar-practice.md).
+If a translation you gave is marked wrong but you think it is right, choose **My answer was right**: "Thanks. An editor will look at your answer and let you know." The editor's answer appears on the exercise.
+
+At the end of a set, the panel shows how many you got right first time ("5 of 6 right first time"), what is left on the note ("9 more to type", or "All done on this note"), **More exercises**, and **Next note**.
+
+Each exercise you answer becomes a card in your **Grammar practice** deck, and each answer counts as a review of it. See [Grammar practice](grammar-practice.md).
 
 ## Asking and reporting
 

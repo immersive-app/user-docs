@@ -25,7 +25,7 @@ Choosing **Verbs** opens **New verb deck**:
 3. Check the **Name**. Immersive suggests one in both languages from the tenses you ticked; change it if you like. Optionally pick a **Folder**.
 4. The bar at the foot of the page counts the cards ("24 cards", "12 verbs × 2 tenses"). Choose **Create deck**.
 
-Each verb in each tense becomes one card, holding all six forms, each with its audio, and an example sentence for each person. To add or remove verbs and tenses later, edit the deck: see [Managing decks](managing-decks.md#verb-decks).
+The deck's page opens ("Deck created with 24 cards."). Each verb in each tense becomes one card, holding all six forms, each with its audio, and an example sentence for each person. To add or remove verbs and tenses later, edit the deck: see [Managing decks](managing-decks.md#verb-decks).
 
 ## A vocabulary deck
 
@@ -35,7 +35,7 @@ Choosing **Vocabulary** opens the first step:
 2. Optionally pick a **Folder** (or type a new folder name) and add **Tags**. Leaving the folder blank keeps the deck at the top level of My Decks; tags group decks across folders.
 3. Choose **Create**.
 
-The deck's workspace opens on **Add cards**, with "Deck created."
+The deck's workspace opens on **Add cards**, with a line naming the deck ("“Au marché” created.").
 
 ## Adding cards
 

@@ -21,11 +21,15 @@ These numbers tell you at a glance where your review time is needed.
 
 ## The Library
 
-Above your decks sits the **Library**: ready-made decks from Immersive in the language you are learning, with a count of how many there are. It starts folded; open it to see the decks. It includes most-common-words decks split by frequency (the first 500 words, then 501 to 1,000, then 1,001 to 5,000), so you never study the same word twice, and verb decks, **Essential verbs** and **Common verbs**, one for each tense, with a card for each verb's whole tense. For all but two pairs of languages, the first deck in the list is **Pronunciation**, for the sounds your own language does not tell apart; see [Pronunciation](pronunciation.md).
+Above your decks sits the **Library**: ready-made decks from Immersive in the language you are learning, with a count of how many there are. While you have no deck of your own it is open, with **Or make one of your own: New deck** under it; once you have decks it starts folded. Open or fold it with its heading, and Immersive remembers which.
 
-Library decks are studied from your own copy: press the **+** next to one (**Copy to My Decks**) and the copy appears in My Decks.
+The Library holds verb decks, **Essential verbs** and **Common verbs**, one for each tense, with a card for each verb's whole tense. For all but two pairs of languages, the first deck in the list is **Pronunciation**, for the sounds your own language does not tell apart; see [Pronunciation](pronunciation.md). The easiest decks come first.
 
-You can also open a Library deck first: its page shows its cards and **Start · 12 new**. Nothing is copied until you press Start; then the copy is made in My Decks and its first review opens, and closing the review takes you to your copy. Once you have a copy, the Library deck's page says **In My Decks** and links to it.
+Each row gives the deck's name, then its level and its number of cards ("A1 · 12 cards"). Tap a row to open the deck's page.
+
+Library decks are studied from your own copy: press the **+** at the end of a row (**Copy to My Decks**) and the copy appears in My Decks. A deck you already have a copy of shows **In My Decks** in place of the **+**, with a circle that fills as you start its cards, and opens your copy. A deck is copied only once: pressing **+** again opens the copy you have, with "This deck is already in My Decks."
+
+You can also open a Library deck first: its page shows its cards and **Start · 12 new**, with "Starting adds this deck to My Decks." Nothing is copied until you press Start; then the copy is made in My Decks and its first review opens, and closing the review takes you to your copy. Once you have a copy, the Library deck's page says **In My Decks** and links to it.
 
 ## Public decks
 
@@ -35,8 +39,10 @@ Verb pages and verb form pages list **Public decks** that practise that verb. Op
 
 Open a deck to see its page: **Start review** (see [Reviewing cards](reviewing-cards.md)), the deck's actions (**Study deck**, **Export to Anki**, and **Copy to My Decks** on a Library or public deck you have not copied), and its cards.
 
-- **A verb deck** lists a section for each tense, with a row for each verb: its meaning, and **Study** to study that card alone. Open a verb to see its card: the six forms with their audio, then **Sentences**, each person's example sentence with its translation and audio.
+- **A verb deck** lists a section for each tense, with a row for each verb: its meaning, and **Study** to study that card alone. Open a verb to see its card: the six forms with their audio, then **Sentences**, each person's example sentence with its translation and audio. Just after you add verbs, the page says "Finding example sentences for the cards…" until they are ready.
 - **A vocabulary deck** lists its cards, 25 at a time. Cards you picked from a text are grouped under the text's title.
+
+Each row starts with a small circle for how far along the card is, and says where it stands: **New**, **Due**, or when it comes back ("Tomorrow", "In 3 days", "In 2 weeks"). A suspended card in a verb deck says **Suspended**. A deck of more than 30 rows has a **Search cards** box (in the app, in the bar at the top); it ignores accents and capitals, so "etre" finds "être".
 
 ## Folders
 

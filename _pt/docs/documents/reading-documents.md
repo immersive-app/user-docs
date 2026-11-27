@@ -28,7 +28,7 @@ Abra um documento para o ler. Por baixo do título vê a tradução na sua líng
 - **A frase**, no fundo do cartão, mostra a tradução da frase onde está a palavra, com o seu próprio altifalante e **Mais**.
 - **Toque de novo** para ouvir a palavra em voz alta. Tocar noutro sítio fecha o cartão.
 - Quando o seu toque faz da palavra um cartão, o cartão diz **Adicionado**, com **Anular** para o retirar. Quando a palavra tem uma palavra parecida numa língua que conhece, o cartão também a mostra.
-- Todas as palavras e frases que consulta ficam registadas no seu [Vocabulário](../vocabulary.md).
+- Todas as palavras e frases que consulta ficam registadas no seu [Vocabulário](../vocabulary.md), e uma palavra em que toca passa a ser um cartão do seu baralho **O meu vocabulário**, com a sua frase.
 
 ## O painel Mais
 
@@ -38,8 +38,8 @@ Abra um documento para o ler. Por baixo do título vê a tradução na sua líng
 - **Ajuda à leitura**, quando a palavra ou frase tem uma.
 - **Gramática da leitura**, quando a frase contém uma construção que ela abrange, com uma ligação à comparação.
 - **Nas seis línguas**: os equivalentes da palavra nas seis línguas, as suas línguas a tinta cheia.
-- **Guardar no vocabulário** marca-a como guardada no seu Vocabulário.
-- **Adicionar a um baralho** lista os seus baralhos nesta língua; escolha um para abrir o seu espaço de trabalho com a palavra preenchida, ou comece um **Novo baralho**.
+- **Guardar no vocabulário** marca-a como guardada no seu Vocabulário e transforma-a num cartão de **O meu vocabulário**. Numa palavra que o seu toque acabou de transformar em cartão, diz **Adicionado**, com **Anular** para retirar o cartão.
+- **Adicionar a um baralho** lista os seus baralhos nesta língua; escolha um baralho de vocabulário para abrir o seu espaço de trabalho com a palavra ou a frase na caixa, ou comece um **Novo baralho**.
 - **Perguntar sobre isto** abre o [Coach](../coach.md) com a palavra ou frase à vista.
 
 ## Ajudas de leitura

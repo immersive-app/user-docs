@@ -24,7 +24,7 @@ Immersive also fills some decks for you as you study. They appear in My Decks li
 - **From reading (language)**: a card each time you reveal a guessable word in the reader. See [Reading documents](documents/reading-documents.md).
 - **Grammar practice (language)**: cards from the grammar notes you practise. See [Grammar practice](grammar/grammar-practice.md).
 
-The Library holds ready-made decks of both kinds, and the **Pronunciation** deck. See [Managing decks](decks/managing-decks.md#the-library).
+The Library holds ready-made verb decks, one for each tense, and the **Pronunciation** deck. See [Managing decks](decks/managing-decks.md#the-library).
 
 ## How reviewing works
 
@@ -36,7 +36,7 @@ You can review in four modes (**Read**, **Write**, **Listen**, and **Speak**), s
 
 Opening **Decks** shows:
 
-- **Library**: ready-made decks in the language you are learning, folded closed until you open it. Copy one to My Decks with its **+** button.
+- **Library**: ready-made decks in the language you are learning, open while you have no deck of your own and folded once you have some. Copy one to My Decks with its **+** button.
 - **My Decks**: your decks and folders, with columns showing how many cards are **New**, in **Learn**ing, and **Due**.
 - At the top: the search box, **+** to create a new deck, and the **…** menu (**More**) with **Review history** and **Bookmarked only**, which shows only your bookmarked decks. On a phone and in the iOS app, **Search** is in the **…** menu too.
 

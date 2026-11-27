@@ -13,16 +13,18 @@ Come trovare la nota che ti serve, leggerla e lavorare sui suoi esercizi.
 ## Trovare una nota
 
 - **Ricerca**: scrivi nella casella di ricerca in cima alla pagina Grammatica. I risultati elencano ogni nota corrispondente con il suo livello, la sua area e la tua padronanza; livelli e aree sono nascosti durante la ricerca.
-- **Sfoglia**: apri un livello, poi un'area, per vederne le note, 20 alla volta.
+- **Sfoglia**: su un telefono, la pagina Grammatica elenca le note di un livello nell'ordine del corso. Ovunque, apri un livello, poi un'area, per vederne le note, 20 alla volta.
 - **Segnalibri**: l'icona del segnalibro su una nota la contrassegna; il pulsante del segnalibro nella pagina Grammatica elenca solo le note che hai salvato tra i segnalibri.
 
 ## Leggere una nota
 
 Una nota di grammatica spiega un punto. Il suo titolo è nella lingua che stai imparando, con il titolo tradotto sotto. I badge mostrano il **livello QCER** della nota (da A1 a C1) e la sua **area**; entrambi sono link.
 
-Sotto il titolo, **A che punto sei su questa nota** mostra la tua padronanza, quante carte di pratica hai e quante sono da ripassare, e quando hai ripassato l'ultima volta. **Esercitati** trasforma la nota in carte di ripasso; vedi [Pratica di grammatica](grammar-practice.md).
+Sotto il titolo, una barra mostra la tua padronanza della nota, con **Chiedi di questa nota** accanto. Per esercitarti sulla nota insieme al resto della sua area o del suo livello, apri il badge e scegli **Pratica** lì; vedi [Pratica di grammatica](grammar-practice.md).
 
 Le parole e le frasi di esempio si possono toccare come il testo nel lettore, per la traduzione e l'audio.
+
+Su un telefono, una barra in fondo alla nota ha **Precedente** e **Successivo**, le note prima e dopo nel corso, ed **Esercizi** in mezzo (**Esercizi scritti** quando i primi sono da scrivere). Su uno schermo più largo, il titolo della nota successiva, in cima alla nota, porta avanti.
 
 ### Cambiare lingua
 
@@ -36,20 +38,30 @@ Con i confronti attivati (**Profilo → Account → Lingue**), una nota mostra u
 
 ## Esercizi
 
-Molte note terminano con gli **Esercizi**, numerati, ciascuno con il suo tipo:
+Molte note finiscono con gli **Esercizi**, numerati, ciascuno con il suo tipo:
 
 - **Riempi lo spazio** e **Completa la frase**: scrivi le parole mancanti.
-- **Scegli la forma**: scegli da un elenco o tocca una delle opzioni.
-- **Correggi la frase**: la frase con gli errori è già nella casella; correggila. L'esercizio ti dice quante cose ci sono da correggere, e mostra cosa è cambiato una volta che hai fatto giusto.
+- **Scegli la forma**: tocca una delle opzioni.
+- **Correggi la frase**: la frase con gli errori è già nella casella; correggila. L'esercizio ti dice quante cose ci sono da correggere, e mostra cosa è cambiato quando hai fatto giusto.
 - **Traduci in** la lingua che stai imparando.
+
+Gli esercizi arrivano a serie. Quelli a cui si risponde scegliendo vengono per primi, tutti in una serie; quelli da scrivere seguono, in serie fino a dieci, ognuna dietro **Altri esercizi**. In ogni serie vengono prima gli esercizi da ripassare, poi quelli che non hai ancora fatto.
+
+Su un telefono, **Esercizi**, nella barra in fondo, li apre in un pannello in fondo allo schermo, uno alla volta, con la nota ancora sopra. L'intestazione del pannello conta la serie («3 di 6») e dice **Scrivi le risposte** in una serie di esercizi da scrivere; la X lo chiude. Su uno schermo più largo, gli esercizi sono elencati alla fine della nota.
 
 Per rispondere:
 
-1. Scrivi o scegli la tua risposta. Quando tocchi un'opzione, viene controllata subito; altrimenti premi **Controlla**.
-2. Il riscontro dice **Corretto** oppure **Non proprio — riprova**.
-3. **Suggerimento** ti dà una spinta, quando l'esercizio ne ha uno. Dopo una risposta sbagliata, **Mostra la risposta** la rivela.
+1. Tocca un'opzione: viene controllata subito. Oppure scrivi la risposta e premi **Controlla**.
+2. Una risposta giusta dice **Corretto**. Una sbagliata dice **Non corretto**, con prima la risposta giusta («Risposta · …») e sotto il suggerimento; quando sono sbagliati solo gli accenti, dice **Controlla gli accenti**. Una scelta si fa una volta sola: le opzioni restano segnate, quella giusta con una spunta. Una risposta scritta resta nella sua casella, così puoi correggerla e controllarla di nuovo.
+3. **Suggerimento**, prima di rispondere, ti dà una spinta quando l'esercizio ne ha uno.
 
-Alcuni esercizi mostrano sotto la frase la sua traduzione, così sai cosa stai cercando di dire.
+Su un telefono, **Successivo** passa all'esercizio seguente dopo un errore. Alcuni esercizi mostrano sotto una traduzione della frase, così sai cosa stai cercando di dire.
+
+Se una tua traduzione viene segnata come sbagliata ma pensi che sia giusta, scegli **La mia risposta era giusta**: «Grazie. Un redattore esaminerà la tua risposta e ti farà sapere.» La risposta del redattore compare sull'esercizio.
+
+Alla fine di una serie, il pannello mostra quante risposte erano giuste al primo colpo («5 su 6 giuste al primo colpo»), cosa resta nella nota («Ancora 9 da scrivere», oppure «Tutto fatto su questa scheda»), **Altri esercizi** e **Scheda successiva**.
+
+Ogni esercizio a cui rispondi diventa una carta del tuo mazzo **Pratica di grammatica**, e ogni risposta conta come un ripasso di quella carta. Vedi [Pratica di grammatica](grammar-practice.md).
 
 ## Chiedere e segnalare
 
