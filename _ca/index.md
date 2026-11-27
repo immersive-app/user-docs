@@ -38,8 +38,8 @@ features:
     al davant, en la teva llengua.
   link: "/ca/docs/coach/"
 - title: Perfil i progrés
-  details: On ets, la teva activitat d'estudi, el teu vocabulari, els professors i
-    el teu compte.
+  details: El que cal fer ara, on ets, la teva activitat d'estudi, el teu vocabulari
+    i el teu compte.
   link: "/ca/docs/profile/"
 ---
 
@@ -58,7 +58,7 @@ El trobes arreu de l'aplicació:
 - Les pàgines de verbs alineen la mateixa forma **a través de les teves llengües**.
 - El lector t'assenyala les paraules que pots deduir d'una llengua que coneixes, i les ajudes s'aclareixen a mesura que el teu nivell puja.
 - La [gramàtica de la lectura](docs/grammar/grammar-of-reading.md) només tracta els punts on la llengua que aprens difereix de la teva.
-- El teu Perfil segueix la comprensió i la producció per separat, perquè entendre va per davant. La pestanya Progrés ho diu clarament: aquesta diferència és el mètode funcionant.
+- El teu Perfil segueix la comprensió i la producció per separat, perquè entendre va per davant. **On ets**, a l'Inici, ho diu clarament: aquesta diferència és el mètode funcionant.
 
 Les comparacions entre llengües estan desactivades fins que les actives (vegeu [Perfil → Compte](docs/profile.md#compte)); la majoria aprèn una llengua a la vegada.
 
@@ -80,7 +80,7 @@ Registrar-te desbloqueja les eines d'aprenentatge:
 - **[Verbs](docs/verbs.md)**: les teves baralles i les teves frases a cada pàgina de verb, i comparacions entre les llengües que coneixes.
 - **[Coach](docs/coach.md)**: fes preguntes sobre el que tens al davant.
 - **[Vocabulari](docs/vocabulary.md)**: les paraules i frases que consultes, recollides per a tu; les paraules que toques ja són targetes d'una baralla.
-- **[Perfil i progrés](docs/profile.md)**: on ets, la teva activitat d'estudi, les avaluacions amb companys, l'[accés per a professors](docs/teachers.md) i el teu compte.
+- **[Perfil i progrés](docs/profile.md)**: el que cal fer ara, on ets, la teva activitat d'estudi, les avaluacions amb companys i el teu compte.
 
 Tot és gratuït durant la beta.
 
@@ -89,7 +89,7 @@ Tot és gratuït durant la beta.
 1. Tria **Registrar-se**. La primera pantalla és la teva **graella d'idiomes**: per a cadascuna de les sis llengües, marca **El parlo** o **L'estic aprenent** i tria el teu nivell, des d'A1 («Conec algunes paraules i frases.») fins a C2 o **Natiu**. Si n'aprens més d'una, fes servir **Estableix com a idioma d'aprenentatge** en la que vols estudiar ara. Tria un **Idioma de la interfície** i prem **Continuar**.
 2. Omple el formulari del compte (nom, cognom, correu electrònic i una contrasenya d'almenys 6 caràcters) i tria **Crea un compte**.
 3. Obre el correu de confirmació i segueix-ne l'enllaç. No pots iniciar sessió fins que l'adreça estigui confirmada.
-4. El primer cop que inicies sessió, Immersive torna a mostrar la graella d'idiomes, ja omplerta, perquè la comprovis. Prem **Confirma** i arribes a **Perfil → Progrés**, amb uns primers passos per provar.
+4. El primer cop que inicies sessió, Immersive torna a mostrar la graella d'idiomes, ja omplerta, perquè la comprovis. Prem **Confirma** i arribes a l'**Inici**, que et proposa la primera cosa a fer. Si no tens clar el teu nivell, tria en canvi **No saps el teu nivell? Fes la prova de nivell**: la graella es desa igual, i la [prova de nivell](docs/profile.md#prova-de-nivell) fixa el nivell per tu. S'ofereix quan la llengua que aprens en té.
 
 O tria **Continuar amb Apple** o **Continuar amb Google** a la pàgina de registre: el teu ID d'Apple o el teu compte de Google crea el compte, ja confirmat, i vas directament a la graella d'idiomes. Vegeu [El teu compte](docs/account.md#iniciar-sessió).
 
@@ -99,7 +99,7 @@ Les teves tries d'idioma importen: Immersive fa servir les llengües que coneixe
 
 ## Una primera sessió
 
-Després del primer inici de sessió, iniciar sessió et porta a la biblioteca de verbs, i la navegació et dona tota l'aplicació: **Baralles**, **Documents**, **Gramàtica**, **Verbs** i **Perfil**. En un mòbil, són en una barra de pestanyes a la part inferior de la pantalla. Vegeu [Navegació](docs/dashboard.md).
+Després del primer inici de sessió, iniciar sessió et porta a l'**Inici**, i la navegació et dona tota l'aplicació: **Baralles**, **Documents**, **Gramàtica**, **Verbs** i **Inici**. En un mòbil, són en una barra de pestanyes a la part inferior de la pantalla. Vegeu [Navegació](docs/dashboard.md).
 
 Uns bons primers quinze minuts:
 

@@ -103,4 +103,4 @@ Quan hi ha targetes esperant, Immersive et pot enviar un correu cada matí. Vege
 - [Crear baralles](creating-decks.md)
 - [Gestionar baralles](managing-decks.md)
 - [Pronunciació](pronunciation.md)
-- [Perfil i progrés](../profile.md): els teus repassos alimenten les pestanyes d'Activitat i Progrés
+- [Perfil i progrés](../profile.md): els teus repassos alimenten les pestanyes d'Inici i Activitat
